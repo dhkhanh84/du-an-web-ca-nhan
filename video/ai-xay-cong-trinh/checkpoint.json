@@ -23,7 +23,7 @@
     "note": "Generated via direct REST (script adapter returned HTTP 400 on full text; same request via curl succeeded). Bodi not supported on 2.5."
   },
   "image_model": "gemini-2.5-flash-image",
-  "stage": "narration_done_alignment_pending",
+  "stage": "blocked_image_quota",
   "config_check_2026-11-06": {
     "runtime_doctor": "node/ffmpeg/ffprobe/canvas/fonts OK (after npm ci)",
     "GEMINI_API_KEY": "stored as environment network secret (proxy-injected); verified via models.list",
@@ -40,6 +40,10 @@
     "narration"
   ],
   "pending_jobs": [],
-  "next_step": "align captions -> generate sample assets with gemini-2.5-flash-image -> preview --seconds 20",
-  "alignment": "gemini-2.5-flash text model retired; gemini-3.8-flash returned 503/empty. Silence anchors measured with ffmpeg. Word-level alignment still pending."
+  "next_step": "User enables billing (or supplies images) -> generate ~8 sample images -> captions from silence anchors -> preview --seconds 20",
+  "alignment": "gemini-2.5-flash text model retired; gemini-3.8-flash returned 503/empty. Silence anchors measured with ffmpeg. Word-level alignment still pending.",
+  "blocker": "gemini-2.5-flash-image: 429 RESOURCE_EXHAUSTED, Free Tier limit 0 for image generation. Needs billing enabled on the Google project behind the API key. No image generated, nothing billed.",
+  "helpers": [
+    "gen_image.py (one request per image, uses bundled B1 acting reference)"
+  ]
 }
