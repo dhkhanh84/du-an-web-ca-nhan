@@ -1,0 +1,35 @@
+1
+00:00:00,450 --> 00:00:02,250
+Who really builds a building?
+
+2
+00:00:02,350 --> 00:00:04,350
+Not just the crew with the hammers.
+
+3
+00:00:04,450 --> 00:00:06,100
+It starts with one owner,
+
+4
+00:00:06,170 --> 00:00:07,400
+one empty plot,
+
+5
+00:00:07,460 --> 00:00:09,200
+and one big idea.
+
+6
+00:00:09,310 --> 00:00:12,500
+Most people think design is just pretty drawings.
+
+7
+00:00:12,560 --> 00:00:14,600
+But every line has a price:
+
+8
+00:00:14,690 --> 00:00:15,980
+the designer draws it,
+
+9
+00:00:16,050 --> 00:00:18,400
+and the QS counts its cost.

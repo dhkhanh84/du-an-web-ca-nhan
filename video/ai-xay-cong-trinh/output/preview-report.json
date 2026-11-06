@@ -1,0 +1,62 @@
+{
+  "fingerprint": "33511b718c9169b6d58ae283600620661a796afa3d09b9ccd8011d1caf09704a",
+  "preview_seconds": 18.6,
+  "output": "/home/user/du-an-web-ca-nhan/video/ai-xay-cong-trinh/output/preview.mp4",
+  "output_sha256": "dcd561d84aa6f5b467c451d43339661363fcf92094ca4143a9fa30651182ea8f",
+  "original_voice_sha256": "f67ee8850e3ff8c87653016baaad7738baf8f8ad6bfdc5503948be3f3a3ebbdb",
+  "original_voice_duration": 53.560958,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 558,
+  "duration": 18.6,
+  "cache_hits": 0,
+  "shot_count": 7,
+  "full_decode": "pass",
+  "caption_count": 9,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/ai-xay-cong-trinh/assets/cut/coin.png",
+      "sha256": "66e3b831e8f8218348db5fe33ca528f15b668a5bad512f1cb830530758d07114"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/ai-xay-cong-trinh/assets/cut/p_sketch.png",
+      "sha256": "79a6540a9b863e2ad88febf5f9e65589b0bdda22cbdef05debe771b27ed29691"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/ai-xay-cong-trinh/assets/cut/s01_crew.png",
+      "sha256": "961c32c3a580a4f13d47f411d875fb5cb81a9a27f5351ab80631450e862aa16c"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/ai-xay-cong-trinh/assets/cut/s03_owner_plot.png",
+      "sha256": "0d34a9663e8aa01e3179df32c61d7ce08911070bbd4984fc2ff96a198007a75d"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/ai-xay-cong-trinh/assets/cut/s04_owner_idea.png",
+      "sha256": "c1f9da795e3e20f817c41c061f3033611bc61964c9aeedaec516db422086d2d2"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/ai-xay-cong-trinh/assets/cut/s05_designer.png",
+      "sha256": "31b4f71694515a19c7bb3d8d11e2994d56d3268cbbeb0a015b3b5d3f380169b2"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/ai-xay-cong-trinh/assets/cut/s06_designer_coins.png",
+      "sha256": "ba1082624a73ae6888f2a9d4279db13d2c807d2a47fe43b20ab62a70f540e162"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/ai-xay-cong-trinh/assets/cut/s07_qs.png",
+      "sha256": "259eb13ad5725f7fdd1888020893158df1c85864c630fedabb40d3f33e4c4fdd"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/ai-xay-cong-trinh/audio/master_sample_mix.wav",
+      "sha256": "f67ee8850e3ff8c87653016baaad7738baf8f8ad6bfdc5503948be3f3a3ebbdb"
+    },
+    {
+      "path": "/root/.claude/plugins/synced/6885484c-7413-48de-8948-b53451880e01_1ccae8e5-87c7-4a7f-b902-53f9d823848c/stickman-video-director/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",
+      "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+    },
+    {
+      "path": "/root/.claude/plugins/synced/6885484c-7413-48de-8948-b53451880e01_1ccae8e5-87c7-4a7f-b902-53f9d823848c/stickman-video-director/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ]
+}

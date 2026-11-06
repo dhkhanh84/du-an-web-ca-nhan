@@ -9,8 +9,8 @@ def gen(name,prompt,model='gemini-2.5-flash-image',refs=()):
     if os.path.exists(out): print('exists',out); return
     parts=[{"text":STYLE+prompt}]
     for r in (REF,)+tuple(refs): parts.append({"inlineData":{"mimeType":"image/png","data":base64.b64encode(open(r,'rb').read()).decode()}})
-    open('/tmp/img.json','w').write(json.dumps({"contents":[{"parts":parts}],"generationConfig":{"responseModalities":["IMAGE"],"imageConfig":{"aspectRatio":"16:9"}}}))
-    r=subprocess.run(['curl','-sS','-X','POST',f'https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent','-H','Content-Type: application/json','-d','@/tmp/img.json'],capture_output=True,text=True)
+    open(f'/tmp/img_{name}.json','w').write(json.dumps({"contents":[{"parts":parts}],"generationConfig":{"responseModalities":["IMAGE"],"imageConfig":{"aspectRatio":"16:9"}}}))
+    r=subprocess.run(['curl','-sS','-X','POST',f'https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent','-H','Content-Type: application/json','-d',f'@/tmp/img_{name}.json'],capture_output=True,text=True)
     d=json.loads(r.stdout)
     if 'error' in d: print('ERR',d['error'].get('status'),d['error'].get('message','')[:200]); return
     for p in d['candidates'][0]['content']['parts']:

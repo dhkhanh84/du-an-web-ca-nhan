@@ -1,0 +1,106 @@
+{
+ "lead": 0.15,
+ "source": "original procedural synthesis (make_sfx.py), no third-party audio",
+ "cues": [
+  {
+   "t": 0.85,
+   "cue": "hammer on plank (near, wood)",
+   "peak_dB": -12
+  },
+  {
+   "t": 1.22,
+   "cue": "hammer on plank (near, wood)",
+   "peak_dB": -12
+  },
+  {
+   "t": 1.58,
+   "cue": "hammer on plank (near, wood)",
+   "peak_dB": -12
+  },
+  {
+   "t": 3.62,
+   "cue": "hammers dropped on ground",
+   "peak_dB": -16
+  },
+  {
+   "t": 4.55,
+   "cue": "footstep on gravel (owner walks in)",
+   "peak_dB": -22
+  },
+  {
+   "t": 4.95,
+   "cue": "footstep on gravel (owner walks in)",
+   "peak_dB": -22
+  },
+  {
+   "t": 5.35,
+   "cue": "footstep on gravel (owner walks in)",
+   "peak_dB": -22
+  },
+  {
+   "t": 5.7,
+   "cue": "footstep on gravel (owner walks in)",
+   "peak_dB": -22
+  },
+  {
+   "t": 7.55,
+   "cue": "paper flourish (sketch raised)",
+   "peak_dB": -22
+  },
+  {
+   "t": 8.45,
+   "cue": "light bulb idea chime",
+   "peak_dB": -22
+  },
+  {
+   "t": 9.35,
+   "cue": "sketch flies to drafting table",
+   "peak_dB": -24
+  },
+  {
+   "t": 9.95,
+   "cue": "paper lands on table",
+   "peak_dB": -18
+  },
+  {
+   "t": 10.25,
+   "cue": "pencil drawing on paper",
+   "peak_dB": -30
+  },
+  {
+   "t": 12.95,
+   "cue": "coin pops from drawn line",
+   "peak_dB": -20
+  },
+  {
+   "t": 13.4,
+   "cue": "coin pops from drawn line",
+   "peak_dB": -20
+  },
+  {
+   "t": 13.85,
+   "cue": "coin pops from drawn line",
+   "peak_dB": -20
+  },
+  {
+   "t": 16.35,
+   "cue": "coin caught in hand",
+   "peak_dB": -20
+  },
+  {
+   "t": 16.8,
+   "cue": "coin caught in hand",
+   "peak_dB": -20
+  },
+  {
+   "t": 17.25,
+   "cue": "coin caught in hand",
+   "peak_dB": -20
+  },
+  {
+   "t": 17.75,
+   "cue": "finger taps tablet",
+   "peak_dB": -24
+  }
+ ]
+}
