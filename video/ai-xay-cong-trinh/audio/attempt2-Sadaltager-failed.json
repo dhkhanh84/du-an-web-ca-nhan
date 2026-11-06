@@ -1,0 +1,9 @@
+{
+  "kind": "speech",
+  "model": "gemini-2.5-flash-preview-tts",
+  "requested_at": "2026-11-06T07:05:42.774Z",
+  "request_id": "9fd2edf7-cf56-4052-a3f6-f9da5df4add1",
+  "status": "failed_or_unknown",
+  "warning": "One request only; inspect provider history before retrying",
+  "error": "Provider HTTP 400; response body deliberately omitted"
+}

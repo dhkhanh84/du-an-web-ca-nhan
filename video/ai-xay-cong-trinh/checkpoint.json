@@ -12,15 +12,18 @@
   "narration": {
     "language": "en",
     "provider": "Google Gemini API TTS",
-    "voice": "PENDING: Bodi not supported by 2.5 TTS (HTTP 400, nothing billed); user to choose voice or 3.x model",
+    "voice": "Sadaltager",
     "model": "gemini-2.5-flash-preview-tts",
     "text": "narration.txt",
     "words": 136,
     "approved_by_user": true,
-    "direction": "none"
+    "direction": "none",
+    "file": "audio/narration.wav",
+    "duration_s": 53.01,
+    "note": "Generated via direct REST (script adapter returned HTTP 400 on full text; same request via curl succeeded). Bodi not supported on 2.5."
   },
   "image_model": "gemini-2.5-flash-image",
-  "stage": "awaiting_voice_choice",
+  "stage": "narration_done_alignment_pending",
   "config_check_2026-11-06": {
     "runtime_doctor": "node/ffmpeg/ffprobe/canvas/fonts OK (after npm ci)",
     "GEMINI_API_KEY": "stored as environment network secret (proxy-injected); verified via models.list",
@@ -33,7 +36,10 @@
     "paid_calls": "user approved up to 0.5 USD (Gemini 2.5 models) on 2026-11-06",
     "sample": false
   },
-  "completed": [],
+  "completed": [
+    "narration"
+  ],
   "pending_jobs": [],
-  "next_step": "User picks voice (e.g. Sadaltager) -> TTS -> align -> sample assets -> preview --seconds 20"
+  "next_step": "align captions -> generate sample assets with gemini-2.5-flash-image -> preview --seconds 20",
+  "alignment": "gemini-2.5-flash text model retired; gemini-3.8-flash returned 503/empty. Silence anchors measured with ffmpeg. Word-level alignment still pending."
 }
