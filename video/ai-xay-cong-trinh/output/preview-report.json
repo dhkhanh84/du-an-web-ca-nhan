@@ -1,14 +1,14 @@
 {
-  "fingerprint": "33511b718c9169b6d58ae283600620661a796afa3d09b9ccd8011d1caf09704a",
+  "fingerprint": "5312a6603217071e324134b2960ad6bcf9e2351b02c6ebb71c6c2f5ab9720f85",
   "preview_seconds": 18.6,
   "output": "/home/user/du-an-web-ca-nhan/video/ai-xay-cong-trinh/output/preview.mp4",
   "output_sha256": "dcd561d84aa6f5b467c451d43339661363fcf92094ca4143a9fa30651182ea8f",
-  "original_voice_sha256": "f67ee8850e3ff8c87653016baaad7738baf8f8ad6bfdc5503948be3f3a3ebbdb",
+  "original_voice_sha256": "6b0187fd08c5b0c4c6e7d631155b070c6d71faa240ad4a7ca00f5debde290f0e",
   "original_voice_duration": 53.560958,
   "voice_rate": "unchanged; leading/trailing padding only",
   "frames": 558,
   "duration": 18.6,
-  "cache_hits": 0,
+  "cache_hits": 7,
   "shot_count": 7,
   "full_decode": "pass",
   "caption_count": 9,
@@ -47,8 +47,8 @@
       "sha256": "259eb13ad5725f7fdd1888020893158df1c85864c630fedabb40d3f33e4c4fdd"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/ai-xay-cong-trinh/audio/master_sample_mix.wav",
-      "sha256": "f67ee8850e3ff8c87653016baaad7738baf8f8ad6bfdc5503948be3f3a3ebbdb"
+      "path": "/home/user/du-an-web-ca-nhan/video/ai-xay-cong-trinh/audio/master_mix.wav",
+      "sha256": "6b0187fd08c5b0c4c6e7d631155b070c6d71faa240ad4a7ca00f5debde290f0e"
     },
     {
       "path": "/root/.claude/plugins/synced/6885484c-7413-48de-8948-b53451880e01_1ccae8e5-87c7-4a7f-b902-53f9d823848c/stickman-video-director/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",

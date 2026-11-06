@@ -1,0 +1,684 @@
+{
+ "words": [
+  {
+   "start": 0.0,
+   "end": 0.32,
+   "word": "Who"
+  },
+  {
+   "start": 0.32,
+   "end": 0.65,
+   "word": "really"
+  },
+  {
+   "start": 0.65,
+   "end": 1.03,
+   "word": "builds"
+  },
+  {
+   "start": 1.03,
+   "end": 1.13,
+   "word": "a"
+  },
+  {
+   "start": 1.13,
+   "end": 1.63,
+   "word": "building?"
+  },
+  {
+   "start": 1.83,
+   "end": 2.06,
+   "word": "Not"
+  },
+  {
+   "start": 2.06,
+   "end": 2.37,
+   "word": "just"
+  },
+  {
+   "start": 2.37,
+   "end": 2.51,
+   "word": "the"
+  },
+  {
+   "start": 2.51,
+   "end": 2.82,
+   "word": "crew"
+  },
+  {
+   "start": 2.82,
+   "end": 2.98,
+   "word": "with"
+  },
+  {
+   "start": 2.98,
+   "end": 3.09,
+   "word": "the"
+  },
+  {
+   "start": 3.09,
+   "end": 3.73,
+   "word": "hammers."
+  },
+  {
+   "start": 3.97,
+   "end": 4.14,
+   "word": "It"
+  },
+  {
+   "start": 4.14,
+   "end": 4.57,
+   "word": "starts"
+  },
+  {
+   "start": 4.57,
+   "end": 4.8,
+   "word": "with"
+  },
+  {
+   "start": 4.8,
+   "end": 5.14,
+   "word": "one"
+  },
+  {
+   "start": 5.14,
+   "end": 5.75,
+   "word": "owner,"
+  },
+  {
+   "start": 5.9,
+   "end": 6.18,
+   "word": "one"
+  },
+  {
+   "start": 6.18,
+   "end": 6.64,
+   "word": "empty"
+  },
+  {
+   "start": 6.64,
+   "end": 7.15,
+   "word": "plot,"
+  },
+  {
+   "start": 7.37,
+   "end": 7.57,
+   "word": "and"
+  },
+  {
+   "start": 7.57,
+   "end": 7.82,
+   "word": "one"
+  },
+  {
+   "start": 7.82,
+   "end": 8.16,
+   "word": "big"
+  },
+  {
+   "start": 8.16,
+   "end": 8.87,
+   "word": "idea."
+  },
+  {
+   "start": 9.16,
+   "end": 9.54,
+   "word": "Most"
+  },
+  {
+   "start": 9.54,
+   "end": 9.87,
+   "word": "people"
+  },
+  {
+   "start": 9.87,
+   "end": 10.2,
+   "word": "think"
+  },
+  {
+   "start": 10.2,
+   "end": 10.66,
+   "word": "design"
+  },
+  {
+   "start": 10.66,
+   "end": 10.86,
+   "word": "is"
+  },
+  {
+   "start": 10.86,
+   "end": 11.23,
+   "word": "just"
+  },
+  {
+   "start": 11.23,
+   "end": 11.64,
+   "word": "pretty"
+  },
+  {
+   "start": 11.64,
+   "end": 12.33,
+   "word": "drawings."
+  },
+  {
+   "start": 12.56,
+   "end": 12.78,
+   "word": "But"
+  },
+  {
+   "start": 12.78,
+   "end": 13.12,
+   "word": "every"
+  },
+  {
+   "start": 13.12,
+   "end": 13.51,
+   "word": "line"
+  },
+  {
+   "start": 13.51,
+   "end": 13.78,
+   "word": "has"
+  },
+  {
+   "start": 13.78,
+   "end": 13.88,
+   "word": "a"
+  },
+  {
+   "start": 13.88,
+   "end": 14.54,
+   "word": "price:"
+  },
+  {
+   "start": 14.65,
+   "end": 14.8,
+   "word": "the"
+  },
+  {
+   "start": 14.8,
+   "end": 15.35,
+   "word": "designer"
+  },
+  {
+   "start": 15.35,
+   "end": 15.71,
+   "word": "draws"
+  },
+  {
+   "start": 15.71,
+   "end": 15.96,
+   "word": "it,"
+  },
+  {
+   "start": 16.03,
+   "end": 16.27,
+   "word": "and"
+  },
+  {
+   "start": 16.27,
+   "end": 16.39,
+   "word": "the"
+  },
+  {
+   "start": 16.39,
+   "end": 16.89,
+   "word": "QS"
+  },
+  {
+   "start": 16.89,
+   "end": 17.37,
+   "word": "counts"
+  },
+  {
+   "start": 17.37,
+   "end": 17.58,
+   "word": "its"
+  },
+  {
+   "start": 17.58,
+   "end": 18.25,
+   "word": "cost."
+  },
+  {
+   "start": 18.52,
+   "end": 18.84,
+   "word": "Then"
+  },
+  {
+   "start": 18.84,
+   "end": 19.16,
+   "word": "come"
+  },
+  {
+   "start": 19.16,
+   "end": 19.3,
+   "word": "the"
+  },
+  {
+   "start": 19.3,
+   "end": 19.74,
+   "word": "hidden"
+  },
+  {
+   "start": 19.74,
+   "end": 20.37,
+   "word": "gates:"
+  },
+  {
+   "start": 20.61,
+   "end": 21.28,
+   "word": "government"
+  },
+  {
+   "start": 21.28,
+   "end": 22.01,
+   "word": "approvals,"
+  },
+  {
+   "start": 22.18,
+   "end": 22.38,
+   "word": "and"
+  },
+  {
+   "start": 22.38,
+   "end": 22.48,
+   "word": "a"
+  },
+  {
+   "start": 22.48,
+   "end": 22.95,
+   "word": "tender"
+  },
+  {
+   "start": 22.95,
+   "end": 23.23,
+   "word": "where"
+  },
+  {
+   "start": 23.23,
+   "end": 23.95,
+   "word": "contractors"
+  },
+  {
+   "start": 23.95,
+   "end": 24.63,
+   "word": "compete."
+  },
+  {
+   "start": 24.87,
+   "end": 25.13,
+   "word": "And"
+  },
+  {
+   "start": 25.13,
+   "end": 25.29,
+   "word": "the"
+  },
+  {
+   "start": 25.29,
+   "end": 25.74,
+   "word": "lowest"
+  },
+  {
+   "start": 25.74,
+   "end": 26.27,
+   "word": "price"
+  },
+  {
+   "start": 26.27,
+   "end": 26.47,
+   "word": "is"
+  },
+  {
+   "start": 26.47,
+   "end": 26.75,
+   "word": "not"
+  },
+  {
+   "start": 26.75,
+   "end": 27.17,
+   "word": "always"
+  },
+  {
+   "start": 27.17,
+   "end": 27.31,
+   "word": "the"
+  },
+  {
+   "start": 27.31,
+   "end": 27.67,
+   "word": "best"
+  },
+  {
+   "start": 27.67,
+   "end": 28.25,
+   "word": "value."
+  },
+  {
+   "start": 28.61,
+   "end": 28.84,
+   "word": "On"
+  },
+  {
+   "start": 28.84,
+   "end": 29.35,
+   "word": "site,"
+  },
+  {
+   "start": 29.39,
+   "end": 29.56,
+   "word": "the"
+  },
+  {
+   "start": 29.56,
+   "end": 30.15,
+   "word": "contractor"
+  },
+  {
+   "start": 30.15,
+   "end": 30.73,
+   "word": "builds,"
+  },
+  {
+   "start": 30.93,
+   "end": 31.22,
+   "word": "while"
+  },
+  {
+   "start": 31.22,
+   "end": 31.39,
+   "word": "the"
+  },
+  {
+   "start": 31.39,
+   "end": 32.07,
+   "word": "supervision"
+  },
+  {
+   "start": 32.07,
+   "end": 32.74,
+   "word": "consultant"
+  },
+  {
+   "start": 32.74,
+   "end": 33.15,
+   "word": "checks"
+  },
+  {
+   "start": 33.15,
+   "end": 33.51,
+   "word": "every"
+  },
+  {
+   "start": 33.51,
+   "end": 33.87,
+   "word": "pour"
+  },
+  {
+   "start": 33.87,
+   "end": 34.12,
+   "word": "and"
+  },
+  {
+   "start": 34.12,
+   "end": 34.45,
+   "word": "every"
+  },
+  {
+   "start": 34.45,
+   "end": 34.82,
+   "word": "bolt"
+  },
+  {
+   "start": 34.82,
+   "end": 35.15,
+   "word": "against"
+  },
+  {
+   "start": 35.15,
+   "end": 35.34,
+   "word": "the"
+  },
+  {
+   "start": 35.34,
+   "end": 35.83,
+   "word": "approved"
+  },
+  {
+   "start": 35.83,
+   "end": 36.56,
+   "word": "drawings."
+  },
+  {
+   "start": 36.8,
+   "end": 37.13,
+   "word": "Here"
+  },
+  {
+   "start": 37.13,
+   "end": 37.31,
+   "word": "is"
+  },
+  {
+   "start": 37.31,
+   "end": 37.45,
+   "word": "the"
+  },
+  {
+   "start": 37.45,
+   "end": 38.08,
+   "word": "truth:"
+  },
+  {
+   "start": 38.32,
+   "end": 38.41,
+   "word": "a"
+  },
+  {
+   "start": 38.41,
+   "end": 38.89,
+   "word": "project"
+  },
+  {
+   "start": 38.89,
+   "end": 39.3,
+   "word": "never"
+  },
+  {
+   "start": 39.3,
+   "end": 39.84,
+   "word": "succeeds"
+  },
+  {
+   "start": 39.84,
+   "end": 40.23,
+   "word": "because"
+  },
+  {
+   "start": 40.23,
+   "end": 40.36,
+   "word": "of"
+  },
+  {
+   "start": 40.36,
+   "end": 40.67,
+   "word": "one"
+  },
+  {
+   "start": 40.67,
+   "end": 41.25,
+   "word": "hero."
+  },
+  {
+   "start": 41.52,
+   "end": 41.67,
+   "word": "It"
+  },
+  {
+   "start": 41.67,
+   "end": 42.19,
+   "word": "succeeds"
+  },
+  {
+   "start": 42.19,
+   "end": 42.44,
+   "word": "when"
+  },
+  {
+   "start": 42.44,
+   "end": 42.75,
+   "word": "six"
+  },
+  {
+   "start": 42.75,
+   "end": 43.23,
+   "word": "parties"
+  },
+  {
+   "start": 43.23,
+   "end": 43.51,
+   "word": "keep"
+  },
+  {
+   "start": 43.51,
+   "end": 43.76,
+   "word": "their"
+  },
+  {
+   "start": 43.76,
+   "end": 44.38,
+   "word": "promises"
+  },
+  {
+   "start": 44.38,
+   "end": 44.57,
+   "word": "to"
+  },
+  {
+   "start": 44.57,
+   "end": 44.8,
+   "word": "each"
+  },
+  {
+   "start": 44.8,
+   "end": 45.41,
+   "word": "other."
+  },
+  {
+   "start": 45.69,
+   "end": 46.42,
+   "word": "Inspections"
+  },
+  {
+   "start": 46.42,
+   "end": 46.99,
+   "word": "pass,"
+  },
+  {
+   "start": 47.16,
+   "end": 47.33,
+   "word": "the"
+  },
+  {
+   "start": 47.33,
+   "end": 47.66,
+   "word": "keys"
+  },
+  {
+   "start": 47.66,
+   "end": 48.09,
+   "word": "change"
+  },
+  {
+   "start": 48.09,
+   "end": 48.65,
+   "word": "hands,"
+  },
+  {
+   "start": 48.9,
+   "end": 49.09,
+   "word": "and"
+  },
+  {
+   "start": 49.09,
+   "end": 49.27,
+   "word": "an"
+  },
+  {
+   "start": 49.27,
+   "end": 49.77,
+   "word": "idea"
+  },
+  {
+   "start": 49.77,
+   "end": 50.29,
+   "word": "becomes"
+  },
+  {
+   "start": 50.29,
+   "end": 50.39,
+   "word": "a"
+  },
+  {
+   "start": 50.39,
+   "end": 50.8,
+   "word": "place"
+  },
+  {
+   "start": 50.8,
+   "end": 51.0,
+   "word": "for"
+  },
+  {
+   "start": 51.0,
+   "end": 51.62,
+   "word": "people."
+  },
+  {
+   "start": 51.98,
+   "end": 52.3,
+   "word": "Which"
+  },
+  {
+   "start": 52.3,
+   "end": 52.61,
+   "word": "role"
+  },
+  {
+   "start": 52.61,
+   "end": 53.05,
+   "word": "matters"
+  },
+  {
+   "start": 53.05,
+   "end": 53.64,
+   "word": "most?"
+  },
+  {
+   "start": 53.86,
+   "end": 54.19,
+   "word": "Tell"
+  },
+  {
+   "start": 54.19,
+   "end": 54.38,
+   "word": "us"
+  },
+  {
+   "start": 54.38,
+   "end": 54.54,
+   "word": "in"
+  },
+  {
+   "start": 54.54,
+   "end": 54.67,
+   "word": "the"
+  },
+  {
+   "start": 54.67,
+   "end": 55.45,
+   "word": "comments."
+  }
+ ]
+}

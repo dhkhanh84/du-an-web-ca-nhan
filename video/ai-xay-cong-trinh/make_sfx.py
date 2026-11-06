@@ -78,3 +78,59 @@ wr('audio/stems/voice_padded.wav',voice); wr('audio/stems/ambience.wav',amb); wr
 wr('audio/master_sample_mix.wav',voice+amb+fx)
 json.dump({"lead":LEAD,"source":"original procedural synthesis (make_sfx.py), no third-party audio","cues":cues},open('audio/sound_manifest.json','w'),indent=1)
 print(N/SR)
+
+# ---- Parts 3-6 (appended after sample cues so the reviewed opening stays bit-identical)
+def metal(f0,dur=.6):
+    n=sec(dur); t=np.arange(n)/SR
+    x=sum(a*np.sin(2*np.pi*f0*r*t)*env(n,.0008,d) for r,a,d in((1,1,.25),(2.4,.6,.12),(3.9,.4,.06)))
+    return norm(x+band(rng.standard_normal(n),800,6000)*env(n,.0005,.01),1)
+def rattle():
+    n=sec(.5); x=np.zeros(n)
+    for t0 in (0,.07,.16,.27):
+        m=metal(rng.uniform(700,950),.25)*rng.uniform(.5,1); s=sec(t0); x[s:s+len(m)]+=m[:n-s]
+    return norm(x,1)
+def thump():
+    n=sec(.4); t=np.arange(n)/SR
+    return norm(np.sin(2*np.pi*95*t)*env(n,.001,.06)+.6*band(rng.standard_normal(n),200,2500)*env(n,.0005,.015),1)
+def creak(dur=.6,f=180):
+    n=sec(dur); t=np.arange(n)/SR; fm=f*(1+.25*np.sin(2*np.pi*1.3*t))
+    saw=((np.cumsum(fm)/SR)%1)*2-1; pulses=(rng.random(n)<.02)
+    return norm(band(saw*(.5+pulses),300,3000)*np.hanning(n),1)
+def pour(dur=.9):
+    n=sec(dur); am=np.abs(band(rng.standard_normal(n),3,18)); am/=am.max()
+    return norm(band(rng.standard_normal(n),80,900)*am*np.hanning(n),1)
+def ratchet():
+    n=sec(.6); x=np.zeros(n)
+    for i in range(7): c=tap()*.8; s=sec(i*.08); x[s:s+len(c)]+=c[:n-s]
+    return norm(band(x,1500,8000),1)
+def jingle_keys():
+    n=sec(.8); x=np.zeros(n)
+    for i in range(9):
+        m=metal(rng.uniform(2500,4200),.35)*rng.uniform(.3,1); s=sec(rng.uniform(0,.45)); x[s:s+len(m)]+=m[:n-s]
+    return norm(x,1)
+def deflate(): n=sec(.5); return norm(band(rng.standard_normal(n),200,1500)*np.linspace(1,0,n)**2,1)
+bed(site,28.0,36.0,.6,.15,dB(-38))          # site returns; cut at "Here is the truth"
+bed(wind,44.4,N/SR,.8,.5,dB(-42))
+put(19.55,rattle(),-22,'owner touches locked iron gate')
+put(20.72,thump(),-14,'approval stamp slams on document')
+put(20.95,creak(.7,140),-28,'gate swings open')
+for t in(22.25,22.75,23.3): put(t,land(),-18,'envelope placed on table')
+put(24.55,creak(.5,320),-30,'scale beam creaks')
+put(26.45,metal(220,.4),-26,'scale pan settles')
+put(28.6,metal(160,.7),-18,'steel beam set onto frame')
+put(30.6,flutter(.25),-24,'clipboard page flip')
+put(32.3,pour(),-22,'concrete pour into formwork')
+put(33.55,ratchet(),-24,'wrench tightens bolt')
+put(34.95,tap(),-22,'pen tick against drawing')
+put(38.6,creak(.5,260),-30,'model wobbles over the hero')
+put(40.05,deflate(),-24,'hero gives up (exhale-like air, synthetic)')
+for i,t in enumerate((41.0,41.45,41.9,42.4,42.9,43.4)): put(t,tap(),-22,'hands link into the ring')
+put(43.9,chime(),-24,'ring closes')
+put(45.0,tap(),-20,'inspection check mark')
+put(46.6,jingle_keys(),-20,'keys change hands')
+put(48.0,creak(.8,120),-30,'front door opens')
+put(52.05,ting(1800)*.7,-24,'comment bubble pops')
+wr('audio/stems/ambience.wav',amb); wr('audio/stems/fx.wav',fx)
+wr('audio/master_mix.wav',voice+amb+fx)
+json.dump({"lead":LEAD,"source":"original procedural synthesis (make_sfx.py), no third-party audio","cues":cues},open('audio/sound_manifest.json','w'),indent=1)
+print('full',N/SR)

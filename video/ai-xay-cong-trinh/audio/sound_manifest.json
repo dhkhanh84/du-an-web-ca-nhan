@@ -101,6 +101,136 @@
    "t": 17.75,
    "cue": "finger taps tablet",
    "peak_dB": -24
+  },
+  {
+   "t": 19.55,
+   "cue": "owner touches locked iron gate",
+   "peak_dB": -22
+  },
+  {
+   "t": 20.72,
+   "cue": "approval stamp slams on document",
+   "peak_dB": -14
+  },
+  {
+   "t": 20.95,
+   "cue": "gate swings open",
+   "peak_dB": -28
+  },
+  {
+   "t": 22.25,
+   "cue": "envelope placed on table",
+   "peak_dB": -18
+  },
+  {
+   "t": 22.75,
+   "cue": "envelope placed on table",
+   "peak_dB": -18
+  },
+  {
+   "t": 23.3,
+   "cue": "envelope placed on table",
+   "peak_dB": -18
+  },
+  {
+   "t": 24.55,
+   "cue": "scale beam creaks",
+   "peak_dB": -30
+  },
+  {
+   "t": 26.45,
+   "cue": "scale pan settles",
+   "peak_dB": -26
+  },
+  {
+   "t": 28.6,
+   "cue": "steel beam set onto frame",
+   "peak_dB": -18
+  },
+  {
+   "t": 30.6,
+   "cue": "clipboard page flip",
+   "peak_dB": -24
+  },
+  {
+   "t": 32.3,
+   "cue": "concrete pour into formwork",
+   "peak_dB": -22
+  },
+  {
+   "t": 33.55,
+   "cue": "wrench tightens bolt",
+   "peak_dB": -24
+  },
+  {
+   "t": 34.95,
+   "cue": "pen tick against drawing",
+   "peak_dB": -22
+  },
+  {
+   "t": 38.6,
+   "cue": "model wobbles over the hero",
+   "peak_dB": -30
+  },
+  {
+   "t": 40.05,
+   "cue": "hero gives up (exhale-like air, synthetic)",
+   "peak_dB": -24
+  },
+  {
+   "t": 41.0,
+   "cue": "hands link into the ring",
+   "peak_dB": -22
+  },
+  {
+   "t": 41.45,
+   "cue": "hands link into the ring",
+   "peak_dB": -22
+  },
+  {
+   "t": 41.9,
+   "cue": "hands link into the ring",
+   "peak_dB": -22
+  },
+  {
+   "t": 42.4,
+   "cue": "hands link into the ring",
+   "peak_dB": -22
+  },
+  {
+   "t": 42.9,
+   "cue": "hands link into the ring",
+   "peak_dB": -22
+  },
+  {
+   "t": 43.4,
+   "cue": "hands link into the ring",
+   "peak_dB": -22
+  },
+  {
+   "t": 43.9,
+   "cue": "ring closes",
+   "peak_dB": -24
+  },
+  {
+   "t": 45.0,
+   "cue": "inspection check mark",
+   "peak_dB": -20
+  },
+  {
+   "t": 46.6,
+   "cue": "keys change hands",
+   "peak_dB": -20
+  },
+  {
+   "t": 48.0,
+   "cue": "front door opens",
+   "peak_dB": -30
+  },
+  {
+   "t": 52.05,
+   "cue": "comment bubble pops",
+   "peak_dB": -24
   }
  ]
 }

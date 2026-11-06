@@ -5,7 +5,7 @@
  "height": 720,
  "fps": 30,
  "voice": {
-  "path": "audio/master_sample_mix.wav",
+  "path": "audio/master_mix.wav",
   "lead": 0,
   "tail": 0.3,
   "contains_sfx": true
@@ -55,6 +55,96 @@
    "start": 16.05,
    "end": 18.4,
    "text": "and the QS counts its cost."
+  },
+  {
+   "start": 18.68,
+   "end": 20.3,
+   "text": "Then come the hidden gates:"
+  },
+  {
+   "start": 20.44,
+   "end": 21.7,
+   "text": "government approvals,"
+  },
+  {
+   "start": 21.79,
+   "end": 24.2,
+   "text": "and a tender where contractors compete."
+  },
+  {
+   "start": 24.29,
+   "end": 25.51,
+   "text": "And the lowest price"
+  },
+  {
+   "start": 25.51,
+   "end": 27.85,
+   "text": "is not always the best value."
+  },
+  {
+   "start": 28.05,
+   "end": 30.28,
+   "text": "On site, the contractor builds,"
+  },
+  {
+   "start": 30.36,
+   "end": 31.9,
+   "text": "while the supervision consultant"
+  },
+  {
+   "start": 31.97,
+   "end": 34.05,
+   "text": "checks every pour and every bolt"
+  },
+  {
+   "start": 34.11,
+   "end": 35.95,
+   "text": "against the approved drawings."
+  },
+  {
+   "start": 36.09,
+   "end": 37.4,
+   "text": "Here is the truth:"
+  },
+  {
+   "start": 37.47,
+   "end": 40.55,
+   "text": "a project never succeeds because of one hero."
+  },
+  {
+   "start": 40.66,
+   "end": 42.5,
+   "text": "It succeeds when six parties"
+  },
+  {
+   "start": 42.51,
+   "end": 44.4,
+   "text": "keep their promises to each other."
+  },
+  {
+   "start": 44.53,
+   "end": 45.98,
+   "text": "Inspections pass,"
+  },
+  {
+   "start": 46.11,
+   "end": 47.58,
+   "text": "the keys change hands,"
+  },
+  {
+   "start": 47.65,
+   "end": 50.35,
+   "text": "and an idea becomes a place for people."
+  },
+  {
+   "start": 50.45,
+   "end": 51.9,
+   "text": "Which role matters most?"
+  },
+  {
+   "start": 52.01,
+   "end": 53.7,
+   "text": "Tell us in the comments."
   }
  ],
  "shots": [
@@ -634,6 +724,752 @@
       {
        "t": 1.7,
        "progress": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 18.6,
+   "end": 20.4,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s08_gate.png",
+     "x": 150,
+     "y": 60,
+     "w": 1100,
+     "keys": [
+      {
+       "t": 0,
+       "x": 90
+      },
+      {
+       "t": 0.9,
+       "x": 150
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "THE HIDDEN GATES.",
+     "x": 420,
+     "y": 40,
+     "size": 50,
+     "bold": true,
+     "from": 0.2
+    }
+   ]
+  },
+  {
+   "start": 20.4,
+   "end": 21.75,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s09_stamp.png",
+     "x": 90,
+     "y": 40,
+     "w": 1100,
+     "keys": [
+      {
+       "t": 0,
+       "y": 40
+      },
+      {
+       "t": 0.3,
+       "y": 40
+      },
+      {
+       "t": 0.35,
+       "y": 48
+      },
+      {
+       "t": 0.5,
+       "y": 40
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "APPROVAL.",
+     "x": 800,
+     "y": 60,
+     "size": 58,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0.33,
+     "w": 440
+    }
+   ]
+  },
+  {
+   "start": 21.75,
+   "end": 24.25,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s10_tender.png",
+     "x": 60,
+     "y": 60,
+     "w": 1120,
+     "keys": [
+      {
+       "t": 0,
+       "x": -90,
+       "alpha": 0.3
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 1.4,
+       "x": 60
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "THE TENDER.",
+     "x": 60,
+     "y": 40,
+     "size": 54,
+     "bold": true,
+     "from": 0.4
+    }
+   ]
+  },
+  {
+   "start": 24.25,
+   "end": 28.05,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s11_scale.png",
+     "x": 200,
+     "y": 40,
+     "w": 1060,
+     "keys": [
+      {
+       "t": 0,
+       "y": 30
+      },
+      {
+       "t": 2.2,
+       "y": 30
+      },
+      {
+       "t": 2.6,
+       "y": 44
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "LOWEST PRICE",
+     "x": 230,
+     "y": 150,
+     "size": 36,
+     "bold": true,
+     "from": 0.1
+    },
+    {
+     "type": "text",
+     "text": "BEST VALUE",
+     "x": 820,
+     "y": 540,
+     "size": 36,
+     "bold": true,
+     "color": "#3C9A4A",
+     "from": 2.15
+    },
+    {
+     "type": "text",
+     "text": "PRICE IS NOT VALUE.",
+     "x": 60,
+     "y": 60,
+     "size": 50,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 2.6
+    }
+   ]
+  },
+  {
+   "start": 28.05,
+   "end": 30.35,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s12_build.png",
+     "x": 150,
+     "y": 30,
+     "w": 1100,
+     "keys": [
+      {
+       "t": 0,
+       "x": 110
+      },
+      {
+       "t": 0.6,
+       "x": 150
+      },
+      {
+       "t": 0.62,
+       "y": 30
+      },
+      {
+       "t": 0.66,
+       "y": 36
+      },
+      {
+       "t": 0.75,
+       "y": 30
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "ON SITE: BUILD.",
+     "x": 60,
+     "y": 60,
+     "size": 54,
+     "bold": true
+    }
+   ]
+  },
+  {
+   "start": 30.35,
+   "end": 31.95,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s13_supervisor.png",
+     "x": 200,
+     "y": 20,
+     "w": 1080,
+     "keys": [
+      {
+       "t": 0,
+       "x": 110,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "alpha": 1
+      },
+      {
+       "t": 0.9,
+       "x": 200
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "SUPERVISION.",
+     "x": 60,
+     "y": 70,
+     "size": 54,
+     "bold": true,
+     "from": 0.3
+    }
+   ]
+  },
+  {
+   "start": 31.95,
+   "end": 34.05,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s14_pour.png",
+     "x": -30,
+     "y": 140,
+     "w": 700,
+     "keys": [
+      {
+       "t": 0,
+       "y": 160,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "y": 140,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "EVERY POUR.",
+     "x": 80,
+     "y": 50,
+     "size": 48,
+     "bold": true,
+     "from": 0.4
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/s14_bolt.png",
+     "x": 610,
+     "y": 140,
+     "w": 700,
+     "from": 1.45,
+     "keys": [
+      {
+       "t": 1.45,
+       "y": 160,
+       "alpha": 0
+      },
+      {
+       "t": 1.75,
+       "y": 140,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "EVERY BOLT.",
+     "x": 730,
+     "y": 50,
+     "size": 48,
+     "bold": true,
+     "from": 1.6
+    }
+   ]
+  },
+  {
+   "start": 34.05,
+   "end": 35.95,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s15_compare.png",
+     "x": 180,
+     "y": 30,
+     "w": 1080
+    },
+    {
+     "type": "text",
+     "text": "AS APPROVED.",
+     "x": 60,
+     "y": 80,
+     "size": 54,
+     "bold": true,
+     "color": "#3C9A4A",
+     "from": 0.85
+    },
+    {
+     "type": "underline",
+     "x": 60,
+     "y": 138,
+     "w": 345,
+     "color": "#3C9A4A",
+     "keys": [
+      {
+       "t": 1.0,
+       "progress": 0
+      },
+      {
+       "t": 1.35,
+       "progress": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 35.95,
+   "end": 37.45,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s16_model.png",
+     "x": -320,
+     "y": 70,
+     "w": 2000,
+     "keys": [
+      {
+       "t": 0,
+       "w": 2000,
+       "x": -320
+      },
+      {
+       "t": 1.47,
+       "w": 2080,
+       "x": -360
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "HERE IS THE TRUTH.",
+     "x": 60,
+     "y": 40,
+     "size": 46,
+     "bold": true,
+     "from": 0.15
+    }
+   ]
+  },
+  {
+   "start": 37.45,
+   "end": 40.6,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s17_hero.png",
+     "x": 200,
+     "y": 20,
+     "w": 1080,
+     "keys": [
+      {
+       "t": 0,
+       "angle": 0
+      },
+      {
+       "t": 0.6,
+       "angle": 0.025
+      },
+      {
+       "t": 1.2,
+       "angle": -0.02
+      },
+      {
+       "t": 1.8,
+       "angle": 0.03
+      },
+      {
+       "t": 2.4,
+       "angle": -0.03
+      },
+      {
+       "t": 3.0,
+       "angle": 0.01
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "ONE HERO",
+     "x": 80,
+     "y": 140,
+     "size": 64,
+     "bold": true,
+     "from": 2.2
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       70,
+       175
+      ],
+      [
+       370,
+       165
+      ]
+     ],
+     "color": "#EC4338",
+     "lineWidth": 7,
+     "keys": [
+      {
+       "t": 2.55,
+       "progress": 0
+      },
+      {
+       "t": 2.8,
+       "progress": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 40.6,
+   "end": 44.45,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s18_ring6.png",
+     "x": -35,
+     "y": 40,
+     "w": 1400
+    },
+    {
+     "type": "text",
+     "text": "6 PARTIES.",
+     "x": 60,
+     "y": 50,
+     "size": 54,
+     "bold": true,
+     "from": 0.6
+    },
+    {
+     "type": "text",
+     "text": "1 PROMISE.",
+     "x": 760,
+     "y": 50,
+     "size": 54,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 1.95
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       196,
+       410
+      ],
+      [
+       330,
+       440
+      ],
+      [
+       500,
+       452
+      ],
+      [
+       640,
+       456
+      ],
+      [
+       780,
+       450
+      ],
+      [
+       900,
+       432
+      ],
+      [
+       1000,
+       405
+      ]
+     ],
+     "color": "#E8A317",
+     "lineWidth": 6,
+     "keys": [
+      {
+       "t": 0.4,
+       "progress": 0
+      },
+      {
+       "t": 3.3,
+       "progress": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 44.45,
+   "end": 46.1,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s19_inspect.png",
+     "x": 250,
+     "y": 10,
+     "w": 1060,
+     "keys": [
+      {
+       "t": 0,
+       "y": 24
+      },
+      {
+       "t": 0.5,
+       "y": 10
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "INSPECTION:",
+     "x": 60,
+     "y": 80,
+     "size": 50,
+     "bold": true,
+     "from": 0.1
+    },
+    {
+     "type": "text",
+     "text": "PASSED.",
+     "x": 60,
+     "y": 145,
+     "size": 58,
+     "bold": true,
+     "color": "#3C9A4A",
+     "from": 0.55
+    }
+   ]
+  },
+  {
+   "start": 46.1,
+   "end": 47.65,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s20_keys.png",
+     "x": 120,
+     "y": 20,
+     "w": 1100,
+     "keys": [
+      {
+       "t": 0,
+       "x": 120,
+       "w": 1100
+      },
+      {
+       "t": 1.52,
+       "x": 80,
+       "w": 1180
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "THE KEYS.",
+     "x": 60,
+     "y": 70,
+     "size": 54,
+     "bold": true,
+     "color": "#E8A317",
+     "from": 0.45
+    }
+   ]
+  },
+  {
+   "start": 47.65,
+   "end": 50.45,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s21_people.png",
+     "x": 160,
+     "y": 30,
+     "w": 1100,
+     "from": 0.3,
+     "keys": [
+      {
+       "t": 0.3,
+       "alpha": 0
+      },
+      {
+       "t": 1.0,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/p_sketch.png",
+     "x": 500,
+     "y": 60,
+     "w": 620,
+     "to": 1.2,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 1
+      },
+      {
+       "t": 0.5,
+       "alpha": 1
+      },
+      {
+       "t": 1.15,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "AN IDEA",
+     "x": 60,
+     "y": 80,
+     "size": 54,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "A PLACE FOR PEOPLE.",
+     "x": 60,
+     "y": 150,
+     "size": 50,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 1.3
+    }
+   ]
+  },
+  {
+   "start": 50.45,
+   "end": 53.86,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s22_props.png",
+     "x": 60,
+     "y": 180,
+     "w": 1150,
+     "keys": [
+      {
+       "t": 0,
+       "y": 210,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "y": 180,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "WHICH ROLE",
+     "x": 60,
+     "y": 60,
+     "size": 56,
+     "bold": true,
+     "from": 0.1
+    },
+    {
+     "type": "text",
+     "text": "MATTERS MOST?",
+     "x": 60,
+     "y": 125,
+     "size": 56,
+     "bold": true,
+     "color": "#EC4338",
+     "from": 0.55
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/p_bubble.png",
+     "x": 880,
+     "y": -40,
+     "w": 420,
+     "from": 1.55,
+     "keys": [
+      {
+       "t": 1.55,
+       "w": 300,
+       "x": 940,
+       "alpha": 0
+      },
+      {
+       "t": 1.8,
+       "w": 440,
+       "x": 870,
+       "alpha": 1
+      },
+      {
+       "t": 1.95,
+       "w": 420,
+       "x": 880
       }
      ]
     }

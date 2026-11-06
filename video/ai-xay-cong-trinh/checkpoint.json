@@ -23,7 +23,7 @@
     "note": "Generated via direct REST (script adapter returned HTTP 400 on full text; same request via curl succeeded). Bodi not supported on 2.5."
   },
   "image_model": "gemini-2.5-flash-image",
-  "stage": "sample_ready_for_user_review",
+  "stage": "film_delivered_awaiting_user_review",
   "config_check_2026-11-06": {
     "runtime_doctor": "node/ffmpeg/ffprobe/canvas/fonts OK (after npm ci)",
     "GEMINI_API_KEY": "stored as environment network secret (proxy-injected); verified via models.list",
@@ -38,12 +38,14 @@
   },
   "completed": [
     "narration",
-    "sample_images_8",
-    "sample_sound_mix",
-    "preview_18.6s"
+    "images_29",
+    "sound_mix_full",
+    "preview_18.6s",
+    "sample_approval",
+    "film_render"
   ],
   "pending_jobs": [],
-  "next_step": "User reviews output/preview.mp4; on approval: generate remaining ~15-23 images (needs cost approval ~0.6-0.9 USD), extend mix, render full film",
+  "next_step": "User watches output/film.mp4; fix only affected shots/cues on feedback; optional thumbnail/publishing kit after acceptance",
   "alignment": "gemini-2.5-flash text model retired; gemini-3.8-flash returned 503/empty. Silence anchors measured with ffmpeg. Word-level alignment still pending.",
   "blocker": "gemini-2.5-flash-image: 429 RESOURCE_EXHAUSTED, Free Tier limit 0 for image generation. Needs billing enabled on the Google project behind the API key. No image generated, nothing billed.",
   "helpers": [
@@ -54,5 +56,16 @@
   "known_gaps": [
     "No human listening/playback review yet",
     "Full-film master will rebuild the mix file (narration fingerprint changes) -> needs sample re-check before render"
-  ]
+  ],
+  "qa": {
+    "duration_s": 53.867,
+    "decode": "OK",
+    "loudness": "-17.4 LUFS integrated, -0.7 dBFS peak",
+    "freezedetect_main_picture_gt_2.5s": "none",
+    "captions": 27,
+    "not_done": [
+      "human listening/playback review",
+      "word-level forced alignment (captions from measured pauses + one Gemini transcript used for split estimates)"
+    ]
+  }
 }
