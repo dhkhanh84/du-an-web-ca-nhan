@@ -23,7 +23,7 @@
     "note": "Generated via direct REST (script adapter returned HTTP 400 on full text; same request via curl succeeded). Bodi not supported on 2.5."
   },
   "image_model": "gemini-2.5-flash-image",
-  "stage": "film_delivered_awaiting_user_review",
+  "stage": "film_accepted_publishing_kit_delivered",
   "config_check_2026-11-06": {
     "runtime_doctor": "node/ffmpeg/ffprobe/canvas/fonts OK (after npm ci)",
     "GEMINI_API_KEY": "stored as environment network secret (proxy-injected); verified via models.list",
@@ -34,7 +34,8 @@
   "approvals": {
     "script": false,
     "paid_calls": "user approved up to 0.5 USD (Gemini 2.5 models) on 2026-11-06",
-    "sample": false
+    "sample": false,
+    "final_film": "user said \"hài lòng\" 2026-11-06"
   },
   "completed": [
     "narration",
@@ -66,6 +67,17 @@
     "not_done": [
       "human listening/playback review",
       "word-level forced alignment (captions from measured pauses + one Gemini transcript used for split estimates)"
+    ]
+  },
+  "publishing_kit": {
+    "status": "accepted",
+    "language": "en",
+    "thumbnail": "publishing/thumbnail.png (composited from approved assets/cut art + Caveat)",
+    "unused": "publishing/thumb_art.png (gemini-2.5-flash-image, 1 call, rejected: 5 roles, mixed props)",
+    "metadata": "publishing/metadata.md",
+    "pending": [
+      "Google terms for commercial use of TTS/images",
+      "Content ID not certifiable"
     ]
   }
 }
