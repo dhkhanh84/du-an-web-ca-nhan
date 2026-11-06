@@ -1,0 +1,18 @@
+{
+  "project": "ai-xay-cong-trinh",
+  "mode": "B", "style": "B1", "ratio": "16:9", "size": [1280, 720], "fps": 30,
+  "target_seconds": 60,
+  "narration": {"language": "en", "provider": "Google Gemini API TTS", "voice": "Bodi", "model": "pending (verify voice availability)", "text": "narration.txt", "words": 136, "approved_by_user": true, "direction": "none"},
+  "image_model": "pending (recommended: Gemini 3.1 Flash Image, 1K)",
+  "stage": "script_ready_awaiting_cost_approval",
+  "config_check_2026-11-06": {
+    "runtime_doctor": "node/ffmpeg/ffprobe/canvas/fonts OK (after npm ci)",
+    "GEMINI_API_KEY": "absent",
+    "gcloud": "no credentialed account",
+    "generativelanguage.googleapis.com": "reachable through proxy (403 unauthenticated from Google, not proxy)",
+    "caption_alignment": "openai-whisper not installed; model hosts blocked by network policy; candidate: aeneas (espeak forced alignment, PyPI/apt)"
+  },
+  "approvals": {"script": false, "paid_calls": false, "sample": false},
+  "completed": [], "pending_jobs": [],
+  "next_step": "User approves cost + provides Gemini key (secure form) -> TTS full narration -> align -> generate sample assets -> preview --seconds 20"
+}
