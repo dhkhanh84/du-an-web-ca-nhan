@@ -1,0 +1,1090 @@
+{
+ "version": 1,
+ "style": "B1",
+ "width": 1080,
+ "height": 1560,
+ "fps": 30,
+ "captionSize": 60,
+ "voice": {
+  "path": "audio/master_mix.wav",
+  "lead": 0,
+  "tail": 0,
+  "contains_sfx": true
+ },
+ "captions": [
+  {
+   "start": 0.4,
+   "end": 1.91,
+   "text": "Nvidia's Jensen Huang"
+  },
+  {
+   "start": 1.91,
+   "end": 3.05,
+   "text": "just resigned."
+  },
+  {
+   "start": 3.46,
+   "end": 4.4,
+   "text": "The headlines say:"
+  },
+  {
+   "start": 4.64,
+   "end": 5.89,
+   "text": "a reported affair,"
+  },
+  {
+   "start": 6.18,
+   "end": 8.05,
+   "text": "and a woman U.S. officials"
+  },
+  {
+   "start": 8.21,
+   "end": 9.39,
+   "text": "call a Chinese spy."
+  },
+  {
+   "start": 9.88,
+   "end": 10.58,
+   "text": "But rewind."
+  },
+  {
+   "start": 11.02,
+   "end": 12.35,
+   "text": "In 2022,"
+  },
+  {
+   "start": 12.71,
+   "end": 14.85,
+   "text": "Washington banned his best AI chips"
+  },
+  {
+   "start": 14.85,
+   "end": 15.59,
+   "text": "from China."
+  },
+  {
+   "start": 15.85,
+   "end": 16.73,
+   "text": "So Huang built"
+  },
+  {
+   "start": 16.73,
+   "end": 18.24,
+   "text": "a weaker chip for China."
+  },
+  {
+   "start": 18.57,
+   "end": 19.8,
+   "text": "In 2025,"
+  },
+  {
+   "start": 20.05,
+   "end": 21.03,
+   "text": "that was banned too."
+  },
+  {
+   "start": 21.61,
+   "end": 22.65,
+   "text": "So he went to Trump,"
+  },
+  {
+   "start": 22.82,
+   "end": 23.59,
+   "text": "and made a deal:"
+  },
+  {
+   "start": 23.98,
+   "end": 24.8,
+   "text": "sell the chips,"
+  },
+  {
+   "start": 24.8,
+   "end": 26.46,
+   "text": "and give the government a cut."
+  },
+  {
+   "start": 26.78,
+   "end": 28.08,
+   "text": "First fifteen percent."
+  },
+  {
+   "start": 28.39,
+   "end": 29.31,
+   "text": "Then twenty-five."
+  },
+  {
+   "start": 29.71,
+   "end": 31.2,
+   "text": "China hawks hated it."
+  },
+  {
+   "start": 31.71,
+   "end": 33.71,
+   "text": "Then, in October 2026,"
+  },
+  {
+   "start": 33.88,
+   "end": 34.7,
+   "text": "U.S. officials told"
+  },
+  {
+   "start": 34.7,
+   "end": 35.65,
+   "text": "the New York Times"
+  },
+  {
+   "start": 35.65,
+   "end": 36.55,
+   "text": "about the relationship"
+  },
+  {
+   "start": 36.55,
+   "end": 37.57,
+   "text": "and the spy claim."
+  },
+  {
+   "start": 38.11,
+   "end": 39.65,
+   "text": "Beijing calls it fabrication."
+  },
+  {
+   "start": 40.16,
+   "end": 40.86,
+   "text": "Two weeks later,"
+  },
+  {
+   "start": 41.02,
+   "end": 41.72,
+   "text": "he was out."
+  },
+  {
+   "start": 42.18,
+   "end": 43.65,
+   "text": "A real security risk?"
+  },
+  {
+   "start": 43.65,
+   "end": 45.18,
+   "text": "Or a dealmaker removed?"
+  },
+  {
+   "start": 45.62,
+   "end": 46.85,
+   "text": "The public has not seen"
+  },
+  {
+   "start": 46.85,
+   "end": 47.4,
+   "text": "the evidence."
+  },
+  {
+   "start": 47.76,
+   "end": 48.44,
+   "text": "What do you think?"
+  }
+ ],
+ "shots": [
+  {
+   "start": 0,
+   "end": 3.35,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s01_resign.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "x": 50
+      },
+      {
+       "t": 0.7,
+       "x": 50
+      },
+      {
+       "t": 0.75,
+       "y": 488
+      },
+      {
+       "t": 0.9,
+       "y": 480
+      },
+      {
+       "t": 1.9,
+       "x": 50
+      },
+      {
+       "t": 3.3,
+       "x": 10
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "NVIDIA'S CEO",
+     "x": 70,
+     "y": 250,
+     "size": 110,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "RESIGNED.",
+     "x": 70,
+     "y": 390,
+     "size": 150,
+     "bold": true,
+     "from": 1.75,
+     "color": "#EC4338"
+    }
+   ]
+  },
+  {
+   "start": 3.35,
+   "end": 9.8,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s02_news.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "y": 620,
+       "angle": -0.3,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 480,
+       "angle": 0,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "angle": 0
+      },
+      {
+       "t": 5.1,
+       "angle": 0.03
+      },
+      {
+       "t": 5.4,
+       "angle": 0
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "THE HEADLINES:",
+     "x": 70,
+     "y": 250,
+     "size": 110,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "A REPORTED AFFAIR.",
+     "x": 70,
+     "y": 390,
+     "size": 100,
+     "bold": true,
+     "from": 1.3
+    },
+    {
+     "type": "text",
+     "text": "AN ALLEGED SPY.",
+     "x": 70,
+     "y": 1560,
+     "size": 110,
+     "bold": true,
+     "from": 2.85,
+     "color": "#EC4338"
+    },
+    {
+     "type": "underline",
+     "x": 70,
+     "y": 1690,
+     "w": 640,
+     "color": "#EC4338",
+     "from": 4.7,
+     "keys": [
+      {
+       "t": 4.7,
+       "progress": 0
+      },
+      {
+       "t": 5.1,
+       "progress": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 9.8,
+   "end": 11.0,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s03_rewind.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "angle": 0.06
+      },
+      {
+       "t": 0.4,
+       "angle": -0.08
+      },
+      {
+       "t": 0.8,
+       "angle": 0.04
+      },
+      {
+       "t": 1.15,
+       "angle": -0.06
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "BUT REWIND.",
+     "x": 70,
+     "y": 280,
+     "size": 150,
+     "bold": true,
+     "color": "#27408B"
+    }
+   ]
+  },
+  {
+   "start": 11.0,
+   "end": 15.75,
+   "layers": [
+    {
+     "type": "text",
+     "text": "2022",
+     "x": 70,
+     "y": 330,
+     "size": 200,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/s04_ban.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "from": 1.6,
+     "keys": [
+      {
+       "t": 1.6,
+       "y": 440,
+       "alpha": 0
+      },
+      {
+       "t": 1.85,
+       "y": 480,
+       "alpha": 1
+      },
+      {
+       "t": 2.35,
+       "y": 480
+      },
+      {
+       "t": 2.4,
+       "y": 492
+      },
+      {
+       "t": 2.55,
+       "y": 480
+      },
+      {
+       "t": 3.9,
+       "x": 50
+      },
+      {
+       "t": 4.0,
+       "x": 30
+      },
+      {
+       "t": 4.15,
+       "x": 50
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "BANNED.",
+     "x": 540,
+     "y": 350,
+     "size": 140,
+     "bold": true,
+     "from": 2.4,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "NO TOP CHIPS FOR CHINA.",
+     "x": 70,
+     "y": 1570,
+     "size": 88,
+     "bold": true,
+     "from": 3.85
+    }
+   ]
+  },
+  {
+   "start": 15.75,
+   "end": 18.4,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s05_small.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "x": 120,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "x": 50,
+       "alpha": 1
+      },
+      {
+       "t": 1.0,
+       "y": 480
+      },
+      {
+       "t": 1.1,
+       "y": 466
+      },
+      {
+       "t": 1.3,
+       "y": 480
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "SO HE BUILT",
+     "x": 70,
+     "y": 250,
+     "size": 110,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "A WEAKER CHIP.",
+     "x": 70,
+     "y": 390,
+     "size": 120,
+     "bold": true,
+     "from": 0.95,
+     "color": "#E8A317"
+    }
+   ]
+  },
+  {
+   "start": 18.4,
+   "end": 21.5,
+   "layers": [
+    {
+     "type": "text",
+     "text": "2025",
+     "x": 70,
+     "y": 330,
+     "size": 200,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/s06_ban2.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "from": 1.65,
+     "keys": [
+      {
+       "t": 1.65,
+       "alpha": 0,
+       "y": 480
+      },
+      {
+       "t": 1.85,
+       "alpha": 1,
+       "y": 480
+      },
+      {
+       "t": 1.9,
+       "y": 494
+      },
+      {
+       "t": 2.1,
+       "y": 480
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "BANNED",
+     "x": 560,
+     "y": 250,
+     "size": 130,
+     "bold": true,
+     "from": 1.9,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "AGAIN.",
+     "x": 560,
+     "y": 390,
+     "size": 130,
+     "bold": true,
+     "from": 2.3,
+     "color": "#EC4338"
+    }
+   ]
+  },
+  {
+   "start": 21.5,
+   "end": 24.75,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s07_deal.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "x": -60,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "x": 50,
+       "alpha": 1
+      },
+      {
+       "t": 1.5,
+       "y": 480
+      },
+      {
+       "t": 1.56,
+       "y": 490
+      },
+      {
+       "t": 1.7,
+       "y": 480
+      },
+      {
+       "t": 2.5,
+       "w": 1180,
+       "x": 50
+      },
+      {
+       "t": 3.2,
+       "w": 1230,
+       "x": 25
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "HE WENT TO TRUMP.",
+     "x": 70,
+     "y": 250,
+     "size": 105,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "THE DEAL:",
+     "x": 70,
+     "y": 390,
+     "size": 130,
+     "bold": true,
+     "from": 1.35,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "SELL THE CHIPS...",
+     "x": 70,
+     "y": 1570,
+     "size": 100,
+     "bold": true,
+     "from": 2.5
+    }
+   ]
+  },
+  {
+   "start": 24.75,
+   "end": 29.6,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s08_cut.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "y": 520
+      },
+      {
+       "t": 0.3,
+       "alpha": 1,
+       "y": 480
+      },
+      {
+       "t": 2.35,
+       "y": 480
+      },
+      {
+       "t": 2.42,
+       "y": 490
+      },
+      {
+       "t": 2.6,
+       "y": 480
+      },
+      {
+       "t": 3.95,
+       "y": 480
+      },
+      {
+       "t": 4.02,
+       "y": 492
+      },
+      {
+       "t": 4.2,
+       "y": 480
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "...AND WASHINGTON",
+     "x": 70,
+     "y": 250,
+     "size": 100,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "TAKES A CUT.",
+     "x": 70,
+     "y": 390,
+     "size": 120,
+     "bold": true,
+     "from": 0.85,
+     "color": "#E8A317"
+    },
+    {
+     "type": "text",
+     "text": "15%",
+     "x": 70,
+     "y": 1500,
+     "size": 170,
+     "bold": true,
+     "from": 2.35
+    },
+    {
+     "type": "text",
+     "text": "25%",
+     "x": 600,
+     "y": 1480,
+     "size": 200,
+     "bold": true,
+     "from": 3.95,
+     "color": "#EC4338"
+    }
+   ]
+  },
+  {
+   "start": 29.6,
+   "end": 31.6,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s09_hawks.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0.2,
+       "y": 500
+      },
+      {
+       "t": 0.25,
+       "alpha": 1,
+       "y": 480
+      },
+      {
+       "t": 1.0,
+       "angle": 0
+      },
+      {
+       "t": 1.2,
+       "angle": 0.015
+      },
+      {
+       "t": 1.4,
+       "angle": -0.015
+      },
+      {
+       "t": 1.6,
+       "angle": 0
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "CHINA HAWKS",
+     "x": 70,
+     "y": 250,
+     "size": 120,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "HATED IT.",
+     "x": 70,
+     "y": 390,
+     "size": 140,
+     "bold": true,
+     "from": 0.9,
+     "color": "#EC4338"
+    }
+   ]
+  },
+  {
+   "start": 31.6,
+   "end": 37.75,
+   "layers": [
+    {
+     "type": "text",
+     "text": "OCTOBER 2026",
+     "x": 70,
+     "y": 300,
+     "size": 140,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/s10_leak.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "from": 2.2,
+     "keys": [
+      {
+       "t": 2.2,
+       "x": 130,
+       "alpha": 0
+      },
+      {
+       "t": 2.55,
+       "x": 50,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "w": 1180,
+       "x": 50
+      },
+      {
+       "t": 5.9,
+       "w": 1240,
+       "x": 20
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "OFFICIALS TALK TO THE PRESS.",
+     "x": 70,
+     "y": 440,
+     "size": 78,
+     "bold": true,
+     "from": 3.0
+    },
+    {
+     "type": "text",
+     "text": "THE SPY CLAIM.",
+     "x": 70,
+     "y": 1560,
+     "size": 120,
+     "bold": true,
+     "from": 4.9,
+     "color": "#EC4338"
+    }
+   ]
+  },
+  {
+   "start": 37.75,
+   "end": 39.9,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s11_deny.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0.2
+      },
+      {
+       "t": 0.25,
+       "alpha": 1,
+       "angle": 0
+      },
+      {
+       "t": 0.7,
+       "angle": 0.02
+      },
+      {
+       "t": 1.0,
+       "angle": -0.02
+      },
+      {
+       "t": 1.3,
+       "angle": 0.02
+      },
+      {
+       "t": 1.6,
+       "angle": 0
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "BEIJING:",
+     "x": 70,
+     "y": 250,
+     "size": 120,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "\"FABRICATION.\"",
+     "x": 70,
+     "y": 390,
+     "size": 130,
+     "bold": true,
+     "from": 1.15,
+     "color": "#EC4338"
+    }
+   ]
+  },
+  {
+   "start": 39.9,
+   "end": 42.1,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s12_out.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 2.1,
+       "y": 470
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "TWO WEEKS LATER...",
+     "x": 70,
+     "y": 250,
+     "size": 105,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "HE WAS OUT.",
+     "x": 70,
+     "y": 400,
+     "size": 150,
+     "bold": true,
+     "from": 1.1,
+     "color": "#EC4338"
+    }
+   ]
+  },
+  {
+   "start": 42.1,
+   "end": 45.4,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s13_scale.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "angle": 0
+      },
+      {
+       "t": 0.5,
+       "angle": -0.05
+      },
+      {
+       "t": 1.4,
+       "angle": -0.05
+      },
+      {
+       "t": 2.0,
+       "angle": 0.05
+      },
+      {
+       "t": 2.8,
+       "angle": 0.05
+      },
+      {
+       "t": 3.2,
+       "angle": 0
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "A SECURITY RISK?",
+     "x": 70,
+     "y": 250,
+     "size": 115,
+     "bold": true,
+     "color": "#27408B"
+    },
+    {
+     "type": "text",
+     "text": "OR A DEALMAKER REMOVED?",
+     "x": 70,
+     "y": 1570,
+     "size": 88,
+     "bold": true,
+     "from": 1.5,
+     "color": "#EC4338"
+    }
+   ]
+  },
+  {
+   "start": 45.4,
+   "end": 48.74,
+   "layers": [
+    {
+     "type": "image",
+     "path": "assets/cut/s14_file.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "y": 440
+      },
+      {
+       "t": 0.3,
+       "alpha": 1,
+       "y": 480
+      },
+      {
+       "t": 0.6,
+       "y": 480
+      },
+      {
+       "t": 0.65,
+       "y": 490
+      },
+      {
+       "t": 0.8,
+       "y": 480
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "NO PUBLIC EVIDENCE.",
+     "x": 70,
+     "y": 250,
+     "size": 100,
+     "bold": true,
+     "from": 0.5
+    },
+    {
+     "type": "text",
+     "text": "YOU DECIDE.",
+     "x": 70,
+     "y": 400,
+     "size": 150,
+     "bold": true,
+     "from": 2.3,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/p_bubble.png",
+     "x": 760,
+     "y": 1300,
+     "w": 460,
+     "from": 2.35,
+     "keys": [
+      {
+       "t": 2.35,
+       "w": 300,
+       "x": 840,
+       "alpha": 0
+      },
+      {
+       "t": 2.6,
+       "w": 480,
+       "x": 750,
+       "alpha": 1
+      },
+      {
+       "t": 2.75,
+       "w": 460,
+       "x": 760
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sfx": []
+}

@@ -1,6 +1,6 @@
-# Short "Follow the chips" — kịch bản đề xuất (CHƯA DUYỆT)
+# Short "Follow the chips" — kịch bản (anh duyệt làm thẳng ngày 2026-11-13, không qua đoạn mẫu)
 
-**Chế độ:** B · Autopilot — **B1 Minimal Line Art** · dọc 9:16, 720×1280, 30 fps · YouTube Shorts, ~50 giây
+**Chế độ:** B · Autopilot — **B1 Minimal Line Art** · dọc 9:16, 1080×1920, 30 fps · YouTube Shorts, ~50 giây
 **Lời dẫn:** tiếng Anh, 120 từ (`narration.txt`) · đề xuất dùng lại Gemini TTS giọng **Sadaltager** như video trước
 **Nguồn:** file `Huan.docx` anh gửi + kiểm chứng báo chí ngày 2026-11-13 (xem `sources.md`)
 

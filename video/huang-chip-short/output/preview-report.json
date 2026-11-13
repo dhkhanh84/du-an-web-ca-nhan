@@ -1,0 +1,90 @@
+{
+  "fingerprint": "80b1d99ed9c5f21124f7ea847263be68de9e6b96cd771c1e6632464feebc8045",
+  "preview_seconds": 48.74,
+  "output": "/home/user/du-an-web-ca-nhan/video/huang-chip-short/output/preview.mp4",
+  "output_sha256": "54dd0643ea2b9a3559e94bd89bf65cccf7ab5a818f7295ad7f51a97f838e9864",
+  "original_voice_sha256": "5ba8877726c95b2d0aaec3bd05ff1977406c4c62c9f3678f58f612b2c88d1484",
+  "original_voice_duration": 48.740958,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 1463,
+  "duration": 48.767,
+  "cache_hits": 0,
+  "shot_count": 14,
+  "full_decode": "pass",
+  "caption_count": 34,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-chip-short/assets/cut/p_bubble.png",
+      "sha256": "14c221c831f75a9faa4bc01a0fb9696cfd1bbcfb6c08bb63362aa70f3188dea1"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-chip-short/assets/cut/s01_resign.png",
+      "sha256": "ea5f81d6eae8b6c9a4004e012da1f49679f24a0ca6f7e9f85273c49486f2abda"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-chip-short/assets/cut/s02_news.png",
+      "sha256": "34a21e8c833948fd6e72a43c48f1b7339394da277fc288b8fc5bdc2bf5fbf83b"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-chip-short/assets/cut/s03_rewind.png",
+      "sha256": "9b2db95c9f5827e31c9e09e73ccf295817f90e2d3d5d589d50815c7c7d64fd4f"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-chip-short/assets/cut/s04_ban.png",
+      "sha256": "22aa1f8a188cd490d25c6d8137f0b58e75031deab85b2f990e0942ece32044fc"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-chip-short/assets/cut/s05_small.png",
+      "sha256": "3555348bab9c7e4370eef03a8522ecb4e769e621414db14d392fa0d83b5a4d24"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-chip-short/assets/cut/s06_ban2.png",
+      "sha256": "08aa21658be38dea13212e65bc6a5b47e10d09af273c514287c48045ff635047"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-chip-short/assets/cut/s07_deal.png",
+      "sha256": "b71a83124e68e746988d93e51a80f5de0e3be9940d9b7b71496b3ac608400bb6"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-chip-short/assets/cut/s08_cut.png",
+      "sha256": "532902c87cc4b0b3740513dddd01a5025d1abc8d4edcb4122822713fb0befa23"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-chip-short/assets/cut/s09_hawks.png",
+      "sha256": "27359d2a222ec4645048456a14c2ea439698578a305a754b7f45becff9528d58"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-chip-short/assets/cut/s10_leak.png",
+      "sha256": "ba0b7b0c2379fe37b296d87dc7c68ce3f33c365aebe62c9937c89f898c9ee117"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-chip-short/assets/cut/s11_deny.png",
+      "sha256": "5f7027a832ea68672a5f31cfc71c19ee1818d004c0d911041c947a158a1323ee"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-chip-short/assets/cut/s12_out.png",
+      "sha256": "f2175dac53058d66572157381a38adbb231e074f4708c52b424af6aacf948809"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-chip-short/assets/cut/s13_scale.png",
+      "sha256": "3198838fdfb515733d6f2090774e16579dab50e0c76cf055509f618c1726b4fb"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-chip-short/assets/cut/s14_file.png",
+      "sha256": "a499144e28d0b4a56ce5fd9146ba17debf02c72c80310479452709420146ec36"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-chip-short/audio/master_mix.wav",
+      "sha256": "5ba8877726c95b2d0aaec3bd05ff1977406c4c62c9f3678f58f612b2c88d1484"
+    },
+    {
+      "path": "/root/.claude/plugins/synced/6885484c-7413-48de-8948-b53451880e01_1ccae8e5-87c7-4a7f-b902-53f9d823848c/stickman-video-director/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",
+      "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+    },
+    {
+      "path": "/root/.claude/plugins/synced/6885484c-7413-48de-8948-b53451880e01_1ccae8e5-87c7-4a7f-b902-53f9d823848c/stickman-video-director/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ]
+}
