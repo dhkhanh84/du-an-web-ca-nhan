@@ -1,0 +1,64 @@
+{
+ "tts": {
+  "ok": false,
+  "parts": [
+   [
+    "text",
+    "thoughtSignature"
+   ]
+  ],
+  "text": [
+   "Bạn đang nhắc đến **Jensen Huang**, nhà đồng sáng lập và CEO của **NVIDIA**, đúng không?\n\nĐây là một trong những câu chuyện kinh điển nhất của Thung lũng Silicon:\n\n* **Năm 1993:** Jensen Huang cùng Ch"
+  ],
+  "usage": {
+   "promptTokenCount": 51,
+   "candidatesTokenCount": 417,
+   "totalTokenCount": 1621,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 51
+    }
+   ],
+   "candidatesTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 417
+    }
+   ],
+   "thoughtsTokenCount": 1153,
+   "serviceTier": "standard"
+  }
+ },
+ "image": {
+  "ok": false,
+  "parts": [
+   [
+    "text",
+    "thoughtSignature"
+   ]
+  ],
+  "text": [
+   "I cannot generate raster images directly because I don't have an image-generation tool available in this environment. \n\nHowever, I can give you an **SVG** (vector image) matching your description—a ha"
+  ],
+  "usage": {
+   "promptTokenCount": 74,
+   "candidatesTokenCount": 2572,
+   "totalTokenCount": 3310,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 74
+    }
+   ],
+   "candidatesTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 2572
+    }
+   ],
+   "thoughtsTokenCount": 664,
+   "serviceTier": "standard"
+  }
+ }
+}

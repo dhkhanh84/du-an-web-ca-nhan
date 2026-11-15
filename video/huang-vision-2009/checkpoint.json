@@ -1,0 +1,4 @@
+{"project":"huang-vision-2009","mode":"B","ratio":"9:16","source":"source-script.md (user upload)",
+ "stage":"model_test_done_awaiting_choices",
+ "hydrogen_test_2026-11-15":{"model":"gemini-4-hydrogen","tts":"failed: returned text only (ignored AUDIO modality)","image":"failed: returned text only, model says it has no image generation","detail":"test/hydrogen_test.json"},
+ "open_questions":["B style (B1 like previous videos?)","Vietnamese narrator voice for gemini-2.5-flash-preview-tts","Use hydrogen for caption alignment instead of gemini-3.8-flash?","Adapt script's stock footage / music / Jensen photo plan to hand-drawn B style"]}
