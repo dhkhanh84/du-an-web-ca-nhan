@@ -1,0 +1,1619 @@
+{
+ "version": 1,
+ "style": "B1",
+ "width": 1080,
+ "height": 1560,
+ "fps": 30,
+ "captionSize": 54,
+ "font": "fonts/PatrickHand_400Regular.ttf",
+ "voice": {
+  "path": "audio/master_mix.wav",
+  "lead": 0,
+  "tail": 0,
+  "contains_sfx": true
+ },
+ "captions": [
+  {
+   "start": 0.5,
+   "end": 1.85,
+   "text": "Năm 1993,"
+  },
+  {
+   "start": 2.07,
+   "end": 3.1,
+   "text": "giới đầu tư bảo ông:"
+  },
+  {
+   "start": 3.26,
+   "end": 4.6,
+   "text": "thị trường game không tồn tại."
+  },
+  {
+   "start": 4.88,
+   "end": 5.75,
+   "text": "Mẹ ông thì hỏi:"
+  },
+  {
+   "start": 5.92,
+   "end": 7.25,
+   "text": "sao không đi làm thuê?"
+  },
+  {
+   "start": 7.48,
+   "end": 9.25,
+   "text": "Mười sáu năm sau, ở Stanford,"
+  },
+  {
+   "start": 9.42,
+   "end": 10.45,
+   "text": "Jensen Huang chia sẻ cách ông"
+  },
+  {
+   "start": 10.45,
+   "end": 11.75,
+   "text": "vượt qua điều đó."
+  },
+  {
+   "start": 11.91,
+   "end": 12.85,
+   "text": "Bài học đầu tiên:"
+  },
+  {
+   "start": 12.97,
+   "end": 14.55,
+   "text": "đừng chờ tầm nhìn vĩ đại."
+  },
+  {
+   "start": 14.73,
+   "end": 16.1,
+   "text": "Ai cũng có một góc nhìn riêng,"
+  },
+  {
+   "start": 16.2,
+   "end": 17.65,
+   "text": "và tầm nhìn chỉ là vậy."
+  },
+  {
+   "start": 18.0,
+   "end": 20.2,
+   "text": "Góc nhìn của ông năm 1993:"
+  },
+  {
+   "start": 20.26,
+   "end": 21.35,
+   "text": "lấy đồ họa ba chiều"
+  },
+  {
+   "start": 21.35,
+   "end": 22.45,
+   "text": "từ những máy trạm đắt tiền,"
+  },
+  {
+   "start": 22.54,
+   "end": 23.55,
+   "text": "làm cho thật rẻ,"
+  },
+  {
+   "start": 23.62,
+   "end": 24.55,
+   "text": "và để trò chơi điện tử"
+  },
+  {
+   "start": 24.55,
+   "end": 26.05,
+   "text": "kéo cả thị trường đi lên."
+  },
+  {
+   "start": 26.42,
+   "end": 27.2,
+   "text": "Bài học thứ hai:"
+  },
+  {
+   "start": 27.2,
+   "end": 28.9,
+   "text": "có lúc phải đi ngược khách hàng."
+  },
+  {
+   "start": 29.09,
+   "end": 30.75,
+   "text": "Dell, HP, IBM,"
+  },
+  {
+   "start": 30.86,
+   "end": 32.95,
+   "text": "Gateway đều chê sản phẩm quá đắt."
+  },
+  {
+   "start": 33.09,
+   "end": 34.7,
+   "text": "Ông vẫn dồn mấy triệu đô cuối cùng"
+  },
+  {
+   "start": 34.7,
+   "end": 35.85,
+   "text": "vào một con chip quá lớn,"
+  },
+  {
+   "start": 35.93,
+   "end": 37.85,
+   "text": "vì tin công nghệ sẽ rẻ đi rất nhanh."
+  },
+  {
+   "start": 38.27,
+   "end": 39.63,
+   "text": "Từng có khoảng hai trăm công ty"
+  },
+  {
+   "start": 39.63,
+   "end": 40.6,
+   "text": "làm đồ họa ba chiều."
+  },
+  {
+   "start": 40.72,
+   "end": 41.81,
+   "text": "Tiền, người, công nghệ"
+  },
+  {
+   "start": 41.81,
+   "end": 43.0,
+   "text": "gần như ngang nhau."
+  },
+  {
+   "start": 43.14,
+   "end": 43.75,
+   "text": "Theo ông,"
+  },
+  {
+   "start": 43.82,
+   "end": 44.86,
+   "text": "ai sống sót là nhờ hiểu"
+  },
+  {
+   "start": 44.86,
+   "end": 45.91,
+   "text": "vì sao việc kinh doanh"
+  },
+  {
+   "start": 45.91,
+   "end": 46.85,
+   "text": "của mình chạy được."
+  },
+  {
+   "start": 47.1,
+   "end": 47.9,
+   "text": "Bài học thứ ba:"
+  },
+  {
+   "start": 47.9,
+   "end": 49.6,
+   "text": "tập quen với sự mơ hồ."
+  },
+  {
+   "start": 49.82,
+   "end": 51.3,
+   "text": "Người lãnh đạo không cần hướng ngoại,"
+  },
+  {
+   "start": 51.37,
+   "end": 52.09,
+   "text": "nhưng phải dám làm"
+  },
+  {
+   "start": 52.09,
+   "end": 53.55,
+   "text": "khi chưa thấy hết kết quả."
+  },
+  {
+   "start": 53.78,
+   "end": 54.7,
+   "text": "Bài học thứ tư:"
+  },
+  {
+   "start": 54.87,
+   "end": 56.05,
+   "text": "tự đập đi xây lại."
+  },
+  {
+   "start": 56.24,
+   "end": 57.09,
+   "text": "Thứ gì thành công rồi"
+  },
+  {
+   "start": 57.09,
+   "end": 57.95,
+   "text": "cũng phải làm lại,"
+  },
+  {
+   "start": 58.06,
+   "end": 59.35,
+   "text": "khoảng mười năm một lần."
+  },
+  {
+   "start": 59.6,
+   "end": 60.56,
+   "text": "Nếu bạn không tự thay thế"
+  },
+  {
+   "start": 60.56,
+   "end": 61.35,
+   "text": "sản phẩm của mình,"
+  },
+  {
+   "start": 61.48,
+   "end": 62.85,
+   "text": "đối thủ sẽ làm thay."
+  },
+  {
+   "start": 63.1,
+   "end": 63.65,
+   "text": "Cuối cùng:"
+  },
+  {
+   "start": 63.79,
+   "end": 64.8,
+   "text": "kỹ năng, trí tuệ, đào tạo"
+  },
+  {
+   "start": 64.9,
+   "end": 66.85,
+   "text": "đều quan trọng, nhưng chưa đủ."
+  },
+  {
+   "start": 67.02,
+   "end": 68.21,
+   "text": "Phải đam mê cả phần đau đớn"
+  },
+  {
+   "start": 68.21,
+   "end": 69.35,
+   "text": "của việc xây công ty."
+  },
+  {
+   "start": 69.54,
+   "end": 70.75,
+   "text": "Bạn đang thiếu bài học nào?"
+  },
+  {
+   "start": 70.88,
+   "end": 72.25,
+   "text": "Bình luận cho mình biết nhé."
+  }
+ ],
+ "shots": [
+  {
+   "start": 0,
+   "end": 3.25,
+   "layers": [
+    {
+     "type": "text",
+     "text": "1993",
+     "x": 70,
+     "y": 300,
+     "size": 276,
+     "bold": true,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "x": 140
+      },
+      {
+       "t": 0.25,
+       "alpha": 1,
+       "x": 70
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v01_pc1993.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "alpha": 1
+      },
+      {
+       "t": 0.9,
+       "y": 480
+      },
+      {
+       "t": 0.95,
+       "y": 486
+      },
+      {
+       "t": 1.1,
+       "y": 480
+      },
+      {
+       "t": 3.2,
+       "x": 30,
+       "w": 1220
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 3.25,
+   "end": 4.88,
+   "layers": [
+    {
+     "type": "text",
+     "text": "KHÔNG CÓ",
+     "x": 70,
+     "y": 230,
+     "size": 132,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "THỊ TRƯỜNG GAME",
+     "x": 70,
+     "y": 370,
+     "size": 120,
+     "bold": true,
+     "from": 0.15,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v02_investors.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "x": 110,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "x": 50,
+       "alpha": 1
+      },
+      {
+       "t": 0.75,
+       "angle": 0
+      },
+      {
+       "t": 0.9,
+       "angle": 0.02
+      },
+      {
+       "t": 1.05,
+       "angle": -0.02
+      },
+      {
+       "t": 1.2,
+       "angle": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 4.88,
+   "end": 7.45,
+   "layers": [
+    {
+     "type": "text",
+     "text": "MẸ HỎI:",
+     "x": 70,
+     "y": 230,
+     "size": 132,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "SAO KHÔNG ĐI LÀM THUÊ?",
+     "x": 70,
+     "y": 370,
+     "size": 91,
+     "bold": true,
+     "from": 0.95,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v03_mom.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "y": 520
+      },
+      {
+       "t": 0.3,
+       "alpha": 1,
+       "y": 480
+      },
+      {
+       "t": 1.0,
+       "angle": 0
+      },
+      {
+       "t": 1.25,
+       "angle": 0.025
+      },
+      {
+       "t": 1.5,
+       "angle": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 7.45,
+   "end": 11.88,
+   "layers": [
+    {
+     "type": "text",
+     "text": "16 NĂM SAU...",
+     "x": 70,
+     "y": 230,
+     "size": 132,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "STANFORD, 2009",
+     "x": 70,
+     "y": 370,
+     "size": 132,
+     "bold": true,
+     "from": 1.0,
+     "color": "#27408B"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v04_stage.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 2.0,
+       "w": 1180,
+       "x": 50
+      },
+      {
+       "t": 4.4,
+       "w": 1260,
+       "x": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 11.88,
+   "end": 17.95,
+   "layers": [
+    {
+     "type": "text",
+     "text": "BÀI HỌC #1",
+     "x": 70,
+     "y": 210,
+     "size": 120,
+     "bold": true,
+     "color": "#E8A317"
+    },
+    {
+     "type": "text",
+     "text": "TẦM NHÌN",
+     "x": 70,
+     "y": 350,
+     "size": 144,
+     "bold": true,
+     "from": 1.1
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       60,
+       420
+      ],
+      [
+       590,
+       405
+      ]
+     ],
+     "color": "#EC4338",
+     "lineWidth": 12,
+     "from": 1.4,
+     "keys": [
+      {
+       "t": 1.4,
+       "progress": 0
+      },
+      {
+       "t": 1.8,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "GÓC NHÌN",
+     "x": 700,
+     "y": 350,
+     "size": 144,
+     "bold": true,
+     "w": 580,
+     "from": 2.85,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v05_lens.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "from": 2.85,
+     "keys": [
+      {
+       "t": 2.85,
+       "alpha": 0,
+       "y": 520
+      },
+      {
+       "t": 3.2,
+       "alpha": 1,
+       "y": 480
+      },
+      {
+       "t": 4.3,
+       "w": 1180,
+       "x": 50
+      },
+      {
+       "t": 6.0,
+       "w": 1240,
+       "x": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 17.95,
+   "end": 23.45,
+   "layers": [
+    {
+     "type": "text",
+     "text": "ĐỒ HỌA 3D",
+     "x": 70,
+     "y": 230,
+     "size": 144,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "ĐẮT",
+     "x": 70,
+     "y": 370,
+     "size": 156,
+     "bold": true,
+     "from": 2.4,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "RẺ",
+     "x": 520,
+     "y": 370,
+     "size": 156,
+     "bold": true,
+     "from": 4.55,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "arrow",
+     "x": 300,
+     "y": 430,
+     "w": 190,
+     "from": 4.4,
+     "keys": [
+      {
+       "t": 4.4,
+       "progress": 0
+      },
+      {
+       "t": 4.6,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v06_workstation.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "alpha": 1
+      },
+      {
+       "t": 2.4,
+       "x": 50
+      },
+      {
+       "t": 2.6,
+       "x": 40
+      },
+      {
+       "t": 2.8,
+       "x": 50
+      },
+      {
+       "t": 5.4,
+       "y": 470
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 23.45,
+   "end": 26.42,
+   "layers": [
+    {
+     "type": "text",
+     "text": "GAME",
+     "x": 70,
+     "y": 230,
+     "size": 156,
+     "bold": true,
+     "color": "#E8A317"
+    },
+    {
+     "type": "text",
+     "text": "KÉO CẢ THỊ TRƯỜNG",
+     "x": 70,
+     "y": 380,
+     "size": 110,
+     "bold": true,
+     "from": 1.0
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v07_gamepad.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "y": 520
+      },
+      {
+       "t": 0.3,
+       "alpha": 1,
+       "y": 480
+      },
+      {
+       "t": 1.4,
+       "y": 480
+      },
+      {
+       "t": 1.45,
+       "y": 470
+      },
+      {
+       "t": 1.6,
+       "y": 480
+      },
+      {
+       "t": 2.9,
+       "w": 1220,
+       "x": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 26.42,
+   "end": 33.09,
+   "layers": [
+    {
+     "type": "text",
+     "text": "BÀI HỌC #2",
+     "x": 70,
+     "y": 210,
+     "size": 120,
+     "bold": true,
+     "color": "#E8A317"
+    },
+    {
+     "type": "text",
+     "text": "ĐI NGƯỢC KHÁCH HÀNG",
+     "x": 70,
+     "y": 350,
+     "size": 108,
+     "bold": true,
+     "from": 0.75
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v08_boxes.png",
+     "x": 50,
+     "y": 560,
+     "w": 1180,
+     "from": 2.4,
+     "keys": [
+      {
+       "t": 2.4,
+       "alpha": 0
+      },
+      {
+       "t": 2.65,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "DELL",
+     "x": 130,
+     "y": 780,
+     "size": 72,
+     "bold": true,
+     "from": 2.7
+    },
+    {
+     "type": "text",
+     "text": "HP",
+     "x": 465,
+     "y": 780,
+     "size": 72,
+     "bold": true,
+     "from": 3.15
+    },
+    {
+     "type": "text",
+     "text": "IBM",
+     "x": 735,
+     "y": 780,
+     "size": 72,
+     "bold": true,
+     "from": 3.75
+    },
+    {
+     "type": "text",
+     "text": "GATEWAY",
+     "x": 950,
+     "y": 780,
+     "size": 55,
+     "bold": true,
+     "w": 330,
+     "from": 4.45
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/stamp.png",
+     "x": 300,
+     "y": 1080,
+     "w": 700,
+     "from": 5.8,
+     "keys": [
+      {
+       "t": 5.8,
+       "w": 900,
+       "x": 200,
+       "alpha": 0
+      },
+      {
+       "t": 5.95,
+       "w": 700,
+       "x": 300,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "QUÁ ĐẮT!",
+     "x": 420,
+     "y": 1160,
+     "size": 144,
+     "bold": true,
+     "from": 5.85,
+     "color": "#EC4338"
+    }
+   ]
+  },
+  {
+   "start": 33.09,
+   "end": 37.85,
+   "layers": [
+    {
+     "type": "text",
+     "text": "MẤY TRIỆU ĐÔ",
+     "x": 70,
+     "y": 230,
+     "size": 132,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "CUỐI CÙNG",
+     "x": 70,
+     "y": 370,
+     "size": 144,
+     "bold": true,
+     "from": 0.9,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "TIN: CHIP SẼ RẺ ĐI",
+     "x": 70,
+     "y": 1600,
+     "size": 108,
+     "bold": true,
+     "from": 2.9,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v10_bigchip.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "x": -120,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "x": 50,
+       "alpha": 1
+      },
+      {
+       "t": 1.5,
+       "x": 40
+      },
+      {
+       "t": 2.3,
+       "x": 50
+      },
+      {
+       "t": 3.1,
+       "x": 40
+      },
+      {
+       "t": 4.7,
+       "x": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 37.85,
+   "end": 44.0,
+   "layers": [
+    {
+     "type": "text",
+     "text": "~200 ĐỐI THỦ",
+     "x": 70,
+     "y": 230,
+     "size": 144,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "TIỀN, NGƯỜI, CÔNG NGHỆ: NGANG NHAU",
+     "x": 70,
+     "y": 380,
+     "size": 67,
+     "bold": true,
+     "from": 2.85
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/dots200.png",
+     "x": 140,
+     "y": 560,
+     "w": 1000,
+     "to": 3.75,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/dots60.png",
+     "x": 140,
+     "y": 560,
+     "w": 1000,
+     "from": 3.75,
+     "to": 4.45
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/dots12.png",
+     "x": 140,
+     "y": 560,
+     "w": 1000,
+     "from": 4.45,
+     "to": 5.0
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/dots1.png",
+     "x": 140,
+     "y": 560,
+     "w": 1000,
+     "from": 5.0
+    },
+    {
+     "type": "text",
+     "text": "CÒN 1.",
+     "x": 430,
+     "y": 1600,
+     "size": 168,
+     "bold": true,
+     "from": 5.15,
+     "color": "#5A9E1A"
+    }
+   ]
+  },
+  {
+   "start": 44.0,
+   "end": 47.1,
+   "layers": [
+    {
+     "type": "text",
+     "text": "HIỂU VÌ SAO",
+     "x": 70,
+     "y": 230,
+     "size": 144,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "MÌNH THẮNG",
+     "x": 70,
+     "y": 370,
+     "size": 156,
+     "bold": true,
+     "from": 0.8,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v12_why.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "alpha": 1
+      },
+      {
+       "t": 1.0,
+       "angle": 0
+      },
+      {
+       "t": 1.2,
+       "angle": -0.015
+      },
+      {
+       "t": 1.4,
+       "angle": 0
+      },
+      {
+       "t": 3.0,
+       "w": 1230,
+       "x": 25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 47.1,
+   "end": 53.78,
+   "layers": [
+    {
+     "type": "text",
+     "text": "BÀI HỌC #3",
+     "x": 70,
+     "y": 210,
+     "size": 120,
+     "bold": true,
+     "color": "#E8A317"
+    },
+    {
+     "type": "text",
+     "text": "QUEN VỚI MƠ HỒ",
+     "x": 70,
+     "y": 350,
+     "size": 132,
+     "bold": true,
+     "from": 0.7
+    },
+    {
+     "type": "text",
+     "text": "KHÔNG CẦN HƯỚNG NGOẠI",
+     "x": 70,
+     "y": 1500,
+     "size": 84,
+     "bold": true,
+     "from": 2.7
+    },
+    {
+     "type": "text",
+     "text": "NHƯNG PHẢI DÁM LÀM",
+     "x": 70,
+     "y": 1610,
+     "size": 84,
+     "bold": true,
+     "from": 4.3,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v13_fog.png",
+     "x": 140,
+     "y": 480,
+     "w": 1000,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.5,
+       "alpha": 1,
+       "w": 1000,
+       "x": 140,
+       "y": 480
+      },
+      {
+       "t": 6.6,
+       "w": 1060,
+       "x": 110,
+       "y": 460
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 53.78,
+   "end": 57.9,
+   "layers": [
+    {
+     "type": "text",
+     "text": "BÀI HỌC #4",
+     "x": 70,
+     "y": 210,
+     "size": 120,
+     "bold": true,
+     "color": "#E8A317"
+    },
+    {
+     "type": "text",
+     "text": "TỰ ĐẬP ĐI XÂY LẠI",
+     "x": 70,
+     "y": 350,
+     "size": 120,
+     "bold": true,
+     "from": 0.9,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v14_collapse.png",
+     "x": 160,
+     "y": 480,
+     "w": 960,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.2,
+       "alpha": 1,
+       "angle": 0
+      },
+      {
+       "t": 0.3,
+       "angle": 0.02
+      },
+      {
+       "t": 0.4,
+       "angle": -0.02
+      },
+      {
+       "t": 0.5,
+       "angle": 0.015
+      },
+      {
+       "t": 0.6,
+       "angle": 0
+      },
+      {
+       "t": 2.4,
+       "angle": 0,
+       "y": 480,
+       "w": 960,
+       "x": 160
+      },
+      {
+       "t": 2.5,
+       "angle": 0.02,
+       "y": 490
+      },
+      {
+       "t": 2.65,
+       "angle": -0.015
+      },
+      {
+       "t": 2.8,
+       "angle": 0,
+       "y": 480
+      },
+      {
+       "t": 4.09,
+       "w": 1020,
+       "x": 130
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "THÀNH CÔNG RỒI",
+     "x": 70,
+     "y": 1520,
+     "size": 84,
+     "bold": true,
+     "from": 2.45
+    },
+    {
+     "type": "text",
+     "text": "CŨNG PHẢI LÀM LẠI",
+     "x": 70,
+     "y": 1620,
+     "size": 84,
+     "bold": true,
+     "from": 3.15,
+     "color": "#EC4338"
+    }
+   ]
+  },
+  {
+   "start": 57.9,
+   "end": 63.1,
+   "layers": [
+    {
+     "type": "text",
+     "text": "~10 NĂM MỘT LẦN",
+     "x": 70,
+     "y": 230,
+     "size": 132,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "TRƯỚC KHI ĐỐI THỦ",
+     "x": 70,
+     "y": 1530,
+     "size": 96,
+     "bold": true,
+     "from": 3.55,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "LÀM THAY",
+     "x": 70,
+     "y": 1630,
+     "size": 96,
+     "bold": true,
+     "from": 3.85,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v15_rebuild.png",
+     "x": 50,
+     "y": 420,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "y": 520
+      },
+      {
+       "t": 0.35,
+       "alpha": 1,
+       "y": 420
+      },
+      {
+       "t": 0.45,
+       "y": 426
+      },
+      {
+       "t": 0.6,
+       "y": 420
+      },
+      {
+       "t": 1.5,
+       "w": 1180,
+       "x": 50
+      },
+      {
+       "t": 1.6,
+       "y": 428
+      },
+      {
+       "t": 1.75,
+       "y": 420
+      },
+      {
+       "t": 2.4,
+       "w": 1180,
+       "x": 50
+      },
+      {
+       "t": 3.4,
+       "w": 1240,
+       "x": 20
+      },
+      {
+       "t": 5.1,
+       "w": 1180,
+       "x": 50
+      }
+     ]
+    },
+    {
+     "type": "underline",
+     "x": 70,
+     "y": 395,
+     "w": 600,
+     "color": "#E8A317",
+     "from": 1.5,
+     "keys": [
+      {
+       "t": 1.5,
+       "progress": 0
+      },
+      {
+       "t": 1.9,
+       "progress": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 63.1,
+   "end": 67.0,
+   "layers": [
+    {
+     "type": "text",
+     "text": "KỸ NĂNG",
+     "x": 220,
+     "y": 560,
+     "size": 144,
+     "bold": true,
+     "from": 0.65
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       110,
+       640
+      ],
+      [
+       140,
+       675
+      ],
+      [
+       195,
+       600
+      ]
+     ],
+     "color": "#5A9E1A",
+     "lineWidth": 10,
+     "from": 0.75,
+     "keys": [
+      {
+       "t": 0.75,
+       "progress": 0
+      },
+      {
+       "t": 1.0,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "TRÍ TUỆ",
+     "x": 220,
+     "y": 760,
+     "size": 144,
+     "bold": true,
+     "from": 1.15
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       110,
+       840
+      ],
+      [
+       140,
+       875
+      ],
+      [
+       195,
+       800
+      ]
+     ],
+     "color": "#5A9E1A",
+     "lineWidth": 10,
+     "from": 1.25,
+     "keys": [
+      {
+       "t": 1.25,
+       "progress": 0
+      },
+      {
+       "t": 1.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "ĐÀO TẠO",
+     "x": 220,
+     "y": 960,
+     "size": 144,
+     "bold": true,
+     "from": 1.55
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       110,
+       1040
+      ],
+      [
+       140,
+       1075
+      ],
+      [
+       195,
+       1000
+      ]
+     ],
+     "color": "#5A9E1A",
+     "lineWidth": 10,
+     "from": 1.65,
+     "keys": [
+      {
+       "t": 1.65,
+       "progress": 0
+      },
+      {
+       "t": 1.9,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "CHƯA ĐỦ.",
+     "x": 220,
+     "y": 1260,
+     "size": 180,
+     "bold": true,
+     "from": 3.0,
+     "keys": [
+      {
+       "t": 3.0,
+       "w": 1100,
+       "alpha": 0
+      },
+      {
+       "t": 3.2,
+       "alpha": 1
+      }
+     ],
+     "color": "#EC4338"
+    }
+   ]
+  },
+  {
+   "start": 67.0,
+   "end": 69.5,
+   "layers": [
+    {
+     "type": "text",
+     "text": "ĐAM MÊ",
+     "x": 70,
+     "y": 230,
+     "size": 204,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "CẢ PHẦN ĐAU ĐỚN",
+     "x": 70,
+     "y": 440,
+     "size": 108,
+     "bold": true,
+     "from": 0.7
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v17_passion.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "x": 110
+      },
+      {
+       "t": 0.3,
+       "alpha": 1,
+       "x": 50
+      },
+      {
+       "t": 2.4,
+       "x": 10,
+       "y": 460
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 69.5,
+   "end": 72.26,
+   "layers": [
+    {
+     "type": "text",
+     "text": "BẠN THIẾU",
+     "x": 70,
+     "y": 230,
+     "size": 144,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "BÀI HỌC NÀO?",
+     "x": 70,
+     "y": 370,
+     "size": 156,
+     "bold": true,
+     "from": 0.4,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "#1 GÓC NHÌN",
+     "x": 70,
+     "y": 640,
+     "size": 108,
+     "bold": true,
+     "from": 0.6
+    },
+    {
+     "type": "text",
+     "text": "#2 ĐI NGƯỢC",
+     "x": 70,
+     "y": 800,
+     "size": 108,
+     "bold": true,
+     "from": 0.8
+    },
+    {
+     "type": "text",
+     "text": "#3 MƠ HỒ",
+     "x": 70,
+     "y": 960,
+     "size": 108,
+     "bold": true,
+     "from": 1.0
+    },
+    {
+     "type": "text",
+     "text": "#4 XÂY LẠI",
+     "x": 70,
+     "y": 1120,
+     "size": 108,
+     "bold": true,
+     "from": 1.2
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/p_bubble.png",
+     "x": 760,
+     "y": 1240,
+     "w": 440,
+     "from": 1.4,
+     "keys": [
+      {
+       "t": 1.4,
+       "w": 280,
+       "x": 840,
+       "alpha": 0
+      },
+      {
+       "t": 1.65,
+       "w": 460,
+       "x": 750,
+       "alpha": 1
+      },
+      {
+       "t": 1.8,
+       "w": 440,
+       "x": 760
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sfx": []
+}

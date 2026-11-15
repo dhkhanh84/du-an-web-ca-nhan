@@ -1,4 +1,52 @@
-{"project":"huang-vision-2009","mode":"B","ratio":"9:16","source":"source-script.md (user upload)",
- "stage":"model_test_done_awaiting_choices",
- "hydrogen_test_2026-11-15":{"model":"gemini-4-hydrogen","tts":"failed: returned text only (ignored AUDIO modality)","image":"failed: returned text only, model says it has no image generation","detail":"test/hydrogen_test.json"},
- "open_questions":["B style (B1 like previous videos?)","Vietnamese narrator voice for gemini-2.5-flash-preview-tts","Use hydrogen for caption alignment instead of gemini-3.8-flash?","Adapt script's stock footage / music / Jensen photo plan to hand-drawn B style"]}
+{
+  "project": "huang-vision-2009",
+  "mode": "B",
+  "ratio": "9:16",
+  "source": "source-script.md (user upload)",
+  "stage": "film_delivered_awaiting_user_review",
+  "hydrogen_test_2026-11-15": {
+    "model": "gemini-4-hydrogen",
+    "tts": "failed: returned text only (ignored AUDIO modality)",
+    "image": "failed: returned text only, model says it has no image generation",
+    "detail": "test/hydrogen_test.json"
+  },
+  "open_questions": [
+    "B style (B1 like previous videos?)",
+    "Vietnamese narrator voice for gemini-2.5-flash-preview-tts",
+    "Use hydrogen for caption alignment instead of gemini-3.8-flash?",
+    "Adapt script's stock footage / music / Jensen photo plan to hand-drawn B style"
+  ],
+  "style": "B1",
+  "size": [
+    1080,
+    1920
+  ],
+  "narration": {
+    "language": "vi",
+    "model": "gemini-2.5-flash-preview-tts",
+    "voice": "Algieba",
+    "why": "lowest median F0 (96.8 Hz) of 7 male voices auditioned (test/voices/pitch.json)",
+    "duration_s": 71.81,
+    "text": "narration.txt (verbatim from source script)"
+  },
+  "image_model": "gemini-2.5-flash-image (14 images; 1 failed with empty response, replaced by code-drawn stamp)",
+  "alignment": "gemini-4-hydrogen per paragraph (8 chunks; whole-file call hit 30s proxy timeout); snapped to measured pauses; in-phrase splits estimated",
+  "font": "Patrick Hand (OFL) for Vietnamese scene text; Caveat lacks Vietnamese glyphs",
+  "approvals": {
+    "style_voice_script": "user 2026-11-15",
+    "paid_calls": "user 2026-11-15",
+    "sample": "waived by user"
+  },
+  "render": "1080x1560 B1 runtime, padded to 1080x1920 (output/short_9x16.mp4)",
+  "qa": {
+    "duration_s": 72.27,
+    "decode": "OK",
+    "loudness": "-17.5 LUFS, -0.4 dBFS peak",
+    "freeze_gt_2.5s": "none after fix",
+    "captions": 53,
+    "not_done": [
+      "human listening review"
+    ]
+  },
+  "next_step": "User reviews output/short_9x16.mp4"
+}

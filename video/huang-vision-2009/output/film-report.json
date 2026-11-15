@@ -1,0 +1,110 @@
+{
+  "fingerprint": "30048bd143a6ae7e09913cfb0712680bf415e301144d536f073752b4e26023ac",
+  "preview_seconds": null,
+  "output": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/output/film.mp4",
+  "output_sha256": "d29ea5256e8e46d8313f726d95842d30ed29fa2a4bee03bc71fa689b58c6f277",
+  "original_voice_sha256": "ecaa57177525738b055654c061d05b493ce67bea959031ae1e0c32affb64f5fd",
+  "original_voice_duration": 72.260958,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 2168,
+  "duration": 72.267,
+  "cache_hits": 16,
+  "shot_count": 17,
+  "full_decode": "pass",
+  "caption_count": 53,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/dots1.png",
+      "sha256": "9d602d70c3e2b1e5e71aa4ba21810cfe0834582c30cb746dc4ddcc519c01c876"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/dots12.png",
+      "sha256": "42e213d016950d7919a749ce124dc4142ad20e39af3a90ace794c370d2fcdaeb"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/dots200.png",
+      "sha256": "518cdc236651a3d07b63e0c1cb24be2192ed963a69f42f6efe210c6c7840fa0e"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/dots60.png",
+      "sha256": "b1b59825bef1673c1e094d3c1f15829c6f0736afc2d88fa01d50e23807fcb534"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/p_bubble.png",
+      "sha256": "14c221c831f75a9faa4bc01a0fb9696cfd1bbcfb6c08bb63362aa70f3188dea1"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/stamp.png",
+      "sha256": "322f4d1e11faa55fc32b7efbf805cb819ade1f56edb97cf0dec966770d5426f0"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/v01_pc1993.png",
+      "sha256": "b8179a22f8ca9b5f72f26cf7bcaf6831a73f180f45e3e74bb4d9f2a8eb81e970"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/v02_investors.png",
+      "sha256": "5222d077afcc789fc1b931dc5a1d9dd6fdec942e2e20a2d47602ddd50f311384"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/v03_mom.png",
+      "sha256": "07c430649ca89cb71b2fe6f5a08c1042c527162fb58519385b9a1c425ca22c05"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/v04_stage.png",
+      "sha256": "6b47635af40b13dd7acbcde4fa9ea7b7df7c70544e633aaaa8795cc41192e21e"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/v05_lens.png",
+      "sha256": "1174d7d5e9582c55f9645a53894860599b3b92c3c2f2cdd675282764a47124e7"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/v06_workstation.png",
+      "sha256": "842f47a270976dd42f1c3ce310fa970eb611f5be4c173d583ca3753dace8d4e4"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/v07_gamepad.png",
+      "sha256": "9d20c8120ae0ebdf235d5e0bc3e7503306e8a0c37341957581146b1f8b76770e"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/v08_boxes.png",
+      "sha256": "16284f4633b306c602756c7f2c0ba20a105a9418028efe52c5b2b81988b49fcf"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/v10_bigchip.png",
+      "sha256": "29e72ad80a6b27b37ef4606b5e2167ccb1ce87067621c2c94d62c195d707a894"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/v12_why.png",
+      "sha256": "369ca0d42381d7f8f97a185351172858a82c68d994affb649a18df3451ab9db9"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/v13_fog.png",
+      "sha256": "b612968236ebb4c366c8624b9611ad83f1397f92e32c2434f88e643731ec47db"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/v14_collapse.png",
+      "sha256": "5d4efe4103bcd3908747883b23245032fe89fbeceb1720dd9e46242e3bf4b3df"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/v15_rebuild.png",
+      "sha256": "96ba4b3c7e88b140b4512724da4a2fc06c2e448ceccba1e9b91e70a2f0fad1ee"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/assets/cut/v17_passion.png",
+      "sha256": "51b0426bf3c8b29fe69053083d65facfc713255f963fd64d396278b008e51152"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/audio/master_mix.wav",
+      "sha256": "ecaa57177525738b055654c061d05b493ce67bea959031ae1e0c32affb64f5fd"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-vision-2009/fonts/PatrickHand_400Regular.ttf",
+      "sha256": "496937dafcb18bf2c2f624ed02c8f7f4d47bd1e4e6e5646c42b6cfd873c6b13c"
+    },
+    {
+      "path": "/root/.claude/plugins/synced/6885484c-7413-48de-8948-b53451880e01_1ccae8e5-87c7-4a7f-b902-53f9d823848c/stickman-video-director/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ]
+}

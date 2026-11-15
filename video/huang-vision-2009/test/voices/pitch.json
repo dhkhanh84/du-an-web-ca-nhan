@@ -1,0 +1,44 @@
+[
+ {
+  "voice": "Algieba",
+  "median_f0_hz": 96.8,
+  "f0_range_hz": 64.4,
+  "seconds": 7.93
+ },
+ {
+  "voice": "Alnilam",
+  "median_f0_hz": 110.6,
+  "f0_range_hz": 67.0,
+  "seconds": 9.25
+ },
+ {
+  "voice": "Charon",
+  "median_f0_hz": 113.5,
+  "f0_range_hz": 57.3,
+  "seconds": 8.33
+ },
+ {
+  "voice": "Algenib",
+  "median_f0_hz": 122.4,
+  "f0_range_hz": 76.0,
+  "seconds": 7.73
+ },
+ {
+  "voice": "Sadaltager",
+  "median_f0_hz": 125.7,
+  "f0_range_hz": 57.7,
+  "seconds": 7.77
+ },
+ {
+  "voice": "Orus",
+  "median_f0_hz": 128.3,
+  "f0_range_hz": 47.1,
+  "seconds": 8.21
+ },
+ {
+  "voice": "Rasalgethi",
+  "median_f0_hz": 137.9,
+  "f0_range_hz": 81.3,
+  "seconds": 8.13
+ }
+]
