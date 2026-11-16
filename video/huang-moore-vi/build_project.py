@@ -44,7 +44,7 @@ for i,n in enumerate([1,2,4,8,16,32,64]):
 shot(9.6,14.6,[T("ĐỊNH LUẬT MOORE",230,110),T("TRANSISTOR x2",400,100,GREEN,**fr(2.3)),T("~2 NĂM MỘT LẦN",1580,92,**fr(3.4))]+cl)
 shot(14.6,20.5,[T("NGƯỜI KHÁC: DỰ BÁO KỸ THUẬT",230,72),T("JENSEN: DỰ BÁO TƯƠNG LAI",380,80,GREEN,**fr(3.05)),
   img("v12_why",to=3.0,keys=[{"t":0,"alpha":0},{"t":.3,"alpha":1},{"t":1.4,"angle":0},{"t":1.55,"angle":-.015},{"t":1.7,"angle":0},{"t":2.95,"alpha":.2}]),
-  img("v05_lens",**fr(3.0),keys=[{"t":3.0,"alpha":0,"y":520},{"t":3.35,"alpha":1,"y":480},{"t":5.9,"w":1230,"x":25}])])
+  img("v05_lens",**fr(3.0),keys=[{"t":3.0,"alpha":0,"y":520},{"t":3.35,"alpha":1,"y":480,"w":1180,"x":50},{"t":4.3,"y":480,"angle":0},{"t":4.45,"y":470,"angle":.015},{"t":4.6,"y":480,"angle":0},{"t":5.9,"w":1260,"x":10}])])
 shot(20.5,23.7,[T("THẬP NIÊN 90",230,120,NAVY),T("KHÁCH HÀNG MUỐN",390,90,**fr(1.15)),T("GAME ĐẸP HƠN!",1580,100,GOLD,**fr(1.6)),
   img("n02_gamers",keys=[{"t":0,"alpha":0},{"t":.3,"alpha":1},{"t":1.15,"y":480},{"t":1.2,"y":472},{"t":1.35,"y":480},{"t":3.2,"w":1230,"x":25}])])
 shot(23.7,27.75,[T("MẠNH GẤP NHIỀU LẦN",230,100,GREEN),T("NHU CẦU THỰC TẾ",390,100,**fr(2.0)),

@@ -1,8 +1,8 @@
 {
-  "fingerprint": "bd4f6144b37686755ea9c8d86f2a77f2ca175590e1476334b33eb8c22f1d9d99",
+  "fingerprint": "ad57607e857d85e0f1494bdcdcaf6a3180e46f8c3a1beae8fbe2d779492b0f64",
   "preview_seconds": null,
   "output": "/home/user/du-an-web-ca-nhan/video/huang-moore-vi/output/film.mp4",
-  "output_sha256": "3b517022b29b38a74142d94b52c637801e11e7fcbad99c0ad2f340e47108ab95",
+  "output_sha256": "88f551d04f77983ff59ddf8b4137c7fb8b1e1cc7c16f8f15b4a1e404493293f1",
   "original_voice_sha256": "c948c117266dece26d45b1e38b595ff9a91d469e36e4f251bb8f6ecbce8f91c8",
   "original_voice_duration": 59.440958,
   "voice_rate": "unchanged; leading/trailing padding only",
