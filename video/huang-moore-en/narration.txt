@@ -1,5 +1,5 @@
-2009. AI hasn't taken off yet. Jensen Huang tells Stanford: Don't just listen to customers. Listen to Moore's Law.
-Moore's Law: chip power doubles about every two years. Most companies used it to forecast technology. Jensen used it to forecast the future.
-The 1990s. Gamers just wanted prettier graphics. NVIDIA built GPUs far more powerful than anyone asked for. Critics called it wasteful. Jensen saw it differently: Give the world enough computing power, and new applications will appear.
+2009. AI hasn't taken off yet. Jensen Huang's message at Stanford: don't just listen to customers. Listen to Moore's Law.
+Moore's Law: the number of transistors on a chip doubles about every two years. Most companies used it to forecast technology. Jensen used it to forecast the future.
+The 1990s. Gamers just wanted prettier graphics. NVIDIA built GPUs far more powerful than anyone asked for. Customers said it cost too much. Jensen saw it differently: Give the world enough computing power, and new applications will appear.
 He bet on the GPU. Then CUDA. Then AI. Fifteen years later, the world is racing to build AI on NVIDIA chips.
 Jensen's big lesson: Customers talk about the present. Technology talks about the future. Great companies don't just predict demand. They predict where technology takes us next.

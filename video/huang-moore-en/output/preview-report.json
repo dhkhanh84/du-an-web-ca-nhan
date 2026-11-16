@@ -1,0 +1,106 @@
+{
+  "fingerprint": "4f2db84840199f1c38698845f185ce166aaba094c014b886cffb55e0c5db7940",
+  "preview_seconds": 52.4,
+  "output": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/output/preview.mp4",
+  "output_sha256": "f8087fe162303a159a067da2198ab57ee5b2528f78a78a46a1187125b4179cdf",
+  "original_voice_sha256": "8be664f2ac21109bb22dc5b31bbc4d7294c42f95b6f60f603b31fcf073fde9af",
+  "original_voice_duration": 52.400958,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 1572,
+  "duration": 52.4,
+  "cache_hits": 0,
+  "shot_count": 13,
+  "full_decode": "pass",
+  "caption_count": 40,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/box.png",
+      "sha256": "59d8201ff48b4c9263c1fecf3be274f14d9a701241855cb04679b456b552d33b"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/chip1.png",
+      "sha256": "4aa973f567aaaf40737a34aa89d413a2130a8370c3811b4646f277023d87fc83"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/chip16.png",
+      "sha256": "8bfe1890bd2bf21830dace62aef9eb8779fea14f123ea7bbcdb1325f7db44749"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/chip2.png",
+      "sha256": "a8a7a7a98d9bf48c69858a80c6c7c10d073f886fa2d3995e198ac903277c268c"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/chip32.png",
+      "sha256": "a57322de5009164a372ce6d899f9689df7fc6b6fc1ff3f4ca21797d5916667ec"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/chip4.png",
+      "sha256": "9be0938b2cf6115cb542f3fdf482f4be4dcefe4540abde18d8e591535fcffcd2"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/chip64.png",
+      "sha256": "4ba24ccaa9378638e96fe626868d5d44fa3a1ad3d470d174fe24ca5271208006"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/chip8.png",
+      "sha256": "f2a1bc0918953eb438ea583fd946dc19ca74127e4226c70f7677e4dd332c1420"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/n01_listen.png",
+      "sha256": "c3f441676d99439f606b52cf513b0bd498d2df4cfd2f577d874e6ef641614fac"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/n02_gamers.png",
+      "sha256": "df7e7cf31de2cad0ce931826cdb408187d3979797ac25ee4751ed77d7fd21dba"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/n03_overpowered.png",
+      "sha256": "39dffb088087e663f6de25225dc529e35a6aa91785804f3d0a513cab5143e76a"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/n04_datacenter.png",
+      "sha256": "275ae411927734314723e1c3827017a43dd6913a76901548b9665953ce47e96d"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/n05_apps.png",
+      "sha256": "bf0974f0eedbc247725e3884d862524ada6e598026dc87296b6e95e3c6f4b008"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/p_bubble.png",
+      "sha256": "14c221c831f75a9faa4bc01a0fb9696cfd1bbcfb6c08bb63362aa70f3188dea1"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/v02_investors.png",
+      "sha256": "5222d077afcc789fc1b931dc5a1d9dd6fdec942e2e20a2d47602ddd50f311384"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/v04_stage.png",
+      "sha256": "6b47635af40b13dd7acbcde4fa9ea7b7df7c70544e633aaaa8795cc41192e21e"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/v05_lens.png",
+      "sha256": "1174d7d5e9582c55f9645a53894860599b3b92c3c2f2cdd675282764a47124e7"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/v10_bigchip.png",
+      "sha256": "29e72ad80a6b27b37ef4606b5e2167ccb1ce87067621c2c94d62c195d707a894"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/assets/cut/v12_why.png",
+      "sha256": "369ca0d42381d7f8f97a185351172858a82c68d994affb649a18df3451ab9db9"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/huang-moore-en/audio/master_mix_norm.wav",
+      "sha256": "8be664f2ac21109bb22dc5b31bbc4d7294c42f95b6f60f603b31fcf073fde9af"
+    },
+    {
+      "path": "/root/.claude/plugins/synced/6885484c-7413-48de-8948-b53451880e01_1ccae8e5-87c7-4a7f-b902-53f9d823848c/stickman-video-director/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",
+      "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+    },
+    {
+      "path": "/root/.claude/plugins/synced/6885484c-7413-48de-8948-b53451880e01_1ccae8e5-87c7-4a7f-b902-53f9d823848c/stickman-video-director/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ]
+}

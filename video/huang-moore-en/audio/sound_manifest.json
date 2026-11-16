@@ -1,0 +1,167 @@
+{
+ "lead": 0.15,
+ "source": "original procedural synthesis (make_sfx.py), no third-party audio, no music",
+ "cues": [
+  {
+   "t": 0.15,
+   "cue": "\"2009\" slams in",
+   "peak_dB": -20
+  },
+  {
+   "t": 1.7,
+   "cue": "AI? not yet",
+   "peak_dB": -26
+  },
+  {
+   "t": 3.55,
+   "cue": "cut to listening",
+   "peak_dB": -24
+  },
+  {
+   "t": 5.8,
+   "cue": "customers chatter dismissed",
+   "peak_dB": -28
+  },
+  {
+   "t": 7.5,
+   "cue": "Moore curve",
+   "peak_dB": -24
+  },
+  {
+   "t": 10.0,
+   "cue": "transistors double",
+   "peak_dB": -24
+  },
+  {
+   "t": 10.6,
+   "cue": "transistors double",
+   "peak_dB": -24
+  },
+  {
+   "t": 11.2,
+   "cue": "transistors double",
+   "peak_dB": -24
+  },
+  {
+   "t": 11.8,
+   "cue": "transistors double",
+   "peak_dB": -24
+  },
+  {
+   "t": 12.4,
+   "cue": "transistors double",
+   "peak_dB": -24
+  },
+  {
+   "t": 13.0,
+   "cue": "transistors double",
+   "peak_dB": -24
+  },
+  {
+   "t": 16.25,
+   "cue": "forecast the future",
+   "peak_dB": -24
+  },
+  {
+   "t": 18.65,
+   "cue": "back to the 1990s",
+   "peak_dB": -24
+  },
+  {
+   "t": 20.1,
+   "cue": "gamers point at screen",
+   "peak_dB": -24
+  },
+  {
+   "t": 22.0,
+   "cue": "huge card handed over",
+   "peak_dB": -24
+  },
+  {
+   "t": 25.75,
+   "cue": "TOO EXPENSIVE",
+   "peak_dB": -16
+  },
+  {
+   "t": 27.6,
+   "cue": "he saw it differently",
+   "peak_dB": -26
+  },
+  {
+   "t": 29.2,
+   "cue": "new applications sprout",
+   "peak_dB": -28
+  },
+  {
+   "t": 29.6,
+   "cue": "new applications sprout",
+   "peak_dB": -28
+  },
+  {
+   "t": 30.0,
+   "cue": "new applications sprout",
+   "peak_dB": -28
+  },
+  {
+   "t": 30.4,
+   "cue": "new applications sprout",
+   "peak_dB": -28
+  },
+  {
+   "t": 31.0,
+   "cue": "new applications sprout",
+   "peak_dB": -28
+  },
+  {
+   "t": 33.45,
+   "cue": "GPU",
+   "peak_dB": -20
+  },
+  {
+   "t": 34.35,
+   "cue": "CUDA",
+   "peak_dB": -20
+  },
+  {
+   "t": 35.25,
+   "cue": "AI",
+   "peak_dB": -18
+  },
+  {
+   "t": 36.25,
+   "cue": "fifteen years later",
+   "peak_dB": -24
+  },
+  {
+   "t": 37.6,
+   "cue": "server racks hum on",
+   "peak_dB": -30
+  },
+  {
+   "t": 42.3,
+   "cue": "present",
+   "peak_dB": -22
+  },
+  {
+   "t": 43.85,
+   "cue": "future",
+   "peak_dB": -24
+  },
+  {
+   "t": 47.9,
+   "cue": "where technology goes next",
+   "peak_dB": -24
+  },
+  {
+   "t": 50.05,
+   "cue": "end card",
+   "peak_dB": -26
+  },
+  {
+   "t": 51.7,
+   "cue": "comment bubble pops",
+   "peak_dB": -24
+  }
+ ],
+ "mastering": "ffmpeg loudnorm I=-17 TP=-1.5 LRA=11 applied to master_mix.wav -> master_mix_norm.wav"
+}

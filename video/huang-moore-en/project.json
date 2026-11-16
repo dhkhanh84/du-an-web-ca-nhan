@@ -1,0 +1,1365 @@
+{
+ "version": 1,
+ "style": "B1",
+ "width": 1080,
+ "height": 1560,
+ "fps": 30,
+ "captionSize": 56,
+ "voice": {
+  "path": "audio/master_mix_norm.wav",
+  "lead": 0,
+  "tail": 0,
+  "contains_sfx": true
+ },
+ "captions": [
+  {
+   "start": 0.41,
+   "end": 1.58,
+   "text": "2009."
+  },
+  {
+   "start": 1.63,
+   "end": 3.48,
+   "text": "AI hasn't taken off yet."
+  },
+  {
+   "start": 3.5,
+   "end": 4.703,
+   "text": "Jensen Huang's message"
+  },
+  {
+   "start": 4.723,
+   "end": 5.74,
+   "text": "at Stanford:"
+  },
+  {
+   "start": 5.79,
+   "end": 7.455,
+   "text": "don't just listen to customers."
+  },
+  {
+   "start": 7.475,
+   "end": 9.02,
+   "text": "Listen to Moore's Law."
+  },
+  {
+   "start": 9.18,
+   "end": 9.792,
+   "text": "Moore's Law:"
+  },
+  {
+   "start": 9.812,
+   "end": 11.107,
+   "text": "the number of transistors"
+  },
+  {
+   "start": 11.127,
+   "end": 11.581,
+   "text": "on a chip"
+  },
+  {
+   "start": 11.601,
+   "end": 13.48,
+   "text": "doubles about every two years."
+  },
+  {
+   "start": 13.5,
+   "end": 14.619,
+   "text": "Most companies used it"
+  },
+  {
+   "start": 14.639,
+   "end": 16.15,
+   "text": "to forecast technology."
+  },
+  {
+   "start": 16.17,
+   "end": 16.88,
+   "text": "Jensen used it"
+  },
+  {
+   "start": 16.9,
+   "end": 18.45,
+   "text": "to forecast the future."
+  },
+  {
+   "start": 18.58,
+   "end": 20.03,
+   "text": "The 1990s."
+  },
+  {
+   "start": 20.05,
+   "end": 20.915,
+   "text": "Gamers just wanted"
+  },
+  {
+   "start": 20.935,
+   "end": 22.07,
+   "text": "prettier graphics."
+  },
+  {
+   "start": 22.09,
+   "end": 23.075,
+   "text": "NVIDIA built GPUs"
+  },
+  {
+   "start": 23.095,
+   "end": 24.08,
+   "text": "far more powerful"
+  },
+  {
+   "start": 24.1,
+   "end": 25.67,
+   "text": "than anyone asked for."
+  },
+  {
+   "start": 25.69,
+   "end": 27.51,
+   "text": "Customers said it cost too much."
+  },
+  {
+   "start": 27.53,
+   "end": 28.8,
+   "text": "Jensen saw it differently:"
+  },
+  {
+   "start": 28.82,
+   "end": 29.492,
+   "text": "Give the world"
+  },
+  {
+   "start": 29.512,
+   "end": 30.629,
+   "text": "enough computing power,"
+  },
+  {
+   "start": 30.649,
+   "end": 32.63,
+   "text": "and new applications will appear."
+  },
+  {
+   "start": 32.68,
+   "end": 34.3,
+   "text": "He bet on the GPU."
+  },
+  {
+   "start": 34.32,
+   "end": 35.18,
+   "text": "Then CUDA."
+  },
+  {
+   "start": 35.2,
+   "end": 36.24,
+   "text": "Then AI."
+  },
+  {
+   "start": 36.26,
+   "end": 37.434,
+   "text": "Fifteen years later,"
+  },
+  {
+   "start": 37.454,
+   "end": 39.285,
+   "text": "the world is racing to build AI"
+  },
+  {
+   "start": 39.305,
+   "end": 40.61,
+   "text": "on NVIDIA chips."
+  },
+  {
+   "start": 40.65,
+   "end": 42.19,
+   "text": "Jensen's big lesson:"
+  },
+  {
+   "start": 42.24,
+   "end": 42.78,
+   "text": "Customers talk"
+  },
+  {
+   "start": 42.8,
+   "end": 43.77,
+   "text": "about the present."
+  },
+  {
+   "start": 43.79,
+   "end": 44.483,
+   "text": "Technology talks"
+  },
+  {
+   "start": 44.503,
+   "end": 45.52,
+   "text": "about the future."
+  },
+  {
+   "start": 45.54,
+   "end": 46.27,
+   "text": "Great companies"
+  },
+  {
+   "start": 46.29,
+   "end": 47.79,
+   "text": "don't just predict demand."
+  },
+  {
+   "start": 47.81,
+   "end": 49.125,
+   "text": "They predict where technology"
+  },
+  {
+   "start": 49.145,
+   "end": 49.79,
+   "text": "takes us next."
+  }
+ ],
+ "shots": [
+  {
+   "start": 0,
+   "end": 3.5,
+   "layers": [
+    {
+     "type": "text",
+     "text": "2009",
+     "x": 70,
+     "y": 300,
+     "size": 250,
+     "bold": true,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "x": 140
+      },
+      {
+       "t": 0.25,
+       "alpha": 1,
+       "x": 70
+      }
+     ],
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "AI? NOT YET.",
+     "x": 620,
+     "y": 300,
+     "size": 110,
+     "bold": true,
+     "w": 640,
+     "from": 1.55,
+     "color": "#E8A317"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v04_stage.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "alpha": 1
+      },
+      {
+       "t": 1.55,
+       "y": 480
+      },
+      {
+       "t": 1.6,
+       "y": 487
+      },
+      {
+       "t": 1.75,
+       "y": 480
+      },
+      {
+       "t": 3.47,
+       "w": 1240,
+       "x": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 3.5,
+   "end": 9.18,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THE STANFORD MESSAGE:",
+     "x": 70,
+     "y": 230,
+     "size": 96,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "NOT JUST CUSTOMERS.",
+     "x": 70,
+     "y": 380,
+     "size": 110,
+     "bold": true,
+     "from": 2.3,
+     "w": 1180,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "LISTEN TO MOORE\u2019S LAW.",
+     "x": 70,
+     "y": 1580,
+     "size": 100,
+     "bold": true,
+     "from": 3.95,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/n01_listen.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "x": 110
+      },
+      {
+       "t": 0.35,
+       "alpha": 1,
+       "x": 50
+      },
+      {
+       "t": 2.3,
+       "angle": 0
+      },
+      {
+       "t": 2.45,
+       "angle": -0.015
+      },
+      {
+       "t": 2.6,
+       "angle": 0
+      },
+      {
+       "t": 3.95,
+       "w": 1180,
+       "x": 50
+      },
+      {
+       "t": 5.6,
+       "w": 1240,
+       "x": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 9.18,
+   "end": 13.48,
+   "layers": [
+    {
+     "type": "text",
+     "text": "MOORE'S LAW",
+     "x": 70,
+     "y": 230,
+     "size": 140,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "TRANSISTORS x2",
+     "x": 70,
+     "y": 400,
+     "size": 120,
+     "bold": true,
+     "from": 2.0,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "text",
+     "text": "EVERY ~2 YEARS",
+     "x": 70,
+     "y": 1580,
+     "size": 110,
+     "bold": true,
+     "from": 2.6,
+     "w": 1180
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/chip1.png",
+     "x": 190,
+     "y": 560,
+     "w": 900,
+     "from": 0.5,
+     "to": 1.05,
+     "keys": [
+      {
+       "t": 0.5,
+       "w": 930,
+       "x": 175
+      },
+      {
+       "t": 0.62,
+       "w": 900,
+       "x": 190
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/chip2.png",
+     "x": 190,
+     "y": 560,
+     "w": 900,
+     "from": 1.05,
+     "to": 1.6,
+     "keys": [
+      {
+       "t": 1.05,
+       "w": 930,
+       "x": 175
+      },
+      {
+       "t": 1.17,
+       "w": 900,
+       "x": 190
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/chip4.png",
+     "x": 190,
+     "y": 560,
+     "w": 900,
+     "from": 1.6,
+     "to": 2.15,
+     "keys": [
+      {
+       "t": 1.6,
+       "w": 930,
+       "x": 175
+      },
+      {
+       "t": 1.72,
+       "w": 900,
+       "x": 190
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/chip8.png",
+     "x": 190,
+     "y": 560,
+     "w": 900,
+     "from": 2.1500000000000004,
+     "to": 2.7,
+     "keys": [
+      {
+       "t": 2.15,
+       "w": 930,
+       "x": 175
+      },
+      {
+       "t": 2.27,
+       "w": 900,
+       "x": 190
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/chip16.png",
+     "x": 190,
+     "y": 560,
+     "w": 900,
+     "from": 2.7,
+     "to": 3.25,
+     "keys": [
+      {
+       "t": 2.7,
+       "w": 930,
+       "x": 175
+      },
+      {
+       "t": 2.82,
+       "w": 900,
+       "x": 190
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/chip32.png",
+     "x": 190,
+     "y": 560,
+     "w": 900,
+     "from": 3.25,
+     "to": 3.8,
+     "keys": [
+      {
+       "t": 3.25,
+       "w": 930,
+       "x": 175
+      },
+      {
+       "t": 3.37,
+       "w": 900,
+       "x": 190
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/chip64.png",
+     "x": 190,
+     "y": 560,
+     "w": 900,
+     "from": 3.8000000000000003,
+     "keys": [
+      {
+       "t": 3.8,
+       "w": 930,
+       "x": 175
+      },
+      {
+       "t": 3.92,
+       "w": 900,
+       "x": 190
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 13.48,
+   "end": 18.58,
+   "layers": [
+    {
+     "type": "text",
+     "text": "OTHERS: FORECAST TECH.",
+     "x": 70,
+     "y": 230,
+     "size": 96,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "JENSEN: THE FUTURE.",
+     "x": 70,
+     "y": 380,
+     "size": 120,
+     "bold": true,
+     "from": 2.7,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v05_lens.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "from": 2.6,
+     "keys": [
+      {
+       "t": 2.6,
+       "alpha": 0,
+       "y": 520
+      },
+      {
+       "t": 2.95,
+       "alpha": 1,
+       "y": 480
+      },
+      {
+       "t": 5.0,
+       "w": 1230,
+       "x": 25
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v12_why.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "to": 2.6,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "alpha": 1
+      },
+      {
+       "t": 1.3,
+       "angle": 0
+      },
+      {
+       "t": 1.45,
+       "angle": -0.015
+      },
+      {
+       "t": 1.6,
+       "angle": 0
+      },
+      {
+       "t": 2.55,
+       "alpha": 0.2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 18.58,
+   "end": 21.85,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THE 1990s",
+     "x": 70,
+     "y": 230,
+     "size": 140,
+     "bold": true,
+     "w": 1180,
+     "color": "#27408B"
+    },
+    {
+     "type": "text",
+     "text": "GAMERS WANTED",
+     "x": 70,
+     "y": 390,
+     "size": 110,
+     "bold": true,
+     "from": 1.45,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "PRETTIER GRAPHICS!",
+     "x": 70,
+     "y": 1580,
+     "size": 110,
+     "bold": true,
+     "from": 1.9,
+     "w": 1180,
+     "color": "#E8A317"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/n02_gamers.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "alpha": 1
+      },
+      {
+       "t": 1.45,
+       "y": 480
+      },
+      {
+       "t": 1.5,
+       "y": 472
+      },
+      {
+       "t": 1.65,
+       "y": 480
+      },
+      {
+       "t": 3.2,
+       "w": 1230,
+       "x": 25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 21.85,
+   "end": 25.65,
+   "layers": [
+    {
+     "type": "text",
+     "text": "FAR MORE POWER",
+     "x": 70,
+     "y": 230,
+     "size": 130,
+     "bold": true,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "text",
+     "text": "THAN ANYONE ASKED FOR",
+     "x": 70,
+     "y": 400,
+     "size": 96,
+     "bold": true,
+     "from": 2.0,
+     "w": 1180
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/n03_overpowered.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "x": -80
+      },
+      {
+       "t": 0.4,
+       "alpha": 1,
+       "x": 50
+      },
+      {
+       "t": 2.0,
+       "y": 480
+      },
+      {
+       "t": 2.06,
+       "y": 490
+      },
+      {
+       "t": 2.2,
+       "y": 480
+      },
+      {
+       "t": 3.7,
+       "w": 1230,
+       "x": 25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 25.65,
+   "end": 28.6,
+   "layers": [
+    {
+     "type": "text",
+     "text": "CUSTOMERS:",
+     "x": 70,
+     "y": 230,
+     "size": 110,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "\"TOO EXPENSIVE.\"",
+     "x": 70,
+     "y": 380,
+     "size": 130,
+     "bold": true,
+     "from": 0.3,
+     "w": 1180,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "JENSEN SAW IT DIFFERENTLY.",
+     "x": 70,
+     "y": 1570,
+     "size": 84,
+     "bold": true,
+     "from": 1.9,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v02_investors.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "alpha": 1
+      },
+      {
+       "t": 0.6,
+       "angle": 0
+      },
+      {
+       "t": 0.75,
+       "angle": 0.02
+      },
+      {
+       "t": 0.9,
+       "angle": -0.02
+      },
+      {
+       "t": 1.05,
+       "angle": 0
+      },
+      {
+       "t": 2.9,
+       "w": 1220,
+       "x": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 28.6,
+   "end": 32.6,
+   "layers": [
+    {
+     "type": "text",
+     "text": "MORE COMPUTING POWER",
+     "x": 70,
+     "y": 230,
+     "size": 100,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "= NEW APPLICATIONS",
+     "x": 70,
+     "y": 380,
+     "size": 110,
+     "bold": true,
+     "from": 2.4,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/n05_apps.png",
+     "x": -200,
+     "y": 330,
+     "w": 1680,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "w": 1500,
+       "x": -110,
+       "y": 420
+      },
+      {
+       "t": 0.5,
+       "alpha": 1,
+       "w": 1680,
+       "x": -200,
+       "y": 330
+      },
+      {
+       "t": 2.4,
+       "w": 1680,
+       "x": -200
+      },
+      {
+       "t": 2.5,
+       "w": 1710,
+       "x": -215
+      },
+      {
+       "t": 2.65,
+       "w": 1680,
+       "x": -200
+      },
+      {
+       "t": 3.97,
+       "w": 1760,
+       "x": -240
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 32.6,
+   "end": 36.25,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THE BETS",
+     "x": 70,
+     "y": 230,
+     "size": 140,
+     "bold": true,
+     "w": 1180,
+     "color": "#E8A317"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/box.png",
+     "x": 430,
+     "y": 600,
+     "w": 420,
+     "from": 0.8,
+     "keys": [
+      {
+       "t": 0.8,
+       "alpha": 0,
+       "w": 470,
+       "x": 405
+      },
+      {
+       "t": 0.95,
+       "alpha": 1,
+       "w": 420,
+       "x": 430
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "GPU",
+     "x": 545,
+     "y": 680,
+     "size": 120,
+     "bold": true,
+     "from": 0.85,
+     "w": 705
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       640,
+       860
+      ],
+      [
+       640,
+       930
+      ]
+     ],
+     "color": "#444444",
+     "lineWidth": 7,
+     "from": 1.5,
+     "keys": [
+      {
+       "t": 1.5,
+       "progress": 0
+      },
+      {
+       "t": 1.7,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/box.png",
+     "x": 430,
+     "y": 950,
+     "w": 420,
+     "from": 1.7,
+     "keys": [
+      {
+       "t": 1.7,
+       "alpha": 0,
+       "w": 470,
+       "x": 405
+      },
+      {
+       "t": 1.85,
+       "alpha": 1,
+       "w": 420,
+       "x": 430
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "CUDA",
+     "x": 520,
+     "y": 1030,
+     "size": 120,
+     "bold": true,
+     "from": 1.75,
+     "w": 730
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       640,
+       1210
+      ],
+      [
+       640,
+       1280
+      ]
+     ],
+     "color": "#444444",
+     "lineWidth": 7,
+     "from": 2.4,
+     "keys": [
+      {
+       "t": 2.4,
+       "progress": 0
+      },
+      {
+       "t": 2.6,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/box.png",
+     "x": 430,
+     "y": 1300,
+     "w": 420,
+     "from": 2.6,
+     "keys": [
+      {
+       "t": 2.6,
+       "alpha": 0,
+       "w": 470,
+       "x": 405
+      },
+      {
+       "t": 2.75,
+       "alpha": 1,
+       "w": 420,
+       "x": 430
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "AI",
+     "x": 595,
+     "y": 1380,
+     "size": 130,
+     "bold": true,
+     "from": 2.65,
+     "w": 655,
+     "color": "#5A9E1A"
+    }
+   ]
+  },
+  {
+   "start": 36.25,
+   "end": 40.6,
+   "layers": [
+    {
+     "type": "text",
+     "text": "15 YEARS LATER",
+     "x": 70,
+     "y": 230,
+     "size": 120,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "THE AI RACE",
+     "x": 70,
+     "y": 380,
+     "size": 140,
+     "bold": true,
+     "from": 1.3,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "text",
+     "text": "RUNS ON NVIDIA CHIPS.",
+     "x": 70,
+     "y": 1580,
+     "size": 96,
+     "bold": true,
+     "from": 3.0,
+     "w": 1180
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/n04_datacenter.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1,
+       "w": 1180,
+       "x": 50
+      },
+      {
+       "t": 1.3,
+       "y": 480
+      },
+      {
+       "t": 1.35,
+       "y": 488
+      },
+      {
+       "t": 1.5,
+       "y": 480
+      },
+      {
+       "t": 4.3,
+       "w": 1260,
+       "x": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 40.6,
+   "end": 45.48,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THE LESSON:",
+     "x": 70,
+     "y": 230,
+     "size": 140,
+     "bold": true,
+     "w": 1180,
+     "color": "#E8A317"
+    },
+    {
+     "type": "text",
+     "text": "CUSTOMERS = THE PRESENT",
+     "x": 70,
+     "y": 1480,
+     "size": 92,
+     "bold": true,
+     "from": 1.6,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "TECHNOLOGY = THE FUTURE",
+     "x": 70,
+     "y": 1600,
+     "size": 92,
+     "bold": true,
+     "from": 3.15,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/n01_listen.png",
+     "x": 140,
+     "y": 420,
+     "w": 1000,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "alpha": 1
+      },
+      {
+       "t": 1.6,
+       "angle": 0
+      },
+      {
+       "t": 1.75,
+       "angle": 0.015
+      },
+      {
+       "t": 1.9,
+       "angle": 0
+      },
+      {
+       "t": 3.15,
+       "y": 420
+      },
+      {
+       "t": 3.2,
+       "y": 428
+      },
+      {
+       "t": 3.35,
+       "y": 420
+      },
+      {
+       "t": 4.8,
+       "w": 1040,
+       "x": 120
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 45.48,
+   "end": 49.98,
+   "layers": [
+    {
+     "type": "text",
+     "text": "NOT JUST DEMAND.",
+     "x": 70,
+     "y": 230,
+     "size": 120,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "WHERE TECH GOES NEXT.",
+     "x": 70,
+     "y": 380,
+     "size": 100,
+     "bold": true,
+     "from": 2.3,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v10_bigchip.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "x": -100
+      },
+      {
+       "t": 0.4,
+       "alpha": 1,
+       "x": 50
+      },
+      {
+       "t": 1.4,
+       "x": 40
+      },
+      {
+       "t": 2.3,
+       "x": 50
+      },
+      {
+       "t": 2.35,
+       "y": 490
+      },
+      {
+       "t": 2.5,
+       "y": 480
+      },
+      {
+       "t": 3.4,
+       "x": 40
+      },
+      {
+       "t": 4.4,
+       "x": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 49.98,
+   "end": 52.4,
+   "layers": [
+    {
+     "type": "text",
+     "text": "WHAT STAGE OF THE",
+     "x": 70,
+     "y": 300,
+     "size": 110,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "\"MOORE MOMENT\"",
+     "x": 70,
+     "y": 450,
+     "size": 140,
+     "bold": true,
+     "from": 0.3,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "text",
+     "text": "IS AI IN TODAY?",
+     "x": 70,
+     "y": 620,
+     "size": 120,
+     "bold": true,
+     "from": 0.7,
+     "w": 1180
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/p_bubble.png",
+     "x": 420,
+     "y": 900,
+     "w": 440,
+     "from": 1.4,
+     "keys": [
+      {
+       "t": 1.4,
+       "w": 280,
+       "x": 500,
+       "alpha": 0
+      },
+      {
+       "t": 1.65,
+       "w": 460,
+       "x": 410,
+       "alpha": 1
+      },
+      {
+       "t": 1.8,
+       "w": 440,
+       "x": 420
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sfx": []
+}

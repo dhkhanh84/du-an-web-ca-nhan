@@ -1,5 +1,41 @@
-{"project":"huang-moore-en","mode":"B","style":"B1","ratio":"9:16","source":"source-script.docx (user upload; 90-second script section)",
- "stage":"prepared_awaiting_cost_and_copy_approval",
- "narration":{"language":"en","voice":"Algieba","model":"gemini-2.5-flash-preview-tts","text":"narration.txt (verbatim VO from the 90s script)"},
- "reused_images":["v02_investors","v04_stage","v07_gamepad","v10_bigchip","v12_why","v05_lens","p_bubble"],
- "next_step":"user approves cost + copy notes -> TTS -> hydrogen alignment -> ~5 new images -> render"}
+{
+  "project": "huang-moore-en",
+  "mode": "B",
+  "style": "B1",
+  "ratio": "9:16",
+  "source": "source-script.docx (user upload; 90-second script section)",
+  "stage": "film_delivered",
+  "narration": {
+    "language": "en",
+    "voice": "Algieba",
+    "model": "gemini-2.5-flash-preview-tts",
+    "text": "narration.txt (verbatim VO from the 90s script)",
+    "duration_s": 49.85,
+    "copy_edits": "3 user-approved edits: paraphrase framing, transistor wording, \"Customers said it cost too much.\""
+  },
+  "reused_images": [
+    "v02_investors",
+    "v04_stage",
+    "v07_gamepad",
+    "v10_bigchip",
+    "v12_why",
+    "v05_lens",
+    "p_bubble"
+  ],
+  "next_step": "none",
+  "images": "5 new (gemini-2.5-flash-image: n01-n05) + 7 reused + code-drawn chips/boxes",
+  "alignment": "captions from measured pauses (sentence-level match), long sentences split by character proportion; hydrogen not needed",
+  "mastering": "ffmpeg loudnorm I=-17 TP=-1.5",
+  "qa": {
+    "duration_s": 52.43,
+    "decode": "OK",
+    "loudness": "-16.7 LUFS, -1.4 dBTP",
+    "freeze_gt_2.5s": "none",
+    "captions": 40,
+    "not_done": [
+      "human listening review"
+    ]
+  },
+  "incident": "first preview aborted: one caption cue too wide for one line; a follow-up command then hung until the 600 s timeout. Fixed by splitting 9 cues; commands now run with timeouts.",
+  "deliverable": "output/short_9x16.mp4 + .srt/.vtt"
+}
