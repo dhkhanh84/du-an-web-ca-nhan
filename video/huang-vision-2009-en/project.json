@@ -1,0 +1,1705 @@
+{
+ "version": 1,
+ "style": "B1",
+ "width": 1080,
+ "height": 1560,
+ "fps": 30,
+ "captionSize": 56,
+ "voice": {
+  "path": "audio/master_mix.wav",
+  "lead": 0,
+  "tail": 0,
+  "contains_sfx": true
+ },
+ "captions": [
+  {
+   "start": 0.38,
+   "end": 1.79,
+   "text": "In 1993,"
+  },
+  {
+   "start": 1.81,
+   "end": 2.698,
+   "text": "investors told him"
+  },
+  {
+   "start": 2.718,
+   "end": 4.53,
+   "text": "video games weren't a market."
+  },
+  {
+   "start": 4.66,
+   "end": 5.631,
+   "text": "His mother asked why"
+  },
+  {
+   "start": 5.651,
+   "end": 7.24,
+   "text": "he didn't just get a job."
+  },
+  {
+   "start": 7.58,
+   "end": 9.68,
+   "text": "Sixteen years later, at Stanford,"
+  },
+  {
+   "start": 9.7,
+   "end": 10.795,
+   "text": "Jensen Huang explained"
+  },
+  {
+   "start": 10.815,
+   "end": 12.23,
+   "text": "how he got past that."
+  },
+  {
+   "start": 12.35,
+   "end": 13.31,
+   "text": "Lesson one:"
+  },
+  {
+   "start": 13.33,
+   "end": 15.2,
+   "text": "don't wait for a grand vision."
+  },
+  {
+   "start": 15.3,
+   "end": 16.87,
+   "text": "Everyone has a perspective."
+  },
+  {
+   "start": 16.89,
+   "end": 18.49,
+   "text": "That's all a vision really is."
+  },
+  {
+   "start": 18.75,
+   "end": 20.086,
+   "text": "His perspective in 1993:"
+  },
+  {
+   "start": 20.106,
+   "end": 20.99,
+   "text": "take 3D graphics"
+  },
+  {
+   "start": 21.01,
+   "end": 22.516,
+   "text": "off expensive workstations,"
+  },
+  {
+   "start": 22.536,
+   "end": 23.68,
+   "text": "make them cheap,"
+  },
+  {
+   "start": 23.7,
+   "end": 25.277,
+   "text": "and let video games pull"
+  },
+  {
+   "start": 25.297,
+   "end": 27.51,
+   "text": "the whole PC market forward."
+  },
+  {
+   "start": 27.74,
+   "end": 28.83,
+   "text": "Lesson two:"
+  },
+  {
+   "start": 28.85,
+   "end": 29.54,
+   "text": "sometimes you go"
+  },
+  {
+   "start": 29.56,
+   "end": 30.93,
+   "text": "against your customers."
+  },
+  {
+   "start": 31.01,
+   "end": 32.676,
+   "text": "Dell, HP, IBM and Gateway"
+  },
+  {
+   "start": 32.696,
+   "end": 34.72,
+   "text": "all said it cost too much."
+  },
+  {
+   "start": 34.74,
+   "end": 35.992,
+   "text": "He still bet the company's"
+  },
+  {
+   "start": 36.012,
+   "end": 37.263,
+   "text": "last few million on a chip"
+  },
+  {
+   "start": 37.283,
+   "end": 38.63,
+   "text": "that was far too big,"
+  },
+  {
+   "start": 38.65,
+   "end": 39.528,
+   "text": "sure the technology"
+  },
+  {
+   "start": 39.548,
+   "end": 40.89,
+   "text": "would get cheap fast."
+  },
+  {
+   "start": 41.17,
+   "end": 42.473,
+   "text": "About two hundred companies"
+  },
+  {
+   "start": 42.493,
+   "end": 43.9,
+   "text": "went after 3D graphics."
+  },
+  {
+   "start": 43.92,
+   "end": 45.342,
+   "text": "Money, talent and technology"
+  },
+  {
+   "start": 45.362,
+   "end": 46.64,
+   "text": "were roughly equal."
+  },
+  {
+   "start": 46.66,
+   "end": 47.94,
+   "text": "What decided who survived,"
+  },
+  {
+   "start": 47.96,
+   "end": 49.24,
+   "text": "he said, was understanding"
+  },
+  {
+   "start": 49.26,
+   "end": 50.81,
+   "text": "why your business works."
+  },
+  {
+   "start": 51.06,
+   "end": 52.0,
+   "text": "Lesson three:"
+  },
+  {
+   "start": 52.02,
+   "end": 53.8,
+   "text": "get comfortable with ambiguity."
+  },
+  {
+   "start": 53.82,
+   "end": 55.59,
+   "text": "Leaders don't have to be outgoing."
+  },
+  {
+   "start": 55.61,
+   "end": 56.516,
+   "text": "They do have to act"
+  },
+  {
+   "start": 56.536,
+   "end": 58.25,
+   "text": "before the outcome is clear."
+  },
+  {
+   "start": 58.34,
+   "end": 59.3,
+   "text": "Lesson four:"
+  },
+  {
+   "start": 59.32,
+   "end": 61.1,
+   "text": "tear it down and rebuild."
+  },
+  {
+   "start": 61.16,
+   "end": 62.92,
+   "text": "Every success has to be rebuilt,"
+  },
+  {
+   "start": 62.94,
+   "end": 64.3,
+   "text": "roughly once a decade."
+  },
+  {
+   "start": 64.36,
+   "end": 65.211,
+   "text": "If you don't replace"
+  },
+  {
+   "start": 65.231,
+   "end": 65.952,
+   "text": "your own product,"
+  },
+  {
+   "start": 65.972,
+   "end": 67.28,
+   "text": "your competitors will."
+  },
+  {
+   "start": 67.31,
+   "end": 67.718,
+   "text": "Finally:"
+  },
+  {
+   "start": 67.738,
+   "end": 69.699,
+   "text": "skill, intellect and training matter,"
+  },
+  {
+   "start": 69.719,
+   "end": 71.3,
+   "text": "but they're not enough."
+  },
+  {
+   "start": 71.35,
+   "end": 72.019,
+   "text": "You need passion"
+  },
+  {
+   "start": 72.039,
+   "end": 72.923,
+   "text": "for the painful parts"
+  },
+  {
+   "start": 72.943,
+   "end": 74.2,
+   "text": "of building a company."
+  },
+  {
+   "start": 74.22,
+   "end": 75.88,
+   "text": "Which lesson do you need most?"
+  },
+  {
+   "start": 75.9,
+   "end": 77.14,
+   "text": "Tell me in the comments."
+  }
+ ],
+ "shots": [
+  {
+   "start": 0,
+   "end": 1.8,
+   "layers": [
+    {
+     "type": "text",
+     "text": "1993",
+     "x": 70,
+     "y": 300,
+     "size": 250,
+     "bold": true,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "x": 140
+      },
+      {
+       "t": 0.25,
+       "alpha": 1,
+       "x": 70
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v01_pc1993.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "alpha": 1
+      },
+      {
+       "t": 0.9,
+       "y": 480
+      },
+      {
+       "t": 0.95,
+       "y": 486
+      },
+      {
+       "t": 1.1,
+       "y": 480
+      },
+      {
+       "t": 1.77,
+       "x": 40,
+       "w": 1210
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 1.8,
+   "end": 4.65,
+   "layers": [
+    {
+     "type": "text",
+     "text": "VIDEO GAMES?",
+     "x": 70,
+     "y": 230,
+     "size": 120,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "\"NO MARKET.\"",
+     "x": 70,
+     "y": 380,
+     "size": 140,
+     "bold": true,
+     "from": 1.2,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v02_investors.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "x": 110,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "x": 50,
+       "alpha": 1
+      },
+      {
+       "t": 1.2,
+       "angle": 0
+      },
+      {
+       "t": 1.35,
+       "angle": 0.02
+      },
+      {
+       "t": 1.5,
+       "angle": -0.02
+      },
+      {
+       "t": 1.65,
+       "angle": 0
+      },
+      {
+       "t": 2.8,
+       "w": 1230,
+       "x": 25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 4.65,
+   "end": 7.55,
+   "layers": [
+    {
+     "type": "text",
+     "text": "MOM:",
+     "x": 70,
+     "y": 230,
+     "size": 120,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "WHY NOT GET A JOB?",
+     "x": 70,
+     "y": 380,
+     "size": 110,
+     "bold": true,
+     "from": 1.0,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v03_mom.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "y": 520
+      },
+      {
+       "t": 0.3,
+       "alpha": 1,
+       "y": 480
+      },
+      {
+       "t": 1.0,
+       "angle": 0
+      },
+      {
+       "t": 1.25,
+       "angle": 0.025
+      },
+      {
+       "t": 1.5,
+       "angle": 0
+      },
+      {
+       "t": 2.87,
+       "w": 1230,
+       "x": 25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 7.55,
+   "end": 12.32,
+   "layers": [
+    {
+     "type": "text",
+     "text": "16 YEARS LATER...",
+     "x": 70,
+     "y": 230,
+     "size": 110,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "STANFORD, 2009",
+     "x": 70,
+     "y": 380,
+     "size": 130,
+     "bold": true,
+     "from": 1.0,
+     "color": "#27408B"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v04_stage.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 2.0,
+       "w": 1180,
+       "x": 50
+      },
+      {
+       "t": 2.05,
+       "y": 486
+      },
+      {
+       "t": 2.2,
+       "y": 480
+      },
+      {
+       "t": 4.7,
+       "w": 1260,
+       "x": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 12.32,
+   "end": 18.72,
+   "layers": [
+    {
+     "type": "text",
+     "text": "LESSON #1",
+     "x": 70,
+     "y": 210,
+     "size": 110,
+     "bold": true,
+     "color": "#E8A317"
+    },
+    {
+     "type": "text",
+     "text": "VISION",
+     "x": 70,
+     "y": 350,
+     "size": 120,
+     "bold": true,
+     "from": 1.0
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       60,
+       395
+      ],
+      [
+       330,
+       388
+      ]
+     ],
+     "color": "#EC4338",
+     "lineWidth": 12,
+     "from": 1.8,
+     "keys": [
+      {
+       "t": 1.8,
+       "progress": 0
+      },
+      {
+       "t": 2.2,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "PERSPECTIVE",
+     "x": 460,
+     "y": 350,
+     "size": 120,
+     "bold": true,
+     "w": 800,
+     "from": 3.0,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v05_lens.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "from": 3.0,
+     "keys": [
+      {
+       "t": 3.0,
+       "alpha": 0,
+       "y": 520
+      },
+      {
+       "t": 3.35,
+       "alpha": 1,
+       "y": 480
+      },
+      {
+       "t": 4.5,
+       "w": 1180,
+       "x": 50
+      },
+      {
+       "t": 6.3,
+       "w": 1240,
+       "x": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 18.72,
+   "end": 23.62,
+   "layers": [
+    {
+     "type": "text",
+     "text": "3D GRAPHICS",
+     "x": 70,
+     "y": 230,
+     "size": 130,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "EXPENSIVE",
+     "x": 70,
+     "y": 380,
+     "size": 120,
+     "bold": true,
+     "from": 2.0,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "CHEAP",
+     "x": 760,
+     "y": 380,
+     "size": 120,
+     "bold": true,
+     "w": 500,
+     "from": 3.85,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "arrow",
+     "x": 560,
+     "y": 440,
+     "w": 180,
+     "from": 3.7,
+     "keys": [
+      {
+       "t": 3.7,
+       "progress": 0
+      },
+      {
+       "t": 3.9,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v06_workstation.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "alpha": 1
+      },
+      {
+       "t": 2.0,
+       "x": 50
+      },
+      {
+       "t": 2.2,
+       "x": 40
+      },
+      {
+       "t": 2.4,
+       "x": 50
+      },
+      {
+       "t": 4.87,
+       "y": 470
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 23.62,
+   "end": 27.72,
+   "layers": [
+    {
+     "type": "text",
+     "text": "GAMES",
+     "x": 70,
+     "y": 230,
+     "size": 150,
+     "bold": true,
+     "color": "#E8A317"
+    },
+    {
+     "type": "text",
+     "text": "= THE ENGINE",
+     "x": 70,
+     "y": 400,
+     "size": 120,
+     "bold": true,
+     "from": 1.2
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v07_gamepad.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "y": 520
+      },
+      {
+       "t": 0.3,
+       "alpha": 1,
+       "y": 480
+      },
+      {
+       "t": 1.4,
+       "y": 480
+      },
+      {
+       "t": 1.45,
+       "y": 470
+      },
+      {
+       "t": 1.6,
+       "y": 480
+      },
+      {
+       "t": 2.6,
+       "y": 480
+      },
+      {
+       "t": 2.65,
+       "y": 472
+      },
+      {
+       "t": 2.8,
+       "y": 480
+      },
+      {
+       "t": 4.0,
+       "w": 1220,
+       "x": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 27.72,
+   "end": 34.72,
+   "layers": [
+    {
+     "type": "text",
+     "text": "LESSON #2",
+     "x": 70,
+     "y": 210,
+     "size": 110,
+     "bold": true,
+     "color": "#E8A317"
+    },
+    {
+     "type": "text",
+     "text": "GO AGAINST",
+     "x": 70,
+     "y": 340,
+     "size": 110,
+     "bold": true,
+     "from": 1.0
+    },
+    {
+     "type": "text",
+     "text": "YOUR CUSTOMERS",
+     "x": 70,
+     "y": 450,
+     "size": 110,
+     "bold": true,
+     "from": 1.4
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v08_boxes.png",
+     "x": 50,
+     "y": 560,
+     "w": 1180,
+     "from": 3.0,
+     "keys": [
+      {
+       "t": 3.0,
+       "alpha": 0
+      },
+      {
+       "t": 3.2,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "DELL",
+     "x": 140,
+     "y": 780,
+     "size": 80,
+     "bold": true,
+     "from": 3.3
+    },
+    {
+     "type": "text",
+     "text": "HP",
+     "x": 470,
+     "y": 780,
+     "size": 80,
+     "bold": true,
+     "from": 3.7
+    },
+    {
+     "type": "text",
+     "text": "IBM",
+     "x": 745,
+     "y": 780,
+     "size": 80,
+     "bold": true,
+     "from": 4.1
+    },
+    {
+     "type": "text",
+     "text": "GATEWAY",
+     "x": 960,
+     "y": 780,
+     "size": 64,
+     "bold": true,
+     "w": 300,
+     "from": 4.6
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/stamp.png",
+     "x": 300,
+     "y": 1080,
+     "w": 700,
+     "from": 5.9,
+     "keys": [
+      {
+       "t": 5.9,
+       "w": 900,
+       "x": 200,
+       "alpha": 0
+      },
+      {
+       "t": 6.05,
+       "w": 700,
+       "x": 300,
+       "alpha": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "TOO EXPENSIVE!",
+     "x": 360,
+     "y": 1160,
+     "size": 110,
+     "bold": true,
+     "from": 5.95,
+     "color": "#EC4338"
+    }
+   ]
+  },
+  {
+   "start": 34.72,
+   "end": 40.85,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THE LAST",
+     "x": 70,
+     "y": 230,
+     "size": 120,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "FEW MILLION",
+     "x": 70,
+     "y": 380,
+     "size": 140,
+     "bold": true,
+     "from": 1.0,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "BET: CHIPS GET CHEAP",
+     "x": 70,
+     "y": 1580,
+     "size": 96,
+     "bold": true,
+     "from": 3.95,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v10_bigchip.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "x": -120,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "x": 50,
+       "alpha": 1
+      },
+      {
+       "t": 1.5,
+       "x": 40
+      },
+      {
+       "t": 2.3,
+       "x": 50
+      },
+      {
+       "t": 3.1,
+       "x": 40
+      },
+      {
+       "t": 4.0,
+       "x": 50
+      },
+      {
+       "t": 5.0,
+       "x": 40
+      },
+      {
+       "t": 6.1,
+       "x": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 40.85,
+   "end": 48.0,
+   "layers": [
+    {
+     "type": "text",
+     "text": "~200 COMPETITORS",
+     "x": 70,
+     "y": 230,
+     "size": 120,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "ALL ROUGHLY EQUAL",
+     "x": 70,
+     "y": 380,
+     "size": 100,
+     "bold": true,
+     "from": 3.0
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/dots200.png",
+     "x": 140,
+     "y": 560,
+     "w": 1000,
+     "to": 4.0,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 2.0,
+       "w": 1000,
+       "x": 140
+      },
+      {
+       "t": 2.1,
+       "w": 1010,
+       "x": 135
+      },
+      {
+       "t": 2.25,
+       "w": 1000,
+       "x": 140
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/dots60.png",
+     "x": 140,
+     "y": 560,
+     "w": 1000,
+     "from": 4.0,
+     "to": 4.7
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/dots12.png",
+     "x": 140,
+     "y": 560,
+     "w": 1000,
+     "from": 4.7,
+     "to": 5.4
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/dots1.png",
+     "x": 140,
+     "y": 560,
+     "w": 1000,
+     "from": 5.4
+    },
+    {
+     "type": "text",
+     "text": "1 LEFT.",
+     "x": 420,
+     "y": 1600,
+     "size": 160,
+     "bold": true,
+     "from": 5.6,
+     "color": "#5A9E1A"
+    }
+   ]
+  },
+  {
+   "start": 48.0,
+   "end": 51.05,
+   "layers": [
+    {
+     "type": "text",
+     "text": "KNOW WHY",
+     "x": 70,
+     "y": 230,
+     "size": 140,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "YOU WIN",
+     "x": 70,
+     "y": 400,
+     "size": 150,
+     "bold": true,
+     "from": 1.1,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v12_why.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "alpha": 1
+      },
+      {
+       "t": 1.1,
+       "angle": 0
+      },
+      {
+       "t": 1.3,
+       "angle": -0.015
+      },
+      {
+       "t": 1.5,
+       "angle": 0
+      },
+      {
+       "t": 3.0,
+       "w": 1230,
+       "x": 25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 51.05,
+   "end": 58.32,
+   "layers": [
+    {
+     "type": "text",
+     "text": "LESSON #3",
+     "x": 70,
+     "y": 210,
+     "size": 110,
+     "bold": true,
+     "color": "#E8A317"
+    },
+    {
+     "type": "text",
+     "text": "GET COMFORTABLE",
+     "x": 70,
+     "y": 340,
+     "size": 110,
+     "bold": true,
+     "from": 0.95
+    },
+    {
+     "type": "text",
+     "text": "WITH AMBIGUITY",
+     "x": 70,
+     "y": 450,
+     "size": 110,
+     "bold": true,
+     "from": 1.4
+    },
+    {
+     "type": "text",
+     "text": "YOU DON'T NEED TO BE OUTGOING",
+     "x": 70,
+     "y": 1500,
+     "size": 72,
+     "bold": true,
+     "from": 2.75
+    },
+    {
+     "type": "text",
+     "text": "BUT ACT BEFORE IT'S CLEAR",
+     "x": 70,
+     "y": 1610,
+     "size": 80,
+     "bold": true,
+     "from": 4.55,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v13_fog.png",
+     "x": 190,
+     "y": 560,
+     "w": 900,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.5,
+       "alpha": 1,
+       "w": 900,
+       "x": 190,
+       "y": 560
+      },
+      {
+       "t": 5.8,
+       "w": 930,
+       "x": 175,
+       "y": 548
+      },
+      {
+       "t": 6.0,
+       "w": 930,
+       "x": 175,
+       "y": 558
+      },
+      {
+       "t": 6.2,
+       "w": 930,
+       "x": 175,
+       "y": 548
+      },
+      {
+       "t": 7.2,
+       "w": 950,
+       "x": 165,
+       "y": 540
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 58.32,
+   "end": 61.15,
+   "layers": [
+    {
+     "type": "text",
+     "text": "LESSON #4",
+     "x": 70,
+     "y": 210,
+     "size": 110,
+     "bold": true,
+     "color": "#E8A317"
+    },
+    {
+     "type": "text",
+     "text": "TEAR IT DOWN.",
+     "x": 70,
+     "y": 350,
+     "size": 130,
+     "bold": true,
+     "from": 0.95,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "REBUILD.",
+     "x": 70,
+     "y": 1560,
+     "size": 150,
+     "bold": true,
+     "from": 2.05,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v14_collapse.png",
+     "x": 160,
+     "y": 480,
+     "w": 960,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.2,
+       "alpha": 1,
+       "angle": 0
+      },
+      {
+       "t": 0.3,
+       "angle": 0.02
+      },
+      {
+       "t": 0.4,
+       "angle": -0.02
+      },
+      {
+       "t": 0.5,
+       "angle": 0.015
+      },
+      {
+       "t": 0.6,
+       "angle": 0
+      },
+      {
+       "t": 1.0,
+       "angle": 0,
+       "y": 480
+      },
+      {
+       "t": 1.1,
+       "angle": 0.02,
+       "y": 490
+      },
+      {
+       "t": 1.25,
+       "angle": -0.015
+      },
+      {
+       "t": 1.4,
+       "angle": 0,
+       "y": 480
+      },
+      {
+       "t": 2.8,
+       "w": 1000,
+       "x": 140
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 61.15,
+   "end": 67.31,
+   "layers": [
+    {
+     "type": "text",
+     "text": "EVERY SUCCESS",
+     "x": 70,
+     "y": 230,
+     "size": 120,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "~ONCE A DECADE",
+     "x": 70,
+     "y": 380,
+     "size": 120,
+     "bold": true,
+     "from": 1.75,
+     "color": "#E8A317"
+    },
+    {
+     "type": "underline",
+     "x": 70,
+     "y": 480,
+     "w": 600,
+     "color": "#E8A317",
+     "from": 2.1,
+     "keys": [
+      {
+       "t": 2.1,
+       "progress": 0
+      },
+      {
+       "t": 2.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "BEFORE YOUR COMPETITORS",
+     "x": 70,
+     "y": 1530,
+     "size": 90,
+     "bold": true,
+     "from": 3.2,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "DO IT FOR YOU.",
+     "x": 70,
+     "y": 1640,
+     "size": 90,
+     "bold": true,
+     "from": 4.4,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v15_rebuild.png",
+     "x": 50,
+     "y": 420,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "y": 520
+      },
+      {
+       "t": 0.35,
+       "alpha": 1,
+       "y": 420
+      },
+      {
+       "t": 0.45,
+       "y": 426
+      },
+      {
+       "t": 0.6,
+       "y": 420
+      },
+      {
+       "t": 1.7,
+       "w": 1180,
+       "x": 50
+      },
+      {
+       "t": 3.0,
+       "w": 1240,
+       "x": 20
+      },
+      {
+       "t": 6.1,
+       "w": 1180,
+       "x": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 67.31,
+   "end": 71.35,
+   "layers": [
+    {
+     "type": "text",
+     "text": "SKILL",
+     "x": 220,
+     "y": 560,
+     "size": 140,
+     "bold": true,
+     "from": 0.75
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       110,
+       640
+      ],
+      [
+       140,
+       675
+      ],
+      [
+       195,
+       600
+      ]
+     ],
+     "color": "#5A9E1A",
+     "lineWidth": 10,
+     "from": 0.85,
+     "keys": [
+      {
+       "t": 0.85,
+       "progress": 0
+      },
+      {
+       "t": 1.1,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "INTELLECT",
+     "x": 220,
+     "y": 760,
+     "size": 140,
+     "bold": true,
+     "from": 1.35
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       110,
+       840
+      ],
+      [
+       140,
+       875
+      ],
+      [
+       195,
+       800
+      ]
+     ],
+     "color": "#5A9E1A",
+     "lineWidth": 10,
+     "from": 1.45,
+     "keys": [
+      {
+       "t": 1.45,
+       "progress": 0
+      },
+      {
+       "t": 1.7,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "TRAINING",
+     "x": 220,
+     "y": 960,
+     "size": 140,
+     "bold": true,
+     "from": 2.0
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       110,
+       1040
+      ],
+      [
+       140,
+       1075
+      ],
+      [
+       195,
+       1000
+      ]
+     ],
+     "color": "#5A9E1A",
+     "lineWidth": 10,
+     "from": 2.1,
+     "keys": [
+      {
+       "t": 2.1,
+       "progress": 0
+      },
+      {
+       "t": 2.35,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "NOT ENOUGH.",
+     "x": 180,
+     "y": 1260,
+     "size": 160,
+     "bold": true,
+     "from": 3.0,
+     "color": "#EC4338"
+    }
+   ]
+  },
+  {
+   "start": 71.35,
+   "end": 74.22,
+   "layers": [
+    {
+     "type": "text",
+     "text": "PASSION",
+     "x": 70,
+     "y": 230,
+     "size": 190,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "FOR THE PAINFUL PARTS",
+     "x": 70,
+     "y": 430,
+     "size": 96,
+     "bold": true,
+     "from": 0.9
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v17_passion.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "x": 110
+      },
+      {
+       "t": 0.3,
+       "alpha": 1,
+       "x": 50
+      },
+      {
+       "t": 1.5,
+       "y": 480
+      },
+      {
+       "t": 1.55,
+       "y": 470
+      },
+      {
+       "t": 1.7,
+       "y": 480
+      },
+      {
+       "t": 2.8,
+       "x": 10,
+       "y": 460
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 74.22,
+   "end": 77.14,
+   "layers": [
+    {
+     "type": "text",
+     "text": "WHICH LESSON",
+     "x": 70,
+     "y": 230,
+     "size": 130,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "DO YOU NEED?",
+     "x": 70,
+     "y": 380,
+     "size": 140,
+     "bold": true,
+     "from": 0.5,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "#1 PERSPECTIVE",
+     "x": 70,
+     "y": 640,
+     "size": 100,
+     "bold": true,
+     "from": 0.7
+    },
+    {
+     "type": "text",
+     "text": "#2 GO AGAINST",
+     "x": 70,
+     "y": 800,
+     "size": 100,
+     "bold": true,
+     "from": 0.9
+    },
+    {
+     "type": "text",
+     "text": "#3 AMBIGUITY",
+     "x": 70,
+     "y": 960,
+     "size": 100,
+     "bold": true,
+     "from": 1.1
+    },
+    {
+     "type": "text",
+     "text": "#4 REBUILD",
+     "x": 70,
+     "y": 1120,
+     "size": 100,
+     "bold": true,
+     "from": 1.3
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/p_bubble.png",
+     "x": 760,
+     "y": 1240,
+     "w": 440,
+     "from": 1.65,
+     "keys": [
+      {
+       "t": 1.65,
+       "w": 280,
+       "x": 840,
+       "alpha": 0
+      },
+      {
+       "t": 1.9,
+       "w": 460,
+       "x": 750,
+       "alpha": 1
+      },
+      {
+       "t": 2.05,
+       "w": 440,
+       "x": 760
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sfx": []
+}

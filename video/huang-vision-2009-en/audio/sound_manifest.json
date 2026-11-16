@@ -1,0 +1,251 @@
+{
+ "lead": 0.15,
+ "source": "original procedural synthesis (make_sfx.py), no third-party audio, no music",
+ "cues": [
+  {
+   "t": 0.15,
+   "cue": "\"1993\" slams in",
+   "peak_dB": -20
+  },
+  {
+   "t": 0.9,
+   "cue": "keyboard taps",
+   "peak_dB": -28
+  },
+  {
+   "t": 1.05,
+   "cue": "keyboard taps",
+   "peak_dB": -28
+  },
+  {
+   "t": 1.25,
+   "cue": "keyboard taps",
+   "peak_dB": -28
+  },
+  {
+   "t": 1.85,
+   "cue": "cut to investors",
+   "peak_dB": -22
+  },
+  {
+   "t": 3.0,
+   "cue": "controller crossed out",
+   "peak_dB": -28
+  },
+  {
+   "t": 5.6,
+   "cue": "job-ads page in apron",
+   "peak_dB": -26
+  },
+  {
+   "t": 9.6,
+   "cue": "lectern mic tap",
+   "peak_dB": -24
+  },
+  {
+   "t": 14.1,
+   "cue": "pen strikes out VISION",
+   "peak_dB": -22
+  },
+  {
+   "t": 15.35,
+   "cue": "PERSPECTIVE appears",
+   "peak_dB": -24
+  },
+  {
+   "t": 20.7,
+   "cue": "expensive workstation",
+   "peak_dB": -24
+  },
+  {
+   "t": 22.5,
+   "cue": "price drops: cheap",
+   "peak_dB": -22
+  },
+  {
+   "t": 24.0,
+   "cue": "cube becomes controller",
+   "peak_dB": -24
+  },
+  {
+   "t": 25.1,
+   "cue": "controller pop",
+   "peak_dB": -24
+  },
+  {
+   "t": 27.75,
+   "cue": "lesson 2 title",
+   "peak_dB": -22
+  },
+  {
+   "t": 31.0,
+   "cue": "computer maker named",
+   "peak_dB": -22
+  },
+  {
+   "t": 31.4,
+   "cue": "computer maker named",
+   "peak_dB": -22
+  },
+  {
+   "t": 31.8,
+   "cue": "computer maker named",
+   "peak_dB": -22
+  },
+  {
+   "t": 32.3,
+   "cue": "computer maker named",
+   "peak_dB": -22
+  },
+  {
+   "t": 33.65,
+   "cue": "TOO EXPENSIVE stamp",
+   "peak_dB": -14
+  },
+  {
+   "t": 35.2,
+   "cue": "heartbeat under the big bet",
+   "peak_dB": -16
+  },
+  {
+   "t": 36.0,
+   "cue": "heartbeat under the big bet",
+   "peak_dB": -16
+  },
+  {
+   "t": 36.8,
+   "cue": "heartbeat under the big bet",
+   "peak_dB": -16
+  },
+  {
+   "t": 44.8,
+   "cue": "competitors disappear",
+   "peak_dB": -30
+  },
+  {
+   "t": 44.981,
+   "cue": "competitors disappear",
+   "peak_dB": -30
+  },
+  {
+   "t": 45.162,
+   "cue": "competitors disappear",
+   "peak_dB": -30
+  },
+  {
+   "t": 45.344,
+   "cue": "competitors disappear",
+   "peak_dB": -30
+  },
+  {
+   "t": 45.525,
+   "cue": "competitors disappear",
+   "peak_dB": -30
+  },
+  {
+   "t": 45.706,
+   "cue": "competitors disappear",
+   "peak_dB": -30
+  },
+  {
+   "t": 45.888,
+   "cue": "competitors disappear",
+   "peak_dB": -30
+  },
+  {
+   "t": 46.069,
+   "cue": "competitors disappear",
+   "peak_dB": -30
+  },
+  {
+   "t": 46.25,
+   "cue": "competitors disappear",
+   "peak_dB": -30
+  },
+  {
+   "t": 46.45,
+   "cue": "one survivor left",
+   "peak_dB": -24
+  },
+  {
+   "t": 49.2,
+   "cue": "gears click",
+   "peak_dB": -30
+  },
+  {
+   "t": 51.15,
+   "cue": "lesson 3 title, into fog",
+   "peak_dB": -26
+  },
+  {
+   "t": 56.85,
+   "cue": "step forward",
+   "peak_dB": -24
+  },
+  {
+   "t": 58.45,
+   "cue": "block tower collapses",
+   "peak_dB": -16
+  },
+  {
+   "t": 58.6,
+   "cue": "block tower collapses",
+   "peak_dB": -16
+  },
+  {
+   "t": 58.77,
+   "cue": "block tower collapses",
+   "peak_dB": -16
+  },
+  {
+   "t": 58.95,
+   "cue": "block tower collapses",
+   "peak_dB": -16
+  },
+  {
+   "t": 59.15,
+   "cue": "block tower collapses",
+   "peak_dB": -16
+  },
+  {
+   "t": 60.25,
+   "cue": "REBUILD",
+   "peak_dB": -24
+  },
+  {
+   "t": 61.6,
+   "cue": "last block placed",
+   "peak_dB": -20
+  },
+  {
+   "t": 68.15,
+   "cue": "check mark",
+   "peak_dB": -22
+  },
+  {
+   "t": 68.75,
+   "cue": "check mark",
+   "peak_dB": -22
+  },
+  {
+   "t": 69.4,
+   "cue": "check mark",
+   "peak_dB": -22
+  },
+  {
+   "t": 70.35,
+   "cue": "NOT ENOUGH",
+   "peak_dB": -22
+  },
+  {
+   "t": 71.4,
+   "cue": "PASSION",
+   "peak_dB": -24
+  },
+  {
+   "t": 75.95,
+   "cue": "comment bubble pops",
+   "peak_dB": -24
+  }
+ ]
+}

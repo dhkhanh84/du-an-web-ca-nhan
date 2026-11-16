@@ -1,0 +1,7 @@
+{
+  "preview_fingerprint": "20008dfd312651995663c9b9902d42fc82716293c1008488d79b1cba973fd7de",
+  "preview_seconds": 60,
+  "preview_sha256": "58a5cb7aaf5b867480a13106d6c59fd6c4bbadf6fc93b77ba0926dbe13abc132",
+  "note": "Same user authorization (2026-11-16); re-approved after lowering master to -3.2 dBFS sample peak for true-peak headroom.",
+  "approved_at": "2026-11-16T03:51:36.489Z"
+}

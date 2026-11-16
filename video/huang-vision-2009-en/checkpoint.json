@@ -1,6 +1,33 @@
-{"project":"huang-vision-2009-en","mode":"B","style":"B1","ratio":"9:16","source":"source-script.md (user upload, English)",
- "stage":"prepared_awaiting_cost_approval",
- "narration":{"language":"en","voice":"Algieba","model":"gemini-2.5-flash-preview-tts","text":"narration.txt (verbatim FULL VOICEOVER, 224 words)"},
- "images":"reused from ../huang-vision-2009/assets/cut (no new generation)",
- "assumptions_to_confirm":["ending: scene 8","no music","hand-drawn only","scene text font: Caveat"],
- "next_step":"User approves < 0.1 USD -> TTS -> hydrogen alignment -> build -> render"}
+{
+  "project": "huang-vision-2009-en",
+  "mode": "B",
+  "style": "B1",
+  "ratio": "9:16",
+  "source": "source-script.md (user upload, English)",
+  "stage": "film_delivered",
+  "narration": {
+    "language": "en",
+    "voice": "Algieba",
+    "model": "gemini-2.5-flash-preview-tts",
+    "text": "narration.txt (verbatim FULL VOICEOVER, 224 words)",
+    "duration_s": 76.69
+  },
+  "images": "reused 14 images + code-drawn assets from ../huang-vision-2009 (no new generation)",
+  "next_step": "none",
+  "alignment": "gemini-4-hydrogen in 6 chunks; cue text from measured pauses, in-phrase splits by character proportion (estimated)",
+  "approvals": {
+    "cost": "user 2026-11-16 (<0.1 USD)",
+    "sample": "waived by user"
+  },
+  "qa": {
+    "duration_s": 77.17,
+    "decode": "OK",
+    "loudness": "-18.6 LUFS integrated, -0.9 dBTP (master lowered after a +1.5 dBFS clip was found)",
+    "freeze_gt_2.5s": "none",
+    "captions": 55,
+    "not_done": [
+      "human listening review"
+    ]
+  },
+  "deliverable": "output/short_9x16.mp4 (1080x1920) + output/short_9x16.srt/.vtt"
+}

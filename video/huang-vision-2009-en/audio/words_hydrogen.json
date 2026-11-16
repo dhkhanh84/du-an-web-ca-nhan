@@ -1,0 +1,1348 @@
+{
+ "words": [
+  {
+   "start": 0.06,
+   "end": 0.16,
+   "word": "In",
+   "src": "In"
+  },
+  {
+   "start": 0.16,
+   "end": 1.08,
+   "word": "1993,",
+   "src": "1993,"
+  },
+  {
+   "start": 1.28,
+   "end": 1.78,
+   "word": "investors",
+   "src": "investors"
+  },
+  {
+   "start": 1.78,
+   "end": 2.02,
+   "word": "told",
+   "src": "told"
+  },
+  {
+   "start": 2.02,
+   "end": 2.26,
+   "word": "him",
+   "src": "him"
+  },
+  {
+   "start": 2.26,
+   "end": 2.52,
+   "word": "video",
+   "src": "video"
+  },
+  {
+   "start": 2.52,
+   "end": 2.84,
+   "word": "games",
+   "src": "games"
+  },
+  {
+   "start": 2.84,
+   "end": 3.18,
+   "word": "weren't",
+   "src": "weren't"
+  },
+  {
+   "start": 3.18,
+   "end": 3.3,
+   "word": "a",
+   "src": "a"
+  },
+  {
+   "start": 3.3,
+   "end": 3.7,
+   "word": "market.",
+   "src": "market."
+  },
+  {
+   "start": 4.02,
+   "end": 4.18,
+   "word": "His",
+   "src": "His"
+  },
+  {
+   "start": 4.18,
+   "end": 4.46,
+   "word": "mother",
+   "src": "mother"
+  },
+  {
+   "start": 4.46,
+   "end": 4.8,
+   "word": "asked",
+   "src": "asked"
+  },
+  {
+   "start": 4.8,
+   "end": 4.94,
+   "word": "why",
+   "src": "why"
+  },
+  {
+   "start": 4.94,
+   "end": 5.06,
+   "word": "he",
+   "src": "he"
+  },
+  {
+   "start": 5.06,
+   "end": 5.36,
+   "word": "didn't",
+   "src": "didn't"
+  },
+  {
+   "start": 5.36,
+   "end": 5.54,
+   "word": "just",
+   "src": "just"
+  },
+  {
+   "start": 5.54,
+   "end": 5.74,
+   "word": "get",
+   "src": "get"
+  },
+  {
+   "start": 5.74,
+   "end": 5.84,
+   "word": "a",
+   "src": "a"
+  },
+  {
+   "start": 5.84,
+   "end": 6.38,
+   "word": "job.",
+   "src": "job."
+  },
+  {
+   "start": 7.085,
+   "end": 7.605,
+   "word": "Sixteen",
+   "src": "Sixteen"
+  },
+  {
+   "start": 7.605,
+   "end": 7.865,
+   "word": "years",
+   "src": "years"
+  },
+  {
+   "start": 7.865,
+   "end": 8.325,
+   "word": "later,",
+   "src": "later,"
+  },
+  {
+   "start": 8.325,
+   "end": 8.465,
+   "word": "at",
+   "src": "at"
+  },
+  {
+   "start": 8.465,
+   "end": 9.105,
+   "word": "Stanford,",
+   "src": "Stanford,"
+  },
+  {
+   "start": 9.105,
+   "end": 9.485,
+   "word": "Jensen",
+   "src": "Jensen"
+  },
+  {
+   "start": 9.485,
+   "end": 9.825,
+   "word": "Huang",
+   "src": "Huang"
+  },
+  {
+   "start": 9.825,
+   "end": 10.245,
+   "word": "explained",
+   "src": "explained"
+  },
+  {
+   "start": 10.245,
+   "end": 10.485,
+   "word": "how",
+   "src": "how"
+  },
+  {
+   "start": 10.485,
+   "end": 10.645,
+   "word": "he",
+   "src": "he"
+  },
+  {
+   "start": 10.645,
+   "end": 10.925,
+   "word": "got",
+   "src": "got"
+  },
+  {
+   "start": 10.925,
+   "end": 11.265,
+   "word": "past",
+   "src": "past"
+  },
+  {
+   "start": 11.265,
+   "end": 11.545,
+   "word": "that.",
+   "src": "that."
+  },
+  {
+   "start": 12.005,
+   "end": 12.425,
+   "word": "Lesson",
+   "src": "Lesson"
+  },
+  {
+   "start": 12.425,
+   "end": 12.785,
+   "word": "one:",
+   "src": "one:"
+  },
+  {
+   "start": 12.985,
+   "end": 13.345,
+   "word": "don't",
+   "src": "don't"
+  },
+  {
+   "start": 13.345,
+   "end": 13.605,
+   "word": "wait",
+   "src": "wait"
+  },
+  {
+   "start": 13.605,
+   "end": 13.805,
+   "word": "for",
+   "src": "for"
+  },
+  {
+   "start": 13.805,
+   "end": 13.925,
+   "word": "a",
+   "src": "a"
+  },
+  {
+   "start": 13.925,
+   "end": 14.205,
+   "word": "grand",
+   "src": "grand"
+  },
+  {
+   "start": 14.205,
+   "end": 14.705,
+   "word": "vision.",
+   "src": "vision."
+  },
+  {
+   "start": 14.945,
+   "end": 15.485,
+   "word": "Everyone",
+   "src": "Everyone"
+  },
+  {
+   "start": 15.485,
+   "end": 15.745,
+   "word": "has",
+   "src": "has"
+  },
+  {
+   "start": 15.745,
+   "end": 15.845,
+   "word": "a",
+   "src": "a"
+  },
+  {
+   "start": 15.845,
+   "end": 16.385,
+   "word": "perspective.",
+   "src": "perspective."
+  },
+  {
+   "start": 16.565,
+   "end": 16.845,
+   "word": "That's",
+   "src": "That's"
+  },
+  {
+   "start": 16.845,
+   "end": 17.045,
+   "word": "all",
+   "src": "all"
+  },
+  {
+   "start": 17.045,
+   "end": 17.165,
+   "word": "a",
+   "src": "a"
+  },
+  {
+   "start": 17.165,
+   "end": 17.445,
+   "word": "vision",
+   "src": "vision"
+  },
+  {
+   "start": 17.445,
+   "end": 17.825,
+   "word": "really",
+   "src": "really"
+  },
+  {
+   "start": 17.825,
+   "end": 18.185,
+   "word": "is.",
+   "src": "is."
+  },
+  {
+   "start": 18.295,
+   "end": 18.455,
+   "word": "His",
+   "src": "His"
+  },
+  {
+   "start": 18.455,
+   "end": 18.955,
+   "word": "perspective",
+   "src": "perspective"
+  },
+  {
+   "start": 18.955,
+   "end": 19.075,
+   "word": "in",
+   "src": "in"
+  },
+  {
+   "start": 19.075,
+   "end": 19.855,
+   "word": "1993:",
+   "src": "1993:"
+  },
+  {
+   "start": 20.015,
+   "end": 20.275,
+   "word": "take",
+   "src": "take"
+  },
+  {
+   "start": 20.275,
+   "end": 20.675,
+   "word": "3D",
+   "src": "3D"
+  },
+  {
+   "start": 20.675,
+   "end": 21.155,
+   "word": "graphics",
+   "src": "graphics"
+  },
+  {
+   "start": 21.155,
+   "end": 21.335,
+   "word": "off",
+   "src": "off"
+  },
+  {
+   "start": 21.335,
+   "end": 21.815,
+   "word": "expensive",
+   "src": "expensive"
+  },
+  {
+   "start": 21.815,
+   "end": 22.595,
+   "word": "workstations,",
+   "src": "workstations,"
+  },
+  {
+   "start": 22.735,
+   "end": 22.955,
+   "word": "make",
+   "src": "make"
+  },
+  {
+   "start": 22.955,
+   "end": 23.115,
+   "word": "them",
+   "src": "them"
+  },
+  {
+   "start": 23.115,
+   "end": 23.475,
+   "word": "cheap,",
+   "src": "cheap,"
+  },
+  {
+   "start": 23.655,
+   "end": 23.795,
+   "word": "and",
+   "src": "and"
+  },
+  {
+   "start": 23.795,
+   "end": 23.955,
+   "word": "let",
+   "src": "let"
+  },
+  {
+   "start": 23.955,
+   "end": 24.255,
+   "word": "video",
+   "src": "video"
+  },
+  {
+   "start": 24.255,
+   "end": 24.615,
+   "word": "games",
+   "src": "games"
+  },
+  {
+   "start": 24.615,
+   "end": 24.855,
+   "word": "pull",
+   "src": "pull"
+  },
+  {
+   "start": 24.855,
+   "end": 24.955,
+   "word": "the",
+   "src": "the"
+  },
+  {
+   "start": 24.955,
+   "end": 25.215,
+   "word": "whole",
+   "src": "whole"
+  },
+  {
+   "start": 25.215,
+   "end": 25.655,
+   "word": "PC",
+   "src": "PC"
+  },
+  {
+   "start": 25.655,
+   "end": 25.955,
+   "word": "market",
+   "src": "market"
+  },
+  {
+   "start": 25.955,
+   "end": 26.475,
+   "word": "forward.",
+   "src": "forward."
+  },
+  {
+   "start": 27.34,
+   "end": 27.64,
+   "word": "Lesson",
+   "src": "Lesson"
+  },
+  {
+   "start": 27.64,
+   "end": 27.98,
+   "word": "two:",
+   "src": "two:"
+  },
+  {
+   "start": 28.28,
+   "end": 28.78,
+   "word": "sometimes",
+   "src": "sometimes"
+  },
+  {
+   "start": 28.78,
+   "end": 28.92,
+   "word": "you",
+   "src": "you"
+  },
+  {
+   "start": 28.92,
+   "end": 29.06,
+   "word": "go",
+   "src": "go"
+  },
+  {
+   "start": 29.06,
+   "end": 29.42,
+   "word": "against",
+   "src": "against"
+  },
+  {
+   "start": 29.42,
+   "end": 29.6,
+   "word": "your",
+   "src": "your"
+  },
+  {
+   "start": 29.6,
+   "end": 30.24,
+   "word": "customers.",
+   "src": "customers."
+  },
+  {
+   "start": 30.6,
+   "end": 30.9,
+   "word": "Dell,",
+   "src": "Dell,"
+  },
+  {
+   "start": 31.06,
+   "end": 31.48,
+   "word": "HP,",
+   "src": "HP,"
+  },
+  {
+   "start": 31.6,
+   "end": 32.16,
+   "word": "IBM",
+   "src": "IBM"
+  },
+  {
+   "start": 32.16,
+   "end": 32.34,
+   "word": "and",
+   "src": "and"
+  },
+  {
+   "start": 32.34,
+   "end": 32.76,
+   "word": "Gateway",
+   "src": "Gateway"
+  },
+  {
+   "start": 32.76,
+   "end": 33.02,
+   "word": "all",
+   "src": "all"
+  },
+  {
+   "start": 33.02,
+   "end": 33.26,
+   "word": "said",
+   "src": "said"
+  },
+  {
+   "start": 33.26,
+   "end": 33.36,
+   "word": "it",
+   "src": "it"
+  },
+  {
+   "start": 33.36,
+   "end": 33.62,
+   "word": "cost",
+   "src": "cost"
+  },
+  {
+   "start": 33.62,
+   "end": 33.84,
+   "word": "too",
+   "src": "too"
+  },
+  {
+   "start": 33.84,
+   "end": 34.24,
+   "word": "much.",
+   "src": "much."
+  },
+  {
+   "start": 34.44,
+   "end": 34.6,
+   "word": "He",
+   "src": "He"
+  },
+  {
+   "start": 34.6,
+   "end": 34.86,
+   "word": "still",
+   "src": "still"
+  },
+  {
+   "start": 34.86,
+   "end": 35.08,
+   "word": "bet",
+   "src": "bet"
+  },
+  {
+   "start": 35.08,
+   "end": 35.18,
+   "word": "the",
+   "src": "the"
+  },
+  {
+   "start": 35.18,
+   "end": 35.62,
+   "word": "company's",
+   "src": "company's"
+  },
+  {
+   "start": 35.62,
+   "end": 35.94,
+   "word": "last",
+   "src": "last"
+  },
+  {
+   "start": 35.94,
+   "end": 36.16,
+   "word": "few",
+   "src": "few"
+  },
+  {
+   "start": 36.16,
+   "end": 36.58,
+   "word": "million",
+   "src": "million"
+  },
+  {
+   "start": 36.58,
+   "end": 36.72,
+   "word": "on",
+   "src": "on"
+  },
+  {
+   "start": 36.72,
+   "end": 36.8,
+   "word": "a",
+   "src": "a"
+  },
+  {
+   "start": 36.8,
+   "end": 37.04,
+   "word": "chip",
+   "src": "chip"
+  },
+  {
+   "start": 37.04,
+   "end": 37.2,
+   "word": "that",
+   "src": "that"
+  },
+  {
+   "start": 37.2,
+   "end": 37.34,
+   "word": "was",
+   "src": "was"
+  },
+  {
+   "start": 37.34,
+   "end": 37.6,
+   "word": "far",
+   "src": "far"
+  },
+  {
+   "start": 37.6,
+   "end": 37.8,
+   "word": "too",
+   "src": "too"
+  },
+  {
+   "start": 37.8,
+   "end": 38.16,
+   "word": "big,",
+   "src": "big,"
+  },
+  {
+   "start": 38.46,
+   "end": 38.72,
+   "word": "sure",
+   "src": "sure"
+  },
+  {
+   "start": 38.72,
+   "end": 38.84,
+   "word": "the",
+   "src": "the"
+  },
+  {
+   "start": 38.84,
+   "end": 39.46,
+   "word": "technology",
+   "src": "technology"
+  },
+  {
+   "start": 39.46,
+   "end": 39.6,
+   "word": "would",
+   "src": "would"
+  },
+  {
+   "start": 39.6,
+   "end": 39.78,
+   "word": "get",
+   "src": "get"
+  },
+  {
+   "start": 39.78,
+   "end": 40.12,
+   "word": "cheap",
+   "src": "cheap"
+  },
+  {
+   "start": 40.12,
+   "end": 40.64,
+   "word": "fast.",
+   "src": "fast."
+  },
+  {
+   "start": 40.985,
+   "end": 41.265,
+   "word": "About",
+   "src": "About"
+  },
+  {
+   "start": 41.265,
+   "end": 41.485,
+   "word": "two",
+   "src": "two"
+  },
+  {
+   "start": 41.485,
+   "end": 41.785,
+   "word": "hundred",
+   "src": "hundred"
+  },
+  {
+   "start": 41.785,
+   "end": 42.285,
+   "word": "companies",
+   "src": "companies"
+  },
+  {
+   "start": 42.285,
+   "end": 42.485,
+   "word": "went",
+   "src": "went"
+  },
+  {
+   "start": 42.485,
+   "end": 42.765,
+   "word": "after",
+   "src": "after"
+  },
+  {
+   "start": 42.765,
+   "end": 43.125,
+   "word": "3D",
+   "src": "3D"
+  },
+  {
+   "start": 43.125,
+   "end": 43.685,
+   "word": "graphics.",
+   "src": "graphics."
+  },
+  {
+   "start": 43.985,
+   "end": 44.345,
+   "word": "Money,",
+   "src": "Money,"
+  },
+  {
+   "start": 44.525,
+   "end": 44.925,
+   "word": "talent",
+   "src": "talent"
+  },
+  {
+   "start": 44.925,
+   "end": 45.045,
+   "word": "and",
+   "src": "and"
+  },
+  {
+   "start": 45.045,
+   "end": 45.585,
+   "word": "technology",
+   "src": "technology"
+  },
+  {
+   "start": 45.585,
+   "end": 45.705,
+   "word": "were",
+   "src": "were"
+  },
+  {
+   "start": 45.705,
+   "end": 46.065,
+   "word": "roughly",
+   "src": "roughly"
+  },
+  {
+   "start": 46.065,
+   "end": 46.485,
+   "word": "equal.",
+   "src": "equal."
+  },
+  {
+   "start": 46.685,
+   "end": 46.865,
+   "word": "What",
+   "src": "What"
+  },
+  {
+   "start": 46.865,
+   "end": 47.285,
+   "word": "decided",
+   "src": "decided"
+  },
+  {
+   "start": 47.285,
+   "end": 47.445,
+   "word": "who",
+   "src": "who"
+  },
+  {
+   "start": 47.445,
+   "end": 47.985,
+   "word": "survived,",
+   "src": "survived,"
+  },
+  {
+   "start": 48.065,
+   "end": 48.205,
+   "word": "he",
+   "src": "he"
+  },
+  {
+   "start": 48.205,
+   "end": 48.525,
+   "word": "said,",
+   "src": "said,"
+  },
+  {
+   "start": 48.525,
+   "end": 48.685,
+   "word": "was",
+   "src": "was"
+  },
+  {
+   "start": 48.685,
+   "end": 49.285,
+   "word": "understanding",
+   "src": "understanding"
+  },
+  {
+   "start": 49.285,
+   "end": 49.465,
+   "word": "why",
+   "src": "why"
+  },
+  {
+   "start": 49.465,
+   "end": 49.625,
+   "word": "your",
+   "src": "your"
+  },
+  {
+   "start": 49.625,
+   "end": 49.965,
+   "word": "business",
+   "src": "business"
+  },
+  {
+   "start": 49.965,
+   "end": 50.365,
+   "word": "works.",
+   "src": "works."
+  },
+  {
+   "start": 50.65,
+   "end": 50.97,
+   "word": "Lesson",
+   "src": "Lesson"
+  },
+  {
+   "start": 50.97,
+   "end": 51.33,
+   "word": "three:",
+   "src": "three:"
+  },
+  {
+   "start": 51.55,
+   "end": 51.73,
+   "word": "get",
+   "src": "get"
+  },
+  {
+   "start": 51.73,
+   "end": 52.23,
+   "word": "comfortable",
+   "src": "comfortable"
+  },
+  {
+   "start": 52.23,
+   "end": 52.39,
+   "word": "with",
+   "src": "with"
+  },
+  {
+   "start": 52.39,
+   "end": 53.15,
+   "word": "ambiguity.",
+   "src": "ambiguity."
+  },
+  {
+   "start": 53.43,
+   "end": 53.77,
+   "word": "Leaders",
+   "src": "Leaders"
+  },
+  {
+   "start": 53.77,
+   "end": 53.97,
+   "word": "don't",
+   "src": "don't"
+  },
+  {
+   "start": 53.97,
+   "end": 54.13,
+   "word": "have",
+   "src": "have"
+  },
+  {
+   "start": 54.13,
+   "end": 54.21,
+   "word": "to",
+   "src": "to"
+  },
+  {
+   "start": 54.21,
+   "end": 54.33,
+   "word": "be",
+   "src": "be"
+  },
+  {
+   "start": 54.33,
+   "end": 54.95,
+   "word": "outgoing.",
+   "src": "outgoing."
+  },
+  {
+   "start": 55.17,
+   "end": 55.33,
+   "word": "They",
+   "src": "They"
+  },
+  {
+   "start": 55.33,
+   "end": 55.53,
+   "word": "do",
+   "src": "do"
+  },
+  {
+   "start": 55.53,
+   "end": 55.71,
+   "word": "have",
+   "src": "have"
+  },
+  {
+   "start": 55.71,
+   "end": 55.81,
+   "word": "to",
+   "src": "to"
+  },
+  {
+   "start": 55.81,
+   "end": 56.05,
+   "word": "act",
+   "src": "act"
+  },
+  {
+   "start": 56.05,
+   "end": 56.35,
+   "word": "before",
+   "src": "before"
+  },
+  {
+   "start": 56.35,
+   "end": 56.45,
+   "word": "the",
+   "src": "the"
+  },
+  {
+   "start": 56.45,
+   "end": 56.87,
+   "word": "outcome",
+   "src": "outcome"
+  },
+  {
+   "start": 56.87,
+   "end": 56.99,
+   "word": "is",
+   "src": "is"
+  },
+  {
+   "start": 56.99,
+   "end": 57.45,
+   "word": "clear.",
+   "src": "clear."
+  },
+  {
+   "start": 57.75,
+   "end": 58.07,
+   "word": "Lesson",
+   "src": "Lesson"
+  },
+  {
+   "start": 58.07,
+   "end": 58.43,
+   "word": "four:",
+   "src": "four:"
+  },
+  {
+   "start": 58.65,
+   "end": 58.85,
+   "word": "tear",
+   "src": "tear"
+  },
+  {
+   "start": 58.85,
+   "end": 58.95,
+   "word": "it",
+   "src": "it"
+  },
+  {
+   "start": 58.95,
+   "end": 59.23,
+   "word": "down",
+   "src": "down"
+  },
+  {
+   "start": 59.23,
+   "end": 59.37,
+   "word": "and",
+   "src": "and"
+  },
+  {
+   "start": 59.37,
+   "end": 60.03,
+   "word": "rebuild.",
+   "src": "rebuild."
+  },
+  {
+   "start": 60.35,
+   "end": 60.61,
+   "word": "Every",
+   "src": "Every"
+  },
+  {
+   "start": 60.61,
+   "end": 61.09,
+   "word": "success",
+   "src": "success"
+  },
+  {
+   "start": 61.09,
+   "end": 61.27,
+   "word": "has",
+   "src": "has"
+  },
+  {
+   "start": 61.27,
+   "end": 61.35,
+   "word": "to",
+   "src": "to"
+  },
+  {
+   "start": 61.35,
+   "end": 61.49,
+   "word": "be",
+   "src": "be"
+  },
+  {
+   "start": 61.49,
+   "end": 62.03,
+   "word": "rebuilt,",
+   "src": "rebuilt,"
+  },
+  {
+   "start": 62.27,
+   "end": 62.59,
+   "word": "roughly",
+   "src": "roughly"
+  },
+  {
+   "start": 62.59,
+   "end": 62.83,
+   "word": "once",
+   "src": "once"
+  },
+  {
+   "start": 62.83,
+   "end": 62.89,
+   "word": "a",
+   "src": "a"
+  },
+  {
+   "start": 62.89,
+   "end": 63.43,
+   "word": "decade.",
+   "src": "decade."
+  },
+  {
+   "start": 63.71,
+   "end": 63.83,
+   "word": "If",
+   "src": "If"
+  },
+  {
+   "start": 63.83,
+   "end": 63.95,
+   "word": "you",
+   "src": "you"
+  },
+  {
+   "start": 63.95,
+   "end": 64.17,
+   "word": "don't",
+   "src": "don't"
+  },
+  {
+   "start": 64.17,
+   "end": 64.55,
+   "word": "replace",
+   "src": "replace"
+  },
+  {
+   "start": 64.55,
+   "end": 64.69,
+   "word": "your",
+   "src": "your"
+  },
+  {
+   "start": 64.69,
+   "end": 64.85,
+   "word": "own",
+   "src": "own"
+  },
+  {
+   "start": 64.85,
+   "end": 65.35,
+   "word": "product,",
+   "src": "product,"
+  },
+  {
+   "start": 65.53,
+   "end": 65.67,
+   "word": "your",
+   "src": "your"
+  },
+  {
+   "start": 65.67,
+   "end": 66.27,
+   "word": "competitors",
+   "src": "competitors"
+  },
+  {
+   "start": 66.27,
+   "end": 66.67,
+   "word": "will.",
+   "src": "will."
+  },
+  {
+   "start": 67.01,
+   "end": 67.57,
+   "word": "Finally:",
+   "src": "Finally:"
+  },
+  {
+   "start": 67.77,
+   "end": 68.17,
+   "word": "skill,",
+   "src": "skill,"
+  },
+  {
+   "start": 68.41,
+   "end": 68.91,
+   "word": "intellect",
+   "src": "intellect"
+  },
+  {
+   "start": 68.91,
+   "end": 69.03,
+   "word": "and",
+   "src": "and"
+  },
+  {
+   "start": 69.03,
+   "end": 69.41,
+   "word": "training",
+   "src": "training"
+  },
+  {
+   "start": 69.41,
+   "end": 69.83,
+   "word": "matter,",
+   "src": "matter,"
+  },
+  {
+   "start": 70.05,
+   "end": 70.17,
+   "word": "but",
+   "src": "but"
+  },
+  {
+   "start": 70.17,
+   "end": 70.35,
+   "word": "they're",
+   "src": "they're"
+  },
+  {
+   "start": 70.35,
+   "end": 70.53,
+   "word": "not",
+   "src": "not"
+  },
+  {
+   "start": 70.53,
+   "end": 70.97,
+   "word": "enough.",
+   "src": "enough."
+  },
+  {
+   "start": 71.21,
+   "end": 71.35,
+   "word": "You",
+   "src": "You"
+  },
+  {
+   "start": 71.35,
+   "end": 71.55,
+   "word": "need",
+   "src": "need"
+  },
+  {
+   "start": 71.55,
+   "end": 71.99,
+   "word": "passion",
+   "src": "passion"
+  },
+  {
+   "start": 71.99,
+   "end": 72.13,
+   "word": "for",
+   "src": "for"
+  },
+  {
+   "start": 72.13,
+   "end": 72.23,
+   "word": "the",
+   "src": "the"
+  },
+  {
+   "start": 72.23,
+   "end": 72.63,
+   "word": "painful",
+   "src": "painful"
+  },
+  {
+   "start": 72.63,
+   "end": 72.95,
+   "word": "parts",
+   "src": "parts"
+  },
+  {
+   "start": 72.95,
+   "end": 73.05,
+   "word": "of",
+   "src": "of"
+  },
+  {
+   "start": 73.05,
+   "end": 73.35,
+   "word": "building",
+   "src": "building"
+  },
+  {
+   "start": 73.35,
+   "end": 73.41,
+   "word": "a",
+   "src": "a"
+  },
+  {
+   "start": 73.41,
+   "end": 73.99,
+   "word": "company.",
+   "src": "company."
+  },
+  {
+   "start": 74.31,
+   "end": 74.53,
+   "word": "Which",
+   "src": "Which"
+  },
+  {
+   "start": 74.53,
+   "end": 74.85,
+   "word": "lesson",
+   "src": "lesson"
+  },
+  {
+   "start": 74.85,
+   "end": 74.97,
+   "word": "do",
+   "src": "do"
+  },
+  {
+   "start": 74.97,
+   "end": 75.09,
+   "word": "you",
+   "src": "you"
+  },
+  {
+   "start": 75.09,
+   "end": 75.31,
+   "word": "need",
+   "src": "need"
+  },
+  {
+   "start": 75.31,
+   "end": 75.73,
+   "word": "most?",
+   "src": "most?"
+  },
+  {
+   "start": 75.97,
+   "end": 76.17,
+   "word": "Tell",
+   "src": "Tell"
+  },
+  {
+   "start": 76.17,
+   "end": 76.27,
+   "word": "me",
+   "src": "me"
+  },
+  {
+   "start": 76.27,
+   "end": 76.37,
+   "word": "in",
+   "src": "in"
+  },
+  {
+   "start": 76.37,
+   "end": 76.47,
+   "word": "the",
+   "src": "the"
+  },
+  {
+   "start": 76.47,
+   "end": 76.97,
+   "word": "comments.",
+   "src": "comments."
+  }
+ ]
+}
