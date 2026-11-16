@@ -1,0 +1,1361 @@
+{
+ "version": 1,
+ "style": "B1",
+ "width": 1080,
+ "height": 1560,
+ "fps": 30,
+ "captionSize": 56,
+ "font": "fonts/PatrickHand_400Regular.ttf",
+ "voice": {
+  "path": "audio/master_mix_norm.wav",
+  "lead": 0,
+  "tail": 0,
+  "contains_sfx": true
+ },
+ "captions": [
+  {
+   "start": 0.44,
+   "end": 1.73,
+   "text": "Năm 2009,"
+  },
+  {
+   "start": 1.75,
+   "end": 3.69,
+   "text": "khi AI còn chưa bùng nổ,"
+  },
+  {
+   "start": 3.71,
+   "end": 5.066,
+   "text": "thông điệp của Jensen Huang"
+  },
+  {
+   "start": 5.086,
+   "end": 6.08,
+   "text": "ở Stanford là:"
+  },
+  {
+   "start": 6.1,
+   "end": 7.53,
+   "text": "đừng chỉ nghe khách hàng."
+  },
+  {
+   "start": 7.62,
+   "end": 9.19,
+   "text": "Hãy nghe Định luật Moore."
+  },
+  {
+   "start": 9.81,
+   "end": 10.945,
+   "text": "Định luật Moore dự đoán"
+  },
+  {
+   "start": 10.965,
+   "end": 12.101,
+   "text": "số transistor trên chip"
+  },
+  {
+   "start": 12.121,
+   "end": 12.855,
+   "text": "sẽ tăng gấp đôi"
+  },
+  {
+   "start": 12.875,
+   "end": 14.38,
+   "text": "sau mỗi khoảng hai năm."
+  },
+  {
+   "start": 14.69,
+   "end": 16.218,
+   "text": "Hầu hết công ty dùng quy luật này"
+  },
+  {
+   "start": 16.238,
+   "end": 17.48,
+   "text": "để dự báo kỹ thuật."
+  },
+  {
+   "start": 17.67,
+   "end": 18.486,
+   "text": "Jensen dùng nó"
+  },
+  {
+   "start": 18.506,
+   "end": 20.05,
+   "text": "để dự báo tương lai."
+  },
+  {
+   "start": 20.64,
+   "end": 21.67,
+   "text": "Thập niên 90,"
+  },
+  {
+   "start": 21.69,
+   "end": 23.58,
+   "text": "khách hàng chỉ muốn game đẹp hơn."
+  },
+  {
+   "start": 23.8,
+   "end": 25.377,
+   "text": "Nhưng NVIDIA liên tục làm GPU"
+  },
+  {
+   "start": 25.397,
+   "end": 26.369,
+   "text": "mạnh gấp nhiều lần"
+  },
+  {
+   "start": 26.389,
+   "end": 27.62,
+   "text": "nhu cầu thực tế."
+  },
+  {
+   "start": 27.89,
+   "end": 29.33,
+   "text": "Khách hàng chê quá đắt."
+  },
+  {
+   "start": 29.45,
+   "end": 30.74,
+   "text": "Jensen thì nghĩ:"
+  },
+  {
+   "start": 30.97,
+   "end": 31.995,
+   "text": "Khi sức mạnh tính toán"
+  },
+  {
+   "start": 32.015,
+   "end": 33.03,
+   "text": "tăng đủ nhanh,"
+  },
+  {
+   "start": 33.06,
+   "end": 34.208,
+   "text": "những ứng dụng hoàn toàn mới"
+  },
+  {
+   "start": 34.228,
+   "end": 35.12,
+   "text": "sẽ xuất hiện."
+  },
+  {
+   "start": 35.55,
+   "end": 37.24,
+   "text": "Ông đặt cược vào GPU."
+  },
+  {
+   "start": 37.34,
+   "end": 38.8,
+   "text": "Sau đó là CUDA."
+  },
+  {
+   "start": 38.86,
+   "end": 40.27,
+   "text": "Sau đó là AI."
+  },
+  {
+   "start": 40.51,
+   "end": 41.56,
+   "text": "15 năm sau,"
+  },
+  {
+   "start": 41.58,
+   "end": 43.095,
+   "text": "cả thế giới chạy đua xây AI"
+  },
+  {
+   "start": 43.115,
+   "end": 45.0,
+   "text": "bằng chính con chip NVIDIA."
+  },
+  {
+   "start": 45.61,
+   "end": 47.42,
+   "text": "Bài học lớn nhất từ Jensen Huang:"
+  },
+  {
+   "start": 47.67,
+   "end": 49.31,
+   "text": "Khách hàng nói về hiện tại."
+  },
+  {
+   "start": 49.47,
+   "end": 51.1,
+   "text": "Công nghệ nói về tương lai."
+  },
+  {
+   "start": 51.36,
+   "end": 52.49,
+   "text": "Những công ty vĩ đại"
+  },
+  {
+   "start": 52.51,
+   "end": 54.1,
+   "text": "không chỉ dự đoán nhu cầu."
+  },
+  {
+   "start": 54.15,
+   "end": 55.475,
+   "text": "Họ dự đoán nơi mà công nghệ"
+  },
+  {
+   "start": 55.495,
+   "end": 57.04,
+   "text": "sẽ đưa nhân loại đến tiếp theo."
+  }
+ ],
+ "shots": [
+  {
+   "start": 0,
+   "end": 3.7,
+   "layers": [
+    {
+     "type": "text",
+     "text": "2009",
+     "x": 70,
+     "y": 300,
+     "size": 252,
+     "bold": true,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "x": 140
+      },
+      {
+       "t": 0.25,
+       "alpha": 1,
+       "x": 70
+      }
+     ],
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "AI CHƯA BÙNG NỔ",
+     "x": 560,
+     "y": 300,
+     "size": 86,
+     "bold": true,
+     "w": 700,
+     "from": 1.6,
+     "color": "#E8A317"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v04_stage.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "alpha": 1
+      },
+      {
+       "t": 1.6,
+       "y": 480
+      },
+      {
+       "t": 1.65,
+       "y": 487
+      },
+      {
+       "t": 1.8,
+       "y": 480
+      },
+      {
+       "t": 3.67,
+       "w": 1240,
+       "x": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 3.7,
+   "end": 9.6,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THÔNG ĐIỆP Ở STANFORD:",
+     "x": 70,
+     "y": 230,
+     "size": 96,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "KHÔNG CHỈ KHÁCH HÀNG.",
+     "x": 70,
+     "y": 380,
+     "size": 103,
+     "bold": true,
+     "from": 2.4,
+     "w": 1180,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "HÃY NGHE ĐỊNH LUẬT MOORE.",
+     "x": 70,
+     "y": 1580,
+     "size": 96,
+     "bold": true,
+     "from": 3.9,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/n01_listen.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "x": 110
+      },
+      {
+       "t": 0.35,
+       "alpha": 1,
+       "x": 50
+      },
+      {
+       "t": 2.4,
+       "angle": 0
+      },
+      {
+       "t": 2.55,
+       "angle": -0.015
+      },
+      {
+       "t": 2.7,
+       "angle": 0
+      },
+      {
+       "t": 3.9,
+       "w": 1180,
+       "x": 50
+      },
+      {
+       "t": 5.87,
+       "w": 1240,
+       "x": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 9.6,
+   "end": 14.6,
+   "layers": [
+    {
+     "type": "text",
+     "text": "ĐỊNH LUẬT MOORE",
+     "x": 70,
+     "y": 230,
+     "size": 132,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "TRANSISTOR x2",
+     "x": 70,
+     "y": 400,
+     "size": 120,
+     "bold": true,
+     "from": 2.3,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "text",
+     "text": "~2 NĂM MỘT LẦN",
+     "x": 70,
+     "y": 1580,
+     "size": 110,
+     "bold": true,
+     "from": 3.4,
+     "w": 1180
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/chip1.png",
+     "x": 190,
+     "y": 560,
+     "w": 900,
+     "from": 0.5,
+     "to": 1.1,
+     "keys": [
+      {
+       "t": 0.5,
+       "w": 930,
+       "x": 175
+      },
+      {
+       "t": 0.62,
+       "w": 900,
+       "x": 190
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/chip2.png",
+     "x": 190,
+     "y": 560,
+     "w": 900,
+     "from": 1.1,
+     "to": 1.7,
+     "keys": [
+      {
+       "t": 1.1,
+       "w": 930,
+       "x": 175
+      },
+      {
+       "t": 1.22,
+       "w": 900,
+       "x": 190
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/chip4.png",
+     "x": 190,
+     "y": 560,
+     "w": 900,
+     "from": 1.7,
+     "to": 2.3,
+     "keys": [
+      {
+       "t": 1.7,
+       "w": 930,
+       "x": 175
+      },
+      {
+       "t": 1.82,
+       "w": 900,
+       "x": 190
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/chip8.png",
+     "x": 190,
+     "y": 560,
+     "w": 900,
+     "from": 2.3,
+     "to": 2.9,
+     "keys": [
+      {
+       "t": 2.3,
+       "w": 930,
+       "x": 175
+      },
+      {
+       "t": 2.42,
+       "w": 900,
+       "x": 190
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/chip16.png",
+     "x": 190,
+     "y": 560,
+     "w": 900,
+     "from": 2.9,
+     "to": 3.5,
+     "keys": [
+      {
+       "t": 2.9,
+       "w": 930,
+       "x": 175
+      },
+      {
+       "t": 3.02,
+       "w": 900,
+       "x": 190
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/chip32.png",
+     "x": 190,
+     "y": 560,
+     "w": 900,
+     "from": 3.5,
+     "to": 4.1,
+     "keys": [
+      {
+       "t": 3.5,
+       "w": 930,
+       "x": 175
+      },
+      {
+       "t": 3.62,
+       "w": 900,
+       "x": 190
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/chip64.png",
+     "x": 190,
+     "y": 560,
+     "w": 900,
+     "from": 4.1,
+     "keys": [
+      {
+       "t": 4.1,
+       "w": 930,
+       "x": 175
+      },
+      {
+       "t": 4.22,
+       "w": 900,
+       "x": 190
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 14.6,
+   "end": 20.5,
+   "layers": [
+    {
+     "type": "text",
+     "text": "NGƯỜI KHÁC: DỰ BÁO KỸ THUẬT",
+     "x": 70,
+     "y": 230,
+     "size": 86,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "JENSEN: DỰ BÁO TƯƠNG LAI",
+     "x": 70,
+     "y": 380,
+     "size": 96,
+     "bold": true,
+     "from": 3.05,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v12_why.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "to": 3.0,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "alpha": 1
+      },
+      {
+       "t": 1.4,
+       "angle": 0
+      },
+      {
+       "t": 1.55,
+       "angle": -0.015
+      },
+      {
+       "t": 1.7,
+       "angle": 0
+      },
+      {
+       "t": 2.95,
+       "alpha": 0.2
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v05_lens.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "from": 3.0,
+     "keys": [
+      {
+       "t": 3.0,
+       "alpha": 0,
+       "y": 520
+      },
+      {
+       "t": 3.35,
+       "alpha": 1,
+       "y": 480
+      },
+      {
+       "t": 5.87,
+       "w": 1230,
+       "x": 25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 20.5,
+   "end": 23.7,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THẬP NIÊN 90",
+     "x": 70,
+     "y": 230,
+     "size": 144,
+     "bold": true,
+     "w": 1180,
+     "color": "#27408B"
+    },
+    {
+     "type": "text",
+     "text": "KHÁCH HÀNG MUỐN",
+     "x": 70,
+     "y": 390,
+     "size": 108,
+     "bold": true,
+     "from": 1.15,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "GAME ĐẸP HƠN!",
+     "x": 70,
+     "y": 1580,
+     "size": 120,
+     "bold": true,
+     "from": 1.6,
+     "w": 1180,
+     "color": "#E8A317"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/n02_gamers.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "alpha": 1
+      },
+      {
+       "t": 1.15,
+       "y": 480
+      },
+      {
+       "t": 1.2,
+       "y": 472
+      },
+      {
+       "t": 1.35,
+       "y": 480
+      },
+      {
+       "t": 3.17,
+       "w": 1230,
+       "x": 25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 23.7,
+   "end": 27.75,
+   "layers": [
+    {
+     "type": "text",
+     "text": "MẠNH GẤP NHIỀU LẦN",
+     "x": 70,
+     "y": 230,
+     "size": 120,
+     "bold": true,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "text",
+     "text": "NHU CẦU THỰC TẾ",
+     "x": 70,
+     "y": 390,
+     "size": 120,
+     "bold": true,
+     "from": 2.0,
+     "w": 1180
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/n03_overpowered.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "x": -80
+      },
+      {
+       "t": 0.4,
+       "alpha": 1,
+       "x": 50
+      },
+      {
+       "t": 2.0,
+       "y": 480
+      },
+      {
+       "t": 2.06,
+       "y": 490
+      },
+      {
+       "t": 2.2,
+       "y": 480
+      },
+      {
+       "t": 4.0,
+       "w": 1230,
+       "x": 25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 27.75,
+   "end": 30.85,
+   "layers": [
+    {
+     "type": "text",
+     "text": "KHÁCH HÀNG:",
+     "x": 70,
+     "y": 230,
+     "size": 120,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "\"QUÁ ĐẮT!\"",
+     "x": 70,
+     "y": 380,
+     "size": 144,
+     "bold": true,
+     "from": 0.25,
+     "w": 1180,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "JENSEN THÌ NGHĨ KHÁC.",
+     "x": 70,
+     "y": 1570,
+     "size": 96,
+     "bold": true,
+     "from": 1.65,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v02_investors.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "alpha": 1
+      },
+      {
+       "t": 0.6,
+       "angle": 0
+      },
+      {
+       "t": 0.75,
+       "angle": 0.02
+      },
+      {
+       "t": 0.9,
+       "angle": -0.02
+      },
+      {
+       "t": 1.05,
+       "angle": 0
+      },
+      {
+       "t": 3.07,
+       "w": 1220,
+       "x": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 30.85,
+   "end": 35.45,
+   "layers": [
+    {
+     "type": "text",
+     "text": "SỨC MẠNH TÍNH TOÁN TĂNG",
+     "x": 70,
+     "y": 230,
+     "size": 96,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "= ỨNG DỤNG MỚI",
+     "x": 70,
+     "y": 380,
+     "size": 120,
+     "bold": true,
+     "from": 2.2,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/n05_apps.png",
+     "x": -200,
+     "y": 330,
+     "w": 1680,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "w": 1500,
+       "x": -110,
+       "y": 420
+      },
+      {
+       "t": 0.5,
+       "alpha": 1,
+       "w": 1680,
+       "x": -200,
+       "y": 330
+      },
+      {
+       "t": 2.2,
+       "w": 1680,
+       "x": -200
+      },
+      {
+       "t": 2.3,
+       "w": 1710,
+       "x": -215
+      },
+      {
+       "t": 2.45,
+       "w": 1680,
+       "x": -200
+      },
+      {
+       "t": 4.57,
+       "w": 1760,
+       "x": -240
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 35.45,
+   "end": 40.42,
+   "layers": [
+    {
+     "type": "text",
+     "text": "NHỮNG CANH BẠC",
+     "x": 70,
+     "y": 230,
+     "size": 132,
+     "bold": true,
+     "w": 1180,
+     "color": "#E8A317"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/box.png",
+     "x": 430,
+     "y": 600,
+     "w": 420,
+     "from": 1.0,
+     "keys": [
+      {
+       "t": 1.0,
+       "alpha": 0,
+       "w": 470,
+       "x": 405
+      },
+      {
+       "t": 1.15,
+       "alpha": 1,
+       "w": 420,
+       "x": 430
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "GPU",
+     "x": 545,
+     "y": 680,
+     "size": 120,
+     "bold": true,
+     "from": 1.05,
+     "w": 705
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       640,
+       860
+      ],
+      [
+       640,
+       930
+      ]
+     ],
+     "color": "#444444",
+     "lineWidth": 7,
+     "from": 2.1,
+     "keys": [
+      {
+       "t": 2.1,
+       "progress": 0
+      },
+      {
+       "t": 2.3,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/box.png",
+     "x": 430,
+     "y": 950,
+     "w": 420,
+     "from": 2.3,
+     "keys": [
+      {
+       "t": 2.3,
+       "alpha": 0,
+       "w": 470,
+       "x": 405
+      },
+      {
+       "t": 2.45,
+       "alpha": 1,
+       "w": 420,
+       "x": 430
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "CUDA",
+     "x": 520,
+     "y": 1030,
+     "size": 120,
+     "bold": true,
+     "from": 2.35,
+     "w": 730
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       640,
+       1210
+      ],
+      [
+       640,
+       1280
+      ]
+     ],
+     "color": "#444444",
+     "lineWidth": 7,
+     "from": 3.6,
+     "keys": [
+      {
+       "t": 3.6,
+       "progress": 0
+      },
+      {
+       "t": 3.8,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/box.png",
+     "x": 430,
+     "y": 1300,
+     "w": 420,
+     "from": 3.8,
+     "keys": [
+      {
+       "t": 3.8,
+       "alpha": 0,
+       "w": 470,
+       "x": 405
+      },
+      {
+       "t": 3.95,
+       "alpha": 1,
+       "w": 420,
+       "x": 430
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "AI",
+     "x": 595,
+     "y": 1380,
+     "size": 132,
+     "bold": true,
+     "from": 3.85,
+     "w": 655,
+     "color": "#5A9E1A"
+    }
+   ]
+  },
+  {
+   "start": 40.42,
+   "end": 45.55,
+   "layers": [
+    {
+     "type": "text",
+     "text": "15 NĂM SAU",
+     "x": 70,
+     "y": 230,
+     "size": 132,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "CUỘC ĐUA AI",
+     "x": 70,
+     "y": 380,
+     "size": 144,
+     "bold": true,
+     "from": 1.2,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "text",
+     "text": "CHẠY BẰNG CHIP NVIDIA.",
+     "x": 70,
+     "y": 1580,
+     "size": 101,
+     "bold": true,
+     "from": 3.0,
+     "w": 1180
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/n04_datacenter.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1,
+       "w": 1180,
+       "x": 50
+      },
+      {
+       "t": 1.2,
+       "y": 480
+      },
+      {
+       "t": 1.25,
+       "y": 488
+      },
+      {
+       "t": 1.4,
+       "y": 480
+      },
+      {
+       "t": 5.1,
+       "w": 1260,
+       "x": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 45.55,
+   "end": 51.3,
+   "layers": [
+    {
+     "type": "text",
+     "text": "BÀI HỌC LỚN NHẤT",
+     "x": 70,
+     "y": 230,
+     "size": 132,
+     "bold": true,
+     "w": 1180,
+     "color": "#E8A317"
+    },
+    {
+     "type": "text",
+     "text": "KHÁCH HÀNG = HIỆN TẠI",
+     "x": 70,
+     "y": 1480,
+     "size": 96,
+     "bold": true,
+     "from": 2.1,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "CÔNG NGHỆ = TƯƠNG LAI",
+     "x": 70,
+     "y": 1600,
+     "size": 96,
+     "bold": true,
+     "from": 3.9,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/n01_listen.png",
+     "x": 140,
+     "y": 420,
+     "w": 1000,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "alpha": 1
+      },
+      {
+       "t": 2.1,
+       "angle": 0
+      },
+      {
+       "t": 2.25,
+       "angle": 0.015
+      },
+      {
+       "t": 2.4,
+       "angle": 0
+      },
+      {
+       "t": 3.9,
+       "y": 420
+      },
+      {
+       "t": 3.95,
+       "y": 428
+      },
+      {
+       "t": 4.1,
+       "y": 420
+      },
+      {
+       "t": 5.7,
+       "w": 1040,
+       "x": 120
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 51.3,
+   "end": 57.04,
+   "layers": [
+    {
+     "type": "text",
+     "text": "KHÔNG CHỈ ĐOÁN NHU CẦU.",
+     "x": 70,
+     "y": 230,
+     "size": 101,
+     "bold": true,
+     "from": 1.2,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "MÀ ĐOÁN HƯỚNG CÔNG NGHỆ.",
+     "x": 70,
+     "y": 380,
+     "size": 101,
+     "bold": true,
+     "from": 2.85,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/v10_bigchip.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "x": -100
+      },
+      {
+       "t": 0.4,
+       "alpha": 1,
+       "x": 50
+      },
+      {
+       "t": 1.2,
+       "x": 40
+      },
+      {
+       "t": 2.0,
+       "x": 50
+      },
+      {
+       "t": 2.85,
+       "y": 490
+      },
+      {
+       "t": 3.0,
+       "y": 480
+      },
+      {
+       "t": 3.9,
+       "x": 40
+      },
+      {
+       "t": 4.8,
+       "x": 50
+      },
+      {
+       "t": 5.7,
+       "x": 40
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 57.04,
+   "end": 59.44,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THEO BẠN,",
+     "x": 70,
+     "y": 260,
+     "size": 120,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "AI ĐANG Ở GIAI ĐOẠN NÀO",
+     "x": 70,
+     "y": 420,
+     "size": 96,
+     "bold": true,
+     "from": 0.2,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "CỦA \"MOORE MOMENT\"?",
+     "x": 70,
+     "y": 560,
+     "size": 120,
+     "bold": true,
+     "from": 0.55,
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/p_bubble.png",
+     "x": 420,
+     "y": 900,
+     "w": 440,
+     "from": 1.2,
+     "keys": [
+      {
+       "t": 1.2,
+       "w": 280,
+       "x": 500,
+       "alpha": 0
+      },
+      {
+       "t": 1.45,
+       "w": 460,
+       "x": 410,
+       "alpha": 1
+      },
+      {
+       "t": 1.6,
+       "w": 440,
+       "x": 420
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sfx": []
+}

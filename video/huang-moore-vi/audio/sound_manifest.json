@@ -1,0 +1,166 @@
+{
+ "lead": 0.15,
+ "source": "original procedural synthesis (make_sfx.py), no third-party audio, no music",
+ "cues": [
+  {
+   "t": 0.15,
+   "cue": "\"2009\" slams in",
+   "peak_dB": -20
+  },
+  {
+   "t": 1.75,
+   "cue": "AI not yet",
+   "peak_dB": -26
+  },
+  {
+   "t": 3.75,
+   "cue": "cut to listening",
+   "peak_dB": -24
+  },
+  {
+   "t": 6.1,
+   "cue": "customers dismissed",
+   "peak_dB": -28
+  },
+  {
+   "t": 7.6,
+   "cue": "Moore curve",
+   "peak_dB": -24
+  },
+  {
+   "t": 10.1,
+   "cue": "transistors double",
+   "peak_dB": -24
+  },
+  {
+   "t": 10.7,
+   "cue": "transistors double",
+   "peak_dB": -24
+  },
+  {
+   "t": 11.3,
+   "cue": "transistors double",
+   "peak_dB": -24
+  },
+  {
+   "t": 11.9,
+   "cue": "transistors double",
+   "peak_dB": -24
+  },
+  {
+   "t": 12.5,
+   "cue": "transistors double",
+   "peak_dB": -24
+  },
+  {
+   "t": 13.1,
+   "cue": "transistors double",
+   "peak_dB": -24
+  },
+  {
+   "t": 17.7,
+   "cue": "forecast the future",
+   "peak_dB": -24
+  },
+  {
+   "t": 20.55,
+   "cue": "back to the 90s",
+   "peak_dB": -24
+  },
+  {
+   "t": 21.7,
+   "cue": "gamers point at screen",
+   "peak_dB": -24
+  },
+  {
+   "t": 23.85,
+   "cue": "huge card handed over",
+   "peak_dB": -24
+  },
+  {
+   "t": 27.95,
+   "cue": "TOO EXPENSIVE",
+   "peak_dB": -16
+  },
+  {
+   "t": 29.4,
+   "cue": "Jensen thinks differently",
+   "peak_dB": -26
+  },
+  {
+   "t": 31.3,
+   "cue": "new applications sprout",
+   "peak_dB": -28
+  },
+  {
+   "t": 31.8,
+   "cue": "new applications sprout",
+   "peak_dB": -28
+  },
+  {
+   "t": 32.3,
+   "cue": "new applications sprout",
+   "peak_dB": -28
+  },
+  {
+   "t": 32.8,
+   "cue": "new applications sprout",
+   "peak_dB": -28
+  },
+  {
+   "t": 33.3,
+   "cue": "new applications sprout",
+   "peak_dB": -28
+  },
+  {
+   "t": 36.45,
+   "cue": "GPU",
+   "peak_dB": -20
+  },
+  {
+   "t": 37.75,
+   "cue": "CUDA",
+   "peak_dB": -20
+  },
+  {
+   "t": 39.25,
+   "cue": "AI",
+   "peak_dB": -18
+  },
+  {
+   "t": 40.45,
+   "cue": "fifteen years later",
+   "peak_dB": -24
+  },
+  {
+   "t": 41.6,
+   "cue": "server racks hum on",
+   "peak_dB": -30
+  },
+  {
+   "t": 47.65,
+   "cue": "present",
+   "peak_dB": -22
+  },
+  {
+   "t": 49.45,
+   "cue": "future",
+   "peak_dB": -24
+  },
+  {
+   "t": 54.15,
+   "cue": "where technology goes next",
+   "peak_dB": -24
+  },
+  {
+   "t": 57.1,
+   "cue": "end card",
+   "peak_dB": -26
+  },
+  {
+   "t": 58.3,
+   "cue": "comment bubble pops",
+   "peak_dB": -24
+  }
+ ]
+}

@@ -1,3 +1,22 @@
-{"project":"huang-moore-vi","mode":"B","style":"B1","ratio":"9:16","source":"source-script.docx (Vietnamese version of huang-moore-en)",
- "stage":"prepared_awaiting_cost_and_copy_approval","narration":{"language":"vi","voice":"Algieba","model":"gemini-2.5-flash-preview-tts","original":"narration_original.txt"},
- "images":"reuse all of ../huang-moore-en/assets/cut (no new generation)","font":"Patrick Hand for Vietnamese scene text"}
+{
+  "project": "huang-moore-vi",
+  "mode": "B",
+  "style": "B1",
+  "ratio": "9:16",
+  "source": "source-script.docx (Vietnamese version of huang-moore-en)",
+  "stage": "film_delivered",
+  "narration": {
+    "language": "vi",
+    "voice": "Algieba",
+    "model": "gemini-2.5-flash-preview-tts",
+    "original": "narration_original.txt",
+    "text": "narration.txt (3 user-approved edits)",
+    "duration_s": 56.89
+  },
+  "images": "reuse all of ../huang-moore-en/assets/cut (no new generation)",
+  "font": "Patrick Hand for Vietnamese scene text",
+  "alignment": "captions from measured pauses (26 speech segments matched to clauses); long clauses split by character proportion; hydrogen not needed",
+  "mastering": "ffmpeg loudnorm I=-17 TP=-1.5",
+  "deliverable": "output/short_9x16.mp4 + .srt/.vtt",
+  "next_step": "none"
+}
