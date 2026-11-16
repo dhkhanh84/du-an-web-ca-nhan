@@ -1,0 +1,6 @@
+{"project":"huang-vision-2009-en","mode":"B","style":"B1","ratio":"9:16","source":"source-script.md (user upload, English)",
+ "stage":"prepared_awaiting_cost_approval",
+ "narration":{"language":"en","voice":"Algieba","model":"gemini-2.5-flash-preview-tts","text":"narration.txt (verbatim FULL VOICEOVER, 224 words)"},
+ "images":"reused from ../huang-vision-2009/assets/cut (no new generation)",
+ "assumptions_to_confirm":["ending: scene 8","no music","hand-drawn only","scene text font: Caveat"],
+ "next_step":"User approves < 0.1 USD -> TTS -> hydrogen alignment -> build -> render"}
