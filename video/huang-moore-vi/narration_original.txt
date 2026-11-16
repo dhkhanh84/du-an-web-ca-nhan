@@ -1,0 +1,5 @@
+Năm 2009, khi AI còn chưa bùng nổ, Jensen Huang đã nói một câu khiến cả ngành công nghệ phải suy nghĩ: Đừng chỉ nghe khách hàng. Hãy nghe Định luật Moore.
+Định luật Moore dự đoán sức mạnh chip sẽ tăng gấp đôi sau mỗi khoảng hai năm. Hầu hết công ty dùng quy luật này để dự báo kỹ thuật. Jensen dùng nó để dự báo tương lai.
+Thập niên 90, khách hàng chỉ muốn game đẹp hơn. Nhưng NVIDIA liên tục làm GPU mạnh gấp nhiều lần nhu cầu thực tế. Nhiều người cho rằng lãng phí. Jensen thì nghĩ: Khi sức mạnh tính toán tăng đủ nhanh, những ứng dụng hoàn toàn mới sẽ xuất hiện.
+Ông đặt cược vào GPU. Sau đó là CUDA. Sau đó là AI. 15 năm sau, cả thế giới chạy đua xây AI bằng chính con chip NVIDIA.
+Bài học lớn nhất từ Jensen Huang: Khách hàng nói về hiện tại. Công nghệ nói về tương lai. Những công ty vĩ đại không chỉ dự đoán nhu cầu. Họ dự đoán nơi mà công nghệ sẽ đưa nhân loại đến tiếp theo.

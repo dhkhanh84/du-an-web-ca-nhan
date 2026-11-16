@@ -1,0 +1,3 @@
+{"project":"huang-moore-vi","mode":"B","style":"B1","ratio":"9:16","source":"source-script.docx (Vietnamese version of huang-moore-en)",
+ "stage":"prepared_awaiting_cost_and_copy_approval","narration":{"language":"vi","voice":"Algieba","model":"gemini-2.5-flash-preview-tts","original":"narration_original.txt"},
+ "images":"reuse all of ../huang-moore-en/assets/cut (no new generation)","font":"Patrick Hand for Vietnamese scene text"}
