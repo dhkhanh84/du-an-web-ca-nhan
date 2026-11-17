@@ -1,0 +1,70 @@
+{
+  "fingerprint": "6c24345ca27e6cd9b9b19293dd5c4339f64214946da89b1e463747c07b6329f5",
+  "preview_seconds": null,
+  "output": "/home/user/du-an-web-ca-nhan/video/exam-ai-cheating/output/film.mp4",
+  "output_sha256": "1be0caacaac026db1178b8793215c3cf7637656ebc0466228f8b30a5e4bbefc9",
+  "original_voice_sha256": "0c4d5dbb22c5f00a27af6acf3db0ff20b2da2a5999780d2a84ef08b8ecda81fc",
+  "original_voice_duration": 47.980917,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 1440,
+  "duration": 48,
+  "cache_hits": 10,
+  "shot_count": 10,
+  "full_decode": "pass",
+  "caption_count": 31,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/exam-ai-cheating/assets/cut/p_bubble.png",
+      "sha256": "14c221c831f75a9faa4bc01a0fb9696cfd1bbcfb6c08bb63362aa70f3188dea1"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/exam-ai-cheating/assets/cut/x01_score.png",
+      "sha256": "bb87219c75214a20c291201e509688fba67eb8cb51180781cc4a09a548e454a2"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/exam-ai-cheating/assets/cut/x02_top.png",
+      "sha256": "417b50f422f7e33178ae3a5a8f7832b9096ce9843850e77500337775160e13a3"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/exam-ai-cheating/assets/cut/x03_deny.png",
+      "sha256": "27fe9718e8193805ed7b0b0235d3c2d35dfe3337268ae6f87c285cd62b55d2ff"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/exam-ai-cheating/assets/cut/x04_confess.png",
+      "sha256": "47e08047d9681873d8800a8397afe136eb4823d6bb2143fd0a2c4a2c27961ae8"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/exam-ai-cheating/assets/cut/x05_pipeline.png",
+      "sha256": "e5d44ab71661022c97ac3886d4d259418f85938f86effb7760c63534bda20f07"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/exam-ai-cheating/assets/cut/x06_evidence.png",
+      "sha256": "069fa380770f4ce12985e6c82d0856d300c6625a2cd2950fd8564f24887ea9d1"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/exam-ai-cheating/assets/cut/x07_review.png",
+      "sha256": "2ba3fa5dd9f274516e779b5820b55b451143ec3847c4094301d4bf4be6ad0a5a"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/exam-ai-cheating/assets/cut/x08_price.png",
+      "sha256": "fc91a72bc60ff897ccfb73715046ffd9bbcbcdefb0b1d7ee0ea26db4c002afbb"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/exam-ai-cheating/assets/cut/x09_hall.png",
+      "sha256": "a19eb12e2b73e90fd4245c81a7afcace3a65207d5be14fa4fb67036c584468a3"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/exam-ai-cheating/audio/master_mix_norm.wav",
+      "sha256": "0c4d5dbb22c5f00a27af6acf3db0ff20b2da2a5999780d2a84ef08b8ecda81fc"
+    },
+    {
+      "path": "/root/.claude/plugins/synced/6885484c-7413-48de-8948-b53451880e01_1ccae8e5-87c7-4a7f-b902-53f9d823848c/stickman-video-director/skills/directing-stickman-videos/assets/fonts/Caveat.ttf",
+      "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+    },
+    {
+      "path": "/root/.claude/plugins/synced/6885484c-7413-48de-8948-b53451880e01_1ccae8e5-87c7-4a7f-b902-53f9d823848c/stickman-video-director/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ]
+}

@@ -1,0 +1,1265 @@
+{
+ "version": 1,
+ "style": "B1",
+ "width": 1080,
+ "height": 1560,
+ "fps": 30,
+ "captionSize": 56,
+ "voice": {
+  "path": "audio/master_mix_norm.wav",
+  "lead": 0,
+  "tail": 0,
+  "contains_sfx": true
+ },
+ "captions": [
+  {
+   "start": 0.15,
+   "end": 1.83,
+   "text": "One wrong answer."
+  },
+  {
+   "start": 1.85,
+   "end": 3.38,
+   "text": "Out of one hundred sixty."
+  },
+  {
+   "start": 3.4,
+   "end": 4.73,
+   "text": "That was the first-round score"
+  },
+  {
+   "start": 4.75,
+   "end": 6.18,
+   "text": "of this year's top candidate"
+  },
+  {
+   "start": 6.2,
+   "end": 7.43,
+   "text": "on South Korea's"
+  },
+  {
+   "start": 7.45,
+   "end": 9.51,
+   "text": "tax accountant exam."
+  },
+  {
+   "start": 9.54,
+   "end": 10.43,
+   "text": "When people suspected"
+  },
+  {
+   "start": 10.45,
+   "end": 11.33,
+   "text": "AI glasses,"
+  },
+  {
+   "start": 11.35,
+   "end": 12.97,
+   "text": "he denied it."
+  },
+  {
+   "start": 12.99,
+   "end": 14.82,
+   "text": "Days later, he confessed."
+  },
+  {
+   "start": 15.25,
+   "end": 16.53,
+   "text": "According to his confession,"
+  },
+  {
+   "start": 16.55,
+   "end": 17.73,
+   "text": "a tiny camera"
+  },
+  {
+   "start": 17.75,
+   "end": 19.38,
+   "text": "photographed the questions,"
+  },
+  {
+   "start": 19.4,
+   "end": 21.03,
+   "text": "an AI app solved them,"
+  },
+  {
+   "start": 21.05,
+   "end": 22.13,
+   "text": "and he read the answers"
+  },
+  {
+   "start": 22.15,
+   "end": 23.33,
+   "text": "on a hidden device,"
+  },
+  {
+   "start": 23.35,
+   "end": 24.61,
+   "text": "during the exam."
+  },
+  {
+   "start": 24.66,
+   "end": 26.03,
+   "text": "He says he did the same"
+  },
+  {
+   "start": 26.05,
+   "end": 28.11,
+   "text": "in both rounds of the tax exam,"
+  },
+  {
+   "start": 28.13,
+   "end": 29.03,
+   "text": "and in the first round"
+  },
+  {
+   "start": 29.05,
+   "end": 30.49,
+   "text": "of the CPA exam."
+  },
+  {
+   "start": 30.92,
+   "end": 32.43,
+   "text": "Police have seized the camera,"
+  },
+  {
+   "start": 32.45,
+   "end": 34.03,
+   "text": "and the government is reviewing"
+  },
+  {
+   "start": 34.05,
+   "end": 34.83,
+   "text": "this year's national"
+  },
+  {
+   "start": 34.85,
+   "end": 36.38,
+   "text": "certification exams."
+  },
+  {
+   "start": 36.66,
+   "end": 37.88,
+   "text": "The camera reportedly cost"
+  },
+  {
+   "start": 37.9,
+   "end": 39.49,
+   "text": "about eighty dollars."
+  },
+  {
+   "start": 39.51,
+   "end": 41.03,
+   "text": "So when AI can answer"
+  },
+  {
+   "start": 41.05,
+   "end": 42.03,
+   "text": "almost any question,"
+  },
+  {
+   "start": 42.05,
+   "end": 44.53,
+   "text": "how should exams change?"
+  },
+  {
+   "start": 44.6,
+   "end": 46.08,
+   "text": "Tell us in the comments."
+  }
+ ],
+ "shots": [
+  {
+   "start": 0,
+   "end": 3.38,
+   "layers": [
+    {
+     "type": "text",
+     "text": "1 WRONG.",
+     "x": 70,
+     "y": 230,
+     "size": 170,
+     "bold": true,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "x": 140
+      },
+      {
+       "t": 0.25,
+       "alpha": 1,
+       "x": 70
+      }
+     ],
+     "w": 1180,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "OUT OF 160.",
+     "x": 70,
+     "y": 420,
+     "size": 130,
+     "bold": true,
+     "from": 1.85,
+     "w": 1180
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/x01_score.png",
+     "x": 290,
+     "y": 560,
+     "w": 700,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "y": 600
+      },
+      {
+       "t": 0.3,
+       "alpha": 1,
+       "y": 560,
+       "w": 700,
+       "x": 290
+      },
+      {
+       "t": 1.8,
+       "w": 700,
+       "x": 290,
+       "y": 560
+      },
+      {
+       "t": 3.3,
+       "w": 880,
+       "x": 200,
+       "y": 520
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 3.38,
+   "end": 9.52,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THE TOP SCORER",
+     "x": 70,
+     "y": 230,
+     "size": 120,
+     "bold": true,
+     "w": 1180,
+     "color": "#E8A317"
+    },
+    {
+     "type": "text",
+     "text": "SOUTH KOREA",
+     "x": 70,
+     "y": 1530,
+     "size": 100,
+     "bold": true,
+     "from": 2.6,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "TAX ACCOUNTANT EXAM",
+     "x": 70,
+     "y": 1640,
+     "size": 92,
+     "bold": true,
+     "from": 3.2,
+     "w": 1180,
+     "color": "#27408B"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/x02_top.png",
+     "x": 170,
+     "y": 480,
+     "w": 940,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "y": 520
+      },
+      {
+       "t": 0.3,
+       "alpha": 1,
+       "y": 480
+      },
+      {
+       "t": 1.3,
+       "y": 480
+      },
+      {
+       "t": 1.4,
+       "y": 468
+      },
+      {
+       "t": 1.6,
+       "y": 480
+      },
+      {
+       "t": 3.2,
+       "w": 940,
+       "x": 170
+      },
+      {
+       "t": 6.1,
+       "w": 980,
+       "x": 150
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 9.52,
+   "end": 12.98,
+   "layers": [
+    {
+     "type": "text",
+     "text": "AI GLASSES?",
+     "x": 70,
+     "y": 230,
+     "size": 140,
+     "bold": true,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.2,
+       "alpha": 1
+      }
+     ],
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "\"NO.\"",
+     "x": 760,
+     "y": 380,
+     "size": 170,
+     "bold": true,
+     "w": 480,
+     "from": 1.85,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/x03_deny.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "alpha": 1
+      },
+      {
+       "t": 1.85,
+       "angle": 0
+      },
+      {
+       "t": 2.0,
+       "angle": 0.03
+      },
+      {
+       "t": 2.15,
+       "angle": -0.03
+      },
+      {
+       "t": 2.3,
+       "angle": 0.02
+      },
+      {
+       "t": 2.45,
+       "angle": 0
+      },
+      {
+       "t": 3.4,
+       "w": 1220,
+       "x": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 12.98,
+   "end": 15.22,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DAYS LATER...",
+     "x": 70,
+     "y": 230,
+     "size": 120,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "HE CONFESSED.",
+     "x": 70,
+     "y": 400,
+     "size": 140,
+     "bold": true,
+     "from": 0.6,
+     "w": 1180,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/x04_confess.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "x": 110
+      },
+      {
+       "t": 0.3,
+       "alpha": 1,
+       "x": 50
+      },
+      {
+       "t": 0.6,
+       "y": 480
+      },
+      {
+       "t": 0.7,
+       "y": 488
+      },
+      {
+       "t": 0.85,
+       "y": 480
+      },
+      {
+       "t": 2.2,
+       "w": 1230,
+       "x": 25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 15.22,
+   "end": 24.42,
+   "layers": [
+    {
+     "type": "text",
+     "text": "HIS CONFESSION:",
+     "x": 70,
+     "y": 230,
+     "size": 120,
+     "bold": true,
+     "w": 1180,
+     "color": "#E8A317"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/x05_pipeline.png",
+     "x": -120,
+     "y": 380,
+     "w": 1100,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "y": 380
+      },
+      {
+       "t": 0.4,
+       "alpha": 1,
+       "y": 380
+      },
+      {
+       "t": 1.5,
+       "y": 380
+      },
+      {
+       "t": 1.58,
+       "y": 392
+      },
+      {
+       "t": 1.75,
+       "y": 380
+      },
+      {
+       "t": 2.9,
+       "y": 380
+      },
+      {
+       "t": 2.98,
+       "y": 392
+      },
+      {
+       "t": 3.15,
+       "y": 380
+      },
+      {
+       "t": 4.2,
+       "y": 380
+      },
+      {
+       "t": 4.28,
+       "y": 392
+      },
+      {
+       "t": 4.45,
+       "y": 380
+      },
+      {
+       "t": 5.4,
+       "y": 380
+      },
+      {
+       "t": 5.48,
+       "y": 392
+      },
+      {
+       "t": 5.65,
+       "y": 380
+      },
+      {
+       "t": 6.8,
+       "y": 380
+      },
+      {
+       "t": 6.88,
+       "y": 392
+      },
+      {
+       "t": 7.05,
+       "y": 380
+      },
+      {
+       "t": 8.0,
+       "y": 380
+      },
+      {
+       "t": 8.08,
+       "y": 392
+      },
+      {
+       "t": 8.25,
+       "y": 380
+      }
+     ]
+    },
+    {
+     "type": "arrow",
+     "x": 440,
+     "y": 580,
+     "w": 130,
+     "from": 1.5,
+     "to": 2.9,
+     "keys": [
+      {
+       "t": 1.5,
+       "progress": 0
+      },
+      {
+       "t": 1.75,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "arrow",
+     "x": 440,
+     "y": 830,
+     "w": 130,
+     "from": 2.9,
+     "to": 4.2,
+     "keys": [
+      {
+       "t": 2.9,
+       "progress": 0
+      },
+      {
+       "t": 3.15,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "arrow",
+     "x": 440,
+     "y": 1100,
+     "w": 130,
+     "from": 4.2,
+     "to": 6.8,
+     "keys": [
+      {
+       "t": 4.2,
+       "progress": 0
+      },
+      {
+       "t": 4.45,
+       "progress": 1
+      },
+      {
+       "t": 5.3,
+       "x": 440
+      },
+      {
+       "t": 5.45,
+       "x": 460
+      },
+      {
+       "t": 5.6,
+       "x": 440
+      }
+     ]
+    },
+    {
+     "type": "arrow",
+     "x": 440,
+     "y": 1330,
+     "w": 130,
+     "from": 6.8,
+     "keys": [
+      {
+       "t": 6.8,
+       "progress": 0
+      },
+      {
+       "t": 7.05,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "TINY CAMERA",
+     "x": 600,
+     "y": 560,
+     "size": 84,
+     "bold": true,
+     "w": 660,
+     "from": 1.5
+    },
+    {
+     "type": "text",
+     "text": "PHOTOS OF",
+     "x": 600,
+     "y": 790,
+     "size": 84,
+     "bold": true,
+     "w": 660,
+     "from": 2.9
+    },
+    {
+     "type": "text",
+     "text": "THE QUESTIONS",
+     "x": 600,
+     "y": 880,
+     "size": 84,
+     "bold": true,
+     "w": 660,
+     "from": 3.0
+    },
+    {
+     "type": "text",
+     "text": "AI APP SOLVES",
+     "x": 600,
+     "y": 1080,
+     "size": 84,
+     "bold": true,
+     "w": 660,
+     "from": 4.2,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "text",
+     "text": "ANSWERS ON A",
+     "x": 600,
+     "y": 1300,
+     "size": 84,
+     "bold": true,
+     "w": 660,
+     "from": 6.8
+    },
+    {
+     "type": "text",
+     "text": "HIDDEN SCREEN",
+     "x": 600,
+     "y": 1390,
+     "size": 84,
+     "bold": true,
+     "w": 660,
+     "from": 6.9,
+     "color": "#EC4338"
+    },
+    {
+     "type": "text",
+     "text": "DURING THE EXAM.",
+     "x": 70,
+     "y": 1600,
+     "size": 100,
+     "bold": true,
+     "from": 8.0,
+     "w": 1180,
+     "color": "#EC4338"
+    }
+   ]
+  },
+  {
+   "start": 24.42,
+   "end": 30.42,
+   "layers": [
+    {
+     "type": "text",
+     "text": "SAME METHOD IN:",
+     "x": 70,
+     "y": 230,
+     "size": 120,
+     "bold": true,
+     "w": 1180,
+     "color": "#E8A317"
+    },
+    {
+     "type": "text",
+     "text": "TAX EXAM, ROUND 1",
+     "x": 220,
+     "y": 620,
+     "size": 100,
+     "bold": true,
+     "from": 1.6,
+     "w": 1030
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       110,
+       680
+      ],
+      [
+       140,
+       715
+      ],
+      [
+       195,
+       640
+      ]
+     ],
+     "color": "#EC4338",
+     "lineWidth": 10,
+     "from": 1.6500000000000001,
+     "keys": [
+      {
+       "t": 1.65,
+       "progress": 0
+      },
+      {
+       "t": 1.9,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "TAX EXAM, ROUND 2",
+     "x": 220,
+     "y": 820,
+     "size": 100,
+     "bold": true,
+     "from": 2.2,
+     "w": 1030
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       110,
+       880
+      ],
+      [
+       140,
+       915
+      ],
+      [
+       195,
+       840
+      ]
+     ],
+     "color": "#EC4338",
+     "lineWidth": 10,
+     "from": 2.25,
+     "keys": [
+      {
+       "t": 2.25,
+       "progress": 0
+      },
+      {
+       "t": 2.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "CPA EXAM, ROUND 1",
+     "x": 220,
+     "y": 1020,
+     "size": 100,
+     "bold": true,
+     "from": 4.1,
+     "w": 1030
+    },
+    {
+     "type": "line",
+     "points": [
+      [
+       110,
+       1080
+      ],
+      [
+       140,
+       1115
+      ],
+      [
+       195,
+       1040
+      ]
+     ],
+     "color": "#EC4338",
+     "lineWidth": 10,
+     "from": 4.1499999999999995,
+     "keys": [
+      {
+       "t": 4.15,
+       "progress": 0
+      },
+      {
+       "t": 4.4,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/x04_confess.png",
+     "x": 340,
+     "y": 1180,
+     "w": 600,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 0.9
+      },
+      {
+       "t": 5.9,
+       "w": 640,
+       "x": 320
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 30.42,
+   "end": 36.38,
+   "layers": [
+    {
+     "type": "text",
+     "text": "POLICE SEIZED",
+     "x": 70,
+     "y": 230,
+     "size": 120,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "THE CAMERA.",
+     "x": 70,
+     "y": 380,
+     "size": 130,
+     "bold": true,
+     "from": 0.5,
+     "w": 1180,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/x06_evidence.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "to": 2.1,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "alpha": 1
+      },
+      {
+       "t": 0.9,
+       "angle": 0
+      },
+      {
+       "t": 1.05,
+       "angle": 0.015
+      },
+      {
+       "t": 1.2,
+       "angle": 0
+      },
+      {
+       "t": 2.0,
+       "alpha": 0.3
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/x07_review.png",
+     "x": 170,
+     "y": 480,
+     "w": 940,
+     "from": 2.05,
+     "keys": [
+      {
+       "t": 2.05,
+       "alpha": 0,
+       "y": 520
+      },
+      {
+       "t": 2.4,
+       "alpha": 1,
+       "y": 480
+      },
+      {
+       "t": 3.5,
+       "w": 940,
+       "x": 170
+      },
+      {
+       "t": 5.9,
+       "w": 980,
+       "x": 150
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "THIS YEAR'S EXAMS:",
+     "x": 70,
+     "y": 1530,
+     "size": 92,
+     "bold": true,
+     "from": 3.5,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "UNDER REVIEW.",
+     "x": 70,
+     "y": 1640,
+     "size": 100,
+     "bold": true,
+     "from": 4.3,
+     "w": 1180,
+     "color": "#27408B"
+    }
+   ]
+  },
+  {
+   "start": 36.38,
+   "end": 39.5,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THE CAMERA COST",
+     "x": 70,
+     "y": 230,
+     "size": 120,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "~$80",
+     "x": 70,
+     "y": 380,
+     "size": 190,
+     "bold": true,
+     "from": 1.6,
+     "w": 1180,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/x08_price.png",
+     "x": 140,
+     "y": 600,
+     "w": 1000,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "alpha": 1
+      },
+      {
+       "t": 1.6,
+       "y": 600
+      },
+      {
+       "t": 1.66,
+       "y": 610
+      },
+      {
+       "t": 1.8,
+       "y": 600
+      },
+      {
+       "t": 3.09,
+       "w": 1060,
+       "x": 110
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 39.5,
+   "end": 44.58,
+   "layers": [
+    {
+     "type": "text",
+     "text": "WHEN AI CAN ANSWER",
+     "x": 70,
+     "y": 230,
+     "size": 100,
+     "bold": true,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "ALMOST ANYTHING...",
+     "x": 70,
+     "y": 380,
+     "size": 110,
+     "bold": true,
+     "from": 1.2,
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "HOW SHOULD EXAMS CHANGE?",
+     "x": 70,
+     "y": 1590,
+     "size": 86,
+     "bold": true,
+     "from": 2.6,
+     "w": 1180,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/x09_hall.png",
+     "x": 50,
+     "y": 480,
+     "w": 1180,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1,
+       "w": 1180,
+       "x": 50
+      },
+      {
+       "t": 2.6,
+       "y": 480
+      },
+      {
+       "t": 2.66,
+       "y": 470
+      },
+      {
+       "t": 2.8,
+       "y": 480
+      },
+      {
+       "t": 5.0,
+       "w": 1240,
+       "x": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 44.58,
+   "end": 47.98,
+   "layers": [
+    {
+     "type": "text",
+     "text": "TELL US",
+     "x": 70,
+     "y": 360,
+     "size": 150,
+     "bold": true,
+     "keys": [
+      {
+       "t": 0,
+       "x": 70
+      },
+      {
+       "t": 1.9,
+       "x": 70
+      },
+      {
+       "t": 2.0,
+       "x": 82
+      },
+      {
+       "t": 2.15,
+       "x": 70
+      },
+      {
+       "t": 3.0,
+       "x": 70
+      },
+      {
+       "t": 3.1,
+       "x": 82
+      },
+      {
+       "t": 3.25,
+       "x": 70
+      }
+     ],
+     "w": 1180
+    },
+    {
+     "type": "text",
+     "text": "IN THE COMMENTS.",
+     "x": 70,
+     "y": 540,
+     "size": 120,
+     "bold": true,
+     "from": 0.3,
+     "keys": [
+      {
+       "t": 0.3,
+       "x": 70
+      },
+      {
+       "t": 2.4,
+       "x": 70
+      },
+      {
+       "t": 2.5,
+       "x": 58
+      },
+      {
+       "t": 2.65,
+       "x": 70
+      }
+     ],
+     "w": 1180,
+     "color": "#5A9E1A"
+    },
+    {
+     "type": "image",
+     "path": "assets/cut/p_bubble.png",
+     "x": 420,
+     "y": 850,
+     "w": 440,
+     "from": 0.9,
+     "keys": [
+      {
+       "t": 0.9,
+       "w": 280,
+       "x": 500,
+       "alpha": 0
+      },
+      {
+       "t": 1.15,
+       "w": 460,
+       "x": 410,
+       "alpha": 1
+      },
+      {
+       "t": 1.3,
+       "w": 440,
+       "x": 420,
+       "y": 850
+      },
+      {
+       "t": 1.9,
+       "y": 850
+      },
+      {
+       "t": 2.0,
+       "y": 830
+      },
+      {
+       "t": 2.15,
+       "y": 850
+      },
+      {
+       "t": 2.6,
+       "y": 850
+      },
+      {
+       "t": 2.7,
+       "y": 830
+      },
+      {
+       "t": 2.85,
+       "y": 850
+      },
+      {
+       "t": 3.2,
+       "y": 850
+      },
+      {
+       "t": 3.3,
+       "y": 835
+      },
+      {
+       "t": 3.37,
+       "y": 850
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sfx": []
+}

@@ -1,4 +1,31 @@
-{"project":"exam-ai-cheating","mode":"B","style":"B1","ratio":"9:16","stage":"script_proposed_awaiting_approval",
- "narration":{"language":"en (assumed: source article in English)","voice":"Algieba","model":"gemini-2.5-flash-preview-tts","words":119},
- "user_image":"reference/user-nail-camera-concept.jpg (NOT used in video: labelled 示意 concept art, not the device in this case; origin/rights unknown)",
- "privacy":"candidate not named in video"}
+{
+  "project": "exam-ai-cheating",
+  "mode": "B",
+  "style": "B1",
+  "ratio": "9:16",
+  "stage": "film_delivered",
+  "narration": {
+    "language": "en",
+    "voice": "Algieba",
+    "model": "gemini-2.5-flash-preview-tts",
+    "words": 119,
+    "duration_s": 45.53
+  },
+  "user_image": "reference/user-nail-camera-concept.jpg (NOT used in video: labelled 示意 concept art, not the device in this case; origin/rights unknown)",
+  "privacy": "candidate not named in video",
+  "images": "8 generated (gemini-2.5-flash-image, x02-x09; x01 generated but rejected: many red crosses) + code-drawn 160-question answer sheet",
+  "alignment": "gemini-4-hydrogen (5 chunks), snapped to measured pauses",
+  "mastering": "ffmpeg loudnorm I=-17 TP=-1.5",
+  "qa": {
+    "duration_s": 48.0,
+    "decode": "OK",
+    "loudness": "-17.1 LUFS, -1.3 dBTP",
+    "freeze_gt_2.5s": "none after fixes",
+    "captions": 31,
+    "not_done": [
+      "human listening review"
+    ]
+  },
+  "deliverable": "output/short_9x16.mp4 + .srt/.vtt",
+  "next_step": "none"
+}

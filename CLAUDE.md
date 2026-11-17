@@ -12,6 +12,9 @@
     Send audio to it one paragraph at a time, because requests over ~30 s get a 502 from the proxy.
     Then snap word times to pauses measured with ffmpeg `silencedetect`.
   - Vietnamese scene text: Patrick Hand (OFL), because B1's Caveat lacks Vietnamese glyphs.
+- Renderer pitfall: if a caption is too wide for one line, `autopilot.mjs preview/render` prints
+  "B captions allow at most one line" but then hangs instead of exiting. Pre-check caption widths
+  (Noto Sans at `captionSize`, max ~1040 px) and wrap every render call in `timeout`.
 - Ask before every paid Gemini call. The API key is stored as an environment network secret
   (header `x-goog-api-key`); scripts can use a placeholder `GEMINI_API_KEY`.
 - Past projects live in `video/` (each has `checkpoint.json`).
