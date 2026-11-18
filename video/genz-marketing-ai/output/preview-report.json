@@ -1,0 +1,90 @@
+{
+  "fingerprint": "a8c74dfeb6c1d5ae7477179bd29df09e3173374924653e4cf4eacdf5b887bb5f",
+  "preview_seconds": 42.88,
+  "output": "/home/user/du-an-web-ca-nhan/video/genz-marketing-ai/output/preview.mp4",
+  "output_sha256": "85e4d6acd94174f7b5282b81dd2f1b4eec86bb715fc51726bed5f89b1c093667",
+  "original_voice_sha256": "48b51e29fc8846e64b88c0939fca771aef12be3ab21c8abf88cbc275ef33a605",
+  "original_voice_duration": 42.880958,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 1287,
+  "duration": 42.9,
+  "cache_hits": 3,
+  "shot_count": 13,
+  "full_decode": "pass",
+  "caption_count": 28,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/genz-marketing-ai/assets/cut/g01_chill.png",
+      "sha256": "becfa44ffd3aea2da4af306d0f5a166c8f3fc8dc537928ddc32b9f696fa7cc4e"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/genz-marketing-ai/assets/cut/g03_cheers.png",
+      "sha256": "09220084868c799f572df3fda56afd21197d0fe9732762413ceb2559e7be2af3"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/genz-marketing-ai/assets/cut/g04_deadline.png",
+      "sha256": "22a7bd82261deb12776f582bfe9dec5e90d4baccf5f30c4ccbee1368e8f179f1"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/genz-marketing-ai/assets/cut/g05_point.png",
+      "sha256": "1aae990e4817865d9ceb0a4b72e3f7c36b15b204064b49bc42fd43ef016ba613"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/genz-marketing-ai/assets/cut/i01_hook.png",
+      "sha256": "105e40cae8a765b396c0af27351e57f9cec0822e2cb44f800a4f67ec6ae0f08a"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/genz-marketing-ai/assets/cut/i02_seo.png",
+      "sha256": "0b31c6f828cc20113b2eca1a0452777579c3008b62dae831a450b0a585808f6d"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/genz-marketing-ai/assets/cut/i03_kpi.png",
+      "sha256": "a0cc876e5cf841b6d0dc8f1705c74316eb4dc21b4c52966709a7543c2292b2b3"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/genz-marketing-ai/assets/cut/i04_docs.png",
+      "sha256": "57f1740a1f0f8b60d52f709af3f55e95e36f36b75b3452faa3c872f4150bbc98"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/genz-marketing-ai/assets/cut/i05_banner.png",
+      "sha256": "20d650050d27632e0940ce751dde20d2186c95506cd4759c48e3f5fb2c1e0a52"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/genz-marketing-ai/assets/cut/i06_film.png",
+      "sha256": "80833a4f728511d107f3ae8ac0dad3b7d1c44d9b39480d956a0608632e8fd8c5"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/genz-marketing-ai/assets/cut/i07_insight.png",
+      "sha256": "87e3dada30dac30c1a9b8329860da4aed9c59f89623378a14efb9b9d25f7f186"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/genz-marketing-ai/assets/cut/i08_camera.png",
+      "sha256": "2eb89978d03b510d095f59f927693a2e38c320e152ba3dbb8d5ae2d1e08f588f"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/genz-marketing-ai/assets/cut/i09_mic.png",
+      "sha256": "4a1fb6dde0cb4e483f322a5013888e8687fae164a705341283e4e09bbb606151"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/genz-marketing-ai/assets/cut/i10_slides.png",
+      "sha256": "44051cb4ae63f510e780df23b69c406a1b4c3496b50ebcb12674fcd4bcec5b23"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/genz-marketing-ai/assets/cut/p_bubble.png",
+      "sha256": "14c221c831f75a9faa4bc01a0fb9696cfd1bbcfb6c08bb63362aa70f3188dea1"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/genz-marketing-ai/audio/master_mix_norm.wav",
+      "sha256": "48b51e29fc8846e64b88c0939fca771aef12be3ab21c8abf88cbc275ef33a605"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/genz-marketing-ai/fonts/PatrickHand_400Regular.ttf",
+      "sha256": "496937dafcb18bf2c2f624ed02c8f7f4d47bd1e4e6e5646c42b6cfd873c6b13c"
+    },
+    {
+      "path": "/root/.claude/plugins/synced/6885484c-7413-48de-8948-b53451880e01_1ccae8e5-87c7-4a7f-b902-53f9d823848c/stickman-video-director/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ]
+}

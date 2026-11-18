@@ -1,0 +1,664 @@
+{
+ "words": [
+  {
+   "start": 0.06,
+   "end": 0.3,
+   "word": "Gen"
+  },
+  {
+   "start": 0.3,
+   "end": 0.44,
+   "word": "Z"
+  },
+  {
+   "start": 0.44,
+   "end": 0.66,
+   "word": "ngành"
+  },
+  {
+   "start": 0.66,
+   "end": 1.14,
+   "word": "marketing"
+  },
+  {
+   "start": 1.14,
+   "end": 1.3,
+   "word": "đi"
+  },
+  {
+   "start": 1.3,
+   "end": 1.52,
+   "word": "làm"
+  },
+  {
+   "start": 1.52,
+   "end": 1.78,
+   "word": "kiểu"
+  },
+  {
+   "start": 1.78,
+   "end": 2.12,
+   "word": "gì?"
+  },
+  {
+   "start": 2.82,
+   "end": 3.02,
+   "word": "Cảm"
+  },
+  {
+   "start": 3.02,
+   "end": 3.2,
+   "word": "ơn"
+  },
+  {
+   "start": 3.2,
+   "end": 3.8,
+   "word": "ChatGPT"
+  },
+  {
+   "start": 3.8,
+   "end": 4.02,
+   "word": "đã"
+  },
+  {
+   "start": 4.02,
+   "end": 4.18,
+   "word": "lên"
+  },
+  {
+   "start": 4.18,
+   "end": 4.3,
+   "word": "ý"
+  },
+  {
+   "start": 4.3,
+   "end": 4.64,
+   "word": "tưởng"
+  },
+  {
+   "start": 4.64,
+   "end": 4.78,
+   "word": "và"
+  },
+  {
+   "start": 4.78,
+   "end": 4.98,
+   "word": "viết"
+  },
+  {
+   "start": 4.98,
+   "end": 5.28,
+   "word": "hook."
+  },
+  {
+   "start": 5.94,
+   "end": 6.12,
+   "word": "Cảm"
+  },
+  {
+   "start": 6.12,
+   "end": 6.3,
+   "word": "ơn"
+  },
+  {
+   "start": 6.3,
+   "end": 6.82,
+   "word": "Gemini"
+  },
+  {
+   "start": 6.82,
+   "end": 7.06,
+   "word": "đã"
+  },
+  {
+   "start": 7.06,
+   "end": 7.22,
+   "word": "đặt"
+  },
+  {
+   "start": 7.22,
+   "end": 7.4,
+   "word": "tên"
+  },
+  {
+   "start": 7.4,
+   "end": 7.68,
+   "word": "sản"
+  },
+  {
+   "start": 7.68,
+   "end": 8.04,
+   "word": "phẩm"
+  },
+  {
+   "start": 8.04,
+   "end": 8.38,
+   "word": "chuẩn"
+  },
+  {
+   "start": 8.38,
+   "end": 8.94,
+   "word": "SEO."
+  },
+  {
+   "start": 9.6,
+   "end": 9.78,
+   "word": "Cảm"
+  },
+  {
+   "start": 9.78,
+   "end": 9.96,
+   "word": "ơn"
+  },
+  {
+   "start": 9.96,
+   "end": 10.22,
+   "word": "Claude"
+  },
+  {
+   "start": 10.22,
+   "end": 10.42,
+   "word": "đã"
+  },
+  {
+   "start": 10.42,
+   "end": 10.6,
+   "word": "đọc"
+  },
+  {
+   "start": 10.6,
+   "end": 10.8,
+   "word": "số"
+  },
+  {
+   "start": 10.8,
+   "end": 11.16,
+   "word": "liệu,"
+  },
+  {
+   "start": 11.24,
+   "end": 11.4,
+   "word": "phân"
+  },
+  {
+   "start": 11.4,
+   "end": 11.62,
+   "word": "tích"
+  },
+  {
+   "start": 11.62,
+   "end": 12.14,
+   "word": "KPI."
+  },
+  {
+   "start": 12.82,
+   "end": 13.02,
+   "word": "Cảm"
+  },
+  {
+   "start": 13.02,
+   "end": 13.2,
+   "word": "ơn"
+  },
+  {
+   "start": 13.2,
+   "end": 13.84,
+   "word": "NotebookLM"
+  },
+  {
+   "start": 13.84,
+   "end": 14.08,
+   "word": "đã"
+  },
+  {
+   "start": 14.08,
+   "end": 14.32,
+   "word": "tổng"
+  },
+  {
+   "start": 14.32,
+   "end": 14.58,
+   "word": "hợp"
+  },
+  {
+   "start": 14.58,
+   "end": 14.78,
+   "word": "tài"
+  },
+  {
+   "start": 14.78,
+   "end": 15.16,
+   "word": "liệu."
+  },
+  {
+   "start": 15.84,
+   "end": 16.02,
+   "word": "Cảm"
+  },
+  {
+   "start": 16.02,
+   "end": 16.18,
+   "word": "ơn"
+  },
+  {
+   "start": 16.18,
+   "end": 16.58,
+   "word": "Canva"
+  },
+  {
+   "start": 16.58,
+   "end": 16.92,
+   "word": "AI"
+  },
+  {
+   "start": 16.92,
+   "end": 17.16,
+   "word": "đã"
+  },
+  {
+   "start": 17.16,
+   "end": 17.34,
+   "word": "thiết"
+  },
+  {
+   "start": 17.34,
+   "end": 17.52,
+   "word": "kế"
+  },
+  {
+   "start": 17.52,
+   "end": 17.88,
+   "word": "banner"
+  },
+  {
+   "start": 17.88,
+   "end": 18.18,
+   "word": "quảng"
+  },
+  {
+   "start": 18.18,
+   "end": 18.62,
+   "word": "cáo."
+  },
+  {
+   "start": 19.3,
+   "end": 19.5,
+   "word": "Cảm"
+  },
+  {
+   "start": 19.5,
+   "end": 19.66,
+   "word": "ơn"
+  },
+  {
+   "start": 19.66,
+   "end": 20.06,
+   "word": "CapCut"
+  },
+  {
+   "start": 20.06,
+   "end": 20.42,
+   "word": "AI"
+  },
+  {
+   "start": 20.42,
+   "end": 20.66,
+   "word": "đã"
+  },
+  {
+   "start": 20.66,
+   "end": 20.88,
+   "word": "dựng"
+  },
+  {
+   "start": 20.88,
+   "end": 21.34,
+   "word": "video,"
+  },
+  {
+   "start": 21.38,
+   "end": 21.62,
+   "word": "làm"
+  },
+  {
+   "start": 21.62,
+   "end": 21.84,
+   "word": "phụ"
+  },
+  {
+   "start": 21.84,
+   "end": 22.2,
+   "word": "đề."
+  },
+  {
+   "start": 21.33,
+   "end": 21.57,
+   "word": "Cảm"
+  },
+  {
+   "start": 21.57,
+   "end": 21.71,
+   "word": "ơn"
+  },
+  {
+   "start": 21.71,
+   "end": 22.19,
+   "word": "DeepSeek"
+  },
+  {
+   "start": 22.19,
+   "end": 22.41,
+   "word": "đã"
+  },
+  {
+   "start": 22.41,
+   "end": 22.63,
+   "word": "tìm"
+  },
+  {
+   "start": 22.63,
+   "end": 23.05,
+   "word": "insight"
+  },
+  {
+   "start": 23.05,
+   "end": 23.29,
+   "word": "khách"
+  },
+  {
+   "start": 23.29,
+   "end": 23.63,
+   "word": "hàng."
+  },
+  {
+   "start": 23.63,
+   "end": 23.97,
+   "word": "Cảm"
+  },
+  {
+   "start": 23.97,
+   "end": 24.15,
+   "word": "ơn"
+  },
+  {
+   "start": 24.15,
+   "end": 24.51,
+   "word": "Google"
+  },
+  {
+   "start": 24.51,
+   "end": 24.79,
+   "word": "AI"
+  },
+  {
+   "start": 24.79,
+   "end": 25.21,
+   "word": "Studio"
+  },
+  {
+   "start": 25.21,
+   "end": 25.41,
+   "word": "đã"
+  },
+  {
+   "start": 25.41,
+   "end": 25.65,
+   "word": "tạo"
+  },
+  {
+   "start": 25.65,
+   "end": 25.99,
+   "word": "video"
+  },
+  {
+   "start": 25.99,
+   "end": 26.41,
+   "word": "AI."
+  },
+  {
+   "start": 26.41,
+   "end": 26.73,
+   "word": "Cảm"
+  },
+  {
+   "start": 26.73,
+   "end": 26.91,
+   "word": "ơn"
+  },
+  {
+   "start": 26.91,
+   "end": 27.73,
+   "word": "ElevenLabs"
+  },
+  {
+   "start": 27.73,
+   "end": 27.89,
+   "word": "đã"
+  },
+  {
+   "start": 27.89,
+   "end": 28.13,
+   "word": "lồng"
+  },
+  {
+   "start": 28.13,
+   "end": 28.37,
+   "word": "tiếng"
+  },
+  {
+   "start": 28.37,
+   "end": 28.73,
+   "word": "AI."
+  },
+  {
+   "start": 28.73,
+   "end": 29.07,
+   "word": "Cảm"
+  },
+  {
+   "start": 29.07,
+   "end": 29.25,
+   "word": "ơn"
+  },
+  {
+   "start": 29.25,
+   "end": 29.65,
+   "word": "Gamma"
+  },
+  {
+   "start": 29.65,
+   "end": 29.99,
+   "word": "AI"
+  },
+  {
+   "start": 29.99,
+   "end": 30.19,
+   "word": "đã"
+  },
+  {
+   "start": 30.19,
+   "end": 30.41,
+   "word": "làm"
+  },
+  {
+   "start": 30.41,
+   "end": 30.73,
+   "word": "slide"
+  },
+  {
+   "start": 30.73,
+   "end": 31.01,
+   "word": "báo"
+  },
+  {
+   "start": 31.01,
+   "end": 31.39,
+   "word": "cáo."
+  },
+  {
+   "start": 31.39,
+   "end": 31.77,
+   "word": "Và"
+  },
+  {
+   "start": 31.77,
+   "end": 32.01,
+   "word": "cuối"
+  },
+  {
+   "start": 32.01,
+   "end": 32.35,
+   "word": "cùng,"
+  },
+  {
+   "start": 32.35,
+   "end": 32.73,
+   "word": "cảm"
+  },
+  {
+   "start": 32.73,
+   "end": 32.95,
+   "word": "ơn"
+  },
+  {
+   "start": 32.95,
+   "end": 33.17,
+   "word": "chính"
+  },
+  {
+   "start": 33.17,
+   "end": 33.51,
+   "word": "mình,"
+  },
+  {
+   "start": 33.51,
+   "end": 33.91,
+   "word": "vì"
+  },
+  {
+   "start": 33.91,
+   "end": 34.11,
+   "word": "vẫn"
+  },
+  {
+   "start": 34.11,
+   "end": 34.39,
+   "word": "sống"
+  },
+  {
+   "start": 34.39,
+   "end": 34.67,
+   "word": "sót"
+  },
+  {
+   "start": 34.67,
+   "end": 34.89,
+   "word": "qua"
+  },
+  {
+   "start": 34.89,
+   "end": 35.07,
+   "word": "bảy"
+  },
+  {
+   "start": 35.07,
+   "end": 35.27,
+   "word": "bảy"
+  },
+  {
+   "start": 35.27,
+   "end": 35.51,
+   "word": "bốn"
+  },
+  {
+   "start": 35.51,
+   "end": 35.77,
+   "word": "chín"
+  },
+  {
+   "start": 35.77,
+   "end": 35.99,
+   "word": "cái"
+  },
+  {
+   "start": 35.99,
+   "end": 36.49,
+   "word": "deadline."
+  },
+  {
+   "start": 36.49,
+   "end": 37.13,
+   "word": "Còn"
+  },
+  {
+   "start": 37.13,
+   "end": 37.43,
+   "word": "bạn,"
+  },
+  {
+   "start": 37.43,
+   "end": 37.83,
+   "word": "đang"
+  },
+  {
+   "start": 37.83,
+   "end": 38.11,
+   "word": "cảm"
+  },
+  {
+   "start": 38.11,
+   "end": 38.25,
+   "word": "ơn"
+  },
+  {
+   "start": 38.25,
+   "end": 38.61,
+   "word": "AI"
+  },
+  {
+   "start": 38.61,
+   "end": 38.83,
+   "word": "nào"
+  },
+  {
+   "start": 38.83,
+   "end": 39.05,
+   "word": "nhiều"
+  },
+  {
+   "start": 39.05,
+   "end": 39.41,
+   "word": "nhất?"
+  },
+  {
+   "start": 39.41,
+   "end": 39.81,
+   "word": "Bình"
+  },
+  {
+   "start": 39.81,
+   "end": 40.01,
+   "word": "luận"
+  },
+  {
+   "start": 40.01,
+   "end": 40.15,
+   "word": "cho"
+  },
+  {
+   "start": 40.15,
+   "end": 40.35,
+   "word": "mình"
+  },
+  {
+   "start": 40.35,
+   "end": 40.55,
+   "word": "biết"
+  },
+  {
+   "start": 40.55,
+   "end": 40.89,
+   "word": "nhé."
+  }
+ ]
+}

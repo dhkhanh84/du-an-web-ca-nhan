@@ -1,3 +1,31 @@
-{"project":"genz-marketing-ai","mode":"B","style":"B1","ratio":"9:16","stage":"script_proposed_awaiting_approval",
- "narration":{"language":"vi (assumed: Vietnamese source post)","voice":"Algieba","model":"gemini-2.5-flash-preview-tts"},
- "user_image":"mentioned but not received","notes":"brand names as plain text only, no logos"}
+{
+  "project": "genz-marketing-ai",
+  "mode": "B",
+  "style": "B1",
+  "ratio": "9:16",
+  "stage": "film_delivered",
+  "narration": {
+    "language": "vi",
+    "voice": "Algieba",
+    "model": "gemini-2.5-flash-preview-tts",
+    "duration_s": 40.73,
+    "direction": "playful Gen Z tone prompt (direction.txt) — explicitly requested by user for this video; hydrogen transcript confirmed the prompt was not spoken"
+  },
+  "user_image": "not received; all visuals drawn",
+  "notes": "brand names as plain text only, no logos",
+  "images": "5 generated (g01,g03,g04,g05 + icon sheet g02 cropped into 10 icons; film icon play badge redrawn to avoid a platform-logo look)",
+  "alignment": "captions from measured pauses; hydrogen transcript used as check",
+  "mastering": "ffmpeg loudnorm I=-17 TP=-1.5",
+  "qa": {
+    "duration_s": 42.9,
+    "decode": "OK",
+    "loudness": "-17.5 LUFS, -1.2 dBTP",
+    "freeze_gt_2.5s": "none",
+    "captions": 28,
+    "not_done": [
+      "human listening review (brand-name pronunciation, tone)"
+    ]
+  },
+  "deliverable": "output/short_9x16.mp4 + .srt/.vtt",
+  "next_step": "none"
+}
