@@ -1,0 +1,90 @@
+{
+  "fingerprint": "c7d3a370bee94a42c7b99dbb67373991f278b1fba123612c586d7603404df6f0",
+  "preview_seconds": null,
+  "output": "/home/user/du-an-web-ca-nhan/video/10-thoi-quen/output/film.mp4",
+  "output_sha256": "cdd607d1ae80f7cbaffd36c0a1e2ac3a073157d0d36de2ff2b0e5fca162556ce",
+  "original_voice_sha256": "06e95b4ed204ef3cc9e207783d2749fb208f18948028d39c12841bd44ca43244",
+  "original_voice_duration": 47.520958,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 1426,
+  "duration": 47.533333,
+  "cache_hits": 13,
+  "shot_count": 13,
+  "full_decode": "pass",
+  "caption_count": 21,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/10-thoi-quen/assets/cut/h01.png",
+      "sha256": "fa2d6d57bd6416aeaba98dbe51120acd184f94399de94dafaee346b7e5f418d1"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/10-thoi-quen/assets/cut/h02.png",
+      "sha256": "a7d5e411e5fd1387c1acf0d720247b12a41943e319c8ab70e24e316a9974bbfc"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/10-thoi-quen/assets/cut/h03.png",
+      "sha256": "9711bb1b030194ea06e465217dfac8b23e7017dcdba8af832696c3abf879c993"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/10-thoi-quen/assets/cut/h04.png",
+      "sha256": "e70bcbc89b97ccae394757869995bd30bdd6f3b977abb138e57c9e9a33e897c4"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/10-thoi-quen/assets/cut/h05.png",
+      "sha256": "122b9bb7b0113b04fd6a05a05a1802adc3c23b8f2c2d4d0e656109bc2d96b9d2"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/10-thoi-quen/assets/cut/h06.png",
+      "sha256": "c028b03190c84f25fc2fbad35542b496d92bc842267e8c7d59109310f80d76bf"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/10-thoi-quen/assets/cut/h07.png",
+      "sha256": "0838451a24d75c1d30e40b3509c3e7a6e3292dce037791524cd38488444f4a40"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/10-thoi-quen/assets/cut/h08.png",
+      "sha256": "297af8e24bb089685b2b38b6d926410e3171a8a9ebb7a6cf3ef9250f5345930a"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/10-thoi-quen/assets/cut/h09.png",
+      "sha256": "c05e50b9040d32a487d33d834cb1fc40a6edc882c9b90b8c43e9c507d4469fd7"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/10-thoi-quen/assets/cut/h10.png",
+      "sha256": "9b95d3c70b4e320007fc71041baa7c1629f7430e64a6bbeeb5d08c3304f9e6a5"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/10-thoi-quen/assets/cut/k01_tired.png",
+      "sha256": "932fedcdf4f1bd4b6221b9b59fdbe7faeca392bbc4cc65a44c02d8f04235e844"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/10-thoi-quen/assets/cut/k03_walk.png",
+      "sha256": "24b52c34177be6ea1c241d06b4f531589335d9872e315bd5ff776d2e8811e126"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/10-thoi-quen/assets/cut/k04_happy.png",
+      "sha256": "4a3e4b0e131ac70c4a6c678a2742d63ad19a6865d92db08bf9a08a3360f85e06"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/10-thoi-quen/assets/cut/k05_chat.png",
+      "sha256": "5ee6973a4fe4570ba0c868f09011c6e09c8fd89f300b5a8391febc7b666e0ef3"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/10-thoi-quen/assets/cut/p_bubble.png",
+      "sha256": "14c221c831f75a9faa4bc01a0fb9696cfd1bbcfb6c08bb63362aa70f3188dea1"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/10-thoi-quen/audio/master_mix_norm.wav",
+      "sha256": "06e95b4ed204ef3cc9e207783d2749fb208f18948028d39c12841bd44ca43244"
+    },
+    {
+      "path": "/home/user/du-an-web-ca-nhan/video/10-thoi-quen/fonts/PatrickHand_400Regular.ttf",
+      "sha256": "496937dafcb18bf2c2f624ed02c8f7f4d47bd1e4e6e5646c42b6cfd873c6b13c"
+    },
+    {
+      "path": "/root/.claude/plugins/synced/6885484c-7413-48de-8948-b53451880e01_1ccae8e5-87c7-4a7f-b902-53f9d823848c/stickman-video-director/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ]
+}

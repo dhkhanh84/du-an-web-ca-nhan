@@ -1,0 +1,163 @@
+import os
+# Original procedural ambience + Foley for the sample. numpy only. Output: stems + mixed master.
+import numpy as np, wave, json
+SR=24000; rng=np.random.default_rng(7)
+def rd(p):
+    w=wave.open(p); x=np.frombuffer(w.readframes(w.getnframes()),np.int16).astype(float)/32768; return x
+def wr(p,x):
+    x=np.clip(x,-1,1); w=wave.open(p,'wb'); w.setnchannels(1); w.setsampwidth(2); w.setframerate(SR); w.writeframes((x*32767).astype(np.int16).tobytes()); w.close()
+def band(x,lo,hi):
+    X=np.fft.rfft(x); f=np.fft.rfftfreq(len(x),1/SR); X[(f<lo)|(f>hi)]=0; return np.fft.irfft(X,len(x))
+def env(n,a,d):  # attack/decay seconds
+    t=np.arange(n)/SR; return np.minimum(1,t/max(a,1e-4))*np.exp(-t/d)
+def norm(x,peak): m=np.abs(x).max(); return x/m*peak if m>0 else x
+def sec(s): return int(s*SR)
+def hammer(f0):
+    n=sec(.25); t=np.arange(n)/SR
+    body=np.sin(2*np.pi*f0*t)*env(n,.001,.05)+.5*np.sin(2*np.pi*f0*4.3*t)*env(n,.001,.02)
+    click=band(rng.standard_normal(n),1500,8000)*env(n,.0005,.006)
+    return norm(body+1.5*click,1)
+def drop():
+    n=sec(.5); t=np.arange(n)/SR; x=np.sin(2*np.pi*110*t)*env(n,.001,.07)+band(rng.standard_normal(n),300,3000)*env(n,.001,.03)
+    h=.35*hammer(260); x[sec(.11):sec(.11)+len(h)]+=h
+    return norm(x,1)
+def gravel():
+    n=sec(.16); g=band(rng.standard_normal(n),900,5000)*(rng.random(n)<.08)*3+band(rng.standard_normal(n),400,2500)*.6
+    return norm(g*env(n,.004,.04),1)
+def flutter(dur):
+    n=sec(dur); am=np.abs(band(rng.standard_normal(n),5,40)); am/=am.max()
+    return norm(band(rng.standard_normal(n),1800,7000)*am*np.hanning(n),1)
+def whoosh(dur):
+    n=sec(dur); x=rng.standard_normal(n); out=np.zeros(n); k=8
+    for i in range(k):
+        s=slice(i*n//k,(i+1)*n//k); c=600+i*350; out[s]=band(x,c,c*2.2)[s]
+    return norm(out*np.hanning(n)**1.5,1)
+def land(): n=sec(.12); return norm(band(rng.standard_normal(n),150,1800)*env(n,.002,.025),1)
+def pencil(dur):
+    n=sec(dur); t=np.arange(n)/SR; am=(np.sin(2*np.pi*3.2*t)>0.1).astype(float); am=np.convolve(am,np.ones(240)/240,'same')
+    return norm(band(rng.standard_normal(n),2500,7500)*am*(0.6+0.4*rng.random(n)),1)
+def ting(f):
+    n=sec(.7); t=np.arange(n)/SR
+    x=sum(a*np.sin(2*np.pi*f*r*t)*env(n,.0007,d) for r,a,d in((1,1,.35),(2.76,.5,.18),(5.4,.25,.08)))
+    return norm(x,1)
+def catch_(): n=sec(.12); return norm(band(rng.standard_normal(n),800,6000)*env(n,.0005,.01),1)*.6+np.pad(ting(3100)[:sec(.12)]*.4,(0,0))
+def tap(): n=sec(.06); return norm(band(rng.standard_normal(n),600,4000)*env(n,.0003,.006),1)
+def chime():
+    n=sec(1.2); t=np.arange(n)/SR; return norm(sum(np.sin(2*np.pi*f*t)*env(n,.003,d) for f,d in((1318.5,.6),(1975.5,.45),(2637,.25))),1)
+# --- beds
+def site(n):
+    x=band(np.cumsum(rng.standard_normal(n))/80,40,900)*.6+band(rng.standard_normal(n),200,1200)*.15
+    for t0 in rng.uniform(0,n/SR-.3,10): s=sec(t0); h=hammer(rng.uniform(250,420))*.18; x[s:s+len(h)]+=band(h,100,2500)[:n-s]
+    return x
+def wind(n):
+    am=np.abs(band(rng.standard_normal(n),.1,.8)); am=.4+am/am.max()
+    return band(rng.standard_normal(n),150,1400)*am
+def room(n): return band(rng.standard_normal(n),60,500)
+def metal(f0,dur=.6):
+    n=sec(dur); t=np.arange(n)/SR
+    x=sum(a*np.sin(2*np.pi*f0*r*t)*env(n,.0008,d) for r,a,d in((1,1,.25),(2.4,.6,.12),(3.9,.4,.06)))
+    return norm(x+band(rng.standard_normal(n),800,6000)*env(n,.0005,.01),1)
+def rattle():
+    n=sec(.5); x=np.zeros(n)
+    for t0 in (0,.07,.16,.27):
+        m=metal(rng.uniform(700,950),.25)*rng.uniform(.5,1); s=sec(t0); x[s:s+len(m)]+=m[:n-s]
+    return norm(x,1)
+def thump():
+    n=sec(.4); t=np.arange(n)/SR
+    return norm(np.sin(2*np.pi*95*t)*env(n,.001,.06)+.6*band(rng.standard_normal(n),200,2500)*env(n,.0005,.015),1)
+def creak(dur=.6,f=180):
+    n=sec(dur); t=np.arange(n)/SR; fm=f*(1+.25*np.sin(2*np.pi*1.3*t))
+    saw=((np.cumsum(fm)/SR)%1)*2-1; pulses=(rng.random(n)<.02)
+    return norm(band(saw*(.5+pulses),300,3000)*np.hanning(n),1)
+def pour(dur=.9):
+    n=sec(dur); am=np.abs(band(rng.standard_normal(n),3,18)); am/=am.max()
+    return norm(band(rng.standard_normal(n),80,900)*am*np.hanning(n),1)
+def ratchet():
+    n=sec(.6); x=np.zeros(n)
+    for i in range(7): c=tap()*.8; s=sec(i*.08); x[s:s+len(c)]+=c[:n-s]
+    return norm(band(x,1500,8000),1)
+def jingle_keys():
+    n=sec(.8); x=np.zeros(n)
+    for i in range(9):
+        m=metal(rng.uniform(2500,4200),.35)*rng.uniform(.3,1); s=sec(rng.uniform(0,.45)); x[s:s+len(m)]+=m[:n-s]
+    return norm(x,1)
+def deflate(): n=sec(.5); return norm(band(rng.standard_normal(n),200,1500)*np.linspace(1,0,n)**2,1)
+
+def metal(f0,dur=.6):
+    n=sec(dur); t=np.arange(n)/SR
+    x=sum(a*np.sin(2*np.pi*f0*r*t)*env(n,.0008,d) for r,a,d in((1,1,.25),(2.4,.6,.12),(3.9,.4,.06)))
+    return norm(x+band(rng.standard_normal(n),800,6000)*env(n,.0005,.01),1)
+def rattle():
+    n=sec(.5); x=np.zeros(n)
+    for t0 in (0,.07,.16,.27):
+        m=metal(rng.uniform(700,950),.25)*rng.uniform(.5,1); s=sec(t0); x[s:s+len(m)]+=m[:n-s]
+    return norm(x,1)
+def thump():
+    n=sec(.4); t=np.arange(n)/SR
+    return norm(np.sin(2*np.pi*95*t)*env(n,.001,.06)+.6*band(rng.standard_normal(n),200,2500)*env(n,.0005,.015),1)
+def creak(dur=.6,f=180):
+    n=sec(dur); t=np.arange(n)/SR; fm=f*(1+.25*np.sin(2*np.pi*1.3*t))
+    saw=((np.cumsum(fm)/SR)%1)*2-1; pulses=(rng.random(n)<.02)
+    return norm(band(saw*(.5+pulses),300,3000)*np.hanning(n),1)
+def pour(dur=.9):
+    n=sec(dur); am=np.abs(band(rng.standard_normal(n),3,18)); am/=am.max()
+    return norm(band(rng.standard_normal(n),80,900)*am*np.hanning(n),1)
+def ratchet():
+    n=sec(.6); x=np.zeros(n)
+    for i in range(7): c=tap()*.8; s=sec(i*.08); x[s:s+len(c)]+=c[:n-s]
+    return norm(band(x,1500,8000),1)
+def jingle_keys():
+    n=sec(.8); x=np.zeros(n)
+    for i in range(9):
+        m=metal(rng.uniform(2500,4200),.35)*rng.uniform(.3,1); s=sec(rng.uniform(0,.45)); x[s:s+len(m)]+=m[:n-s]
+    return norm(x,1)
+def deflate(): n=sec(.5); return norm(band(rng.standard_normal(n),200,1500)*np.linspace(1,0,n)**2,1)
+
+
+def heartbeat():
+    n=sec(.6); t=np.arange(n)/SR; x=np.zeros(n)
+    for t0,a in((0,1),(.22,.7)):
+        s0=sec(t0); m=sec(.18); tt=np.arange(m)/SR; x[s0:s0+m]+=a*np.sin(2*np.pi*55*tt)*np.exp(-tt/.05)
+    return norm(x,1)
+narr=rd('audio/narration.wav'); LEAD=.15
+N=sec(LEAD)+len(narr)+sec(2.0); voice=np.zeros(N); voice[sec(LEAD):sec(LEAD)+len(narr)]=narr
+amb=np.zeros(N); fx=np.zeros(N)
+def fade(n,fi,fo): e=np.ones(n); a,b=sec(fi),sec(fo); e[:a]=np.linspace(0,1,a); e[n-b:]=np.linspace(1,0,b); return e
+def bed(gen,t0,t1,fi,fo,rms):
+    s,e=sec(t0),min(sec(t1),N); x=gen(e-s); x=x/np.sqrt((x**2).mean())*rms; amb[s:e]+=x*fade(e-s,fi,fo)
+dB=lambda d:10**(d/20)
+bed(room,0,N/SR,.3,.3,dB(-44)); 
+cues=[]
+def put(t,x,d,label):
+    s=sec(t); x=x*dB(d); fx[s:s+len(x)]+=x[:N-s]; cues.append({"t":round(t,3),"cue":label,"peak_dB":d})
+for t in(.4,.9,1.4): put(t,ting(3400),-30,'phone notification pings (doom-scrolling)')
+put(1.9,whoosh(.4),-26,'title')
+put(4.33,ting(1800),-24,'habit #1 number')
+put(7.26,ting(1920),-24,'habit #2 number')
+put(10.53,ting(2040),-24,'habit #3 number')
+put(13.51,ting(2160),-24,'habit #4 number')
+put(17.86,ting(2280),-24,'habit #5 number')
+put(22.12,ting(2400),-24,'habit #6 number')
+put(25.47,ting(2520),-24,'habit #7 number')
+put(27.99,ting(2640),-24,'habit #8 number')
+put(30.82,ting(2760),-24,'habit #9 number')
+put(34.44,ting(2880),-24,'habit #10 number')
+put(5.0,pencil(.35),-24,'news crossed out')
+put(11.1,tap(),-24,'phone set down far away')
+put(14.4,whoosh(.9),-30,'slow breath')
+put(18.5,tap(),-26,'footsteps');put(18.9,tap(),-26,'footsteps')
+put(22.9,chime(),-26,'sunshine')
+put(26.2,pencil(.3),-24,'sweets crossed out')
+put(28.6,flutter(.5),-24,'broom sweep')
+put(31.45,pencil(.3),-24,'argument crossed out')
+put(35.2,ting(2600),-26,'warm chat')
+put(38.1,chime(),-22,'body thanks you')
+put(42.2,whoosh(.3),-26,'end card')
+for i,t in enumerate((42.6,42.8,43.0,43.2,43.4)): put(t,tap()*.7,-28,'checkboxes ticked')
+put(44.1,ting(1800)*.7,-24,'comment bubble pops')
+os.makedirs('audio/stems',exist_ok=True)
+wr('audio/stems/voice_padded.wav',voice); wr('audio/stems/ambience.wav',amb); wr('audio/stems/fx.wav',fx)
+mix=voice+amb+fx; pk=np.abs(mix).max(); g=min(1.0,10**(-3.2/20)/pk); print('peak',round(20*np.log10(pk),2),'dBFS -> gain',round(20*np.log10(g),2),'dB')
+wr('audio/master_mix.wav',mix*g)
+json.dump({"lead":LEAD,"source":"original procedural synthesis (make_sfx.py), no third-party audio, no music","cues":cues},open('audio/sound_manifest.json','w'),indent=1)
+print(N/SR)

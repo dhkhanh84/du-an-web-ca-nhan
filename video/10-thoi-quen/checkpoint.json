@@ -1,2 +1,29 @@
-{"project":"10-thoi-quen","mode":"B","style":"B1","ratio":"9:16","stage":"script_proposed_awaiting_approval",
- "narration":{"language":"vi","voice":"Algieba","model":"gemini-2.5-flash-preview-tts","direction":"none (default calm delivery)"}}
+{
+  "project": "10-thoi-quen",
+  "mode": "B",
+  "style": "B1",
+  "ratio": "9:16",
+  "stage": "film_delivered",
+  "narration": {
+    "language": "vi",
+    "voice": "Algieba",
+    "model": "gemini-2.5-flash-preview-tts",
+    "direction": "none (default calm delivery)",
+    "duration_s": 45.37
+  },
+  "images": "5 generated (k01,k03,k04,k05 + icon sheet k02 cropped into 10 icons; red X drawn over the cupcake)",
+  "alignment": "captions from measured pauses (clean clause-level match); no hydrogen call",
+  "mastering": "ffmpeg loudnorm I=-17 TP=-1.5",
+  "qa": {
+    "duration_s": 47.53,
+    "decode": "OK",
+    "loudness": "-16.9 LUFS, -3.7 dBTP",
+    "freeze_gt_2.5s": "none after end-card fix",
+    "captions": 21,
+    "not_done": [
+      "human listening review"
+    ]
+  },
+  "deliverable": "output/short_9x16.mp4 + .srt/.vtt",
+  "next_step": "none"
+}

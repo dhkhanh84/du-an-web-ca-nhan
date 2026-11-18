@@ -1,0 +1,166 @@
+{
+ "lead": 0.15,
+ "source": "original procedural synthesis (make_sfx.py), no third-party audio, no music",
+ "cues": [
+  {
+   "t": 0.4,
+   "cue": "phone notification pings (doom-scrolling)",
+   "peak_dB": -30
+  },
+  {
+   "t": 0.9,
+   "cue": "phone notification pings (doom-scrolling)",
+   "peak_dB": -30
+  },
+  {
+   "t": 1.4,
+   "cue": "phone notification pings (doom-scrolling)",
+   "peak_dB": -30
+  },
+  {
+   "t": 1.9,
+   "cue": "title",
+   "peak_dB": -26
+  },
+  {
+   "t": 4.33,
+   "cue": "habit #1 number",
+   "peak_dB": -24
+  },
+  {
+   "t": 7.26,
+   "cue": "habit #2 number",
+   "peak_dB": -24
+  },
+  {
+   "t": 10.53,
+   "cue": "habit #3 number",
+   "peak_dB": -24
+  },
+  {
+   "t": 13.51,
+   "cue": "habit #4 number",
+   "peak_dB": -24
+  },
+  {
+   "t": 17.86,
+   "cue": "habit #5 number",
+   "peak_dB": -24
+  },
+  {
+   "t": 22.12,
+   "cue": "habit #6 number",
+   "peak_dB": -24
+  },
+  {
+   "t": 25.47,
+   "cue": "habit #7 number",
+   "peak_dB": -24
+  },
+  {
+   "t": 27.99,
+   "cue": "habit #8 number",
+   "peak_dB": -24
+  },
+  {
+   "t": 30.82,
+   "cue": "habit #9 number",
+   "peak_dB": -24
+  },
+  {
+   "t": 34.44,
+   "cue": "habit #10 number",
+   "peak_dB": -24
+  },
+  {
+   "t": 5.0,
+   "cue": "news crossed out",
+   "peak_dB": -24
+  },
+  {
+   "t": 11.1,
+   "cue": "phone set down far away",
+   "peak_dB": -24
+  },
+  {
+   "t": 14.4,
+   "cue": "slow breath",
+   "peak_dB": -30
+  },
+  {
+   "t": 18.5,
+   "cue": "footsteps",
+   "peak_dB": -26
+  },
+  {
+   "t": 18.9,
+   "cue": "footsteps",
+   "peak_dB": -26
+  },
+  {
+   "t": 22.9,
+   "cue": "sunshine",
+   "peak_dB": -26
+  },
+  {
+   "t": 26.2,
+   "cue": "sweets crossed out",
+   "peak_dB": -24
+  },
+  {
+   "t": 28.6,
+   "cue": "broom sweep",
+   "peak_dB": -24
+  },
+  {
+   "t": 31.45,
+   "cue": "argument crossed out",
+   "peak_dB": -24
+  },
+  {
+   "t": 35.2,
+   "cue": "warm chat",
+   "peak_dB": -26
+  },
+  {
+   "t": 38.1,
+   "cue": "body thanks you",
+   "peak_dB": -22
+  },
+  {
+   "t": 42.2,
+   "cue": "end card",
+   "peak_dB": -26
+  },
+  {
+   "t": 42.6,
+   "cue": "checkboxes ticked",
+   "peak_dB": -28
+  },
+  {
+   "t": 42.8,
+   "cue": "checkboxes ticked",
+   "peak_dB": -28
+  },
+  {
+   "t": 43.0,
+   "cue": "checkboxes ticked",
+   "peak_dB": -28
+  },
+  {
+   "t": 43.2,
+   "cue": "checkboxes ticked",
+   "peak_dB": -28
+  },
+  {
+   "t": 43.4,
+   "cue": "checkboxes ticked",
+   "peak_dB": -28
+  },
+  {
+   "t": 44.1,
+   "cue": "comment bubble pops",
+   "peak_dB": -24
+  }
+ ]
+}
