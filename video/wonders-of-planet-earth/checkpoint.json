@@ -6,7 +6,7 @@
     1280,
     720
   ],
-  "stage": "narration_in_progress",
+  "stage": "test_cut_ch01-06_delivered",
   "style": "B2 Colorful Hand-Drawn (user choice 2026-11-24); prompts rewritten for B2",
   "scenes": 122,
   "narration_words": 6475,
@@ -20,5 +20,17 @@
     "prompts": "image-prompts.md",
     "scenes": "scenes.json",
     "narration_by_chapter": "audio/chapter-XX.txt"
+  },
+  "images_received": "chapters 1-6 (43 images, user upload 2026-11-24)",
+  "narration_status": "96/122 scenes done; Gemini TTS daily limit (100 requests/day, Tier 1) hit at 15.2 - resume tomorrow with tts_scenes.py",
+  "test_cut": {
+    "file": "output/film.mp4 (206 MB, not committed: exceeds GitHub 100 MB limit)",
+    "review_copy": "output/test-ch01-06_review.mp4 (85 MB, CRF 27)",
+    "duration_s": 995,
+    "qa": "decode OK; -17.1 LUFS, -1.2 dBTP; no main-picture freeze >2.5 s",
+    "known_issues": [
+      "some caption splits break names/phrases (e.g. \"Ring | of Fire\", \"survey | methods\")",
+      "no ElevenLabs SFX yet (procedural transitions only)"
+    ]
   }
 }

@@ -1,2 +1,4 @@
 output/cache/
 output/render.lock
+output/film.mp4
+output/*_review.mp4
