@@ -1,0 +1,6 @@
+{"project":"wonders-of-planet-earth","mode":"B","ratio":"16:9","size":[1280,720],"stage":"prompts_delivered_waiting_for_user_images_and_decisions",
+ "style":"UNRESOLVED: user asked for 'B6' (not defined in the skill). Script describes whiteboard look; candidate = B1 runtime with grid:false",
+ "scenes":122,"narration_words":6475,"narration_chars":37497,
+ "audio":"user wants ElevenLabs MCP. Starter plan: 40,000 chars/month, 8,789 used (2026-11-24) -> 31,211 left < 37,497 needed for full narration.",
+ "images":"user generates manually from image-prompts.md and saves to images/<file> (e.g. 01-1.png)",
+ "files":{"prompts":"image-prompts.md","scenes":"scenes.json","narration_by_chapter":"audio/chapter-XX.txt"}}
