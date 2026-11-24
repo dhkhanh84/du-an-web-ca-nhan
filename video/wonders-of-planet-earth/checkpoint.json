@@ -6,12 +6,15 @@
     1280,
     720
   ],
-  "stage": "prompts_delivered_waiting_for_user_images_and_audio_decision",
+  "stage": "narration_in_progress",
   "style": "B2 Colorful Hand-Drawn (user choice 2026-11-24); prompts rewritten for B2",
   "scenes": 122,
   "narration_words": 6475,
   "narration_chars": 37497,
-  "audio": "user wants ElevenLabs MCP. Starter plan: 40,000 chars/month, 8,789 used (2026-11-24) -> 31,211 left < 37,497 needed for full narration.",
+  "audio": {
+    "narration": "Gemini Algieba (gemini-2.5-flash-preview-tts), one file per scene in audio/scenes/<code>.wav via tts_scenes.py (resumable; 10 RPM Tier-1 limit -> sequential with spacing)",
+    "sfx": "ElevenLabs (user choice 2026-11-24): planned after narration timing; estimate credits first. Account 8,789/40,000 used."
+  },
   "images": "user generates manually from image-prompts.md and saves to images/<file> (e.g. 01-1.png)",
   "files": {
     "prompts": "image-prompts.md",
