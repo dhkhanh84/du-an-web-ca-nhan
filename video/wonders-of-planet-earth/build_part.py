@@ -22,26 +22,41 @@ def pauses(x):
 LIM=820  # PIL regular-weight px; ~1.3x narrower than the renderer's 500-weight caption font (limit 1120)
 SPLITW={'and','that','from','of','to','in','with','when','while','but','which','where','as','on','into','across','because','so','until','before','after','for','at','by'}
 def fit(p): return CAPF.getlength(p)<=LIM
-def split_sem(p):
-    if fit(p): return [p]
-    w=p.split(); mid=len(w)/2
-    cands=[i for i in range(2,len(w)-1) if w[i].lower().strip(',') in SPLITW or w[i-1].endswith(',')]
-    i=min(cands,key=lambda i:abs(i-mid)) if cands else len(w)//2
-    return split_sem(' '.join(w[:i]))+split_sem(' '.join(w[i:]))
+CONJ={'and','but','which','that','where','when','while','because','so','until','before','after','although','though','whereas','or','who','if','yet'}
+PREP={'from','to','in','with','as','on','into','across','for','at','by','through','over','under','beneath','during','than','like','about','around','between'}
+ABBR=r'(?<!\bSt\.)(?<!\bMt\.)(?<!\bDr\.)(?<!\bMr\.)(?<!\bvs\.)(?<!\bU\.S\.)'
+def bcost(w,i):
+    a,b=w[i-1],w[i]; bl=b.lower().strip(',;:"'); al=a.lower().strip(',;:"')
+    if a.endswith((',',';',':')): c=0
+    elif bl in CONJ: c=2
+    elif bl in PREP: c=4
+    elif bl in ('the','a','an','its','their','his','her','our','this','these','those','some','many','most','more'): c=6
+    else: c=12
+    if a[:1].isupper() and b[:1].isupper() and not a.endswith(','): c+=15
+    if bl=='of' or al in ('the','a','an','of','to','very','is','are','was','were','be','been','it','its','more','most','than','some','one','lives'): c+=25
+    if al in PREP or al in CONJ: c+=15
+    if bl in ('out','up','down','off','away','apart','over','back') and not a.endswith(','): c+=15
+    if (b[:1].isdigit() or a[:1].isdigit()) and not a.endswith(','): c+=5
+    return c
+def segline(sent):
+    w=sent.split(); n=len(w)
+    if fit(sent): return [sent]
+    INF=1e9; best=[INF]*(n+1); prev=[0]*(n+1); best[0]=0
+    for j in range(1,n+1):
+        for i in range(j-1,-1,-1):
+            line=' '.join(w[i:j])
+            if not fit(line): break
+            L=len(line); c=best[i]+10+(0 if j==n else bcost(w,j))
+            if L<18: c+=(18-L)*1.5
+            if c<best[j]: best[j]=c; prev[j]=i
+    out=[]; j=n
+    while j>0: i=prev[j]; out.append(' '.join(w[i:j])); j=i
+    return out[::-1]
 def phrases(text):
-    parts=re.split(r'(?<=[.!?:;])\s+',text.strip()); out=[]
-    for p in parts:
-        bits=re.split(r'(?<=,)\s+',p); cur=''
-        for b in bits:
-            t=(cur+' '+b).strip()
-            if cur and not fit(t): out+=split_sem(cur); cur=b
-            else: cur=t
-        if cur: out+=split_sem(cur)
-    merged=[]
-    for p in out:
-        if merged and (len(p)<14 or len(merged[-1])<14) and fit(merged[-1]+' '+p) and not re.search(r'[.!?]$',merged[-1]): merged[-1]=merged[-1]+' '+p
-        else: merged.append(p)
-    return merged
+    out=[]
+    for p in re.split(ABBR+r'(?<=[.!?])\s+',text.strip()):
+        out+=segline(p)
+    return out
 
 from PIL import ImageDraw
 HANDF='/root/.claude/plugins/synced/6885484c-7413-48de-8948-b53451880e01_1ccae8e5-87c7-4a7f-b902-53f9d823848c/stickman-video-director/skills/directing-stickman-videos/assets/fonts/Caveat.ttf'
@@ -103,7 +118,7 @@ for i,s in enumerate(scenes):
     if i>0 and chap_first[c]==s['t0']: st=s['t0']-(CHGAP-0.2)
     en=(scenes[i+1]['t0']-0.35) if i+1<len(scenes) and chap_first.get(int(scenes[i+1]['code'].split('.')[0]))!=scenes[i+1]['t0'] else (scenes[i+1]['t0']-(CHGAP-0.2) if i+1<len(scenes) else total)
     s['shot']=(round(st,3),round(en,3)); sp=en-st
-    im=Image.open('images/'+s['file']); iw,ih=im.size
+    IMG=('images_fixed/' if os.path.exists('images_fixed/'+s['file']) else 'images/')+s['file']; im=Image.open(IMG); iw,ih=im.size
     if ih/iw>0.6: w0=int(720*0.97*iw/ih); x0=(1280-w0)//2; y0=10
     else: w0=1280; x0=0; y0=(720-int(1280*ih/iw))//2
     # camera tour: one keyframe per phrase, alternating gentle zoom targets
@@ -117,7 +132,7 @@ for i,s in enumerate(scenes):
         kx=x0-(W-w0)*cx; ky=y0-(H-w0*ih/iw)*cy
         tt=min(off+bb,sp-0.05)
         if tt>keys[-1]['t']+0.3: keys.append({"t":round(tt,2),"w":round(W),"x":round(kx),"y":round(ky)})
-    L=[dict(type='image',path='images/'+s['file'],x=x0,y=y0,w=w0,keys=keys)]
+    L=[dict(type='image',path=IMG,x=x0,y=y0,w=w0,keys=keys)]
     # scene heading + spoken key numbers as handwritten labels
     title=next(x for x in open('image-prompts.md').read().split('\n') if x.startswith('### '+s['code']+' ')).split(' — ',1)[1].split('  →')[0]
     lp=label(title.upper(),SLATE,34); lw=Image.open(lp).size[0]/2

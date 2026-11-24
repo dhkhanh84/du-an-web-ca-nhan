@@ -1,0 +1,7125 @@
+{
+ "version": 1,
+ "style": "B2",
+ "width": 1280,
+ "height": 720,
+ "fps": 30,
+ "voice": {
+  "path": "audio/parts/ch07-12_mix.wav",
+  "lead": 0,
+  "tail": 0,
+  "contains_sfx": true
+ },
+ "captions": [
+  {
+   "start": 0.43,
+   "end": 3.75,
+   "text": "Rivers can grind walls of rock into dust."
+  },
+  {
+   "start": 3.8,
+   "end": 6.451,
+   "text": "They carry millions of tonnes of soil"
+  },
+  {
+   "start": 6.501,
+   "end": 8.941,
+   "text": "and sand, and hold enough energy"
+  },
+  {
+   "start": 8.991,
+   "end": 10.38,
+   "text": "to power entire cities."
+  },
+  {
+   "start": 10.43,
+   "end": 12.14,
+   "text": "There are long rivers,"
+  },
+  {
+   "start": 12.19,
+   "end": 14.34,
+   "text": "wide rivers and deep rivers."
+  },
+  {
+   "start": 14.39,
+   "end": 17.425,
+   "text": "But by almost any measure, one river"
+  },
+  {
+   "start": 17.475,
+   "end": 20.071,
+   "text": "stands above them all: the Amazon."
+  },
+  {
+   "start": 20.821,
+   "end": 22.081,
+   "text": "Its story begins high"
+  },
+  {
+   "start": 22.131,
+   "end": 23.821,
+   "text": "in the Andes Mountains,"
+  },
+  {
+   "start": 23.871,
+   "end": 25.074,
+   "text": "where water from glaciers"
+  },
+  {
+   "start": 25.124,
+   "end": 27.831,
+   "text": "and snowfields trickles down the slopes."
+  },
+  {
+   "start": 27.881,
+   "end": 28.878,
+   "text": "Mountain streams such"
+  },
+  {
+   "start": 28.928,
+   "end": 31.431,
+   "text": "as the Urubamba River join together,"
+  },
+  {
+   "start": 31.481,
+   "end": 33.556,
+   "text": "forming the headwaters that will become"
+  },
+  {
+   "start": 33.606,
+   "end": 35.302,
+   "text": "the greatest river on Earth."
+  },
+  {
+   "start": 36.052,
+   "end": 38.182,
+   "text": "As it crosses South America, the Amazon"
+  },
+  {
+   "start": 38.232,
+   "end": 41.611,
+   "text": "is fed by more than 1,100 tributaries,"
+  },
+  {
+   "start": 41.661,
+   "end": 45.102,
+   "text": "more than any other river in the world."
+  },
+  {
+   "start": 45.152,
+   "end": 47.922,
+   "text": "Some arrive as thundering waterfalls,"
+  },
+  {
+   "start": 47.972,
+   "end": 49.554,
+   "text": "like those that carry water down"
+  },
+  {
+   "start": 49.604,
+   "end": 51.373,
+   "text": "from the Guiana Highlands."
+  },
+  {
+   "start": 52.123,
+   "end": 53.558,
+   "text": "The Nile is usually"
+  },
+  {
+   "start": 53.608,
+   "end": 55.393,
+   "text": "considered slightly longer."
+  },
+  {
+   "start": 55.443,
+   "end": 56.764,
+   "text": "But in volume,"
+  },
+  {
+   "start": 56.814,
+   "end": 59.043,
+   "text": "the Amazon leaves it far behind."
+  },
+  {
+   "start": 59.093,
+   "end": 62.393,
+   "text": "Every second, the Nile pours about 5,100"
+  },
+  {
+   "start": 62.443,
+   "end": 64.753,
+   "text": "cubic metres of water into the sea."
+  },
+  {
+   "start": 64.803,
+   "end": 68.023,
+   "text": "The Amazon pours about 220,000,"
+  },
+  {
+   "start": 68.073,
+   "end": 69.429,
+   "text": "around 43 times as much."
+  },
+  {
+   "start": 69.479,
+   "end": 72.791,
+   "text": "In a single day, that is enough fresh water"
+  },
+  {
+   "start": 72.841,
+   "end": 75.823,
+   "text": "to supply a city for ten years."
+  },
+  {
+   "start": 75.873,
+   "end": 77.951,
+   "text": "The next biggest rivers, the Congo,"
+  },
+  {
+   "start": 78.001,
+   "end": 81.003,
+   "text": "the Yangtze, the Yenisei and the Paran\u00e1,"
+  },
+  {
+   "start": 81.053,
+   "end": 82.564,
+   "text": "are not even close."
+  },
+  {
+   "start": 83.314,
+   "end": 84.694,
+   "text": "In the wet season,"
+  },
+  {
+   "start": 84.744,
+   "end": 86.684,
+   "text": "the Amazon's floodwaters spread"
+  },
+  {
+   "start": 86.734,
+   "end": 89.334,
+   "text": "across an area about the size of Germany."
+  },
+  {
+   "start": 89.384,
+   "end": 91.988,
+   "text": "Near its mouth, the river can be up"
+  },
+  {
+   "start": 92.038,
+   "end": 93.814,
+   "text": "to 40 kilometres wide."
+  },
+  {
+   "start": 93.864,
+   "end": 96.176,
+   "text": "Its waters feed the largest rainforest"
+  },
+  {
+   "start": 96.226,
+   "end": 97.056,
+   "text": "on Earth, covering"
+  },
+  {
+   "start": 97.106,
+   "end": 100.244,
+   "text": "around five million square kilometres."
+  },
+  {
+   "start": 100.294,
+   "end": 102.039,
+   "text": "Altogether, the Amazon holds"
+  },
+  {
+   "start": 102.089,
+   "end": 104.761,
+   "text": "about 20 percent of all the river water"
+  },
+  {
+   "start": 104.811,
+   "end": 106.995,
+   "text": "flowing into the world's oceans."
+  },
+  {
+   "start": 107.745,
+   "end": 109.861,
+   "text": "Every year, seasonal rains flood"
+  },
+  {
+   "start": 109.911,
+   "end": 112.841,
+   "text": "the lowlands around the river, creating vast"
+  },
+  {
+   "start": 112.891,
+   "end": 115.595,
+   "text": "floodplains of forest standing in water."
+  },
+  {
+   "start": 115.645,
+   "end": 116.497,
+   "text": "In these slow,"
+  },
+  {
+   "start": 116.547,
+   "end": 119.205,
+   "text": "muddy channels lives one of the Amazon's"
+  },
+  {
+   "start": 119.255,
+   "end": 121.135,
+   "text": "most mysterious animals:"
+  },
+  {
+   "start": 121.185,
+   "end": 123.2,
+   "text": "the river dolphin, which hunts fish"
+  },
+  {
+   "start": 123.25,
+   "end": 125.565,
+   "text": "and crabs in water so murky"
+  },
+  {
+   "start": 125.615,
+   "end": 128.346,
+   "text": "that scientists still know little about its life."
+  },
+  {
+   "start": 129.096,
+   "end": 131.946,
+   "text": "The Amazon also carries a huge load:"
+  },
+  {
+   "start": 131.996,
+   "end": 133.549,
+   "text": "around three million cubic"
+  },
+  {
+   "start": 133.599,
+   "end": 134.856,
+   "text": "metres of sediment"
+  },
+  {
+   "start": 134.906,
+   "end": 136.636,
+   "text": "into the ocean every day."
+  },
+  {
+   "start": 136.686,
+   "end": 138.806,
+   "text": "And where the river meets the sea,"
+  },
+  {
+   "start": 138.856,
+   "end": 141.076,
+   "text": "the incoming tide pushes back."
+  },
+  {
+   "start": 141.126,
+   "end": 143.498,
+   "text": "Long waves called tidal bores,"
+  },
+  {
+   "start": 143.548,
+   "end": 145.986,
+   "text": "or pororocas, roll upstream,"
+  },
+  {
+   "start": 146.036,
+   "end": 148.509,
+   "text": "and surfers can ride a single wave for up"
+  },
+  {
+   "start": 148.559,
+   "end": 149.817,
+   "text": "to ten kilometres."
+  },
+  {
+   "start": 151.667,
+   "end": 153.297,
+   "text": "On our restless planet,"
+  },
+  {
+   "start": 153.347,
+   "end": 155.447,
+   "text": "nothing stays the same for long."
+  },
+  {
+   "start": 155.497,
+   "end": 158.027,
+   "text": "Landscapes are always being carved,"
+  },
+  {
+   "start": 158.077,
+   "end": 160.047,
+   "text": "worn down and reshaped."
+  },
+  {
+   "start": 160.097,
+   "end": 162.053,
+   "text": "A human life is far too short"
+  },
+  {
+   "start": 162.103,
+   "end": 163.427,
+   "text": "to watch it happen."
+  },
+  {
+   "start": 163.477,
+   "end": 165.948,
+   "text": "But the results are all around us."
+  },
+  {
+   "start": 166.698,
+   "end": 170.128,
+   "text": "In dry places, the wind becomes a sculptor."
+  },
+  {
+   "start": 170.178,
+   "end": 172.581,
+   "text": "It lifts grains of sand and hurls them"
+  },
+  {
+   "start": 172.631,
+   "end": 175.228,
+   "text": "against rock like a sandblaster."
+  },
+  {
+   "start": 175.278,
+   "end": 178.002,
+   "text": "In Arches National Park in Utah, this slow"
+  },
+  {
+   "start": 178.052,
+   "end": 181.378,
+   "text": "attack has carved natural stone arches,"
+  },
+  {
+   "start": 181.428,
+   "end": 184.068,
+   "text": "balancing rocks and flat-topped mesas"
+  },
+  {
+   "start": 184.118,
+   "end": 186.499,
+   "text": "that stand like monuments in the desert."
+  },
+  {
+   "start": 187.249,
+   "end": 189.01,
+   "text": "Sometimes the wind leaves"
+  },
+  {
+   "start": 189.06,
+   "end": 190.819,
+   "text": "strange shapes behind."
+  },
+  {
+   "start": 190.869,
+   "end": 192.85,
+   "text": "Hoodoos are tall spires of rock"
+  },
+  {
+   "start": 192.9,
+   "end": 195.989,
+   "text": "with a cap of harder stone on top,"
+  },
+  {
+   "start": 196.039,
+   "end": 198.279,
+   "text": "protecting the softer rock beneath."
+  },
+  {
+   "start": 198.329,
+   "end": 200.167,
+   "text": "In Australia, the Devils Marbles"
+  },
+  {
+   "start": 200.217,
+   "end": 202.729,
+   "text": "are giant round boulders,"
+  },
+  {
+   "start": 202.779,
+   "end": 204.659,
+   "text": "sandblasted over time until they seem"
+  },
+  {
+   "start": 204.709,
+   "end": 207.05,
+   "text": "to balance on top of one another."
+  },
+  {
+   "start": 207.8,
+   "end": 210.65,
+   "text": "Water can be an even stronger carver."
+  },
+  {
+   "start": 210.7,
+   "end": 212.533,
+   "text": "When fast-moving water rushes"
+  },
+  {
+   "start": 212.583,
+   "end": 215.433,
+   "text": "through a crack in soft rock, it can cut"
+  },
+  {
+   "start": 215.483,
+   "end": 217.97,
+   "text": "a deep, narrow channel with smooth,"
+  },
+  {
+   "start": 218.02,
+   "end": 220.651,
+   "text": "curving walls: a slot canyon, glowing"
+  },
+  {
+   "start": 220.701,
+   "end": 223.841,
+   "text": "with light that filters down from far above."
+  },
+  {
+   "start": 224.591,
+   "end": 226.815,
+   "text": "The greatest rock carver of all"
+  },
+  {
+   "start": 226.865,
+   "end": 228.121,
+   "text": "is the Colorado River."
+  },
+  {
+   "start": 228.171,
+   "end": 231.591,
+   "text": "Over millions of years, it has cut"
+  },
+  {
+   "start": 231.641,
+   "end": 234.301,
+   "text": "the Grand Canyon: 446 kilometres long,"
+  },
+  {
+   "start": 234.351,
+   "end": 236.575,
+   "text": "up to 29 kilometres wide, and in places"
+  },
+  {
+   "start": 236.625,
+   "end": 239.741,
+   "text": "more than 1.6 kilometres deep, exposing"
+  },
+  {
+   "start": 239.791,
+   "end": 242.152,
+   "text": "rocks close to two billion years old."
+  },
+  {
+   "start": 242.202,
+   "end": 245.641,
+   "text": "Its power comes from its steep slope,"
+  },
+  {
+   "start": 245.691,
+   "end": 246.822,
+   "text": "the huge amount of mud,"
+  },
+  {
+   "start": 246.872,
+   "end": 248.536,
+   "text": "sand and gravel it carries,"
+  },
+  {
+   "start": 248.586,
+   "end": 251.911,
+   "text": "and the relatively soft rock it flows through."
+  },
+  {
+   "start": 252.661,
+   "end": 255.641,
+   "text": "Along the coast, the ocean never rests."
+  },
+  {
+   "start": 255.691,
+   "end": 257.772,
+   "text": "Waves crash against the rocks,"
+  },
+  {
+   "start": 257.821,
+   "end": 258.928,
+   "text": "armed with sand and grit"
+  },
+  {
+   "start": 258.978,
+   "end": 261.131,
+   "text": "that grind the cliffs away."
+  },
+  {
+   "start": 261.181,
+   "end": 264.341,
+   "text": "Over time, the base of a cliff is undercut"
+  },
+  {
+   "start": 264.391,
+   "end": 266.991,
+   "text": "until the rock above collapses into the sea."
+  },
+  {
+   "start": 267.041,
+   "end": 269.591,
+   "text": "In Australia, the Painted Cliffs were carved"
+  },
+  {
+   "start": 269.641,
+   "end": 272.104,
+   "text": "this way, their layers stained orange"
+  },
+  {
+   "start": 272.154,
+   "end": 273.462,
+   "text": "and red by minerals."
+  },
+  {
+   "start": 275.312,
+   "end": 277.402,
+   "text": "In the coldest places on Earth,"
+  },
+  {
+   "start": 277.452,
+   "end": 279.802,
+   "text": "snow falls but rarely melts."
+  },
+  {
+   "start": 279.852,
+   "end": 282.232,
+   "text": "Layer upon layer piles up,"
+  },
+  {
+   "start": 282.282,
+   "end": 285.187,
+   "text": "and the weight squeezes the fluffy snow"
+  },
+  {
+   "start": 285.237,
+   "end": 286.832,
+   "text": "into dense, solid ice."
+  },
+  {
+   "start": 286.882,
+   "end": 289.742,
+   "text": "Slowly, under the pull of gravity,"
+  },
+  {
+   "start": 289.792,
+   "end": 292.522,
+   "text": "this ice begins to move downhill."
+  },
+  {
+   "start": 292.572,
+   "end": 295.972,
+   "text": "These giant rivers of ice are glaciers,"
+  },
+  {
+   "start": 296.022,
+   "end": 297.152,
+   "text": "and as they creep,"
+  },
+  {
+   "start": 297.202,
+   "end": 299.673,
+   "text": "they scour a path through the land."
+  },
+  {
+   "start": 300.423,
+   "end": 303.293,
+   "text": "At the front of a glacier, the ice can"
+  },
+  {
+   "start": 303.343,
+   "end": 305.523,
+   "text": "break away with a thunderous crack."
+  },
+  {
+   "start": 305.573,
+   "end": 308.979,
+   "text": "In Argentina, the Perito Moreno Glacier"
+  },
+  {
+   "start": 309.029,
+   "end": 311.133,
+   "text": "pushes into Lago Argentino,"
+  },
+  {
+   "start": 311.183,
+   "end": 313.083,
+   "text": "the country's largest lake."
+  },
+  {
+   "start": 313.133,
+   "end": 314.971,
+   "text": "Huge towers of ice crash"
+  },
+  {
+   "start": 315.021,
+   "end": 317.203,
+   "text": "from its wall into the water,"
+  },
+  {
+   "start": 317.253,
+   "end": 319.504,
+   "text": "sending waves across the lake."
+  },
+  {
+   "start": 320.254,
+   "end": 323.394,
+   "text": "A glacier is always melting and freezing,"
+  },
+  {
+   "start": 323.444,
+   "end": 325.294,
+   "text": "changing with the time of day,"
+  },
+  {
+   "start": 325.344,
+   "end": 327.274,
+   "text": "the season and the climate."
+  },
+  {
+   "start": 327.324,
+   "end": 329.724,
+   "text": "When more ice forms than melts,"
+  },
+  {
+   "start": 329.774,
+   "end": 332.024,
+   "text": "the glacier grows and advances."
+  },
+  {
+   "start": 332.074,
+   "end": 334.934,
+   "text": "When more melts, it shrinks and retreats."
+  },
+  {
+   "start": 334.984,
+   "end": 337.605,
+   "text": "In Alaska, the enormous Hubbard Glacier"
+  },
+  {
+   "start": 337.655,
+   "end": 338.91,
+   "text": "has been advancing"
+  },
+  {
+   "start": 338.96,
+   "end": 341.054,
+   "text": "for more than a hundred years."
+  },
+  {
+   "start": 341.104,
+   "end": 342.898,
+   "text": "Cruise ships that sail up"
+  },
+  {
+   "start": 342.948,
+   "end": 344.855,
+   "text": "to its face look like toys."
+  },
+  {
+   "start": 345.605,
+   "end": 348.326,
+   "text": "Most glaciers move only a few centimetres"
+  },
+  {
+   "start": 348.376,
+   "end": 349.495,
+   "text": "or metres a day."
+  },
+  {
+   "start": 349.545,
+   "end": 351.835,
+   "text": "But some are surprisingly fast."
+  },
+  {
+   "start": 351.885,
+   "end": 352.99,
+   "text": "The Jakobshavn Glacier"
+  },
+  {
+   "start": 353.04,
+   "end": 355.985,
+   "text": "in Greenland is one of the fastest on Earth,"
+  },
+  {
+   "start": 356.035,
+   "end": 358.126,
+   "text": "flowing at up to 20 metres a day"
+  },
+  {
+   "start": 358.176,
+   "end": 360.086,
+   "text": "as it pours ice into the sea."
+  },
+  {
+   "start": 360.836,
+   "end": 363.896,
+   "text": "When glaciers and ice sheets reach"
+  },
+  {
+   "start": 363.946,
+   "end": 365.762,
+   "text": "the ocean, great chunks break off"
+  },
+  {
+   "start": 365.812,
+   "end": 367.506,
+   "text": "and float away as icebergs."
+  },
+  {
+   "start": 367.556,
+   "end": 369.986,
+   "text": "Because ice is less dense than water,"
+  },
+  {
+   "start": 370.036,
+   "end": 373.746,
+   "text": "about 90 percent of an iceberg hides"
+  },
+  {
+   "start": 373.796,
+   "end": 374.682,
+   "text": "below the surface."
+  },
+  {
+   "start": 374.732,
+   "end": 376.159,
+   "text": "That hidden danger has"
+  },
+  {
+   "start": 376.209,
+   "end": 377.942,
+   "text": "always threatened ships."
+  },
+  {
+   "start": 377.992,
+   "end": 380.69,
+   "text": "In 1912, an iceberg sank the Titanic,"
+  },
+  {
+   "start": 380.74,
+   "end": 383.957,
+   "text": "and more than 1,500 people lost their lives."
+  },
+  {
+   "start": 384.707,
+   "end": 385.695,
+   "text": "For some animals,"
+  },
+  {
+   "start": 385.745,
+   "end": 387.687,
+   "text": "though, icebergs are useful."
+  },
+  {
+   "start": 387.737,
+   "end": 388.748,
+   "text": "In the Southern Ocean,"
+  },
+  {
+   "start": 388.798,
+   "end": 390.702,
+   "text": "colonies of penguins hitch rides"
+  },
+  {
+   "start": 390.752,
+   "end": 393.083,
+   "text": "on floating ice, resting and travelling"
+  },
+  {
+   "start": 393.133,
+   "end": 395.22,
+   "text": "until hunger sends them diving back"
+  },
+  {
+   "start": 395.27,
+   "end": 396.868,
+   "text": "into the sea to catch fish."
+  },
+  {
+   "start": 397.618,
+   "end": 400.128,
+   "text": "Earth's climate has always changed, and ice"
+  },
+  {
+   "start": 400.178,
+   "end": 403.058,
+   "text": "ages are a normal part of its history."
+  },
+  {
+   "start": 403.108,
+   "end": 404.938,
+   "text": "During the last ice age,"
+  },
+  {
+   "start": 404.988,
+   "end": 407.158,
+   "text": "so much water was locked up in ice"
+  },
+  {
+   "start": 407.208,
+   "end": 410.718,
+   "text": "that sea levels fell by around 120 metres."
+  },
+  {
+   "start": 410.768,
+   "end": 412.436,
+   "text": "Woolly mammoths grazed on cold"
+  },
+  {
+   "start": 412.486,
+   "end": 415.958,
+   "text": "grasslands, hunted by sabre-toothed cats."
+  },
+  {
+   "start": 416.008,
+   "end": 417.579,
+   "text": "Today, the opposite is happening"
+  },
+  {
+   "start": 417.629,
+   "end": 419.048,
+   "text": "in many places."
+  },
+  {
+   "start": 419.098,
+   "end": 420.891,
+   "text": "The ice cap on Mount Kilimanjaro"
+  },
+  {
+   "start": 420.941,
+   "end": 423.338,
+   "text": "in Africa is melting so fast that scientists"
+  },
+  {
+   "start": 423.388,
+   "end": 426.739,
+   "text": "warn it could disappear within decades."
+  },
+  {
+   "start": 428.589,
+   "end": 431.689,
+   "text": "Deep beneath our feet lies a hidden world."
+  },
+  {
+   "start": 431.739,
+   "end": 433.966,
+   "text": "Dark caverns and winding tunnels stretch"
+  },
+  {
+   "start": 434.016,
+   "end": 436.679,
+   "text": "far into the Earth, their walls decorated"
+  },
+  {
+   "start": 436.729,
+   "end": 439.179,
+   "text": "with strange stone shapes."
+  },
+  {
+   "start": 439.229,
+   "end": 441.599,
+   "text": "For the brave explorers who venture down,"
+  },
+  {
+   "start": 441.649,
+   "end": 442.9,
+   "text": "the rewards are some of the"
+  },
+  {
+   "start": 442.95,
+   "end": 445.15,
+   "text": "most awesome sights on the planet."
+  },
+  {
+   "start": 445.9,
+   "end": 448.36,
+   "text": "Most caves are carved from limestone,"
+  },
+  {
+   "start": 448.41,
+   "end": 451.08,
+   "text": "and limestone has an extraordinary origin."
+  },
+  {
+   "start": 451.13,
+   "end": 453.59,
+   "text": "Its main ingredient, calcium carbonate,"
+  },
+  {
+   "start": 453.64,
+   "end": 454.502,
+   "text": "comes from the shells"
+  },
+  {
+   "start": 454.552,
+   "end": 456.85,
+   "text": "and skeletons of ancient sea creatures."
+  },
+  {
+   "start": 456.9,
+   "end": 459.189,
+   "text": "Over millions of years, they piled up"
+  },
+  {
+   "start": 459.239,
+   "end": 460.92,
+   "text": "on the seafloor and were pressed,"
+  },
+  {
+   "start": 460.97,
+   "end": 463.221,
+   "text": "layer by layer, into solid rock."
+  },
+  {
+   "start": 463.971,
+   "end": 466.151,
+   "text": "When rainwater soaks through the ground,"
+  },
+  {
+   "start": 466.201,
+   "end": 468.208,
+   "text": "it picks up carbon dioxide"
+  },
+  {
+   "start": 468.258,
+   "end": 469.771,
+   "text": "and becomes slightly acidic."
+  },
+  {
+   "start": 469.821,
+   "end": 472.881,
+   "text": "This weak acid slowly dissolves limestone,"
+  },
+  {
+   "start": 472.931,
+   "end": 475.051,
+   "text": "hollowing out tunnels and chambers."
+  },
+  {
+   "start": 475.101,
+   "end": 476.351,
+   "text": "Inside the cave,"
+  },
+  {
+   "start": 476.401,
+   "end": 478.921,
+   "text": "dripping water leaves its minerals behind."
+  },
+  {
+   "start": 478.971,
+   "end": 480.158,
+   "text": "From the ceiling grow"
+  },
+  {
+   "start": 480.208,
+   "end": 481.991,
+   "text": "icicle-shaped stalactites."
+  },
+  {
+   "start": 482.041,
+   "end": 482.941,
+   "text": "From the floor,"
+  },
+  {
+   "start": 482.991,
+   "end": 484.961,
+   "text": "stalagmites rise to meet them,"
+  },
+  {
+   "start": 485.011,
+   "end": 487.692,
+   "text": "often just a fraction of a millimetre a year."
+  },
+  {
+   "start": 488.442,
+   "end": 490.199,
+   "text": "Sometimes, the ground above"
+  },
+  {
+   "start": 490.249,
+   "end": 492.082,
+   "text": "a hollow simply gives way."
+  },
+  {
+   "start": 492.132,
+   "end": 493.812,
+   "text": "When weakened rock collapses"
+  },
+  {
+   "start": 493.862,
+   "end": 496.572,
+   "text": "into the cavern below, a sinkhole opens,"
+  },
+  {
+   "start": 496.622,
+   "end": 498.002,
+   "text": "often without warning."
+  },
+  {
+   "start": 498.052,
+   "end": 500.562,
+   "text": "In Guatemala, during a tropical storm,"
+  },
+  {
+   "start": 500.612,
+   "end": 502.922,
+   "text": "a sinkhole about 30 storeys deep suddenly"
+  },
+  {
+   "start": 502.972,
+   "end": 505.523,
+   "text": "swallowed a three-storey building."
+  },
+  {
+   "start": 506.273,
+   "end": 509.543,
+   "text": "Caves are among the least explored places"
+  },
+  {
+   "start": 509.593,
+   "end": 511.983,
+   "text": "on Earth, which is exactly why cave"
+  },
+  {
+   "start": 512.033,
+   "end": 514.118,
+   "text": "explorers, called spelunkers or potholers,"
+  },
+  {
+   "start": 514.168,
+   "end": 515.863,
+   "text": "find them so thrilling."
+  },
+  {
+   "start": 515.913,
+   "end": 518.893,
+   "text": "But every expedition carries real risks:"
+  },
+  {
+   "start": 518.943,
+   "end": 522.263,
+   "text": "collapsing rock, freezing water, falls,"
+  },
+  {
+   "start": 522.313,
+   "end": 525.394,
+   "text": "sudden floods, and getting lost in the dark."
+  },
+  {
+   "start": 526.144,
+   "end": 528.393,
+   "text": "In Gunung Mulu National Park"
+  },
+  {
+   "start": 528.443,
+   "end": 530.104,
+   "text": "on the island of Borneo,"
+  },
+  {
+   "start": 530.154,
+   "end": 532.334,
+   "text": "cave experts have mapped"
+  },
+  {
+   "start": 532.384,
+   "end": 534.944,
+   "text": "more than 320 kilometres of passages."
+  },
+  {
+   "start": 534.994,
+   "end": 537.474,
+   "text": "Here lies the Sarawak Chamber,"
+  },
+  {
+   "start": 537.524,
+   "end": 540.264,
+   "text": "the largest known cave chamber by area:"
+  },
+  {
+   "start": 540.314,
+   "end": 542.284,
+   "text": "about 700 metres long"
+  },
+  {
+   "start": 542.334,
+   "end": 544.124,
+   "text": "and 100 metres high."
+  },
+  {
+   "start": 544.174,
+   "end": 545.274,
+   "text": "Nearby, Deer Cave"
+  },
+  {
+   "start": 545.324,
+   "end": 548.1,
+   "text": "was discovered only in 1976."
+  },
+  {
+   "start": 548.15,
+   "end": 551.467,
+   "text": "And in Vietnam, Hang S\u01a1n \u0110o\u00f2ng is so vast"
+  },
+  {
+   "start": 551.517,
+   "end": 554.714,
+   "text": "it has its own jungle and clouds."
+  },
+  {
+   "start": 554.764,
+   "end": 557.625,
+   "text": "It is the largest cave passage ever found."
+  },
+  {
+   "start": 558.375,
+   "end": 560.167,
+   "text": "The longest cave system"
+  },
+  {
+   "start": 560.217,
+   "end": 563.055,
+   "text": "on Earth is Mammoth Cave, in Kentucky."
+  },
+  {
+   "start": 563.105,
+   "end": 565.211,
+   "text": "Explorers have now mapped"
+  },
+  {
+   "start": 565.261,
+   "end": 568.845,
+   "text": "more than 686 kilometres of its passages,"
+  },
+  {
+   "start": 568.895,
+   "end": 571.056,
+   "text": "and they are still finding more."
+  },
+  {
+   "start": 572.906,
+   "end": 575.586,
+   "text": "Earth's crust is a treasure chest."
+  },
+  {
+   "start": 575.636,
+   "end": 577.746,
+   "text": "Many things we use every day,"
+  },
+  {
+   "start": 577.796,
+   "end": 579.123,
+   "text": "from soft talcum powder"
+  },
+  {
+   "start": 579.173,
+   "end": 581.606,
+   "text": "to the graphite \"lead\" in a pencil,"
+  },
+  {
+   "start": 581.656,
+   "end": 583.876,
+   "text": "were formed deep inside it."
+  },
+  {
+   "start": 583.926,
+   "end": 586.416,
+   "text": "Getting them out takes enormous effort,"
+  },
+  {
+   "start": 586.466,
+   "end": 589.107,
+   "text": "human courage and clever technology."
+  },
+  {
+   "start": 589.857,
+   "end": 591.657,
+   "text": "Our buildings are made of it."
+  },
+  {
+   "start": 591.707,
+   "end": 594.657,
+   "text": "Marble is strong and easy to carve, and has"
+  },
+  {
+   "start": 594.707,
+   "end": 598.587,
+   "text": "been used for some of the most famous"
+  },
+  {
+   "start": 598.637,
+   "end": 599.685,
+   "text": "buildings in history."
+  },
+  {
+   "start": 599.735,
+   "end": 602.327,
+   "text": "Iron, mixed with other elements,"
+  },
+  {
+   "start": 602.377,
+   "end": 603.059,
+   "text": "becomes steel."
+  },
+  {
+   "start": 603.109,
+   "end": 605.067,
+   "text": "Aluminium is light and strong."
+  },
+  {
+   "start": 605.117,
+   "end": 607.888,
+   "text": "Gypsum, when heated, becomes plaster"
+  },
+  {
+   "start": 607.938,
+   "end": 610.578,
+   "text": "for walls and chalk for blackboards."
+  },
+  {
+   "start": 611.328,
+   "end": 613.558,
+   "text": "Our machines run on it."
+  },
+  {
+   "start": 613.608,
+   "end": 615.901,
+   "text": "Copper bends easily and carries electricity"
+  },
+  {
+   "start": 615.951,
+   "end": 619.508,
+   "text": "better than almost any other metal."
+  },
+  {
+   "start": 619.558,
+   "end": 622.768,
+   "text": "Nickel goes into coins and batteries."
+  },
+  {
+   "start": 622.818,
+   "end": 624.021,
+   "text": "Mercury, the only metal"
+  },
+  {
+   "start": 624.071,
+   "end": 626.868,
+   "text": "that is liquid at room temperature,"
+  },
+  {
+   "start": 626.918,
+   "end": 629.569,
+   "text": "was used for centuries in thermometers."
+  },
+  {
+   "start": 630.319,
+   "end": 631.052,
+   "text": "And the phone"
+  },
+  {
+   "start": 631.102,
+   "end": 632.839,
+   "text": "in your pocket depends on it too."
+  },
+  {
+   "start": 632.889,
+   "end": 634.907,
+   "text": "A mineral called coltan is used"
+  },
+  {
+   "start": 634.957,
+   "end": 636.229,
+   "text": "to make mobile phones."
+  },
+  {
+   "start": 636.279,
+   "end": 637.738,
+   "text": "But much of it comes from"
+  },
+  {
+   "start": 637.788,
+   "end": 639.359,
+   "text": "the Democratic Republic of the Congo,"
+  },
+  {
+   "start": 639.409,
+   "end": 642.479,
+   "text": "where miners often dig by hand"
+  },
+  {
+   "start": 642.529,
+   "end": 644.123,
+   "text": "in dangerous ground, risking mudslides,"
+  },
+  {
+   "start": 644.173,
+   "end": 645.979,
+   "text": "toxic fumes and collapsing pits,"
+  },
+  {
+   "start": 646.029,
+   "end": 648.28,
+   "text": "all in conditions of extreme poverty."
+  },
+  {
+   "start": 649.03,
+   "end": 651.43,
+   "text": "Some minerals are simply beautiful."
+  },
+  {
+   "start": 651.48,
+   "end": 653.808,
+   "text": "Fluorite glows with intense colour"
+  },
+  {
+   "start": 653.858,
+   "end": 655.63,
+   "text": "under ultraviolet light."
+  },
+  {
+   "start": 655.68,
+   "end": 658.03,
+   "text": "Hematite, ground into powder, became"
+  },
+  {
+   "start": 658.08,
+   "end": 660.96,
+   "text": "the red paint used in ancient rock art."
+  },
+  {
+   "start": 661.01,
+   "end": 662.974,
+   "text": "And gold can be hammered thinner"
+  },
+  {
+   "start": 663.024,
+   "end": 665.702,
+   "text": "than any other metal: a single gram can"
+  },
+  {
+   "start": 665.752,
+   "end": 667.65,
+   "text": "be beaten into a sheet of gold leaf"
+  },
+  {
+   "start": 667.7,
+   "end": 669.551,
+   "text": "a square metre wide."
+  },
+  {
+   "start": 670.301,
+   "end": 673.161,
+   "text": "The most precious of all is diamond."
+  },
+  {
+   "start": 673.211,
+   "end": 676.101,
+   "text": "Amazingly, it is made of pure carbon,"
+  },
+  {
+   "start": 676.151,
+   "end": 676.913,
+   "text": "the same element"
+  },
+  {
+   "start": 676.963,
+   "end": 679.501,
+   "text": "as the soft graphite in your pencil."
+  },
+  {
+   "start": 679.551,
+   "end": 681.925,
+   "text": "Arranged differently, carbon becomes"
+  },
+  {
+   "start": 681.975,
+   "end": 684.441,
+   "text": "the hardest natural mineral on Earth."
+  },
+  {
+   "start": 684.491,
+   "end": 686.651,
+   "text": "The Imperial Crown of India holds"
+  },
+  {
+   "start": 686.701,
+   "end": 689.171,
+   "text": "more than 6,000 diamonds."
+  },
+  {
+   "start": 689.221,
+   "end": 691.721,
+   "text": "Other elements are far less stable."
+  },
+  {
+   "start": 691.771,
+   "end": 693.091,
+   "text": "Potassium is so reactive"
+  },
+  {
+   "start": 693.141,
+   "end": 696.121,
+   "text": "that it is never found pure in nature,"
+  },
+  {
+   "start": 696.171,
+   "end": 697.586,
+   "text": "and it bursts into flame"
+  },
+  {
+   "start": 697.636,
+   "end": 699.182,
+   "text": "on contact with water."
+  },
+  {
+   "start": 699.932,
+   "end": 702.417,
+   "text": "Reaching Earth's buried treasure can"
+  },
+  {
+   "start": 702.467,
+   "end": 704.092,
+   "text": "be extremely dangerous."
+  },
+  {
+   "start": 704.142,
+   "end": 706.342,
+   "text": "On 20 April 2010, the Deepwater Horizon"
+  },
+  {
+   "start": 706.392,
+   "end": 709.529,
+   "text": "oil rig in the Gulf of Mexico exploded."
+  },
+  {
+   "start": 709.579,
+   "end": 711.431,
+   "text": "Eleven workers were killed."
+  },
+  {
+   "start": 711.481,
+   "end": 712.663,
+   "text": "The rig had been drilling"
+  },
+  {
+   "start": 712.713,
+   "end": 716.522,
+   "text": "beneath about 1,500 metres of water,"
+  },
+  {
+   "start": 716.572,
+   "end": 718.0,
+   "text": "a task some engineers compared"
+  },
+  {
+   "start": 718.05,
+   "end": 719.852,
+   "text": "to exploring the Moon."
+  },
+  {
+   "start": 719.902,
+   "end": 722.275,
+   "text": "Around five million barrels of oil poured"
+  },
+  {
+   "start": 722.325,
+   "end": 723.442,
+   "text": "into the sea, causing"
+  },
+  {
+   "start": 723.492,
+   "end": 726.853,
+   "text": "the largest accidental oil spill in history."
+  },
+  {
+   "start": 728.703,
+   "end": 731.556,
+   "text": "The deep ocean is the least explored place"
+  },
+  {
+   "start": 731.606,
+   "end": 732.563,
+   "text": "on our planet."
+  },
+  {
+   "start": 732.613,
+   "end": 735.123,
+   "text": "It is pitch-dark, freezing cold,"
+  },
+  {
+   "start": 735.173,
+   "end": 737.433,
+   "text": "and the pressure could crush a submarine."
+  },
+  {
+   "start": 737.483,
+   "end": 740.293,
+   "text": "Yet even here, life finds a way,"
+  },
+  {
+   "start": 740.343,
+   "end": 742.269,
+   "text": "from colossal squid with eyes bigger"
+  },
+  {
+   "start": 742.319,
+   "end": 743.733,
+   "text": "than a human head,"
+  },
+  {
+   "start": 743.783,
+   "end": 745.864,
+   "text": "to fish that make their own light."
+  },
+  {
+   "start": 746.614,
+   "end": 749.444,
+   "text": "As we dive, the ocean changes."
+  },
+  {
+   "start": 749.494,
+   "end": 751.704,
+   "text": "In the sunlit zone near the surface,"
+  },
+  {
+   "start": 751.754,
+   "end": 753.864,
+   "text": "there is enough light for plants to grow."
+  },
+  {
+   "start": 753.914,
+   "end": 757.514,
+   "text": "Below about 200 metres begins the twilight"
+  },
+  {
+   "start": 757.564,
+   "end": 759.924,
+   "text": "zone, where only a faint glow remains."
+  },
+  {
+   "start": 759.974,
+   "end": 762.914,
+   "text": "Past 1,000 metres is the dark zone."
+  },
+  {
+   "start": 762.964,
+   "end": 765.944,
+   "text": "Below 4,000 metres lies the abyssal zone."
+  },
+  {
+   "start": 765.994,
+   "end": 767.463,
+   "text": "And deeper than 6,000 metres,"
+  },
+  {
+   "start": 767.513,
+   "end": 770.754,
+   "text": "in the ocean trenches, is the hadal zone,"
+  },
+  {
+   "start": 770.804,
+   "end": 772.044,
+   "text": "one of the most extreme"
+  },
+  {
+   "start": 772.094,
+   "end": 774.335,
+   "text": "and least known places on Earth."
+  },
+  {
+   "start": 775.085,
+   "end": 777.725,
+   "text": "In the darkness, it snows."
+  },
+  {
+   "start": 777.775,
+   "end": 780.645,
+   "text": "Tiny bits of dead plants and animals,"
+  },
+  {
+   "start": 780.695,
+   "end": 782.335,
+   "text": "called marine snow,"
+  },
+  {
+   "start": 782.385,
+   "end": 784.835,
+   "text": "drift down from the waters above."
+  },
+  {
+   "start": 784.885,
+   "end": 786.915,
+   "text": "Over thousands of years,"
+  },
+  {
+   "start": 786.965,
+   "end": 788.655,
+   "text": "they settle on the seabed"
+  },
+  {
+   "start": 788.705,
+   "end": 792.865,
+   "text": "and build up layers of fine mud and ooze,"
+  },
+  {
+   "start": 792.915,
+   "end": 795.565,
+   "text": "some of them up to 450 metres thick."
+  },
+  {
+   "start": 796.315,
+   "end": 798.327,
+   "text": "The creatures of the deep look"
+  },
+  {
+   "start": 798.377,
+   "end": 800.005,
+   "text": "like they come from another world."
+  },
+  {
+   "start": 800.055,
+   "end": 803.207,
+   "text": "The Dumbo octopus flaps ear-like fins"
+  },
+  {
+   "start": 803.257,
+   "end": 804.765,
+   "text": "as it hovers above the seafloor,"
+  },
+  {
+   "start": 804.815,
+   "end": 806.715,
+   "text": "thousands of metres down."
+  },
+  {
+   "start": 806.765,
+   "end": 810.275,
+   "text": "Giant ostracods, relatives of tiny shrimp,"
+  },
+  {
+   "start": 810.325,
+   "end": 811.936,
+   "text": "glide through the dark water"
+  },
+  {
+   "start": 811.986,
+   "end": 813.516,
+   "text": "like floating lanterns."
+  },
+  {
+   "start": 814.266,
+   "end": 815.603,
+   "text": "On the ocean floor,"
+  },
+  {
+   "start": 815.653,
+   "end": 818.416,
+   "text": "cracks in the crust release volcanic heat."
+  },
+  {
+   "start": 818.466,
+   "end": 820.49,
+   "text": "These hydrothermal vents,"
+  },
+  {
+   "start": 820.54,
+   "end": 822.387,
+   "text": "also called black smokers,"
+  },
+  {
+   "start": 822.437,
+   "end": 824.576,
+   "text": "gush mineral-rich water as hot"
+  },
+  {
+   "start": 824.626,
+   "end": 826.416,
+   "text": "as 400 degrees Celsius."
+  },
+  {
+   "start": 826.466,
+   "end": 827.846,
+   "text": "Instead of sunlight,"
+  },
+  {
+   "start": 827.896,
+   "end": 829.826,
+   "text": "life here runs on chemicals."
+  },
+  {
+   "start": 829.876,
+   "end": 831.434,
+   "text": "Blind shrimp, starfish,"
+  },
+  {
+   "start": 831.484,
+   "end": 833.33,
+   "text": "tube worms and fish gather"
+  },
+  {
+   "start": 833.38,
+   "end": 836.467,
+   "text": "around the vents like an oasis in a desert."
+  },
+  {
+   "start": 837.217,
+   "end": 839.284,
+   "text": "The deepest point of any ocean"
+  },
+  {
+   "start": 839.334,
+   "end": 841.087,
+   "text": "is the Challenger Deep,"
+  },
+  {
+   "start": 841.137,
+   "end": 843.557,
+   "text": "in the Mariana Trench in the Pacific."
+  },
+  {
+   "start": 843.607,
+   "end": 845.037,
+   "text": "In 1960, two explorers,"
+  },
+  {
+   "start": 845.087,
+   "end": 848.287,
+   "text": "Jacques Piccard and Don Walsh, climbed"
+  },
+  {
+   "start": 848.337,
+   "end": 850.115,
+   "text": "into a submersible called the Trieste"
+  },
+  {
+   "start": 850.165,
+   "end": 852.479,
+   "text": "and sank nearly 11 kilometres"
+  },
+  {
+   "start": 852.529,
+   "end": 853.467,
+   "text": "to the bottom."
+  },
+  {
+   "start": 853.517,
+   "end": 855.725,
+   "text": "It was one of the most dangerous"
+  },
+  {
+   "start": 855.775,
+   "end": 857.418,
+   "text": "journeys ever attempted."
+  },
+  {
+   "start": 858.168,
+   "end": 860.024,
+   "text": "For more than fifty years,"
+  },
+  {
+   "start": 860.074,
+   "end": 861.518,
+   "text": "they were almost alone."
+  },
+  {
+   "start": 861.568,
+   "end": 863.763,
+   "text": "Filmmaker James Cameron made"
+  },
+  {
+   "start": 863.813,
+   "end": 865.418,
+   "text": "a solo dive in 2012,"
+  },
+  {
+   "start": 865.468,
+   "end": 867.868,
+   "text": "and since 2019 a new submersible has"
+  },
+  {
+   "start": 867.918,
+   "end": 870.348,
+   "text": "carried more explorers down."
+  },
+  {
+   "start": 870.398,
+   "end": 872.12,
+   "text": "By 2022, 27 people had reached"
+  },
+  {
+   "start": 872.17,
+   "end": 873.586,
+   "text": "the Challenger Deep."
+  },
+  {
+   "start": 873.636,
+   "end": 876.811,
+   "text": "That is still only a little more than the 12"
+  },
+  {
+   "start": 876.861,
+   "end": 878.898,
+   "text": "people who have walked on the Moon,"
+  },
+  {
+   "start": 878.948,
+   "end": 881.649,
+   "text": "nearly 400,000 kilometres away."
+  },
+  {
+   "start": 882.399,
+   "end": 883.488,
+   "text": "Because the deep sea"
+  },
+  {
+   "start": 883.538,
+   "end": 885.189,
+   "text": "is so dangerous for humans,"
+  },
+  {
+   "start": 885.239,
+   "end": 887.569,
+   "text": "scientists now explore it with robots."
+  },
+  {
+   "start": 887.619,
+   "end": 889.352,
+   "text": "Remotely operated vehicles are steered"
+  },
+  {
+   "start": 889.402,
+   "end": 891.069,
+   "text": "from ships on the surface,"
+  },
+  {
+   "start": 891.119,
+   "end": 892.767,
+   "text": "while autonomous vehicles navigate"
+  },
+  {
+   "start": 892.817,
+   "end": 894.209,
+   "text": "the seabed on their own."
+  },
+  {
+   "start": 894.259,
+   "end": 895.898,
+   "text": "With sonar, they map underwater"
+  },
+  {
+   "start": 895.948,
+   "end": 898.176,
+   "text": "mountains and valleys we have never seen"
+  },
+  {
+   "start": 898.226,
+   "end": 899.2,
+   "text": "with our own eyes."
+  }
+ ],
+ "shots": [
+  {
+   "start": 0,
+   "end": 20.441,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/07-1.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 0
+      },
+      {
+       "t": 0.6,
+       "alpha": 1
+      },
+      {
+       "t": 3.77,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 6.47,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 8.96,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 10.4,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 12.16,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 14.36,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 17.44,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 20.09,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/f3264a771b.png",
+     "x": 30,
+     "y": 22,
+     "w": 338,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/paper.png",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "from": 0,
+     "to": 1.3,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 1
+      },
+      {
+       "t": 0.8,
+       "alpha": 1
+      },
+      {
+       "t": 1.3,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/69688d23e5.png",
+     "x": 526,
+     "y": 230,
+     "w": 229,
+     "from": 0,
+     "to": 1.3
+    },
+    {
+     "type": "text",
+     "text": "GREATEST RIVER",
+     "x": 347,
+     "y": 330,
+     "size": 84,
+     "bold": true,
+     "w": 1240,
+     "from": 0.2,
+     "to": 1.3,
+     "keys": [
+      {
+       "t": 0.2,
+       "alpha": 0,
+       "y": 345
+      },
+      {
+       "t": 0.6,
+       "alpha": 1,
+       "y": 330
+      }
+     ],
+     "color": "#3E5A73"
+    }
+   ]
+  },
+  {
+   "start": 20.441,
+   "end": 35.672,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/07-2.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 1.66,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 3.4,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 4.65,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 7.41,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 8.46,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 11.01,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 13.13,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 14.88,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/96b5b133be.png",
+     "x": 30,
+     "y": 22,
+     "w": 344,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 35.672,
+   "end": 51.743,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/07-3.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.53,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 5.96,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 9.45,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 12.27,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 13.9,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 15.72,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/4b03682f0e.png",
+     "x": 30,
+     "y": 22,
+     "w": 460,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/12a849cc87.png",
+     "x": 1130,
+     "y": 22,
+     "w": 120,
+     "from": 2.73,
+     "keys": [
+      {
+       "t": 2.73,
+       "alpha": 0,
+       "x": 1150
+      },
+      {
+       "t": 3.03,
+       "alpha": 1,
+       "x": 1130
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 51.743,
+   "end": 82.934,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/07-4.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 1.84,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 3.67,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 5.04,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 7.32,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 10.67,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 13.03,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 16.3,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 17.71,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 21.07,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 24.1,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 26.23,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 29.28,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 30.84,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/8bf5557571.png",
+     "x": 30,
+     "y": 22,
+     "w": 330,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/5a82cd5fdd.png",
+     "x": 1131,
+     "y": 22,
+     "w": 119,
+     "from": 7.52,
+     "keys": [
+      {
+       "t": 7.52,
+       "alpha": 0,
+       "x": 1151
+      },
+      {
+       "t": 7.82,
+       "alpha": 1,
+       "x": 1131
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/982fd26c38.png",
+     "x": 1094,
+     "y": 84,
+     "w": 156,
+     "from": 13.23,
+     "keys": [
+      {
+       "t": 13.23,
+       "alpha": 0,
+       "x": 1114
+      },
+      {
+       "t": 13.53,
+       "alpha": 1,
+       "x": 1094
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 82.934,
+   "end": 107.365,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/07-5.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 1.78,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 3.77,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 6.42,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 9.07,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 10.9,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 13.26,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 14.14,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 17.33,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 19.13,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 21.85,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 24.08,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/42b5f9bc88.png",
+     "x": 30,
+     "y": 22,
+     "w": 522,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/3402cbbd5f.png",
+     "x": 962,
+     "y": 22,
+     "w": 288,
+     "from": 9.27,
+     "keys": [
+      {
+       "t": 9.27,
+       "alpha": 0,
+       "x": 982
+      },
+      {
+       "t": 9.57,
+       "alpha": 1,
+       "x": 962
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/0a7788ef47.png",
+     "x": 1021,
+     "y": 84,
+     "w": 229,
+     "from": 19.33,
+     "keys": [
+      {
+       "t": 19.33,
+       "alpha": 0,
+       "x": 1041
+      },
+      {
+       "t": 19.63,
+       "alpha": 1,
+       "x": 1021
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 107.365,
+   "end": 128.716,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/07-6.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.52,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 5.5,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 8.25,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 9.15,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 11.86,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 13.79,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 15.86,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 18.22,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 21.0,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/f804e0f8e1.png",
+     "x": 30,
+     "y": 22,
+     "w": 516,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 128.716,
+   "end": 151.287,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/07-7.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.25,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 4.85,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 6.16,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 7.94,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 10.11,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 12.38,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 14.8,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 17.29,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 19.81,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 21.12,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/ca2e16b0f7.png",
+     "x": 30,
+     "y": 22,
+     "w": 534,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/paper.png",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "from": 20.22,
+     "to": 22.566,
+     "keys": [
+      {
+       "t": 20.22,
+       "alpha": 1
+      },
+      {
+       "t": 22.22,
+       "alpha": 1
+      },
+      {
+       "t": 22.541,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/59de11890e.png",
+     "x": 525,
+     "y": 230,
+     "w": 230,
+     "from": 20.22,
+     "to": 22.566
+    },
+    {
+     "type": "text",
+     "text": "EXTREME EROSION",
+     "x": 309,
+     "y": 330,
+     "size": 84,
+     "bold": true,
+     "w": 1240,
+     "from": 20.42,
+     "to": 22.566,
+     "keys": [
+      {
+       "t": 20.42,
+       "alpha": 0,
+       "y": 345
+      },
+      {
+       "t": 20.82,
+       "alpha": 1,
+       "y": 330
+      }
+     ],
+     "color": "#3E5A73"
+    }
+   ]
+  },
+  {
+   "start": 151.287,
+   "end": 166.318,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/08-1.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.03,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 4.18,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 6.76,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 8.78,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 10.79,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 12.16,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 14.68,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/51469b56b4.png",
+     "x": 30,
+     "y": 22,
+     "w": 464,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 166.318,
+   "end": 186.869,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/08-2.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.83,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 6.28,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 8.93,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 11.7,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 15.08,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 17.77,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 20.2,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/90f21dc088.png",
+     "x": 30,
+     "y": 22,
+     "w": 695,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 186.869,
+   "end": 207.42,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/08-3.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.16,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 3.97,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 6.0,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 9.14,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 11.43,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 13.32,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 15.88,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 17.81,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 20.2,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/12220a7138.png",
+     "x": 30,
+     "y": 22,
+     "w": 527,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 207.42,
+   "end": 224.211,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/08-4.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.25,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 5.13,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 8.03,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 10.57,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 13.25,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 16.44,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/b8abd0446f.png",
+     "x": 30,
+     "y": 22,
+     "w": 212,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 224.211,
+   "end": 252.281,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/08-5.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.62,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 3.93,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 7.4,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 10.11,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 12.38,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 15.55,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 17.96,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 21.45,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 22.63,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 24.35,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 27.72,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/0e679b3c47.png",
+     "x": 30,
+     "y": 22,
+     "w": 302,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/4fdfec0263.png",
+     "x": 944,
+     "y": 22,
+     "w": 306,
+     "from": 7.6,
+     "keys": [
+      {
+       "t": 7.6,
+       "alpha": 0,
+       "x": 964
+      },
+      {
+       "t": 7.9,
+       "alpha": 1,
+       "x": 944
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/19700e9c0b.png",
+     "x": 963,
+     "y": 84,
+     "w": 287,
+     "from": 10.31,
+     "keys": [
+      {
+       "t": 10.31,
+       "alpha": 0,
+       "x": 983
+      },
+      {
+       "t": 10.61,
+       "alpha": 1,
+       "x": 963
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/d5c1478af2.png",
+     "x": 954,
+     "y": 146,
+     "w": 296,
+     "from": 12.58,
+     "keys": [
+      {
+       "t": 12.58,
+       "alpha": 0,
+       "x": 974
+      },
+      {
+       "t": 12.88,
+       "alpha": 1,
+       "x": 954
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 252.281,
+   "end": 274.932,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/08-6.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.38,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 5.51,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 6.67,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 8.87,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 12.08,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 14.73,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 17.33,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 19.84,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 21.2,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/84a24452ea.png",
+     "x": 30,
+     "y": 22,
+     "w": 276,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/paper.png",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "from": 20.3,
+     "to": 22.646,
+     "keys": [
+      {
+       "t": 20.3,
+       "alpha": 1
+      },
+      {
+       "t": 22.3,
+       "alpha": 1
+      },
+      {
+       "t": 22.621,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/9f47c5cee4.png",
+     "x": 526,
+     "y": 230,
+     "w": 229,
+     "from": 20.3,
+     "to": 22.646
+    },
+    {
+     "type": "text",
+     "text": "FREEZING FLOW",
+     "x": 357,
+     "y": 330,
+     "size": 84,
+     "bold": true,
+     "w": 1240,
+     "from": 20.5,
+     "to": 22.646,
+     "keys": [
+      {
+       "t": 20.5,
+       "alpha": 0,
+       "y": 345
+      },
+      {
+       "t": 20.9,
+       "alpha": 1,
+       "y": 330
+      }
+     ],
+     "color": "#3E5A73"
+    }
+   ]
+  },
+  {
+   "start": 274.932,
+   "end": 300.043,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/09-1.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.49,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 4.89,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 7.32,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 10.27,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 11.92,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 14.83,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 17.61,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 21.06,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 22.24,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 24.76,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/2b901d9217.png",
+     "x": 30,
+     "y": 22,
+     "w": 356,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 300.043,
+   "end": 319.874,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/09-2.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.27,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 5.5,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 8.96,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 11.11,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 13.06,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 14.95,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 17.18,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 19.48,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/f8b6c74aa7.png",
+     "x": 30,
+     "y": 22,
+     "w": 376,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 319.874,
+   "end": 345.225,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/09-3.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.54,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 5.44,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 7.42,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 9.87,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 12.17,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 15.08,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 17.75,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 19.06,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 21.2,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 23.04,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 25.0,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/1db770c034.png",
+     "x": 30,
+     "y": 22,
+     "w": 698,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 345.225,
+   "end": 360.456,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/09-4.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.12,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 4.29,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 6.63,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 7.78,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 10.78,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 12.92,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 14.88,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/da1f8b5f22.png",
+     "x": 30,
+     "y": 22,
+     "w": 430,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/ba0299483d.png",
+     "x": 1036,
+     "y": 22,
+     "w": 214,
+     "from": 10.98,
+     "keys": [
+      {
+       "t": 10.98,
+       "alpha": 0,
+       "x": 1056
+      },
+      {
+       "t": 11.28,
+       "alpha": 1,
+       "x": 1036
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 360.456,
+   "end": 384.327,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/09-5.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.46,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 5.33,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 7.07,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 9.55,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 13.31,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 14.25,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 15.72,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 17.51,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 20.25,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 23.52,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/6bf6e943b6.png",
+     "x": 30,
+     "y": 22,
+     "w": 412,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/6cc738718f.png",
+     "x": 1022,
+     "y": 22,
+     "w": 228,
+     "from": 9.75,
+     "keys": [
+      {
+       "t": 9.75,
+       "alpha": 0,
+       "x": 1042
+      },
+      {
+       "t": 10.05,
+       "alpha": 1,
+       "x": 1022
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/d1a5e6c259.png",
+     "x": 1138,
+     "y": 84,
+     "w": 112,
+     "from": 17.71,
+     "keys": [
+      {
+       "t": 17.71,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 18.01,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/096a7af4bf.png",
+     "x": 1131,
+     "y": 146,
+     "w": 119,
+     "from": 20.45,
+     "keys": [
+      {
+       "t": 20.45,
+       "alpha": 0,
+       "x": 1151
+      },
+      {
+       "t": 20.75,
+       "alpha": 1,
+       "x": 1131
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 384.327,
+   "end": 397.238,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/09-6.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 1.39,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 3.38,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 4.44,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 6.39,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 8.78,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 10.91,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 12.56,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/e85b8f85fe.png",
+     "x": 30,
+     "y": 22,
+     "w": 392,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 397.238,
+   "end": 428.209,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/09-7.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.91,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 5.84,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 7.72,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 9.94,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 13.5,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 15.22,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 18.74,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 20.36,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 21.83,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 23.67,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 26.12,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 29.52,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/51f8168b52.png",
+     "x": 30,
+     "y": 22,
+     "w": 398,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/82a5e665fd.png",
+     "x": 1018,
+     "y": 22,
+     "w": 232,
+     "from": 10.14,
+     "keys": [
+      {
+       "t": 10.14,
+       "alpha": 0,
+       "x": 1038
+      },
+      {
+       "t": 10.44,
+       "alpha": 1,
+       "x": 1018
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/paper.png",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "from": 28.62,
+     "to": 30.966,
+     "keys": [
+      {
+       "t": 28.62,
+       "alpha": 1
+      },
+      {
+       "t": 30.62,
+       "alpha": 1
+      },
+      {
+       "t": 30.941,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/d8211f850d.png",
+     "x": 516,
+     "y": 230,
+     "w": 249,
+     "from": 28.62,
+     "to": 30.966
+    },
+    {
+     "type": "text",
+     "text": "ENTER THE ABYSS",
+     "x": 326,
+     "y": 330,
+     "size": 84,
+     "bold": true,
+     "w": 1240,
+     "from": 28.82,
+     "to": 30.966,
+     "keys": [
+      {
+       "t": 28.82,
+       "alpha": 0,
+       "y": 345
+      },
+      {
+       "t": 29.22,
+       "alpha": 1,
+       "y": 330
+      }
+     ],
+     "color": "#3E5A73"
+    }
+   ]
+  },
+  {
+   "start": 428.209,
+   "end": 445.52,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/10-1.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.5,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 5.78,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 8.49,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 10.99,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 13.41,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 14.71,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 16.96,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/af3e84994d.png",
+     "x": 30,
+     "y": 22,
+     "w": 474,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 445.52,
+   "end": 463.591,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/10-2.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.86,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 5.58,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 8.09,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 9.0,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 11.35,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 13.69,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 15.42,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 17.72,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/207c57f3a0.png",
+     "x": 30,
+     "y": 22,
+     "w": 532,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 463.591,
+   "end": 488.062,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/10-3.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.58,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 4.64,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 6.2,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 9.31,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 11.48,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 12.78,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 15.35,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 16.59,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 18.42,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 19.37,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 21.39,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 24.12,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/e244afd7a8.png",
+     "x": 30,
+     "y": 22,
+     "w": 518,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 488.062,
+   "end": 505.893,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/10-4.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.16,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 4.04,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 5.77,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 8.53,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 9.96,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 12.52,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 14.88,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 17.48,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/1a43138ee4.png",
+     "x": 30,
+     "y": 22,
+     "w": 170,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 505.893,
+   "end": 525.764,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/10-5.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.67,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 6.11,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 8.24,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 9.99,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 13.02,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 16.39,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 19.52,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/53e160a8e9.png",
+     "x": 30,
+     "y": 22,
+     "w": 204,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 525.764,
+   "end": 557.995,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/10-6.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.65,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 4.36,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 6.59,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 9.2,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 11.73,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 14.52,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 16.54,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 18.38,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 19.53,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 22.36,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 25.72,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 28.97,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 31.88,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/92aee5f675.png",
+     "x": 30,
+     "y": 22,
+     "w": 517,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/988112ab91.png",
+     "x": 944,
+     "y": 22,
+     "w": 306,
+     "from": 6.79,
+     "keys": [
+      {
+       "t": 6.79,
+       "alpha": 0,
+       "x": 964
+      },
+      {
+       "t": 7.09,
+       "alpha": 1,
+       "x": 944
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/26ced617de.png",
+     "x": 1018,
+     "y": 84,
+     "w": 232,
+     "from": 14.72,
+     "keys": [
+      {
+       "t": 14.72,
+       "alpha": 0,
+       "x": 1038
+      },
+      {
+       "t": 15.02,
+       "alpha": 1,
+       "x": 1018
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/468d7385e5.png",
+     "x": 1018,
+     "y": 146,
+     "w": 232,
+     "from": 16.74,
+     "keys": [
+      {
+       "t": 16.74,
+       "alpha": 0,
+       "x": 1038
+      },
+      {
+       "t": 17.04,
+       "alpha": 1,
+       "x": 1018
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 557.995,
+   "end": 572.526,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/10-7.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.19,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 5.08,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 7.24,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 10.87,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 13.08,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/71e67056af.png",
+     "x": 30,
+     "y": 22,
+     "w": 520,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/9f7ddfba1d.png",
+     "x": 943,
+     "y": 22,
+     "w": 307,
+     "from": 7.44,
+     "keys": [
+      {
+       "t": 7.44,
+       "alpha": 0,
+       "x": 963
+      },
+      {
+       "t": 7.74,
+       "alpha": 1,
+       "x": 943
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/paper.png",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "from": 12.18,
+     "to": 14.526,
+     "keys": [
+      {
+       "t": 12.18,
+       "alpha": 1
+      },
+      {
+       "t": 14.18,
+       "alpha": 1
+      },
+      {
+       "t": 14.501,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/c7b87ed2b7.png",
+     "x": 516,
+     "y": 230,
+     "w": 249,
+     "from": 12.18,
+     "to": 14.526
+    },
+    {
+     "type": "text",
+     "text": "BURIED TREASURE",
+     "x": 320,
+     "y": 330,
+     "size": 84,
+     "bold": true,
+     "w": 1240,
+     "from": 12.38,
+     "to": 14.526,
+     "keys": [
+      {
+       "t": 12.38,
+       "alpha": 0,
+       "y": 345
+      },
+      {
+       "t": 12.78,
+       "alpha": 1,
+       "y": 330
+      }
+     ],
+     "color": "#3E5A73"
+    }
+   ]
+  },
+  {
+   "start": 572.526,
+   "end": 589.477,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/11-1.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.08,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 5.24,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 6.62,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 9.1,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 11.37,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 13.91,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 16.6,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/c9fc2aa679.png",
+     "x": 30,
+     "y": 22,
+     "w": 520,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 589.477,
+   "end": 610.948,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/11-2.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.2,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 5.2,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 9.13,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 10.23,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 12.87,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 13.6,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 15.61,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 18.43,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 21.12,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/892b5e1313.png",
+     "x": 30,
+     "y": 22,
+     "w": 328,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 610.948,
+   "end": 629.939,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/11-3.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.63,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 4.97,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 8.58,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 11.84,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 13.09,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 15.94,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 18.64,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/ad902a87fb.png",
+     "x": 30,
+     "y": 22,
+     "w": 453,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 629.939,
+   "end": 648.65,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/11-4.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 1.13,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 2.92,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 4.99,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 6.31,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 7.82,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 9.44,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 12.56,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 14.2,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 16.06,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 18.36,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/610be719d1.png",
+     "x": 30,
+     "y": 22,
+     "w": 472,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 648.65,
+   "end": 669.921,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/11-5.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.8,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 5.18,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 7.0,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 9.4,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 12.33,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 14.34,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 17.07,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 19.02,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 20.92,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/a3b1976eeb.png",
+     "x": 30,
+     "y": 22,
+     "w": 459,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 669.921,
+   "end": 699.552,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/11-6.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.26,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 6.2,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 7.01,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 9.6,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 12.02,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 14.54,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 16.75,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 19.27,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 21.82,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 23.19,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 26.22,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 27.69,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 29.28,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/e16203dcf4.png",
+     "x": 30,
+     "y": 22,
+     "w": 372,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/0beab876b2.png",
+     "x": 1130,
+     "y": 22,
+     "w": 120,
+     "from": 16.95,
+     "keys": [
+      {
+       "t": 16.95,
+       "alpha": 0,
+       "x": 1150
+      },
+      {
+       "t": 17.25,
+       "alpha": 1,
+       "x": 1130
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 699.552,
+   "end": 728.323,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/11-7.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.89,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 4.56,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 6.81,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 10.0,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 11.9,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 13.13,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 16.99,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 18.47,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 20.32,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 22.74,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 23.91,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 27.32,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/b82e873283.png",
+     "x": 30,
+     "y": 22,
+     "w": 324,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/77347f6cd8.png",
+     "x": 992,
+     "y": 22,
+     "w": 258,
+     "from": 13.33,
+     "keys": [
+      {
+       "t": 13.33,
+       "alpha": 0,
+       "x": 1012
+      },
+      {
+       "t": 13.63,
+       "alpha": 1,
+       "x": 992
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/paper.png",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "from": 26.42,
+     "to": 28.766,
+     "keys": [
+      {
+       "t": 26.42,
+       "alpha": 1
+      },
+      {
+       "t": 28.42,
+       "alpha": 1
+      },
+      {
+       "t": 28.741,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/afc8825233.png",
+     "x": 516,
+     "y": 230,
+     "w": 249,
+     "from": 26.42,
+     "to": 28.766
+    },
+    {
+     "type": "text",
+     "text": "DEEP-SEA DIVE",
+     "x": 365,
+     "y": 330,
+     "size": 84,
+     "bold": true,
+     "w": 1240,
+     "from": 26.62,
+     "to": 28.766,
+     "keys": [
+      {
+       "t": 26.62,
+       "alpha": 0,
+       "y": 345
+      },
+      {
+       "t": 27.02,
+       "alpha": 1,
+       "y": 330
+      }
+     ],
+     "color": "#3E5A73"
+    }
+   ]
+  },
+  {
+   "start": 728.323,
+   "end": 746.234,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/12-1.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.25,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 4.26,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 6.82,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 9.13,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 11.99,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 13.97,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 15.43,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 17.56,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/319111f00a.png",
+     "x": 30,
+     "y": 22,
+     "w": 348,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 746.234,
+   "end": 774.705,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/12-2.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.23,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 5.49,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 7.65,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 11.3,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 13.71,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 16.7,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 19.73,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 21.25,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 24.54,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 25.83,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 28.12,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/877283bdb6.png",
+     "x": 30,
+     "y": 22,
+     "w": 320,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/c5cdd38b62.png",
+     "x": 1018,
+     "y": 22,
+     "w": 232,
+     "from": 7.85,
+     "keys": [
+      {
+       "t": 7.85,
+       "alpha": 0,
+       "x": 1038
+      },
+      {
+       "t": 8.15,
+       "alpha": 1,
+       "x": 1018
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/c272c9ffa7.png",
+     "x": 992,
+     "y": 84,
+     "w": 258,
+     "from": 13.91,
+     "keys": [
+      {
+       "t": 13.91,
+       "alpha": 0,
+       "x": 1012
+      },
+      {
+       "t": 14.21,
+       "alpha": 1,
+       "x": 992
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/fe9f8db763.png",
+     "x": 992,
+     "y": 146,
+     "w": 258,
+     "from": 16.9,
+     "keys": [
+      {
+       "t": 16.9,
+       "alpha": 0,
+       "x": 1012
+      },
+      {
+       "t": 17.2,
+       "alpha": 1,
+       "x": 992
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 774.705,
+   "end": 795.935,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/12-3.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.04,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 5.96,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 7.65,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 10.15,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 12.23,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 13.97,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 18.18,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 20.88,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/42901b2078.png",
+     "x": 30,
+     "y": 22,
+     "w": 230,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/af259e321b.png",
+     "x": 1018,
+     "y": 22,
+     "w": 232,
+     "from": 18.38,
+     "keys": [
+      {
+       "t": 18.38,
+       "alpha": 0,
+       "x": 1038
+      },
+      {
+       "t": 18.68,
+       "alpha": 1,
+       "x": 1018
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 795.935,
+   "end": 813.886,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/12-4.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.41,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 4.09,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 7.29,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 8.85,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 10.8,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 14.36,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 16.02,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 17.6,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/9a4ade3d2c.png",
+     "x": 30,
+     "y": 22,
+     "w": 552,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 813.886,
+   "end": 836.837,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/12-5.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 1.74,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 4.55,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 6.62,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 8.52,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 10.71,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 12.55,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 13.98,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 15.96,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 17.57,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 19.46,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 22.6,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/f345510907.png",
+     "x": 30,
+     "y": 22,
+     "w": 252,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/11621b34b5.png",
+     "x": 860,
+     "y": 22,
+     "w": 390,
+     "from": 10.91,
+     "keys": [
+      {
+       "t": 10.91,
+       "alpha": 0,
+       "x": 880
+      },
+      {
+       "t": 11.21,
+       "alpha": 1,
+       "x": 860
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 836.837,
+   "end": 857.788,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/12-6.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.47,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 4.27,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 6.74,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 8.22,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 11.47,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 13.3,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 15.66,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 16.65,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 18.91,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 20.6,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/2cadecb9f4.png",
+     "x": 30,
+     "y": 22,
+     "w": 286,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/7df3007373.png",
+     "x": 1138,
+     "y": 22,
+     "w": 112,
+     "from": 6.94,
+     "keys": [
+      {
+       "t": 6.94,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 7.24,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/a8d8bc5f69.png",
+     "x": 962,
+     "y": 84,
+     "w": 288,
+     "from": 13.5,
+     "keys": [
+      {
+       "t": 13.5,
+       "alpha": 0,
+       "x": 982
+      },
+      {
+       "t": 13.8,
+       "alpha": 1,
+       "x": 962
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 857.788,
+   "end": 882.019,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/12-7.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.26,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 3.75,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 5.99,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 7.65,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 10.1,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 12.58,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 14.35,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 15.82,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 19.04,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 21.13,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 23.88,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/f34641f718.png",
+     "x": 30,
+     "y": 22,
+     "w": 492,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/52a9567265.png",
+     "x": 1138,
+     "y": 22,
+     "w": 112,
+     "from": 6.19,
+     "keys": [
+      {
+       "t": 6.19,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 6.49,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/3b69dae155.png",
+     "x": 1138,
+     "y": 84,
+     "w": 112,
+     "from": 7.85,
+     "keys": [
+      {
+       "t": 7.85,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 8.15,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/0d2f3fe113.png",
+     "x": 1138,
+     "y": 146,
+     "w": 112,
+     "from": 12.78,
+     "keys": [
+      {
+       "t": 12.78,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 13.08,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 882.019,
+   "end": 901.42,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/12-8.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 1.49,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 3.19,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 5.57,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 7.35,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 9.07,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 10.77,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 12.21,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 13.9,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 16.18,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 17.2,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/4f5e92c59e.png",
+     "x": 30,
+     "y": 22,
+     "w": 454,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sfx": []
+}
