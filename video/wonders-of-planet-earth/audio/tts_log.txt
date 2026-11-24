@@ -82,3 +82,59 @@
 12.5 ok 22.3
 12.6 ok 20.3
 12.7 rate-limited, waiting 40s
+12.7 ok 23.5
+12.8 rate-limited, waiting 40s
+12.8 rate-limited, waiting 40s
+12.8 ok 16.9
+13.1 ok 17.5
+13.2 rate-limited, waiting 40s
+13.2 rate-limited, waiting 40s
+13.2 ok 21.2
+13.3 rate-limited, waiting 40s
+13.3 ok 23.5
+13.4 rate-limited, waiting 40s
+13.4 rate-limited, waiting 40s
+13.4 rate-limited, waiting 40s
+13.4 rate-limited, waiting 40s
+13.4 error RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to
+13.5 ok 22.8
+13.6 ok 27.5
+13.7 ok 24.4
+14.1 rate-limited, waiting 40s
+14.1 rate-limited, waiting 40s
+14.1 rate-limited, waiting 40s
+14.1 rate-limited, waiting 40s
+14.1 error RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to
+14.2 rate-limited, waiting 40s
+14.2 rate-limited, waiting 40s
+14.2 rate-limited, waiting 40s
+14.2 ok 22.6
+14.3 rate-limited, waiting 40s
+14.3 ok 22.0
+14.4 rate-limited, waiting 40s
+14.4 rate-limited, waiting 40s
+14.4 rate-limited, waiting 40s
+14.4 rate-limited, waiting 40s
+14.4 error RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to
+14.5 rate-limited, waiting 40s
+14.5 rate-limited, waiting 40s
+14.5 ok 19.5
+14.6 rate-limited, waiting 40s
+14.6 rate-limited, waiting 40s
+14.6 rate-limited, waiting 40s
+14.6 rate-limited, waiting 40s
+14.6 error RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to
+14.7 rate-limited, waiting 40s
+14.7 ok 22.3
+14.8 rate-limited, waiting 40s
+14.8 rate-limited, waiting 40s
+14.8 rate-limited, waiting 40s
+14.8 rate-limited, waiting 40s
+14.8 error RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to
+15.1 rate-limited, waiting 40s
+15.1 rate-limited, waiting 40s
+15.1 rate-limited, waiting 40s
+15.1 ok 21.4
+15.2 rate-limited, waiting 40s
+15.2 rate-limited, waiting 40s
+15.2 rate-limited, waiting 40s

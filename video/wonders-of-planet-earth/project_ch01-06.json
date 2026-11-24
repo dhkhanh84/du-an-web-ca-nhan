@@ -1,0 +1,8453 @@
+{
+ "version": 1,
+ "style": "B2",
+ "width": 1280,
+ "height": 720,
+ "fps": 30,
+ "voice": {
+  "path": "audio/parts/ch01-06_mix.wav",
+  "lead": 0,
+  "tail": 0,
+  "contains_sfx": true
+ },
+ "captions": [
+  {
+   "start": 0.43,
+   "end": 3.02,
+   "text": "From far away, it looks calm."
+  },
+  {
+   "start": 3.07,
+   "end": 4.93,
+   "text": "A blue and white marble,"
+  },
+  {
+   "start": 4.98,
+   "end": 6.82,
+   "text": "turning quietly in the dark."
+  },
+  {
+   "start": 6.87,
+   "end": 10.65,
+   "text": "But up close, our planet never sits still."
+  },
+  {
+   "start": 10.7,
+   "end": 12.0,
+   "text": "Mud bubbles."
+  },
+  {
+   "start": 12.05,
+   "end": 15.21,
+   "text": "Winds twist the air into spinning spirals."
+  },
+  {
+   "start": 15.26,
+   "end": 17.28,
+   "text": "The ground cracks open."
+  },
+  {
+   "start": 17.33,
+   "end": 21.29,
+   "text": "Earth was born 4.6 billion years ago,"
+  },
+  {
+   "start": 21.34,
+   "end": 22.719,
+   "text": "and it has been boiling,"
+  },
+  {
+   "start": 22.769,
+   "end": 26.1,
+   "text": "freezing and reshaping itself ever since."
+  },
+  {
+   "start": 26.15,
+   "end": 29.391,
+   "text": "Welcome to the wonders of planet Earth."
+  },
+  {
+   "start": 30.141,
+   "end": 32.051,
+   "text": "And Earth is not alone."
+  },
+  {
+   "start": 32.101,
+   "end": 32.601,
+   "text": "Every day,"
+  },
+  {
+   "start": 32.651,
+   "end": 35.101,
+   "text": "small lumps of rock and metal from space,"
+  },
+  {
+   "start": 35.151,
+   "end": 36.32,
+   "text": "called meteoroids,"
+  },
+  {
+   "start": 36.37,
+   "end": 38.751,
+   "text": "slam into our atmosphere."
+  },
+  {
+   "start": 38.801,
+   "end": 41.061,
+   "text": "Friction heats them until they glow."
+  },
+  {
+   "start": 41.111,
+   "end": 42.435,
+   "text": "The bright streaks they leave"
+  },
+  {
+   "start": 42.485,
+   "end": 44.501,
+   "text": "behind are what we call meteors,"
+  },
+  {
+   "start": 44.551,
+   "end": 45.601,
+   "text": "shooting stars, or,"
+  },
+  {
+   "start": 45.651,
+   "end": 48.576,
+   "text": "when they are big and bright enough,"
+  },
+  {
+   "start": 48.626,
+   "end": 48.982,
+   "text": "fireballs."
+  },
+  {
+   "start": 49.732,
+   "end": 50.921,
+   "text": "In November 1833,"
+  },
+  {
+   "start": 50.971,
+   "end": 53.545,
+   "text": "the skies over the United States put"
+  },
+  {
+   "start": 53.595,
+   "end": 55.076,
+   "text": "on the most brilliant"
+  },
+  {
+   "start": 55.126,
+   "end": 57.117,
+   "text": "meteor shower ever recorded."
+  },
+  {
+   "start": 57.167,
+   "end": 59.304,
+   "text": "Thousands of glittering lights"
+  },
+  {
+   "start": 59.354,
+   "end": 61.942,
+   "text": "rained down through the night."
+  },
+  {
+   "start": 61.992,
+   "end": 64.392,
+   "text": "People were woken from their sleep,"
+  },
+  {
+   "start": 64.442,
+   "end": 66.229,
+   "text": "and many ran outside convinced"
+  },
+  {
+   "start": 66.279,
+   "end": 68.853,
+   "text": "that the world was coming to an end."
+  },
+  {
+   "start": 69.603,
+   "end": 72.573,
+   "text": "Sometimes, the visitor is far bigger."
+  },
+  {
+   "start": 72.623,
+   "end": 74.14,
+   "text": "About 66 million years ago,"
+  },
+  {
+   "start": 74.19,
+   "end": 77.079,
+   "text": "a giant space rock struck near Chicxulub,"
+  },
+  {
+   "start": 77.129,
+   "end": 79.413,
+   "text": "in what is now Mexico."
+  },
+  {
+   "start": 79.463,
+   "end": 80.918,
+   "text": "The impact hurled so much dust"
+  },
+  {
+   "start": 80.968,
+   "end": 82.311,
+   "text": "and rock into the sky"
+  },
+  {
+   "start": 82.361,
+   "end": 84.103,
+   "text": "that sunlight was blocked"
+  },
+  {
+   "start": 84.153,
+   "end": 86.826,
+   "text": "and the climate was thrown off balance"
+  },
+  {
+   "start": 86.876,
+   "end": 88.243,
+   "text": "for thousands of years."
+  },
+  {
+   "start": 88.293,
+   "end": 90.123,
+   "text": "Scientists believe most"
+  },
+  {
+   "start": 90.173,
+   "end": 91.713,
+   "text": "animal species died out,"
+  },
+  {
+   "start": 91.763,
+   "end": 93.564,
+   "text": "including the dinosaurs."
+  },
+  {
+   "start": 94.314,
+   "end": 96.074,
+   "text": "What if it happened again?"
+  },
+  {
+   "start": 96.124,
+   "end": 97.754,
+   "text": "A giant meteorite would"
+  },
+  {
+   "start": 97.804,
+   "end": 99.392,
+   "text": "heat the air beneath it"
+  },
+  {
+   "start": 99.442,
+   "end": 102.014,
+   "text": "to around 60,000 degrees Celsius,"
+  },
+  {
+   "start": 102.064,
+   "end": 104.092,
+   "text": "ten times hotter than the surface"
+  },
+  {
+   "start": 104.142,
+   "end": 105.134,
+   "text": "of the Sun."
+  },
+  {
+   "start": 105.184,
+   "end": 107.867,
+   "text": "It could blast a thousand cubic kilometres"
+  },
+  {
+   "start": 107.917,
+   "end": 109.932,
+   "text": "of rock and gas into the air,"
+  },
+  {
+   "start": 109.982,
+   "end": 111.357,
+   "text": "and send shock waves"
+  },
+  {
+   "start": 111.407,
+   "end": 114.384,
+   "text": "through the ground strong enough"
+  },
+  {
+   "start": 114.434,
+   "end": 115.53,
+   "text": "to trigger earthquakes."
+  },
+  {
+   "start": 115.58,
+   "end": 116.08,
+   "text": "The scars"
+  },
+  {
+   "start": 116.13,
+   "end": 118.074,
+   "text": "of such impacts still mark our planet."
+  },
+  {
+   "start": 118.124,
+   "end": 119.974,
+   "text": "The largest known crater,"
+  },
+  {
+   "start": 120.024,
+   "end": 121.934,
+   "text": "at Vredefort in South Africa,"
+  },
+  {
+   "start": 121.984,
+   "end": 124.675,
+   "text": "is about 300 kilometres across."
+  },
+  {
+   "start": 125.425,
+   "end": 128.305,
+   "text": "Not every visitor from space is destructive."
+  },
+  {
+   "start": 128.355,
+   "end": 130.325,
+   "text": "Some are breathtaking."
+  },
+  {
+   "start": 130.375,
+   "end": 132.615,
+   "text": "Near the North and South Poles,"
+  },
+  {
+   "start": 132.665,
+   "end": 134.045,
+   "text": "the night sky sometimes fills"
+  },
+  {
+   "start": 134.095,
+   "end": 135.49,
+   "text": "with ghostly curtains"
+  },
+  {
+   "start": 135.54,
+   "end": 137.585,
+   "text": "of green and violet light: the aurorae."
+  },
+  {
+   "start": 137.635,
+   "end": 141.585,
+   "text": "They appear when streams of particles,"
+  },
+  {
+   "start": 141.635,
+   "end": 143.935,
+   "text": "blown from the Sun on the solar wind,"
+  },
+  {
+   "start": 143.985,
+   "end": 146.305,
+   "text": "collide with Earth's magnetic field"
+  },
+  {
+   "start": 146.355,
+   "end": 148.455,
+   "text": "and light up the upper atmosphere."
+  },
+  {
+   "start": 148.505,
+   "end": 150.629,
+   "text": "Astronauts on the International Space"
+  },
+  {
+   "start": 150.679,
+   "end": 153.106,
+   "text": "Station can watch them ripple below."
+  },
+  {
+   "start": 153.856,
+   "end": 155.616,
+   "text": "Then there are comets:"
+  },
+  {
+   "start": 155.666,
+   "end": 156.366,
+   "text": "chunks of ice,"
+  },
+  {
+   "start": 156.416,
+   "end": 158.499,
+   "text": "rock and frozen gas that blaze"
+  },
+  {
+   "start": 158.549,
+   "end": 161.456,
+   "text": "with light as they approach the Sun."
+  },
+  {
+   "start": 161.506,
+   "end": 163.276,
+   "text": "In 1996, Comet Hyakutake passed"
+  },
+  {
+   "start": 163.326,
+   "end": 165.896,
+   "text": "just 15 million kilometres from Earth"
+  },
+  {
+   "start": 165.946,
+   "end": 166.891,
+   "text": "and became one"
+  },
+  {
+   "start": 166.941,
+   "end": 168.882,
+   "text": "of the brightest comets seen"
+  },
+  {
+   "start": 168.932,
+   "end": 170.376,
+   "text": "in two hundred years."
+  },
+  {
+   "start": 170.426,
+   "end": 171.471,
+   "text": "It is now heading back"
+  },
+  {
+   "start": 171.521,
+   "end": 174.736,
+   "text": "to the edge of the Solar System,"
+  },
+  {
+   "start": 174.786,
+   "end": 177.256,
+   "text": "and no one alive today will see it again."
+  },
+  {
+   "start": 177.306,
+   "end": 178.412,
+   "text": "It will not return"
+  },
+  {
+   "start": 178.462,
+   "end": 180.617,
+   "text": "for tens of thousands of years."
+  },
+  {
+   "start": 182.467,
+   "end": 184.882,
+   "text": "To understand why our planet shakes"
+  },
+  {
+   "start": 184.932,
+   "end": 187.837,
+   "text": "and splits, we need to travel to its heart."
+  },
+  {
+   "start": 187.887,
+   "end": 189.447,
+   "text": "At the centre of the Earth,"
+  },
+  {
+   "start": 189.497,
+   "end": 191.431,
+   "text": "the temperature reaches"
+  },
+  {
+   "start": 191.481,
+   "end": 193.187,
+   "text": "about 5,400 degrees Celsius,"
+  },
+  {
+   "start": 193.237,
+   "end": 195.637,
+   "text": "as hot as the surface of the Sun."
+  },
+  {
+   "start": 195.687,
+   "end": 197.647,
+   "text": "Like a giant engine room,"
+  },
+  {
+   "start": 197.697,
+   "end": 199.037,
+   "text": "this heat drives slow,"
+  },
+  {
+   "start": 199.087,
+   "end": 201.067,
+   "text": "massive movements of rock"
+  },
+  {
+   "start": 201.117,
+   "end": 203.601,
+   "text": "that crack the planet's outer shell"
+  },
+  {
+   "start": 203.651,
+   "end": 204.108,
+   "text": "into pieces."
+  },
+  {
+   "start": 204.858,
+   "end": 206.688,
+   "text": "Earth is built in layers."
+  },
+  {
+   "start": 206.738,
+   "end": 208.955,
+   "text": "At the centre sits a solid inner core"
+  },
+  {
+   "start": 209.005,
+   "end": 210.398,
+   "text": "of iron and nickel."
+  },
+  {
+   "start": 210.448,
+   "end": 212.828,
+   "text": "Around it swirls a liquid outer core."
+  },
+  {
+   "start": 212.878,
+   "end": 214.668,
+   "text": "Above that lies the mantle,"
+  },
+  {
+   "start": 214.718,
+   "end": 216.18,
+   "text": "a thick layer of hot rock"
+  },
+  {
+   "start": 216.23,
+   "end": 217.928,
+   "text": "that flows very slowly,"
+  },
+  {
+   "start": 217.978,
+   "end": 219.618,
+   "text": "like extremely thick syrup."
+  },
+  {
+   "start": 219.668,
+   "end": 221.064,
+   "text": "And on top is the thin,"
+  },
+  {
+   "start": 221.114,
+   "end": 222.848,
+   "text": "rocky crust we live on."
+  },
+  {
+   "start": 222.898,
+   "end": 224.008,
+   "text": "As the mantle churns,"
+  },
+  {
+   "start": 224.058,
+   "end": 225.279,
+   "text": "it pulls and pushes"
+  },
+  {
+   "start": 225.329,
+   "end": 227.219,
+   "text": "on the crust until it cracks."
+  },
+  {
+   "start": 227.969,
+   "end": 231.3,
+   "text": "Those cracks divide the surface into giant,"
+  },
+  {
+   "start": 231.35,
+   "end": 233.859,
+   "text": "rigid slabs called tectonic plates."
+  },
+  {
+   "start": 233.909,
+   "end": 236.979,
+   "text": "The North American, Eurasian, African,"
+  },
+  {
+   "start": 237.029,
+   "end": 240.789,
+   "text": "South American, Pacific, Australian, Indian,"
+  },
+  {
+   "start": 240.839,
+   "end": 241.339,
+   "text": "Arabian,"
+  },
+  {
+   "start": 241.389,
+   "end": 243.829,
+   "text": "Nazca and Philippine plates all drift"
+  },
+  {
+   "start": 243.879,
+   "end": 245.779,
+   "text": "across the mantle,"
+  },
+  {
+   "start": 245.829,
+   "end": 248.029,
+   "text": "a few centimetres every year."
+  },
+  {
+   "start": 248.079,
+   "end": 250.829,
+   "text": "Where they meet, collide or pull apart,"
+  },
+  {
+   "start": 250.879,
+   "end": 252.69,
+   "text": "the Earth gets dramatic."
+  },
+  {
+   "start": 253.44,
+   "end": 254.252,
+   "text": "Nowhere more"
+  },
+  {
+   "start": 254.302,
+   "end": 256.73,
+   "text": "so than around the Pacific Ocean."
+  },
+  {
+   "start": 256.78,
+   "end": 257.988,
+   "text": "This vast horseshoe"
+  },
+  {
+   "start": 258.038,
+   "end": 261.39,
+   "text": "of plate boundaries is called the Ring"
+  },
+  {
+   "start": 261.44,
+   "end": 261.94,
+   "text": "of Fire."
+  },
+  {
+   "start": 261.99,
+   "end": 263.398,
+   "text": "It holds more than 75 percent"
+  },
+  {
+   "start": 263.448,
+   "end": 265.44,
+   "text": "of the world's volcanoes,"
+  },
+  {
+   "start": 265.49,
+   "end": 267.402,
+   "text": "and it is the most violent zone"
+  },
+  {
+   "start": 267.452,
+   "end": 269.27,
+   "text": "of earthquakes on the planet."
+  },
+  {
+   "start": 269.32,
+   "end": 270.5,
+   "text": "The Andes, Mount St."
+  },
+  {
+   "start": 270.55,
+   "end": 273.29,
+   "text": "Helens and the islands"
+  },
+  {
+   "start": 273.34,
+   "end": 274.497,
+   "text": "of Japan were all shaped"
+  },
+  {
+   "start": 274.547,
+   "end": 275.881,
+   "text": "by its restless energy."
+  },
+  {
+   "start": 276.631,
+   "end": 278.701,
+   "text": "Some plates are moving apart."
+  },
+  {
+   "start": 278.751,
+   "end": 281.333,
+   "text": "Hidden beneath the Atlantic Ocean lies one"
+  },
+  {
+   "start": 281.383,
+   "end": 283.531,
+   "text": "of the longest mountain chains on Earth:"
+  },
+  {
+   "start": 283.581,
+   "end": 285.151,
+   "text": "the Mid-Atlantic Ridge,"
+  },
+  {
+   "start": 285.201,
+   "end": 287.821,
+   "text": "stretching about 16,000 kilometres."
+  },
+  {
+   "start": 287.871,
+   "end": 290.401,
+   "text": "Here, hot mantle rock rises,"
+  },
+  {
+   "start": 290.451,
+   "end": 292.311,
+   "text": "lava seeps up through the gap,"
+  },
+  {
+   "start": 292.361,
+   "end": 294.171,
+   "text": "and new seafloor is created."
+  },
+  {
+   "start": 294.221,
+   "end": 296.441,
+   "text": "The plates are forced further apart,"
+  },
+  {
+   "start": 296.491,
+   "end": 297.931,
+   "text": "and the Atlantic Ocean grows"
+  },
+  {
+   "start": 297.981,
+   "end": 299.672,
+   "text": "a little wider every year."
+  },
+  {
+   "start": 300.421,
+   "end": 301.274,
+   "text": "In one place,"
+  },
+  {
+   "start": 301.324,
+   "end": 303.712,
+   "text": "the ridge rises above the waves."
+  },
+  {
+   "start": 303.761,
+   "end": 306.067,
+   "text": "Iceland is an island of fire and ice,"
+  },
+  {
+   "start": 306.117,
+   "end": 308.692,
+   "text": "largely covered by glaciers,"
+  },
+  {
+   "start": 308.741,
+   "end": 310.199,
+   "text": "yet built entirely by volcanoes"
+  },
+  {
+   "start": 310.249,
+   "end": 312.642,
+   "text": "on the Mid-Atlantic Ridge."
+  },
+  {
+   "start": 312.691,
+   "end": 314.889,
+   "text": "Huge cracks and rifts run across the land,"
+  },
+  {
+   "start": 314.939,
+   "end": 317.389,
+   "text": "tracing the line where North America"
+  },
+  {
+   "start": 317.439,
+   "end": 319.751,
+   "text": "and Europe are slowly pulling away"
+  },
+  {
+   "start": 319.801,
+   "end": 320.862,
+   "text": "from each other."
+  },
+  {
+   "start": 321.612,
+   "end": 322.121,
+   "text": "In 2010,"
+  },
+  {
+   "start": 322.171,
+   "end": 324.914,
+   "text": "one Icelandic volcano reminded the world"
+  },
+  {
+   "start": 324.964,
+   "end": 325.891,
+   "text": "of that power."
+  },
+  {
+   "start": 325.941,
+   "end": 328.152,
+   "text": "Eyjafjallaj\u00f6kull blasted a plume"
+  },
+  {
+   "start": 328.202,
+   "end": 330.219,
+   "text": "of ash more than 11 kilometres"
+  },
+  {
+   "start": 330.269,
+   "end": 331.127,
+   "text": "into the sky."
+  },
+  {
+   "start": 331.177,
+   "end": 332.402,
+   "text": "Winds carried the cloud"
+  },
+  {
+   "start": 332.452,
+   "end": 335.525,
+   "text": "across the North Atlantic toward Britain"
+  },
+  {
+   "start": 335.575,
+   "end": 336.293,
+   "text": "and Europe,"
+  },
+  {
+   "start": 336.343,
+   "end": 339.582,
+   "text": "and airports across the continent closed."
+  },
+  {
+   "start": 339.632,
+   "end": 340.413,
+   "text": "For about a week,"
+  },
+  {
+   "start": 340.463,
+   "end": 342.576,
+   "text": "much of Europe's air travel came"
+  },
+  {
+   "start": 342.626,
+   "end": 343.693,
+   "text": "to a standstill."
+  },
+  {
+   "start": 345.543,
+   "end": 347.723,
+   "text": "When India crashed into Asia,"
+  },
+  {
+   "start": 347.773,
+   "end": 349.12,
+   "text": "the collision pushed up"
+  },
+  {
+   "start": 349.17,
+   "end": 351.083,
+   "text": "the greatest mountain range on land:"
+  },
+  {
+   "start": 351.133,
+   "end": 352.283,
+   "text": "the Himalayas."
+  },
+  {
+   "start": 352.333,
+   "end": 354.553,
+   "text": "In geological terms they are young,"
+  },
+  {
+   "start": 354.603,
+   "end": 357.903,
+   "text": "just 50 million years old, and still rising."
+  },
+  {
+   "start": 357.953,
+   "end": 361.203,
+   "text": "At their crown stands the highest mountain"
+  },
+  {
+   "start": 361.253,
+   "end": 361.753,
+   "text": "on Earth."
+  },
+  {
+   "start": 361.803,
+   "end": 363.703,
+   "text": "In Tibet it is called Chomolungma."
+  },
+  {
+   "start": 363.753,
+   "end": 365.753,
+   "text": "In Nepal, Sagarmatha."
+  },
+  {
+   "start": 365.803,
+   "end": 367.599,
+   "text": "The rest of the world knows it"
+  },
+  {
+   "start": 367.649,
+   "end": 368.784,
+   "text": "as Mount Everest."
+  },
+  {
+   "start": 369.534,
+   "end": 372.474,
+   "text": "Its modern story began with surveyors."
+  },
+  {
+   "start": 372.524,
+   "end": 374.034,
+   "text": "In 1841, the British survey"
+  },
+  {
+   "start": 374.084,
+   "end": 377.024,
+   "text": "of India recorded the position"
+  },
+  {
+   "start": 377.074,
+   "end": 379.484,
+   "text": "of a remote summit known simply"
+  },
+  {
+   "start": 379.534,
+   "end": 380.314,
+   "text": "by a letter."
+  },
+  {
+   "start": 380.364,
+   "end": 383.77,
+   "text": "In 1852, calculations showed it was taller"
+  },
+  {
+   "start": 383.82,
+   "end": 386.384,
+   "text": "than any mountain ever measured."
+  },
+  {
+   "start": 386.434,
+   "end": 386.944,
+   "text": "In 1865,"
+  },
+  {
+   "start": 386.994,
+   "end": 390.704,
+   "text": "it was renamed after Sir George Everest,"
+  },
+  {
+   "start": 390.754,
+   "end": 393.055,
+   "text": "the former Surveyor General of India."
+  },
+  {
+   "start": 393.805,
+   "end": 395.75,
+   "text": "Measuring the exact height"
+  },
+  {
+   "start": 395.8,
+   "end": 398.505,
+   "text": "of Everest has caused years of debate."
+  },
+  {
+   "start": 398.555,
+   "end": 401.525,
+   "text": "Snow, ice and different survey"
+  },
+  {
+   "start": 401.575,
+   "end": 403.271,
+   "text": "methods all change the answer."
+  },
+  {
+   "start": 403.321,
+   "end": 403.885,
+   "text": "In 2020,"
+  },
+  {
+   "start": 403.935,
+   "end": 407.031,
+   "text": "China and Nepal announced a joint figure:"
+  },
+  {
+   "start": 407.081,
+   "end": 409.486,
+   "text": "8,848.86 metres above sea level."
+  },
+  {
+   "start": 410.236,
+   "end": 411.036,
+   "text": "For decades,"
+  },
+  {
+   "start": 411.086,
+   "end": 413.036,
+   "text": "the summit seemed impossible."
+  },
+  {
+   "start": 413.086,
+   "end": 415.708,
+   "text": "In 1924, a British expedition climbed"
+  },
+  {
+   "start": 415.758,
+   "end": 418.681,
+   "text": "to about 8,570 metres before turning back."
+  },
+  {
+   "start": 418.731,
+   "end": 419.722,
+   "text": "Then, on 29 May 1953,"
+  },
+  {
+   "start": 419.772,
+   "end": 422.556,
+   "text": "Edmund Hillary of New Zealand"
+  },
+  {
+   "start": 422.606,
+   "end": 423.495,
+   "text": "and Tenzing Norgay"
+  },
+  {
+   "start": 423.545,
+   "end": 425.866,
+   "text": "of Nepal became the first people"
+  },
+  {
+   "start": 425.916,
+   "end": 427.813,
+   "text": "to stand on top of the world."
+  },
+  {
+   "start": 427.863,
+   "end": 430.866,
+   "text": "Since then, thousands have followed,"
+  },
+  {
+   "start": 430.916,
+   "end": 432.344,
+   "text": "including a retired Japanese"
+  },
+  {
+   "start": 432.394,
+   "end": 434.467,
+   "text": "teacher who reached the summit"
+  },
+  {
+   "start": 434.517,
+   "end": 436.237,
+   "text": "in 2007 at the age of 71."
+  },
+  {
+   "start": 436.987,
+   "end": 438.846,
+   "text": "The most popular route starts"
+  },
+  {
+   "start": 438.896,
+   "end": 441.407,
+   "text": "in Nepal and climbs the Southeast Ridge."
+  },
+  {
+   "start": 441.457,
+   "end": 442.334,
+   "text": "At Base Camp,"
+  },
+  {
+   "start": 442.384,
+   "end": 445.087,
+   "text": "on the Khumbu Glacier at 5,400 metres,"
+  },
+  {
+   "start": 445.137,
+   "end": 446.152,
+   "text": "climbers spend weeks"
+  },
+  {
+   "start": 446.202,
+   "end": 447.929,
+   "text": "letting their bodies adjust"
+  },
+  {
+   "start": 447.979,
+   "end": 448.847,
+   "text": "to the thin air."
+  },
+  {
+   "start": 448.897,
+   "end": 450.233,
+   "text": "Just above lies one"
+  },
+  {
+   "start": 450.283,
+   "end": 452.487,
+   "text": "of the deadliest sections of the climb:"
+  },
+  {
+   "start": 452.537,
+   "end": 454.067,
+   "text": "the Khumbu Icefall,"
+  },
+  {
+   "start": 454.117,
+   "end": 455.959,
+   "text": "a maze of shifting ice towers"
+  },
+  {
+   "start": 456.009,
+   "end": 457.377,
+   "text": "and deep crevasses,"
+  },
+  {
+   "start": 457.427,
+   "end": 459.908,
+   "text": "crossed with ropes and aluminium ladders."
+  },
+  {
+   "start": 460.658,
+   "end": 462.038,
+   "text": "Above the icefall,"
+  },
+  {
+   "start": 462.088,
+   "end": 464.508,
+   "text": "climbers move up through a chain"
+  },
+  {
+   "start": 464.558,
+   "end": 466.968,
+   "text": "of camps: Camp 1 at about 6,000 metres,"
+  },
+  {
+   "start": 467.018,
+   "end": 470.373,
+   "text": "Camp 2 at 6,500, Camp 3 at 7,500,"
+  },
+  {
+   "start": 470.423,
+   "end": 472.534,
+   "text": "and Camp 4 at 8,000 metres."
+  },
+  {
+   "start": 472.584,
+   "end": 475.416,
+   "text": "They scramble with ropes over a band"
+  },
+  {
+   "start": 475.466,
+   "end": 478.668,
+   "text": "of black rock called the Geneva Spur,"
+  },
+  {
+   "start": 478.718,
+   "end": 480.638,
+   "text": "surrounded by giant neighbours:"
+  },
+  {
+   "start": 480.688,
+   "end": 482.299,
+   "text": "Lhotse and Nuptse."
+  },
+  {
+   "start": 483.049,
+   "end": 486.429,
+   "text": "Above 8,000 metres lies the Death Zone."
+  },
+  {
+   "start": 486.479,
+   "end": 488.334,
+   "text": "Here, each breath holds only a third"
+  },
+  {
+   "start": 488.384,
+   "end": 490.749,
+   "text": "of the oxygen found at sea level,"
+  },
+  {
+   "start": 490.799,
+   "end": 493.569,
+   "text": "and the cold can freeze skin in minutes."
+  },
+  {
+   "start": 493.619,
+   "end": 496.669,
+   "text": "The human body cannot survive here"
+  },
+  {
+   "start": 496.719,
+   "end": 497.219,
+   "text": "for long."
+  },
+  {
+   "start": 497.269,
+   "end": 499.469,
+   "text": "Climbers use ice axes and crampons,"
+  },
+  {
+   "start": 499.519,
+   "end": 501.139,
+   "text": "metal spikes on their boots,"
+  },
+  {
+   "start": 501.189,
+   "end": 502.774,
+   "text": "to cling to walls of ice"
+  },
+  {
+   "start": 502.824,
+   "end": 505.05,
+   "text": "on the final push to the summit."
+  },
+  {
+   "start": 505.8,
+   "end": 509.27,
+   "text": "Sadly, Everest now holds another title:"
+  },
+  {
+   "start": 509.32,
+   "end": 511.83,
+   "text": "the world's highest garbage dump."
+  },
+  {
+   "start": 511.88,
+   "end": 515.21,
+   "text": "Climbers and tourists have"
+  },
+  {
+   "start": 515.26,
+   "end": 518.2,
+   "text": "left behind plastic bottles,"
+  },
+  {
+   "start": 518.25,
+   "end": 520.715,
+   "text": "food packaging and empty oxygen tanks."
+  },
+  {
+   "start": 520.765,
+   "end": 524.6,
+   "text": "And Everest is not alone up there."
+  },
+  {
+   "start": 524.65,
+   "end": 528.18,
+   "text": "The five tallest peaks on Earth are Everest,"
+  },
+  {
+   "start": 528.23,
+   "end": 530.25,
+   "text": "K2 at 8,611 metres,"
+  },
+  {
+   "start": 530.3,
+   "end": 532.99,
+   "text": "Kangchenjunga at 8,586,"
+  },
+  {
+   "start": 533.04,
+   "end": 536.001,
+   "text": "Lhotse at 8,516 and Makalu at 8,485."
+  },
+  {
+   "start": 537.851,
+   "end": 539.791,
+   "text": "The ground splits open."
+  },
+  {
+   "start": 539.841,
+   "end": 542.579,
+   "text": "Molten rock, ash and toxic gas burst out"
+  },
+  {
+   "start": 542.629,
+   "end": 544.399,
+   "text": "with unimaginable force."
+  },
+  {
+   "start": 544.449,
+   "end": 546.749,
+   "text": "A volcanic eruption is a window"
+  },
+  {
+   "start": 546.799,
+   "end": 547.735,
+   "text": "into the heat"
+  },
+  {
+   "start": 547.785,
+   "end": 551.581,
+   "text": "and pressure hidden far beneath our feet."
+  },
+  {
+   "start": 551.631,
+   "end": 552.908,
+   "text": "Scientists rate eruptions"
+  },
+  {
+   "start": 552.958,
+   "end": 556.031,
+   "text": "on the Volcanic Explosivity Index,"
+  },
+  {
+   "start": 556.081,
+   "end": 556.934,
+   "text": "a scale that runs"
+  },
+  {
+   "start": 556.984,
+   "end": 558.731,
+   "text": "from \"gentle\" all the way up"
+  },
+  {
+   "start": 558.781,
+   "end": 560.172,
+   "text": "to \"mega-colossal\"."
+  },
+  {
+   "start": 560.922,
+   "end": 563.942,
+   "text": "So what builds the ultimate volcano?"
+  },
+  {
+   "start": 563.992,
+   "end": 564.729,
+   "text": "Deep underground,"
+  },
+  {
+   "start": 564.779,
+   "end": 566.49,
+   "text": "molten rock called magma gathers"
+  },
+  {
+   "start": 566.54,
+   "end": 568.87,
+   "text": "in a deep chamber fed by the mantle."
+  },
+  {
+   "start": 568.92,
+   "end": 571.051,
+   "text": "It rises into a shallower chamber"
+  },
+  {
+   "start": 571.101,
+   "end": 572.704,
+   "text": "just beneath the surface."
+  },
+  {
+   "start": 572.754,
+   "end": 573.622,
+   "text": "From there,"
+  },
+  {
+   "start": 573.672,
+   "end": 576.952,
+   "text": "heat and pressure force it up a main pipe,"
+  },
+  {
+   "start": 577.002,
+   "end": 577.507,
+   "text": "the conduit,"
+  },
+  {
+   "start": 577.557,
+   "end": 579.792,
+   "text": "toward the summit vent and crater."
+  },
+  {
+   "start": 579.842,
+   "end": 580.671,
+   "text": "Sometimes it breaks"
+  },
+  {
+   "start": 580.721,
+   "end": 583.212,
+   "text": "out sideways through cracks in the flank,"
+  },
+  {
+   "start": 583.262,
+   "end": 584.403,
+   "text": "called side vents."
+  },
+  {
+   "start": 585.153,
+   "end": 586.22,
+   "text": "When the pressure"
+  },
+  {
+   "start": 586.27,
+   "end": 587.797,
+   "text": "finally becomes too much"
+  },
+  {
+   "start": 587.847,
+   "end": 588.809,
+   "text": "for the crust to hold,"
+  },
+  {
+   "start": 588.859,
+   "end": 591.363,
+   "text": "the energy is released all at once."
+  },
+  {
+   "start": 591.413,
+   "end": 592.823,
+   "text": "In 1980, Mount St."
+  },
+  {
+   "start": 592.873,
+   "end": 595.091,
+   "text": "Helens in the United States exploded"
+  },
+  {
+   "start": 595.141,
+   "end": 595.88,
+   "text": "so violently"
+  },
+  {
+   "start": 595.93,
+   "end": 598.693,
+   "text": "that its whole north side collapsed,"
+  },
+  {
+   "start": 598.743,
+   "end": 600.743,
+   "text": "and the mountain lost about 400 metres"
+  },
+  {
+   "start": 600.793,
+   "end": 602.714,
+   "text": "of its height in a single day."
+  },
+  {
+   "start": 603.464,
+   "end": 605.64,
+   "text": "Rock that has melted into a glowing,"
+  },
+  {
+   "start": 605.69,
+   "end": 608.224,
+   "text": "semi-liquid state is called lava."
+  },
+  {
+   "start": 608.274,
+   "end": 609.306,
+   "text": "How fast it flows depends"
+  },
+  {
+   "start": 609.356,
+   "end": 610.402,
+   "text": "on its temperature,"
+  },
+  {
+   "start": 610.452,
+   "end": 613.004,
+   "text": "its minerals and the slope of the ground."
+  },
+  {
+   "start": 613.054,
+   "end": 615.225,
+   "text": "The fastest lava ever measured poured"
+  },
+  {
+   "start": 615.275,
+   "end": 616.215,
+   "text": "from Nyiragongo,"
+  },
+  {
+   "start": 616.265,
+   "end": 618.688,
+   "text": "in the Democratic Republic of the Congo,"
+  },
+  {
+   "start": 618.738,
+   "end": 620.954,
+   "text": "at more than 60 kilometres per hour."
+  },
+  {
+   "start": 621.004,
+   "end": 622.646,
+   "text": "When lava reaches the ocean,"
+  },
+  {
+   "start": 622.696,
+   "end": 625.305,
+   "text": "it boils the seawater into clouds of steam."
+  },
+  {
+   "start": 626.055,
+   "end": 627.291,
+   "text": "Some eruptions are"
+  },
+  {
+   "start": 627.341,
+   "end": 629.455,
+   "text": "almost beyond imagination."
+  },
+  {
+   "start": 629.505,
+   "end": 631.545,
+   "text": "Nearly two thousand years ago, a volcano"
+  },
+  {
+   "start": 631.595,
+   "end": 633.576,
+   "text": "in New Zealand blasted"
+  },
+  {
+   "start": 633.626,
+   "end": 635.719,
+   "text": "out about 100 cubic kilometres"
+  },
+  {
+   "start": 635.769,
+   "end": 637.576,
+   "text": "of rock in one of the most"
+  },
+  {
+   "start": 637.626,
+   "end": 639.755,
+   "text": "violent eruptions ever recorded."
+  },
+  {
+   "start": 639.805,
+   "end": 643.325,
+   "text": "The giant crater it left behind is now filled"
+  },
+  {
+   "start": 643.375,
+   "end": 643.875,
+   "text": "with water."
+  },
+  {
+   "start": 643.925,
+   "end": 645.576,
+   "text": "Today, it is Lake Taupo."
+  },
+  {
+   "start": 646.326,
+   "end": 649.466,
+   "text": "Ash can be just as deadly as lava."
+  },
+  {
+   "start": 649.516,
+   "end": 650.016,
+   "text": "In AD 79,"
+  },
+  {
+   "start": 650.066,
+   "end": 653.146,
+   "text": "Mount Vesuvius in Italy shot a column"
+  },
+  {
+   "start": 653.196,
+   "end": 655.808,
+   "text": "of ash and pumice 33 kilometres"
+  },
+  {
+   "start": 655.858,
+   "end": 657.783,
+   "text": "into the sky, at a rate"
+  },
+  {
+   "start": 657.833,
+   "end": 661.303,
+   "text": "of about 1.5 million tonnes every second."
+  },
+  {
+   "start": 661.353,
+   "end": 663.536,
+   "text": "When the column collapsed,"
+  },
+  {
+   "start": 663.586,
+   "end": 666.756,
+   "text": "it buried the nearby Roman cities,"
+  },
+  {
+   "start": 666.806,
+   "end": 668.001,
+   "text": "including Pompeii,"
+  },
+  {
+   "start": 668.051,
+   "end": 671.007,
+   "text": "under a suffocating blanket of ash."
+  },
+  {
+   "start": 671.757,
+   "end": 674.077,
+   "text": "Every eruption leaves its mark."
+  },
+  {
+   "start": 674.127,
+   "end": 676.467,
+   "text": "The crater is the opening of the vent."
+  },
+  {
+   "start": 676.517,
+   "end": 678.055,
+   "text": "Layer after layer of lava"
+  },
+  {
+   "start": 678.105,
+   "end": 680.227,
+   "text": "and ash builds up around it,"
+  },
+  {
+   "start": 680.277,
+   "end": 682.427,
+   "text": "creating the classic cone shape."
+  },
+  {
+   "start": 682.477,
+   "end": 685.507,
+   "text": "If the walls collapse, the crater grows wider."
+  },
+  {
+   "start": 685.557,
+   "end": 687.377,
+   "text": "On the islands of Hawaii,"
+  },
+  {
+   "start": 687.427,
+   "end": 689.777,
+   "text": "some of the most active volcanoes"
+  },
+  {
+   "start": 689.827,
+   "end": 691.195,
+   "text": "on Earth breathe steam and gas"
+  },
+  {
+   "start": 691.245,
+   "end": 693.257,
+   "text": "from their craters almost every day,"
+  },
+  {
+   "start": 693.307,
+   "end": 695.278,
+   "text": "slowly building new land."
+  },
+  {
+   "start": 697.128,
+   "end": 698.244,
+   "text": "In some places,"
+  },
+  {
+   "start": 698.294,
+   "end": 701.388,
+   "text": "Earth's inner heat does not stay hidden."
+  },
+  {
+   "start": 701.438,
+   "end": 703.144,
+   "text": "It rises to the surface"
+  },
+  {
+   "start": 703.194,
+   "end": 705.438,
+   "text": "and bakes the rock underfoot."
+  },
+  {
+   "start": 705.488,
+   "end": 707.733,
+   "text": "Water trapped in the ground is"
+  },
+  {
+   "start": 707.783,
+   "end": 709.878,
+   "text": "heated far past boiling point,"
+  },
+  {
+   "start": 709.928,
+   "end": 713.718,
+   "text": "until it bursts out as jets of scalding steam."
+  },
+  {
+   "start": 713.768,
+   "end": 715.418,
+   "text": "In the hottest places,"
+  },
+  {
+   "start": 715.468,
+   "end": 717.689,
+   "text": "even the mud begins to bubble."
+  },
+  {
+   "start": 718.439,
+   "end": 719.329,
+   "text": "The most famous"
+  },
+  {
+   "start": 719.379,
+   "end": 721.579,
+   "text": "of these jets is Old Faithful,"
+  },
+  {
+   "start": 721.629,
+   "end": 722.963,
+   "text": "in Yellowstone National Park"
+  },
+  {
+   "start": 723.013,
+   "end": 724.709,
+   "text": "in the United States."
+  },
+  {
+   "start": 724.759,
+   "end": 726.284,
+   "text": "It shoots hot water and steam up"
+  },
+  {
+   "start": 726.334,
+   "end": 727.913,
+   "text": "to 55 metres into the air,"
+  },
+  {
+   "start": 727.963,
+   "end": 729.793,
+   "text": "roughly every hour and a half."
+  },
+  {
+   "start": 729.843,
+   "end": 730.801,
+   "text": "The wait is not random:"
+  },
+  {
+   "start": 730.851,
+   "end": 732.259,
+   "text": "that is how long it takes"
+  },
+  {
+   "start": 732.309,
+   "end": 734.241,
+   "text": "for the chamber beneath"
+  },
+  {
+   "start": 734.291,
+   "end": 736.56,
+   "text": "to fill with water and heat up again."
+  },
+  {
+   "start": 737.31,
+   "end": 740.11,
+   "text": "Yellowstone is a land of extremes."
+  },
+  {
+   "start": 740.16,
+   "end": 741.123,
+   "text": "It holds around half"
+  },
+  {
+   "start": 741.173,
+   "end": 743.16,
+   "text": "of all the geysers on Earth,"
+  },
+  {
+   "start": 743.21,
+   "end": 745.701,
+   "text": "along with thousands of hot springs,"
+  },
+  {
+   "start": 745.751,
+   "end": 747.32,
+   "text": "mud pots and steaming vents."
+  },
+  {
+   "start": 747.37,
+   "end": 749.134,
+   "text": "But all of this sits"
+  },
+  {
+   "start": 749.184,
+   "end": 751.23,
+   "text": "on top of something far more powerful:"
+  },
+  {
+   "start": 751.28,
+   "end": 752.85,
+   "text": "a supervolcano."
+  },
+  {
+   "start": 752.9,
+   "end": 754.428,
+   "text": "The whole region lies"
+  },
+  {
+   "start": 754.478,
+   "end": 756.42,
+   "text": "inside an enormous caldera,"
+  },
+  {
+   "start": 756.47,
+   "end": 758.26,
+   "text": "a collapsed volcanic crater tens"
+  },
+  {
+   "start": 758.31,
+   "end": 760.151,
+   "text": "of kilometres across."
+  },
+  {
+   "start": 760.901,
+   "end": 763.521,
+   "text": "Ordinary volcanoes build mountains."
+  },
+  {
+   "start": 763.571,
+   "end": 766.321,
+   "text": "Supervolcanoes blow them apart."
+  },
+  {
+   "start": 766.371,
+   "end": 768.006,
+   "text": "Yellowstone's last giant eruption,"
+  },
+  {
+   "start": 768.056,
+   "end": 769.632,
+   "text": "about 640,000 years ago,"
+  },
+  {
+   "start": 769.682,
+   "end": 771.061,
+   "text": "was roughly a thousand times"
+  },
+  {
+   "start": 771.111,
+   "end": 774.165,
+   "text": "more powerful than the 1980 eruption"
+  },
+  {
+   "start": 774.215,
+   "end": 775.015,
+   "text": "of Mount St."
+  },
+  {
+   "start": 775.065,
+   "end": 775.565,
+   "text": "Helens."
+  },
+  {
+   "start": 775.615,
+   "end": 778.06,
+   "text": "Underground, the water still reaches"
+  },
+  {
+   "start": 778.11,
+   "end": 780.185,
+   "text": "more than 200 degrees Celsius,"
+  },
+  {
+   "start": 780.235,
+   "end": 782.026,
+   "text": "and new geysers, mud pools"
+  },
+  {
+   "start": 782.076,
+   "end": 784.222,
+   "text": "and steam vents keep appearing."
+  },
+  {
+   "start": 784.972,
+   "end": 787.571,
+   "text": "The tallest geyser ever seen lived"
+  },
+  {
+   "start": 787.621,
+   "end": 789.542,
+   "text": "for only four years."
+  },
+  {
+   "start": 789.592,
+   "end": 792.325,
+   "text": "After a volcanic eruption in New Zealand,"
+  },
+  {
+   "start": 792.375,
+   "end": 795.552,
+   "text": "the Waimangu Geyser began erupting"
+  },
+  {
+   "start": 795.602,
+   "end": 796.102,
+   "text": "in 1900."
+  },
+  {
+   "start": 796.152,
+   "end": 797.468,
+   "text": "Its jets of black water,"
+  },
+  {
+   "start": 797.518,
+   "end": 801.272,
+   "text": "rock and steam rose as high as 460 metres,"
+  },
+  {
+   "start": 801.322,
+   "end": 803.492,
+   "text": "taller than the Empire State Building."
+  },
+  {
+   "start": 803.542,
+   "end": 805.105,
+   "text": "In 1903, a sudden,"
+  },
+  {
+   "start": 805.155,
+   "end": 807.599,
+   "text": "violent eruption swept away four"
+  },
+  {
+   "start": 807.649,
+   "end": 810.093,
+   "text": "tourists who had come too close."
+  },
+  {
+   "start": 810.843,
+   "end": 813.113,
+   "text": "Not every hot spring is dangerous."
+  },
+  {
+   "start": 813.163,
+   "end": 815.393,
+   "text": "In the mountains of Nagano, Japan,"
+  },
+  {
+   "start": 815.443,
+   "end": 816.019,
+   "text": "warm pools fed"
+  },
+  {
+   "start": 816.069,
+   "end": 818.058,
+   "text": "by hot springs have been adopted"
+  },
+  {
+   "start": 818.108,
+   "end": 820.283,
+   "text": "by an unlikely set of bathers:"
+  },
+  {
+   "start": 820.333,
+   "end": 822.263,
+   "text": "Japanese macaque monkeys."
+  },
+  {
+   "start": 822.313,
+   "end": 823.943,
+   "text": "Through the freezing winter,"
+  },
+  {
+   "start": 823.993,
+   "end": 826.163,
+   "text": "they soak in these natural hot tubs,"
+  },
+  {
+   "start": 826.213,
+   "end": 826.713,
+   "text": "and some get"
+  },
+  {
+   "start": 826.763,
+   "end": 829.084,
+   "text": "so comfortable they doze off in the water."
+  },
+  {
+   "start": 829.834,
+   "end": 831.864,
+   "text": "And at Pamukkale in Turkey,"
+  },
+  {
+   "start": 831.914,
+   "end": 833.085,
+   "text": "mineral-rich hot water"
+  },
+  {
+   "start": 833.135,
+   "end": 834.954,
+   "text": "pours down a hillside."
+  },
+  {
+   "start": 835.004,
+   "end": 836.344,
+   "text": "As the water cools,"
+  },
+  {
+   "start": 836.394,
+   "end": 838.144,
+   "text": "its minerals turn to stone,"
+  },
+  {
+   "start": 838.194,
+   "end": 840.295,
+   "text": "building gleaming white terraces filled"
+  },
+  {
+   "start": 840.345,
+   "end": 842.144,
+   "text": "with warm blue pools."
+  },
+  {
+   "start": 842.194,
+   "end": 844.314,
+   "text": "Its name means \"Cotton Castle\","
+  },
+  {
+   "start": 844.364,
+   "end": 844.927,
+   "text": "and it is one"
+  },
+  {
+   "start": 844.977,
+   "end": 847.235,
+   "text": "of the most beautiful places on Earth."
+  },
+  {
+   "start": 849.084,
+   "end": 852.365,
+   "text": "Rock is tough, but it is also brittle."
+  },
+  {
+   "start": 852.414,
+   "end": 853.763,
+   "text": "Under the constant stirring"
+  },
+  {
+   "start": 853.813,
+   "end": 855.145,
+   "text": "of the Earth below,"
+  },
+  {
+   "start": 855.195,
+   "end": 856.454,
+   "text": "the rocky crust is"
+  },
+  {
+   "start": 856.504,
+   "end": 858.794,
+   "text": "pushed past its breaking point."
+  },
+  {
+   "start": 858.844,
+   "end": 860.382,
+   "text": "When crunch time comes,"
+  },
+  {
+   "start": 860.432,
+   "end": 863.475,
+   "text": "giant blocks of rock buckle and slip,"
+  },
+  {
+   "start": 863.524,
+   "end": 864.238,
+   "text": "and the surface"
+  },
+  {
+   "start": 864.288,
+   "end": 866.565,
+   "text": "of the Earth shakes and shatters."
+  },
+  {
+   "start": 867.315,
+   "end": 869.265,
+   "text": "It happens along faults:"
+  },
+  {
+   "start": 869.315,
+   "end": 870.724,
+   "text": "enormous cracks in the crust"
+  },
+  {
+   "start": 870.774,
+   "end": 871.788,
+   "text": "where two blocks"
+  },
+  {
+   "start": 871.838,
+   "end": 874.105,
+   "text": "of rock move in different directions."
+  },
+  {
+   "start": 874.155,
+   "end": 876.245,
+   "text": "As they grind past each other,"
+  },
+  {
+   "start": 876.295,
+   "end": 877.375,
+   "text": "they can get stuck."
+  },
+  {
+   "start": 877.425,
+   "end": 879.905,
+   "text": "Pressure builds up, year after year,"
+  },
+  {
+   "start": 879.955,
+   "end": 882.098,
+   "text": "until suddenly the rock gives way"
+  },
+  {
+   "start": 882.148,
+   "end": 883.465,
+   "text": "and jolts forward."
+  },
+  {
+   "start": 883.515,
+   "end": 885.756,
+   "text": "That sudden release is an earthquake."
+  },
+  {
+   "start": 886.506,
+   "end": 887.958,
+   "text": "The place deep underground"
+  },
+  {
+   "start": 888.008,
+   "end": 889.113,
+   "text": "where the rock first"
+  },
+  {
+   "start": 889.163,
+   "end": 890.806,
+   "text": "breaks is called the focus."
+  },
+  {
+   "start": 890.856,
+   "end": 892.578,
+   "text": "The point on the surface directly"
+  },
+  {
+   "start": 892.628,
+   "end": 894.006,
+   "text": "above it is the epicentre."
+  },
+  {
+   "start": 894.056,
+   "end": 894.946,
+   "text": "From the focus,"
+  },
+  {
+   "start": 894.996,
+   "end": 896.447,
+   "text": "seismic waves race outward"
+  },
+  {
+   "start": 896.497,
+   "end": 897.826,
+   "text": "in every direction,"
+  },
+  {
+   "start": 897.876,
+   "end": 898.584,
+   "text": "shaking the ground"
+  },
+  {
+   "start": 898.634,
+   "end": 899.912,
+   "text": "and causing destruction"
+  },
+  {
+   "start": 899.962,
+   "end": 901.067,
+   "text": "in towns and cities."
+  },
+  {
+   "start": 901.817,
+   "end": 904.097,
+   "text": "Some earthquakes have changed history."
+  },
+  {
+   "start": 904.147,
+   "end": 907.877,
+   "text": "In 1906, movement along the San Andreas"
+  },
+  {
+   "start": 907.927,
+   "end": 909.637,
+   "text": "Fault tore through San Francisco,"
+  },
+  {
+   "start": 909.687,
+   "end": 911.417,
+   "text": "destroying much of the city."
+  },
+  {
+   "start": 911.467,
+   "end": 912.314,
+   "text": "And in 2010,"
+  },
+  {
+   "start": 912.364,
+   "end": 915.557,
+   "text": "an earthquake in Chile was so powerful"
+  },
+  {
+   "start": 915.607,
+   "end": 917.165,
+   "text": "that it shifted the entire city"
+  },
+  {
+   "start": 917.215,
+   "end": 919.752,
+   "text": "of Concepci\u00f3n about three metres"
+  },
+  {
+   "start": 919.802,
+   "end": 920.258,
+   "text": "to the west."
+  },
+  {
+   "start": 921.008,
+   "end": 923.145,
+   "text": "In 2008, a massive earthquake"
+  },
+  {
+   "start": 923.195,
+   "end": 924.879,
+   "text": "struck Sichuan Province"
+  },
+  {
+   "start": 924.929,
+   "end": 926.528,
+   "text": "in southwest China."
+  },
+  {
+   "start": 926.578,
+   "end": 929.848,
+   "text": "In Beichuan County, roads split apart,"
+  },
+  {
+   "start": 929.898,
+   "end": 930.851,
+   "text": "hillsides collapsed"
+  },
+  {
+   "start": 930.901,
+   "end": 933.828,
+   "text": "and whole towns were reduced to rubble,"
+  },
+  {
+   "start": 933.878,
+   "end": 934.832,
+   "text": "forcing survivors"
+  },
+  {
+   "start": 934.882,
+   "end": 937.169,
+   "text": "to walk out along broken roads."
+  },
+  {
+   "start": 937.919,
+   "end": 939.213,
+   "text": "Earthquakes are among"
+  },
+  {
+   "start": 939.263,
+   "end": 941.159,
+   "text": "the deadliest natural events on Earth,"
+  },
+  {
+   "start": 941.209,
+   "end": 943.054,
+   "text": "and predicting exactly"
+  },
+  {
+   "start": 943.104,
+   "end": 944.334,
+   "text": "when one will strike"
+  },
+  {
+   "start": 944.384,
+   "end": 946.254,
+   "text": "is still virtually impossible."
+  },
+  {
+   "start": 946.304,
+   "end": 948.099,
+   "text": "What we can do is build smarter."
+  },
+  {
+   "start": 948.149,
+   "end": 950.059,
+   "text": "In Japan and California,"
+  },
+  {
+   "start": 950.109,
+   "end": 951.887,
+   "text": "buildings use flexible materials"
+  },
+  {
+   "start": 951.937,
+   "end": 953.871,
+   "text": "and shock-absorbing foundations"
+  },
+  {
+   "start": 953.921,
+   "end": 956.439,
+   "text": "that let them sway instead of collapse."
+  },
+  {
+   "start": 956.489,
+   "end": 958.8,
+   "text": "Scientists even demolish old buildings"
+  },
+  {
+   "start": 958.85,
+   "end": 961.168,
+   "text": "on purpose to test steel safety cages"
+  },
+  {
+   "start": 961.218,
+   "end": 963.28,
+   "text": "that could protect people inside."
+  },
+  {
+   "start": 964.03,
+   "end": 966.65,
+   "text": "When a fault slips beneath the sea,"
+  },
+  {
+   "start": 966.7,
+   "end": 968.77,
+   "text": "the whole ocean can move."
+  },
+  {
+   "start": 968.82,
+   "end": 969.88,
+   "text": "A sudden jolt"
+  },
+  {
+   "start": 969.93,
+   "end": 973.73,
+   "text": "of the seafloor pushes up a huge volume"
+  },
+  {
+   "start": 973.78,
+   "end": 975.941,
+   "text": "of water and sends it racing outward"
+  },
+  {
+   "start": 975.991,
+   "end": 976.85,
+   "text": "as a tsunami."
+  },
+  {
+   "start": 976.9,
+   "end": 979.48,
+   "text": "When the fault lies close to land,"
+  },
+  {
+   "start": 979.53,
+   "end": 982.15,
+   "text": "the waves can be devastating."
+  },
+  {
+   "start": 982.2,
+   "end": 984.427,
+   "text": "In 2004, a mega-tsunami swept"
+  },
+  {
+   "start": 984.477,
+   "end": 986.86,
+   "text": "across the Indian Ocean,"
+  },
+  {
+   "start": 986.91,
+   "end": 988.145,
+   "text": "devastating coastlines"
+  },
+  {
+   "start": 988.195,
+   "end": 990.69,
+   "text": "from Indonesia to Thailand,"
+  },
+  {
+   "start": 990.74,
+   "end": 992.751,
+   "text": "including the Phi Phi Islands."
+  }
+ ],
+ "shots": [
+  {
+   "start": 0,
+   "end": 29.761,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/01-1.png",
+     "x": 173,
+     "y": 10,
+     "w": 934,
+     "keys": [
+      {
+       "t": 0,
+       "w": 934,
+       "x": 173,
+       "y": 10,
+       "alpha": 0
+      },
+      {
+       "t": 0.6,
+       "alpha": 1
+      },
+      {
+       "t": 3.04,
+       "w": 990,
+       "x": 145,
+       "y": -11
+      },
+      {
+       "t": 4.95,
+       "w": 1046,
+       "x": 134,
+       "y": -23
+      },
+      {
+       "t": 6.84,
+       "w": 1102,
+       "x": 64,
+       "y": -47
+      },
+      {
+       "t": 10.67,
+       "w": 990,
+       "x": 151,
+       "y": -15
+      },
+      {
+       "t": 12.02,
+       "w": 1046,
+       "x": 106,
+       "y": -19
+      },
+      {
+       "t": 15.23,
+       "w": 1102,
+       "x": 89,
+       "y": -59
+      },
+      {
+       "t": 17.3,
+       "w": 990,
+       "x": 145,
+       "y": -11
+      },
+      {
+       "t": 21.31,
+       "w": 1046,
+       "x": 134,
+       "y": -23
+      },
+      {
+       "t": 22.74,
+       "w": 1102,
+       "x": 64,
+       "y": -47
+      },
+      {
+       "t": 26.12,
+       "w": 990,
+       "x": 151,
+       "y": -15
+      },
+      {
+       "t": 29.41,
+       "w": 1046,
+       "x": 106,
+       "y": -19
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/0115be1125.png",
+     "x": 30,
+     "y": 22,
+     "w": 298,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/9afe0b967e.png",
+     "x": 915,
+     "y": 22,
+     "w": 335,
+     "from": 17.5,
+     "keys": [
+      {
+       "t": 17.5,
+       "alpha": 0,
+       "x": 935
+      },
+      {
+       "t": 17.8,
+       "alpha": 1,
+       "x": 915
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/paper.png",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "from": 0,
+     "to": 1.3,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 1
+      },
+      {
+       "t": 0.8,
+       "alpha": 1
+      },
+      {
+       "t": 1.3,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/a5b2b1e99b.png",
+     "x": 525,
+     "y": 230,
+     "w": 230,
+     "from": 0,
+     "to": 1.3
+    },
+    {
+     "type": "text",
+     "text": "VISITORS FROM SPACE",
+     "x": 248,
+     "y": 330,
+     "size": 84,
+     "bold": true,
+     "w": 1240,
+     "from": 0.2,
+     "to": 1.3,
+     "keys": [
+      {
+       "t": 0.2,
+       "alpha": 0,
+       "y": 345
+      },
+      {
+       "t": 0.6,
+       "alpha": 1,
+       "y": 330
+      }
+     ],
+     "color": "#3E5A73"
+    }
+   ]
+  },
+  {
+   "start": 29.761,
+   "end": 49.352,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/01-2.png",
+     "x": 173,
+     "y": 10,
+     "w": 934,
+     "keys": [
+      {
+       "t": 0,
+       "w": 934,
+       "x": 173,
+       "y": 10,
+       "alpha": 1
+      },
+      {
+       "t": 2.31,
+       "w": 990,
+       "x": 153,
+       "y": -7
+      },
+      {
+       "t": 2.86,
+       "w": 1046,
+       "x": 100,
+       "y": -28
+      },
+      {
+       "t": 5.36,
+       "w": 1102,
+       "x": 106,
+       "y": -65
+      },
+      {
+       "t": 6.58,
+       "w": 990,
+       "x": 139,
+       "y": -5
+      },
+      {
+       "t": 9.01,
+       "w": 1046,
+       "x": 117,
+       "y": -36
+      },
+      {
+       "t": 11.32,
+       "w": 1102,
+       "x": 89,
+       "y": -53
+      },
+      {
+       "t": 12.69,
+       "w": 990,
+       "x": 153,
+       "y": -7
+      },
+      {
+       "t": 14.76,
+       "w": 1046,
+       "x": 100,
+       "y": -28
+      },
+      {
+       "t": 15.86,
+       "w": 1102,
+       "x": 106,
+       "y": -65
+      },
+      {
+       "t": 18.83,
+       "w": 990,
+       "x": 139,
+       "y": -5
+      },
+      {
+       "t": 19.24,
+       "w": 1046,
+       "x": 117,
+       "y": -36
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/9dfb8badfb.png",
+     "x": 30,
+     "y": 22,
+     "w": 474,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 49.352,
+   "end": 69.223,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/01-3.png",
+     "x": 173,
+     "y": 10,
+     "w": 934,
+     "keys": [
+      {
+       "t": 0,
+       "w": 934,
+       "x": 173,
+       "y": 10,
+       "alpha": 1
+      },
+      {
+       "t": 1.59,
+       "w": 990,
+       "x": 137,
+       "y": -9
+      },
+      {
+       "t": 4.21,
+       "w": 1046,
+       "x": 128,
+       "y": -40
+      },
+      {
+       "t": 5.74,
+       "w": 1102,
+       "x": 72,
+       "y": -34
+      },
+      {
+       "t": 7.79,
+       "w": 990,
+       "x": 145,
+       "y": -13
+      },
+      {
+       "t": 9.97,
+       "w": 1046,
+       "x": 117,
+       "y": -32
+      },
+      {
+       "t": 12.61,
+       "w": 1102,
+       "x": 114,
+       "y": -40
+      },
+      {
+       "t": 15.06,
+       "w": 990,
+       "x": 137,
+       "y": -9
+      },
+      {
+       "t": 16.9,
+       "w": 1046,
+       "x": 128,
+       "y": -40
+      },
+      {
+       "t": 19.52,
+       "w": 1102,
+       "x": 72,
+       "y": -34
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/d4670625c4.png",
+     "x": 30,
+     "y": 22,
+     "w": 530,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/e11b9df57e.png",
+     "x": 1138,
+     "y": 22,
+     "w": 112,
+     "from": 0.55,
+     "keys": [
+      {
+       "t": 0.55,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 0.85,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 69.223,
+   "end": 93.934,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/01-4.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.37,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 4.94,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 7.88,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 10.21,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 11.72,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 13.11,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 14.9,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 17.62,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 19.04,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 20.92,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 22.51,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 24.36,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/343a16c8ec.png",
+     "x": 30,
+     "y": 22,
+     "w": 293,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/ad88f211a8.png",
+     "x": 914,
+     "y": 22,
+     "w": 336,
+     "from": 3.57,
+     "keys": [
+      {
+       "t": 3.57,
+       "alpha": 0,
+       "x": 934
+      },
+      {
+       "t": 3.87,
+       "alpha": 1,
+       "x": 914
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 93.934,
+   "end": 125.045,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/01-5.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.16,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 3.84,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 5.48,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 8.1,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 10.18,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 11.22,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 13.95,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 16.02,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 17.44,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 20.47,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 21.62,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 22.17,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 24.16,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 26.06,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 28.02,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 30.76,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/a3c9ca2e0e.png",
+     "x": 30,
+     "y": 22,
+     "w": 642,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/412cd801e4.png",
+     "x": 814,
+     "y": 22,
+     "w": 436,
+     "from": 5.68,
+     "keys": [
+      {
+       "t": 5.68,
+       "alpha": 0,
+       "x": 834
+      },
+      {
+       "t": 5.98,
+       "alpha": 1,
+       "x": 814
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/fb60a994ca.png",
+     "x": 944,
+     "y": 84,
+     "w": 306,
+     "from": 28.22,
+     "keys": [
+      {
+       "t": 28.22,
+       "alpha": 0,
+       "x": 964
+      },
+      {
+       "t": 28.52,
+       "alpha": 1,
+       "x": 944
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 125.045,
+   "end": 153.476,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/01-6.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.28,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 5.3,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 7.59,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 9.02,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 10.47,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 12.56,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 16.56,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 18.91,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 21.28,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 23.43,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 25.6,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 28.08,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/53373f74b6.png",
+     "x": 30,
+     "y": 22,
+     "w": 440,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 153.476,
+   "end": 182.087,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/01-7.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.16,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 2.91,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 5.04,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 8.0,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 9.82,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 12.44,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 13.44,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 15.43,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 16.92,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 18.02,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 21.28,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 23.8,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 24.96,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 27.16,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/94c6375e59.png",
+     "x": 30,
+     "y": 22,
+     "w": 286,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/8063b92e63.png",
+     "x": 1138,
+     "y": 22,
+     "w": 112,
+     "from": 8.2,
+     "keys": [
+      {
+       "t": 8.2,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 8.5,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/cdee895005.png",
+     "x": 818,
+     "y": 84,
+     "w": 432,
+     "from": 10.02,
+     "keys": [
+      {
+       "t": 10.02,
+       "alpha": 0,
+       "x": 838
+      },
+      {
+       "t": 10.32,
+       "alpha": 1,
+       "x": 818
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/paper.png",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "from": 26.26,
+     "to": 28.606,
+     "keys": [
+      {
+       "t": 26.26,
+       "alpha": 1
+      },
+      {
+       "t": 28.26,
+       "alpha": 1
+      },
+      {
+       "t": 28.581,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/84e0f765a4.png",
+     "x": 525,
+     "y": 230,
+     "w": 230,
+     "from": 26.26,
+     "to": 28.606
+    },
+    {
+     "type": "text",
+     "text": "CRACKING UP",
+     "x": 413,
+     "y": 330,
+     "size": 84,
+     "bold": true,
+     "w": 1240,
+     "from": 26.46,
+     "to": 28.606,
+     "keys": [
+      {
+       "t": 26.46,
+       "alpha": 0,
+       "y": 345
+      },
+      {
+       "t": 26.86,
+       "alpha": 1,
+       "y": 330
+      }
+     ],
+     "color": "#3E5A73"
+    }
+   ]
+  },
+  {
+   "start": 182.087,
+   "end": 204.478,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/02-1.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.81,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 5.77,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 7.38,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 9.36,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 11.12,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 13.57,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 15.58,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 16.97,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 19.0,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 21.53,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 22.04,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/8066cc7e81.png",
+     "x": 30,
+     "y": 22,
+     "w": 508,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/f54fe3189d.png",
+     "x": 834,
+     "y": 22,
+     "w": 416,
+     "from": 9.56,
+     "keys": [
+      {
+       "t": 9.56,
+       "alpha": 0,
+       "x": 854
+      },
+      {
+       "t": 9.86,
+       "alpha": 1,
+       "x": 834
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 204.478,
+   "end": 227.589,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/02-2.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.23,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 4.5,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 5.94,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 8.37,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 10.21,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 11.72,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 13.47,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 15.16,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 16.61,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 18.39,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 19.55,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 20.82,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 22.76,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/0a8cc156a6.png",
+     "x": 30,
+     "y": 22,
+     "w": 252,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 227.589,
+   "end": 253.06,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/02-3.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.73,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 6.29,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 9.41,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 13.22,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 13.77,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 16.26,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 18.21,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 20.46,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 23.26,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 25.12,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/3f5668d6b7.png",
+     "x": 30,
+     "y": 22,
+     "w": 272,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 253.06,
+   "end": 276.251,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/02-4.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 1.21,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 3.69,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 4.95,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 8.35,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 8.9,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 10.36,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 12.4,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 14.36,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 16.23,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 17.46,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 20.25,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 21.46,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 22.84,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/a9fcb958bb.png",
+     "x": 30,
+     "y": 22,
+     "w": 395,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/be142671b6.png",
+     "x": 1022,
+     "y": 22,
+     "w": 228,
+     "from": 9.1,
+     "keys": [
+      {
+       "t": 9.1,
+       "alpha": 0,
+       "x": 1042
+      },
+      {
+       "t": 9.4,
+       "alpha": 1,
+       "x": 1022
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 276.251,
+   "end": 300.041,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/02-5.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.47,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 5.1,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 7.3,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 8.92,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 11.59,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 14.17,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 16.08,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 17.94,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 20.21,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 21.7,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 23.44,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/9e7fbd44c9.png",
+     "x": 30,
+     "y": 22,
+     "w": 388,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/f6799309f1.png",
+     "x": 900,
+     "y": 22,
+     "w": 350,
+     "from": 9.12,
+     "keys": [
+      {
+       "t": 9.12,
+       "alpha": 0,
+       "x": 920
+      },
+      {
+       "t": 9.42,
+       "alpha": 1,
+       "x": 900
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 300.041,
+   "end": 321.232,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/02-6.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 1.25,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 3.69,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 6.05,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 8.67,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 10.18,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 12.62,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 14.87,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 17.37,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 19.73,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 20.84,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/c17a610901.png",
+     "x": 30,
+     "y": 22,
+     "w": 506,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 321.232,
+   "end": 345.163,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/02-7.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 0.91,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 3.7,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 4.68,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 6.94,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 9.01,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 9.91,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 11.19,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 14.31,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 15.08,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 18.37,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 19.2,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 21.36,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 22.48,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/72fa8b4711.png",
+     "x": 30,
+     "y": 22,
+     "w": 426,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/e70198f082.png",
+     "x": 1138,
+     "y": 22,
+     "w": 112,
+     "from": 0.55,
+     "keys": [
+      {
+       "t": 0.55,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 0.85,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/a8d8bc5f69.png",
+     "x": 962,
+     "y": 84,
+     "w": 288,
+     "from": 7.14,
+     "keys": [
+      {
+       "t": 7.14,
+       "alpha": 0,
+       "x": 982
+      },
+      {
+       "t": 7.44,
+       "alpha": 1,
+       "x": 962
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/paper.png",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "from": 21.58,
+     "to": 23.926,
+     "keys": [
+      {
+       "t": 21.58,
+       "alpha": 1
+      },
+      {
+       "t": 23.58,
+       "alpha": 1
+      },
+      {
+       "t": 23.901,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/673c1bcb5b.png",
+     "x": 525,
+     "y": 230,
+     "w": 230,
+     "from": 21.58,
+     "to": 23.926
+    },
+    {
+     "type": "text",
+     "text": "MIGHTIEST MOUNTAIN",
+     "x": 243,
+     "y": 330,
+     "size": 84,
+     "bold": true,
+     "w": 1240,
+     "from": 21.78,
+     "to": 23.926,
+     "keys": [
+      {
+       "t": 21.78,
+       "alpha": 0,
+       "y": 345
+      },
+      {
+       "t": 22.18,
+       "alpha": 1,
+       "y": 330
+      }
+     ],
+     "color": "#3E5A73"
+    }
+   ]
+  },
+  {
+   "start": 345.163,
+   "end": 369.154,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/03-1.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.58,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 3.98,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 5.94,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 7.14,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 9.41,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 12.76,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 16.06,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 16.61,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 18.56,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 20.61,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 22.46,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 23.64,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/db68fc9ba0.png",
+     "x": 30,
+     "y": 22,
+     "w": 445,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/bd11b995fa.png",
+     "x": 916,
+     "y": 22,
+     "w": 334,
+     "from": 9.61,
+     "keys": [
+      {
+       "t": 9.61,
+       "alpha": 0,
+       "x": 936
+      },
+      {
+       "t": 9.91,
+       "alpha": 1,
+       "x": 916
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 369.154,
+   "end": 393.425,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/03-2.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.34,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 4.9,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 7.89,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 10.35,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 11.18,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 14.64,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 17.25,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 17.81,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 21.57,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 23.92,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/5040cbd137.png",
+     "x": 30,
+     "y": 22,
+     "w": 323,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/30c49397d1.png",
+     "x": 1138,
+     "y": 22,
+     "w": 112,
+     "from": 3.54,
+     "keys": [
+      {
+       "t": 3.54,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 3.84,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/0cb24a46f4.png",
+     "x": 1139,
+     "y": 84,
+     "w": 111,
+     "from": 11.38,
+     "keys": [
+      {
+       "t": 11.38,
+       "alpha": 0,
+       "x": 1159
+      },
+      {
+       "t": 11.68,
+       "alpha": 1,
+       "x": 1139
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/1e3d4eb63c.png",
+     "x": 1138,
+     "y": 146,
+     "w": 112,
+     "from": 17.45,
+     "keys": [
+      {
+       "t": 17.45,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 17.75,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 393.425,
+   "end": 409.856,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/03-3.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.35,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 5.1,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 8.12,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 9.87,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 10.48,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 13.63,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 16.08,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/0af7dee055.png",
+     "x": 30,
+     "y": 22,
+     "w": 417,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/dd6f5558c6.png",
+     "x": 1138,
+     "y": 22,
+     "w": 112,
+     "from": 10.07,
+     "keys": [
+      {
+       "t": 10.07,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 10.37,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/4e21dc305b.png",
+     "x": 947,
+     "y": 84,
+     "w": 303,
+     "from": 13.83,
+     "keys": [
+      {
+       "t": 13.83,
+       "alpha": 0,
+       "x": 967
+      },
+      {
+       "t": 14.13,
+       "alpha": 1,
+       "x": 947
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 409.856,
+   "end": 436.607,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/03-4.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 1.2,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 3.2,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 5.87,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 8.84,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 9.89,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 12.72,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 13.66,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 16.03,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 17.98,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 21.03,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 22.51,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 24.63,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 26.4,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/2e515d4315.png",
+     "x": 30,
+     "y": 22,
+     "w": 411,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/7811a38331.png",
+     "x": 1138,
+     "y": 22,
+     "w": 112,
+     "from": 3.4,
+     "keys": [
+      {
+       "t": 3.4,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 3.7,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/74efaac8bf.png",
+     "x": 992,
+     "y": 84,
+     "w": 258,
+     "from": 6.07,
+     "keys": [
+      {
+       "t": 6.07,
+       "alpha": 0,
+       "x": 1012
+      },
+      {
+       "t": 6.37,
+       "alpha": 1,
+       "x": 992
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/d24b58d83a.png",
+     "x": 1138,
+     "y": 146,
+     "w": 112,
+     "from": 24.83,
+     "keys": [
+      {
+       "t": 24.83,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 25.13,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 436.607,
+   "end": 460.278,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/03-5.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.26,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 4.82,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 5.75,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 8.5,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 9.56,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 11.34,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 12.26,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 13.65,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 15.9,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 17.48,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 19.37,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 20.79,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 23.32,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/71233c795a.png",
+     "x": 30,
+     "y": 22,
+     "w": 549,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/27faeb4d07.png",
+     "x": 992,
+     "y": 22,
+     "w": 258,
+     "from": 5.95,
+     "keys": [
+      {
+       "t": 5.95,
+       "alpha": 0,
+       "x": 1012
+      },
+      {
+       "t": 6.25,
+       "alpha": 1,
+       "x": 992
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 460.278,
+   "end": 482.669,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/03-6.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 1.78,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 4.25,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 6.71,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 10.11,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 12.28,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 15.16,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 18.41,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 20.38,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 22.04,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/a49f9f7f49.png",
+     "x": 30,
+     "y": 22,
+     "w": 470,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 482.669,
+   "end": 505.42,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/03-7.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.78,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 5.68,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 8.1,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 10.92,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 14.02,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 14.57,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 16.82,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 18.49,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 20.12,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 22.4,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/eb1ecfa76b.png",
+     "x": 30,
+     "y": 22,
+     "w": 266,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/ac321237d8.png",
+     "x": 992,
+     "y": 22,
+     "w": 258,
+     "from": 0.55,
+     "keys": [
+      {
+       "t": 0.55,
+       "alpha": 0,
+       "x": 1012
+      },
+      {
+       "t": 0.85,
+       "alpha": 1,
+       "x": 992
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 505.42,
+   "end": 537.471,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/03-8.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.87,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 6.43,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 9.81,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 12.8,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 15.31,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 19.2,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 22.78,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 24.85,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 27.59,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 30.6,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/83a15d76c5.png",
+     "x": 30,
+     "y": 22,
+     "w": 503,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/680caeeffe.png",
+     "x": 1130,
+     "y": 22,
+     "w": 120,
+     "from": 25.05,
+     "keys": [
+      {
+       "t": 25.05,
+       "alpha": 0,
+       "x": 1150
+      },
+      {
+       "t": 25.35,
+       "alpha": 1,
+       "x": 1130
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/51ccf7b414.png",
+     "x": 1130,
+     "y": 84,
+     "w": 120,
+     "from": 27.79,
+     "keys": [
+      {
+       "t": 27.79,
+       "alpha": 0,
+       "x": 1150
+      },
+      {
+       "t": 28.09,
+       "alpha": 1,
+       "x": 1130
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/paper.png",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "from": 29.7,
+     "to": 32.046,
+     "keys": [
+      {
+       "t": 29.7,
+       "alpha": 1
+      },
+      {
+       "t": 31.7,
+       "alpha": 1
+      },
+      {
+       "t": 32.021,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/dab1715c21.png",
+     "x": 525,
+     "y": 230,
+     "w": 230,
+     "from": 29.7,
+     "to": 32.046
+    },
+    {
+     "type": "text",
+     "text": "ULTIMATE VOLCANO",
+     "x": 308,
+     "y": 330,
+     "size": 84,
+     "bold": true,
+     "w": 1240,
+     "from": 29.9,
+     "to": 32.046,
+     "keys": [
+      {
+       "t": 29.9,
+       "alpha": 0,
+       "y": 345
+      },
+      {
+       "t": 30.3,
+       "alpha": 1,
+       "y": 330
+      }
+     ],
+     "color": "#3E5A73"
+    }
+   ]
+  },
+  {
+   "start": 537.471,
+   "end": 560.542,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/04-1.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.34,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 5.13,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 6.95,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 9.3,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 10.28,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 14.13,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 15.46,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 18.58,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 19.48,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 21.28,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 22.72,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/2173524ebc.png",
+     "x": 30,
+     "y": 22,
+     "w": 570,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 560.542,
+   "end": 584.773,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/04-2.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.42,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 4.21,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 5.97,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 8.35,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 10.53,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 12.18,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 13.1,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 16.43,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 16.99,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 19.27,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 20.15,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 22.69,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 23.88,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/e162d7b31d.png",
+     "x": 30,
+     "y": 22,
+     "w": 354,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 584.773,
+   "end": 603.084,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/04-3.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 1.47,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 3.04,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 4.06,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 6.61,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 8.07,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 10.34,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 11.13,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 13.94,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 15.99,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 17.96,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/0ddbbcfb76.png",
+     "x": 30,
+     "y": 22,
+     "w": 364,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/15d52a5978.png",
+     "x": 1138,
+     "y": 22,
+     "w": 112,
+     "from": 6.81,
+     "keys": [
+      {
+       "t": 6.81,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 7.11,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/ef02a9981e.png",
+     "x": 1018,
+     "y": 84,
+     "w": 232,
+     "from": 14.14,
+     "keys": [
+      {
+       "t": 14.14,
+       "alpha": 0,
+       "x": 1038
+      },
+      {
+       "t": 14.44,
+       "alpha": 1,
+       "x": 1018
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 603.084,
+   "end": 625.675,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/04-4.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.58,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 5.16,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 6.24,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 7.34,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 9.94,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 12.16,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 13.15,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 15.62,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 17.89,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 19.58,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 22.24,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/6e0fa472ec.png",
+     "x": 30,
+     "y": 22,
+     "w": 392,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/ae13bb9116.png",
+     "x": 962,
+     "y": 22,
+     "w": 288,
+     "from": 15.82,
+     "keys": [
+      {
+       "t": 15.82,
+       "alpha": 0,
+       "x": 982
+      },
+      {
+       "t": 16.12,
+       "alpha": 1,
+       "x": 962
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 625.675,
+   "end": 645.946,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/04-5.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 1.64,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 3.8,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 5.89,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 7.92,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 10.06,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 11.92,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 14.1,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 17.67,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 18.22,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 19.92,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/938047be06.png",
+     "x": 30,
+     "y": 22,
+     "w": 190,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/8e9ce9f58b.png",
+     "x": 840,
+     "y": 22,
+     "w": 410,
+     "from": 8.12,
+     "keys": [
+      {
+       "t": 8.12,
+       "alpha": 0,
+       "x": 860
+      },
+      {
+       "t": 8.42,
+       "alpha": 1,
+       "x": 840
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 645.946,
+   "end": 671.377,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/04-6.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.54,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 4.09,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 7.22,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 9.88,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 11.86,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 15.38,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 17.61,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 20.83,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 22.08,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 25.08,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/9621c8f876.png",
+     "x": 30,
+     "y": 22,
+     "w": 448,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/bea5aa747a.png",
+     "x": 1122,
+     "y": 22,
+     "w": 128,
+     "from": 3.74,
+     "keys": [
+      {
+       "t": 3.74,
+       "alpha": 0,
+       "x": 1142
+      },
+      {
+       "t": 4.04,
+       "alpha": 1,
+       "x": 1122
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/c42e7b3b78.png",
+     "x": 962,
+     "y": 84,
+     "w": 288,
+     "from": 7.42,
+     "keys": [
+      {
+       "t": 7.42,
+       "alpha": 0,
+       "x": 982
+      },
+      {
+       "t": 7.72,
+       "alpha": 1,
+       "x": 962
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/e219644019.png",
+     "x": 882,
+     "y": 146,
+     "w": 368,
+     "from": 12.06,
+     "keys": [
+      {
+       "t": 12.06,
+       "alpha": 0,
+       "x": 902
+      },
+      {
+       "t": 12.36,
+       "alpha": 1,
+       "x": 882
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 671.377,
+   "end": 696.748,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/04-7.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.72,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 5.11,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 6.7,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 8.87,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 11.07,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 14.15,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 16.02,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 18.42,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 19.84,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 21.9,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 23.92,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/024e01d8eb.png",
+     "x": 30,
+     "y": 22,
+     "w": 285,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/paper.png",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "from": 23.02,
+     "to": 25.366,
+     "keys": [
+      {
+       "t": 23.02,
+       "alpha": 1
+      },
+      {
+       "t": 25.02,
+       "alpha": 1
+      },
+      {
+       "t": 25.341,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/66b21445b8.png",
+     "x": 526,
+     "y": 230,
+     "w": 228,
+     "from": 23.02,
+     "to": 25.366
+    },
+    {
+     "type": "text",
+     "text": "HOT SPOTS",
+     "x": 457,
+     "y": 330,
+     "size": 84,
+     "bold": true,
+     "w": 1240,
+     "from": 23.22,
+     "to": 25.366,
+     "keys": [
+      {
+       "t": 23.22,
+       "alpha": 0,
+       "y": 345
+      },
+      {
+       "t": 23.62,
+       "alpha": 1,
+       "y": 330
+      }
+     ],
+     "color": "#3E5A73"
+    }
+   ]
+  },
+  {
+   "start": 696.748,
+   "end": 718.059,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/05-1.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 1.52,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 4.66,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 6.42,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 8.71,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 11.01,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 13.15,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 16.99,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 18.69,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 20.96,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/6c8ee56cd6.png",
+     "x": 30,
+     "y": 22,
+     "w": 447,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 718.059,
+   "end": 736.93,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/05-2.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 1.29,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 3.54,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 4.92,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 6.67,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 8.24,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 9.87,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 11.75,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 12.76,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 14.22,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 16.2,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 18.52,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/faaaa7f75f.png",
+     "x": 30,
+     "y": 22,
+     "w": 222,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/15fa0139a3.png",
+     "x": 1037,
+     "y": 22,
+     "w": 213,
+     "from": 8.44,
+     "keys": [
+      {
+       "t": 8.44,
+       "alpha": 0,
+       "x": 1057
+      },
+      {
+       "t": 8.74,
+       "alpha": 1,
+       "x": 1037
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 736.93,
+   "end": 760.521,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/05-3.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.2,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 4.21,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 6.25,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 8.79,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 10.41,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 12.22,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 14.32,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 15.94,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 17.52,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 19.51,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 21.35,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 23.24,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/f16e2c6290.png",
+     "x": 30,
+     "y": 22,
+     "w": 664,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 760.521,
+   "end": 784.592,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/05-4.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.02,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 5.82,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 7.51,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 9.13,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 10.56,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 13.66,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 14.51,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 15.06,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 17.56,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 19.68,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 21.53,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 23.72,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/52b08ee7a3.png",
+     "x": 30,
+     "y": 22,
+     "w": 616,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/03cfc6c803.png",
+     "x": 984,
+     "y": 22,
+     "w": 266,
+     "from": 7.71,
+     "keys": [
+      {
+       "t": 7.71,
+       "alpha": 0,
+       "x": 1004
+      },
+      {
+       "t": 8.01,
+       "alpha": 1,
+       "x": 984
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/15d52a5978.png",
+     "x": 1138,
+     "y": 84,
+     "w": 112,
+     "from": 10.76,
+     "keys": [
+      {
+       "t": 10.76,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 11.06,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/19416840ca.png",
+     "x": 860,
+     "y": 146,
+     "w": 390,
+     "from": 17.76,
+     "keys": [
+      {
+       "t": 17.76,
+       "alpha": 0,
+       "x": 880
+      },
+      {
+       "t": 18.06,
+       "alpha": 1,
+       "x": 860
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 784.592,
+   "end": 810.463,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/05-5.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.0,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 4.97,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 7.75,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 10.98,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 11.53,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 12.9,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 16.7,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 18.92,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 20.53,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 23.03,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 25.52,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/0a1bd6e0f1.png",
+     "x": 30,
+     "y": 22,
+     "w": 295,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/713a9fedc5.png",
+     "x": 1138,
+     "y": 22,
+     "w": 112,
+     "from": 11.18,
+     "keys": [
+      {
+       "t": 11.18,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 11.48,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/03d2ab8f16.png",
+     "x": 1017,
+     "y": 84,
+     "w": 233,
+     "from": 13.1,
+     "keys": [
+      {
+       "t": 13.1,
+       "alpha": 0,
+       "x": 1037
+      },
+      {
+       "t": 13.4,
+       "alpha": 1,
+       "x": 1017
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/3297cc90b7.png",
+     "x": 1138,
+     "y": 146,
+     "w": 112,
+     "from": 19.12,
+     "keys": [
+      {
+       "t": 19.12,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 19.42,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 810.463,
+   "end": 829.454,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/05-6.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.67,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 4.95,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 5.58,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 7.62,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 9.84,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 11.82,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 13.5,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 15.72,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 16.27,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 18.64,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/8cf9f8d426.png",
+     "x": 30,
+     "y": 22,
+     "w": 484,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 829.454,
+   "end": 848.704,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/05-7.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.43,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 3.65,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 5.52,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 6.91,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 8.71,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 10.86,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 12.71,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 14.88,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 15.49,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 17.8,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/438a346dbe.png",
+     "x": 30,
+     "y": 22,
+     "w": 470,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/paper.png",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "from": 16.9,
+     "to": 19.245,
+     "keys": [
+      {
+       "t": 16.9,
+       "alpha": 1
+      },
+      {
+       "t": 18.9,
+       "alpha": 1
+      },
+      {
+       "t": 19.22,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/737f84b0fa.png",
+     "x": 525,
+     "y": 230,
+     "w": 230,
+     "from": 16.9,
+     "to": 19.245
+    },
+    {
+     "type": "text",
+     "text": "CRUNCH TIME",
+     "x": 400,
+     "y": 330,
+     "size": 84,
+     "bold": true,
+     "w": 1240,
+     "from": 17.1,
+     "to": 19.245,
+     "keys": [
+      {
+       "t": 17.1,
+       "alpha": 0,
+       "y": 345
+      },
+      {
+       "t": 17.5,
+       "alpha": 1,
+       "y": 330
+      }
+     ],
+     "color": "#3E5A73"
+    }
+   ]
+  },
+  {
+   "start": 848.704,
+   "end": 866.935,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/06-1.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.68,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 5.08,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 6.46,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 7.77,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 10.11,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 11.7,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 14.79,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 15.55,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 17.88,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/b41a7ed57d.png",
+     "x": 30,
+     "y": 22,
+     "w": 348,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 866.935,
+   "end": 886.126,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/06-2.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.35,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 3.81,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 4.87,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 7.19,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 9.33,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 10.46,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 12.99,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 15.18,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 16.55,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 18.84,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/f96c69e058.png",
+     "x": 30,
+     "y": 22,
+     "w": 306,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 886.126,
+   "end": 901.437,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/06-3.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 1.85,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 3.01,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 4.7,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 6.47,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 7.9,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 8.84,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 10.34,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 11.72,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 12.48,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 13.81,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 14.96,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/b6000db73d.png",
+     "x": 30,
+     "y": 22,
+     "w": 570,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 901.437,
+   "end": 920.628,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/06-4.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.68,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 6.46,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 8.22,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 10.0,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 10.9,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 14.14,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 15.75,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 18.33,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 18.84,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/4688739fdb.png",
+     "x": 30,
+     "y": 22,
+     "w": 551,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/5b925c6853.png",
+     "x": 1138,
+     "y": 22,
+     "w": 112,
+     "from": 2.88,
+     "keys": [
+      {
+       "t": 2.88,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 3.18,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/e70198f082.png",
+     "x": 1138,
+     "y": 84,
+     "w": 112,
+     "from": 10.2,
+     "keys": [
+      {
+       "t": 10.2,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 10.5,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 920.628,
+   "end": 937.539,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/06-5.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 2.54,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 4.27,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      },
+      {
+       "t": 5.92,
+       "w": 1510,
+       "x": -115,
+       "y": -62
+      },
+      {
+       "t": 9.24,
+       "w": 1357,
+       "x": -27,
+       "y": -15
+      },
+      {
+       "t": 10.24,
+       "w": 1434,
+       "x": -100,
+       "y": -37
+      },
+      {
+       "t": 13.22,
+       "w": 1510,
+       "x": -92,
+       "y": -75
+      },
+      {
+       "t": 14.22,
+       "w": 1357,
+       "x": -46,
+       "y": -13
+      },
+      {
+       "t": 16.56,
+       "w": 1434,
+       "x": -77,
+       "y": -45
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/dcdb66aa99.png",
+     "x": 30,
+     "y": 22,
+     "w": 636,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/ccf16ede15.png",
+     "x": 1138,
+     "y": 22,
+     "w": 112,
+     "from": 0.55,
+     "keys": [
+      {
+       "t": 0.55,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 0.85,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 937.539,
+   "end": 963.65,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/06-6.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 1.69,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 3.64,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 5.53,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 6.81,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 8.73,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 10.58,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 12.54,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      },
+      {
+       "t": 14.37,
+       "w": 1434,
+       "x": -77,
+       "y": -41
+      },
+      {
+       "t": 16.35,
+       "w": 1510,
+       "x": -81,
+       "y": -49
+      },
+      {
+       "t": 18.92,
+       "w": 1357,
+       "x": -50,
+       "y": -17
+      },
+      {
+       "t": 21.28,
+       "w": 1434,
+       "x": -61,
+       "y": -49
+      },
+      {
+       "t": 23.65,
+       "w": 1510,
+       "x": -138,
+       "y": -43
+      },
+      {
+       "t": 25.76,
+       "w": 1357,
+       "x": -38,
+       "y": -22
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/28f6d7eca6.png",
+     "x": 30,
+     "y": 22,
+     "w": 461,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 963.65,
+   "end": 994.971,
+   "layers": [
+    {
+     "type": "image",
+     "path": "images/06-7.png",
+     "x": 0,
+     "y": 2,
+     "w": 1280,
+     "keys": [
+      {
+       "t": 0,
+       "w": 1280,
+       "x": 0,
+       "y": 2,
+       "alpha": 1
+      },
+      {
+       "t": 3.02,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 5.14,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 6.25,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 10.1,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 12.31,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 13.22,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 15.85,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      },
+      {
+       "t": 18.52,
+       "w": 1434,
+       "x": -54,
+       "y": -32
+      },
+      {
+       "t": 20.8,
+       "w": 1510,
+       "x": -150,
+       "y": -56
+      },
+      {
+       "t": 23.23,
+       "w": 1357,
+       "x": -31,
+       "y": -24
+      },
+      {
+       "t": 24.51,
+       "w": 1434,
+       "x": -92,
+       "y": -28
+      },
+      {
+       "t": 27.06,
+       "w": 1510,
+       "x": -115,
+       "y": -69
+      },
+      {
+       "t": 29.12,
+       "w": 1357,
+       "x": -38,
+       "y": -19
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/ef1b6eca4c.png",
+     "x": 30,
+     "y": 22,
+     "w": 352,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "alpha": 1
+      },
+      {
+       "t": 4.2,
+       "alpha": 1
+      },
+      {
+       "t": 4.8,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "path": "assets/labels/09705de976.png",
+     "x": 1138,
+     "y": 22,
+     "w": 112,
+     "from": 18.72,
+     "keys": [
+      {
+       "t": 18.72,
+       "alpha": 0,
+       "x": 1158
+      },
+      {
+       "t": 19.02,
+       "alpha": 1,
+       "x": 1138
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sfx": []
+}
