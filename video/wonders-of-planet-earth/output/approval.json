@@ -1,7 +1,7 @@
 {
-  "preview_fingerprint": "20ab5e622882c5fd687f1ef5922c5bcf43737c7578ff017d5db2eb63409be498",
+  "preview_fingerprint": "2a1f8d84f55837c57b2adc2dfef46332199b661d319295128079315ef3a89b35",
   "preview_seconds": 60,
-  "preview_sha256": "b86b30b91555532ae6610b4682a60c4eef4df70b1553d1e3c6ebcd74b1242e09",
-  "note": "User asked to assemble chapters 1-6 as a test cut (2026-11-24) with the images they supplied; this is a test render, not the final film.",
-  "approved_at": "2026-11-24T14:05:43.595Z"
+  "preview_sha256": "a39f013a5d7930ebc26428b7fe684a54c77fc5386f0f7f86af9643cb356207f3",
+  "note": "ch7-12 test cut",
+  "approved_at": "2026-11-24T15:11:31.061Z"
 }
