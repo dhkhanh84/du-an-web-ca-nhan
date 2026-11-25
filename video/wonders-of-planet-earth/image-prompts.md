@@ -767,3 +767,14 @@ A bushfire racing across dry grassland and eucalyptus trees, a long front of tal
 ```text
 Planet Earth in the centre seen from space, surrounded by a ring of small vignettes drawn around it like a collage: a falling meteor, an erupting volcano, a snowy mountain peak, a jungle river, a glacier, a cave, a deep-sea submersible, a tornado, a snowflake, a polar bear and a desert dune. Colorful hand-drawn illustration in a gentle storybook explainer style: warm cream paper background with a very subtle paper texture, fine slightly irregular dark-brown ink outlines, flat muted colour fills (dusty slate blue, sage green, soft terracotta red, warm ochre, sand beige, cream), simple graphic depth, no gradients, no glossy 3D, no photorealism; any people drawn as simple round-headed stick figures with dot eyes and a short line mouth; clear focal subject with generous negative space, keep the bottom 15% of the frame calm and uncluttered for subtitles; 16:9, no text, no letters, no numbers, no logos, no watermark.
 ```
+
+
+## Table of contents (added 2026-11-25)
+
+### 0.0 — Table of contents: the explorer's journal  →  `00-toc.png`
+
+Shown near the start of the video. The chapter list (17 titles) is written onto the empty right page during editing, appearing line by line, so the image itself must contain no text.
+
+```text
+An explorer's travel journal lying open and flat, filling the whole frame, seen from directly above. The LEFT page (about 45% of the frame width) shows a small illustrated planet Earth with a dotted travel route looping around it, tiny symbols along the route (a falling meteor, a volcano, a snowy peak, a river, a glacier, a cave, a wave, a tornado, a snowflake, a desert dune), and a round-headed stick-figure explorer with a backpack and a compass standing beside the globe. The RIGHT page (about 55% of the frame width) is completely empty pale cream paper with only very faint horizontal ruled lines, no drawings and no marks on it, left blank so a list of chapter titles can be written on it later. A thin ribbon bookmark and a soft centre fold between the pages; the journal edges slightly worn. Colorful hand-drawn illustration in a gentle storybook explainer style: warm cream paper background with a very subtle paper texture, fine slightly irregular dark-brown ink outlines, flat muted colour fills (dusty slate blue, sage green, soft terracotta red, warm ochre, sand beige, cream), simple graphic depth, no gradients, no glossy 3D, no photorealism; any people drawn as simple round-headed stick figures with dot eyes and a short line mouth; clear focal subject with generous negative space, keep the bottom 15% of the frame calm and uncluttered for subtitles; 16:9, no text, no letters, no numbers, no logos, no watermark.
+```
