@@ -7,6 +7,9 @@ instead of the Gemini API's 100 requests/day on Tier 1. Same price per token, sa
 Auth: the API key is a network secret for texttospeech.googleapis.com (header x-goog-api-key),
 injected by the environment proxy; this script sends a placeholder.
 
+Voices: Gemini-TTS 'Algieba' (needs the Vertex AI API enabled on the key's project) or the plain
+Cloud voice 'en-US-Chirp3-HD-Algieba' / 'vi-VN-Chirp3-HD-Algieba' (TTS_VOICE=..., TTS_LANG=...).
+
 Usage:
   python3 tools/tts_cloud.py "Text to read." out.wav            # one clip
   python3 tools/tts_cloud.py --scenes scenes.json audio/scenes  # every scene (resumable)
@@ -23,7 +26,7 @@ SR = 24000
 
 def synth(text, out, prompt=None):
     body = {"input": {"text": text},
-            "voice": {"languageCode": LANG, "name": VOICE, "modelName": MODEL},
+            "voice": {"languageCode": LANG, "name": VOICE} if 'Chirp3' in VOICE else {"languageCode": LANG, "name": VOICE, "modelName": MODEL},
             "audioConfig": {"audioEncoding": "LINEAR16", "sampleRateHertz": SR}}
     if prompt:
         body["input"]["prompt"] = prompt
