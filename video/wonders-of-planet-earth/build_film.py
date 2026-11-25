@@ -146,7 +146,7 @@ def lw(p): return round(Image.open(p).size[0] / 2)
 if LANGV == 'vi':
     NUM = re.compile(r"(?:năm \d{2,4}|\d[\d.,]*\s?(?:tỷ|triệu|nghìn)?\s?(?:năm|mét|km³|km/h|km|cm|mm|%|độ C|tầng|người|lần|viên)?)")
 else:
-    NUM = re.compile(r"(\d[\d,.]*\s?(?:billion|million|thousand)?\s?(?:years|metres|kilometres|degrees Celsius|percent|tonnes|cubic kilometres|cubic metres|kilometres per hour|km)?|AD \d+|\b(?:1[0-9]{3}|20[0-9]{2})\b)")
+    NUM = re.compile(r"(\d[\d,.]*\s?(?:billion|million|thousand)?\s?(?:years|metres|kilometres per hour|degrees Celsius|percent|tonnes|cubic kilometres|cubic metres|kilometres per hour|kilometres|km)?|AD \d+|\b(?:1[0-9]{3}|20[0-9]{2})\b)")
 
 # ---------- table of contents overlays (one PNG per line, revealed in turn) ----------
 INK = (62, 44, 30); RED = (176, 72, 52)
