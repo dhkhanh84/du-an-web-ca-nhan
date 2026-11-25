@@ -1,134 +1,134 @@
 {
-  "fingerprint": "e1a67a9a4a7fb4c311724b7b96da202dc232d7bff358ea37a633df02752e7906",
+  "fingerprint": "363d3d45ae0ff693618aeafc29de783e823858245a757714df47e15094e2bace",
   "preview_seconds": 60,
   "output": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/output/preview.mp4",
-  "output_sha256": "bac8e7ec552a2005a368f35b3c8e741e22634054bd664f9d0a15d087258d6900",
-  "original_voice_sha256": "b1081f59af839aeeea63ec46c3ef447458769b417241732a5d2e8898d77c8e6c",
-  "original_voice_duration": 1290.640583,
+  "output_sha256": "0adff69f51f841521f1c114f6a36ee750fc509baea670a044122a584e62890fb",
+  "original_voice_sha256": "246b4d415b747666fd3553a9f97b430f3ae13b85d436f2c4e7735aa891f9266f",
+  "original_voice_duration": 1347.308167,
   "voice_rate": "unchanged; leading/trailing padding only",
   "frames": 1800,
   "duration": 60,
-  "cache_hits": 4,
+  "cache_hits": 0,
   "shot_count": 5,
   "full_decode": "pass",
-  "caption_count": 27,
+  "caption_count": 22,
   "human_review": "required; technical checks are not acceptance",
   "inputs": [
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/1bdc5860ee.png",
-      "sha256": "a1a082288ec172c37fbf22e3c01893a22b81dd89bdea227ec7c728cb1acd9863"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/09db0b1b41.png",
+      "sha256": "ff0967a67e6ea9a64583c046da405d05331e70922b871146fac16858b2d1ace6"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/21325bb02b.png",
-      "sha256": "950a5c95c12e0fd40047df4a9094387ee05672be7d212448b642a169a77d285d"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/3e33fe0f2d.png",
+      "sha256": "7bb35976bb22c165b715de34db8142b5a7f4354cdad3c7a8f8fd36734ffbde69"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/5c1cce2036.png",
-      "sha256": "7af93d90fead02180eb3122a467b6a796a7b5082142e0292f26941350e10d671"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/56477fe393.png",
+      "sha256": "31bbe58b97e964ea3377d5eccb0049efef6198e961b1c6c9e210aa909ac4caaa"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/66047be7eb.png",
-      "sha256": "d33fec516ab732e75be2f28ccd35e2d845eb0a7c67bd3e5a7491db52a7fa32c9"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/677b8f17d9.png",
+      "sha256": "71cf9b85918ead2c32380bb45f644a9e1a877122c5661dfc38bf0873441d53a3"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/75cbc6f8c5.png",
-      "sha256": "470beb54442f1c70ccfb146b3e576a9b1297e86c1bca4d01746a8797a71f55c0"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/6ce4749bc6.png",
+      "sha256": "a34d74d55ef78db68ea664cdace47e0bb6770ad942f87253fa15ad3d82d2a95d"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/952a4f1a81.png",
-      "sha256": "b21754a9a2ee8e24fb659a9347a419ab13b5c355e4cff78129e01b82da26cc48"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/8dc10b6c27.png",
+      "sha256": "923ff55802c9e8439b22f2b7365eadc1c47fb0240e60a5fe66d6736b019bf494"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/c2a661787a.png",
-      "sha256": "e38a8629fe306bf489eb5941d17d23c9705ae36496beb2f5c55a6cdc06ab23bb"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/b087c66422.png",
+      "sha256": "437b9bbb3cc103d396fec2e25a6d90dd0a60c8968d01050e819c933f9dcfa214"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/d20dd65724.png",
-      "sha256": "526493950d182e41e059998a8d21040a6dcb2852aa1cfcbc8c4c3fe8f2722706"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/ec31720381.png",
+      "sha256": "74c44fbb4725a7ac7c40f026c85d8da18da5592f64679569e01e2b19969419a8"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/ffaa7ca41e.png",
-      "sha256": "4a5dfe0990d167b3d6a698f1e7d583103affa91fb0e6e0a8c4ed2f494515dd2c"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/f6cb666d99.png",
+      "sha256": "ed9f78e097da2a65ca6259fcf86b48246922feb745ea2d67798b7b2dda655c12"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-vi-0f9a360e.png",
-      "sha256": "f05591936934b988f0774bf0013a6aaed706d960867646208d2fd4c2197ce869"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-en-182f9aa5.png",
+      "sha256": "943c9e1ceb8501bdb20bf9e2908226a59e5551ef1fffe51e680aa4a0774200d9"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-vi-3480018b.png",
-      "sha256": "b9de49cbb127ba6bb4bfbb22cb50c259d99df7b13dc51a8c61fac43dd8d75f4c"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-en-252c01cc.png",
+      "sha256": "41e10c6b9815bbe9cd46de8a64e75c0836d50a1c843121b82728885708f93114"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-vi-4724a2c4.png",
-      "sha256": "67e4ddea24c4b7a82f737b52c0dee1289366e48e282788e41ddd0a6dd3023c52"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-en-286db999.png",
+      "sha256": "0299cb83d62237c3671f79069c189ffee6935202bc79142bbbb76fb4a9386953"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-vi-5660fc25.png",
-      "sha256": "a78fc182f87c96a517ce59c679af96ebfe73eeb931ebb9953b5e9ca3eb3534ce"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-en-35377ce8.png",
+      "sha256": "b6145f46a36136e0eb4df53f67aafd6b7da711e539f52d3e6b990784491cf7c1"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-vi-5e67f4e4.png",
-      "sha256": "644483ec20a5322dbedf3c4cff1ef8374afea13396ef81c98522408c21a2cdb6"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-en-3ebc6b96.png",
+      "sha256": "975cb1ac4c3cd8231f40d963da79e1d2fbbf87216f9e0095e524bc50d7f51df4"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-vi-5fa37c8f.png",
-      "sha256": "bcfa8f2e065d2dc2c18fd5d7925ca8b52c59a92aece39638cc5ad5f15e2c9c5e"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-en-51c6a64f.png",
+      "sha256": "8599f3d6c7fa8d45adf5328748837ab330e7bfe443c5c10a6b19c9b960ee0058"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-vi-5ff7cf70.png",
-      "sha256": "19e2bf79ccbdd0399ce970af25ae71c8b2ed3833fa2a9247e04c59de14459531"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-en-661eaf3a.png",
+      "sha256": "87d58daa75347cede903e231a4f15ea3f80fbaa433c8880c34b3eee24d4f5ab4"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-vi-6939893d.png",
-      "sha256": "5cd15a9f8055b27cf1029ae9428b945763b51ae9ee7a14e6b78c1a5419e0b583"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-en-7b799a00.png",
+      "sha256": "0b60fc286f1d70420d9af3e06ed757088f70ad48e59adeef31a4ca585470848e"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-vi-a421e3aa.png",
-      "sha256": "a919ab2280fb2afbd60605918c75df7da660330108f996b2238708366e6bad3b"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-en-a62ba24a.png",
+      "sha256": "84bacac068d4164af9a03ba2470aa67e927c17c14d784e8641551d172f7a9912"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-vi-a5290576.png",
-      "sha256": "0f157690c4807e6ca916c2529cd29d24d89260bafab32e5b67f51b0672a2f20f"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-en-a8c20825.png",
+      "sha256": "a937d139d5d32c5e53df38a94c17548f3f43d8335a015fd1bd0de8a70b34014d"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-vi-c4acd018.png",
-      "sha256": "8b48136c6521d3c8b99b6e319960b3bc82358647ea0488488ea3b9a9b65a71f1"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-en-aea7738b.png",
+      "sha256": "e882c253949f9c124b5fffb745dcc1dab512a01ae0ae21e828854b56efd738c2"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-vi-cc4edc31.png",
-      "sha256": "a043fef4de8b242fa5a12d1d1e860ee1aa87128c01b8aff79c0c44dda13d5c00"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-en-aeee77fe.png",
+      "sha256": "a9a3ef038c69a2d10885c70249ae51578c0e2029054eafcbad49b3e45f1b904a"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-vi-d018e95c.png",
-      "sha256": "756d94d5b1656968216bc78352e80af8352e07873de87845e008e9f319df8b34"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-en-b7571d82.png",
+      "sha256": "80dcea307c56315e2e056d0530af2cbe89a94f0e45ac234bc0f3ef814f4cb667"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-vi-d69d74ca.png",
-      "sha256": "013a071dec1d9f2a87fa18313f2a0b3569057ff27dd96e444d99d0771acd5525"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-en-e1ef0c2e.png",
+      "sha256": "d545bd775617393bdfb2c6450f85a399ca534a654646f34c9e0b43130662ef53"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-vi-d8b911dc.png",
-      "sha256": "9ce4ca35714902f9ab383e5dfecaef3e5cfb5c20f59c6df1dfaaf5b289aa0730"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-en-e7e22740.png",
+      "sha256": "09313bbddd885e4d14cfb01c23a8f97af39b266cd13858d71d3cea001d10e7f9"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-vi-ec04f4ff.png",
-      "sha256": "f86f5b3251418058e4e2b4baa5027b6adab5665ea355313bf66e7544184f1393"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-en-ebabe7c9.png",
+      "sha256": "696571eeafa375f8deb8c275aea7cfc421e33cc319adfbadce4bdc2d8fddc1e1"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-vi-ed53ce7b.png",
-      "sha256": "b85dce3a19923b6c30022bd502d28b339cc1421bd490c81211d7dcb26704ea0f"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-en-f215a861.png",
+      "sha256": "41ebb5a7e52306683dbfc7b6cec837abda1b230d0ddcc5e5a377b81ddee26d0d"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-vi-f6893f27.png",
-      "sha256": "985e8ac0e4a7029b698945fef0f4947a38bd473e7e7e345c2793e02980e3b174"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/labels/toc-en-f48ab718.png",
+      "sha256": "073cd30b838d8c4a60fcf5a85f567479a03b9712614d44adea95f91e201e741f"
     },
     {
       "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/assets/paper.png",
       "sha256": "c4e9ba0ec4cdce06e504ad584b831db205802c5dbc49e53952cdad084dbe3be2"
     },
     {
-      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/audio/parts/film-vi_mix.wav",
-      "sha256": "b1081f59af839aeeea63ec46c3ef447458769b417241732a5d2e8898d77c8e6c"
+      "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/audio/parts/film-en_mix.wav",
+      "sha256": "246b4d415b747666fd3553a9f97b430f3ae13b85d436f2c4e7735aa891f9266f"
     },
     {
       "path": "/home/user/du-an-web-ca-nhan/video/wonders-of-planet-earth/images/01-1.png",
