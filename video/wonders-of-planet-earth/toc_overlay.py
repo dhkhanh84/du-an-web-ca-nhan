@@ -14,9 +14,11 @@ def make_toc(n=17, out=None):
     im = Image.open('images_fixed/00-toc.png').convert('RGBA')
     ov = Image.new('RGBA', im.size, (0, 0, 0, 0)); d = ImageDraw.Draw(ov)
     X0, X1 = 690, 1170
-    tf = font(52); title = 'Our Journey'
-    tw = d.textlength(title, font=tf); d.text(((X0 + X1 - tw) / 2, 52), title, font=tf, fill=INK)
-    d.line([((X0 + X1) / 2 - 90, 122), ((X0 + X1) / 2 + 90, 122)], fill=RED, width=3)
+    title = 'Wonders of Planet Earth'; ts = 52
+    while ts > 30 and d.textlength(title, font=font(ts)) > X1 - X0 - 20: ts -= 1
+    tf = font(ts); tw = d.textlength(title, font=tf)
+    d.text(((X0 + X1 - tw) / 2, 52 + (52 - ts) * 0.6), title, font=tf, fill=INK)
+    d.line([((X0 + X1) / 2 - 110, 122), ((X0 + X1) / 2 + 110, 122)], fill=RED, width=3)
     colx = [X0 + 6, X0 + 250]; y0 = 152; lh = 46; NW = 40; RIGHT = 1172
     size = 30
     while size > 20:
