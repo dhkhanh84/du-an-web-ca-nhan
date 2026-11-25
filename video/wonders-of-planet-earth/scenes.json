@@ -71,6 +71,13 @@
  ],
  "scenes": [
   {
+   "code": "0.1",
+   "file": "00-toc.png",
+   "title": "Table of contents",
+   "narration": "Our journey has seventeen stops: from rocks falling out of space to the deepest ocean, the wildest winds and the driest deserts.",
+   "placement": "after scene 1.1; chapter list revealed line by line (toc_overlay.py)"
+  },
+  {
    "code": "1.1",
    "file": "01-1.png",
    "title": "Earth from space",
