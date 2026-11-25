@@ -6,6 +6,12 @@
   User's explicit preference (2026-11-15): use Algieba for all future videos, whatever the narration language,
   unless the user asks for a different voice in that request.
   This replaces the skill's per-style default voices (e.g. B1's Bodi, which `gemini-2.5-flash-preview-tts` does not offer).
+- **Narration route for new videos (user decision 2026-11-25): Google Cloud Text-to-Speech**
+  (`gemini-2.5-flash-tts`, voice Algieba) via `tools/tts_cloud.py`, instead of the Gemini API.
+  Same price (~$0.50/1M text tokens, $10/1M audio tokens, i.e. ~$0.015 per audio minute) but a
+  per-minute quota (150 RPM) instead of the Gemini API's 100 requests/day. Key: network secret for
+  `texttospeech.googleapis.com`, header `x-goog-api-key`. Still ask before every paid call.
+  Fall back to the Gemini API (`gemini-2.5-flash-preview-tts`) only if Cloud TTS is unavailable.
 - Other settings used so far. These are not user rules, so reconfirm them when needed:
   - Images: `gemini-2.5-flash-image`.
   - Caption timing: `gemini-4-hydrogen`. It is text-only, so it cannot make images or audio.
