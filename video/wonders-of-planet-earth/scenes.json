@@ -74,733 +74,855 @@
    "code": "1.1",
    "file": "01-1.png",
    "title": "Earth from space",
-   "narration": "From far away, it looks calm. A blue and white marble, turning quietly in the dark. But up close, our planet never sits still. Mud bubbles. Winds twist the air into spinning spirals. The ground cracks open. Earth was born 4.6 billion years ago, and it has been boiling, freezing and reshaping itself ever since. Welcome to the wonders of planet Earth."
+   "narration": "From far away, Earth looks calm: a blue and white marble turning quietly in the dark. But up close, it never sits still. For 4.6 billion years, it has been boiling, freezing and reshaping itself. Welcome to the wonders of planet Earth.",
+   "narration_long": "From far away, it looks calm. A blue and white marble, turning quietly in the dark. But up close, our planet never sits still. Mud bubbles. Winds twist the air into spinning spirals. The ground cracks open. Earth was born 4.6 billion years ago, and it has been boiling, freezing and reshaping itself ever since. Welcome to the wonders of planet Earth."
   },
   {
    "code": "1.2",
    "file": "01-2.png",
    "title": "Meteoroid becomes a meteor",
-   "narration": "And Earth is not alone. Every day, small lumps of rock and metal from space, called meteoroids, slam into our atmosphere. Friction heats them until they glow. The bright streaks they leave behind are what we call meteors, shooting stars, or, when they are big and bright enough, fireballs."
+   "narration": "Every day, lumps of rock and metal from space slam into our atmosphere. Friction makes them glow, and we see them as meteors, shooting stars, or blazing fireballs.",
+   "narration_long": "And Earth is not alone. Every day, small lumps of rock and metal from space, called meteoroids, slam into our atmosphere. Friction heats them until they glow. The bright streaks they leave behind are what we call meteors, shooting stars, or, when they are big and bright enough, fireballs."
   },
   {
    "code": "1.3",
    "file": "01-3.png",
    "title": "The great meteor shower of 1833",
-   "narration": "In November 1833, the skies over the United States put on the most brilliant meteor shower ever recorded. Thousands of glittering lights rained down through the night. People were woken from their sleep, and many ran outside convinced that the world was coming to an end."
+   "narration": "In November 1833, the most brilliant meteor shower ever recorded lit up the skies over the United States. Many people woke up convinced the world was ending.",
+   "narration_long": "In November 1833, the skies over the United States put on the most brilliant meteor shower ever recorded. Thousands of glittering lights rained down through the night. People were woken from their sleep, and many ran outside convinced that the world was coming to an end."
   },
   {
    "code": "1.4",
    "file": "01-4.png",
    "title": "Chicxulub impact",
-   "narration": "Sometimes, the visitor is far bigger. About 66 million years ago, a giant space rock struck near Chicxulub, in what is now Mexico. The impact hurled so much dust and rock into the sky that sunlight was blocked and the climate was thrown off balance for thousands of years. Scientists believe most animal species died out, including the dinosaurs."
+   "narration": "About 66 million years ago, a giant space rock struck near Chicxulub, in Mexico. Its dust blocked the sunlight, and most animal species, including the dinosaurs, died out.",
+   "narration_long": "Sometimes, the visitor is far bigger. About 66 million years ago, a giant space rock struck near Chicxulub, in what is now Mexico. The impact hurled so much dust and rock into the sky that sunlight was blocked and the climate was thrown off balance for thousands of years. Scientists believe most animal species died out, including the dinosaurs."
   },
   {
    "code": "1.5",
    "file": "01-5.png",
    "title": "Impact power and the Vredefort crater",
-   "narration": "What if it happened again? A giant meteorite would heat the air beneath it to around 60,000 degrees Celsius, ten times hotter than the surface of the Sun. It could blast a thousand cubic kilometres of rock and gas into the air, and send shock waves through the ground strong enough to trigger earthquakes. The scars of such impacts still mark our planet. The largest known crater, at Vredefort in South Africa, is about 300 kilometres across."
+   "narration": "Such an impact heats the air to around 60,000 degrees Celsius, ten times hotter than the surface of the Sun. The largest known scar, the Vredefort crater in South Africa, is about 300 kilometres across.",
+   "narration_long": "What if it happened again? A giant meteorite would heat the air beneath it to around 60,000 degrees Celsius, ten times hotter than the surface of the Sun. It could blast a thousand cubic kilometres of rock and gas into the air, and send shock waves through the ground strong enough to trigger earthquakes. The scars of such impacts still mark our planet. The largest known crater, at Vredefort in South Africa, is about 300 kilometres across."
   },
   {
    "code": "1.6",
    "file": "01-6.png",
    "title": "Aurora and the solar wind",
-   "narration": "Not every visitor from space is destructive. Some are breathtaking. Near the North and South Poles, the night sky sometimes fills with ghostly curtains of green and violet light: the aurorae. They appear when streams of particles, blown from the Sun on the solar wind, collide with Earth's magnetic field and light up the upper atmosphere. Astronauts on the International Space Station can watch them ripple below."
+   "narration": "Some visitors are beautiful. Particles blown from the Sun on the solar wind hit Earth's magnetic field and light up the polar skies with green and violet aurorae.",
+   "narration_long": "Not every visitor from space is destructive. Some are breathtaking. Near the North and South Poles, the night sky sometimes fills with ghostly curtains of green and violet light: the aurorae. They appear when streams of particles, blown from the Sun on the solar wind, collide with Earth's magnetic field and light up the upper atmosphere. Astronauts on the International Space Station can watch them ripple below."
   },
   {
    "code": "1.7",
    "file": "01-7.png",
    "title": "Comet Hyakutake",
-   "narration": "Then there are comets: chunks of ice, rock and frozen gas that blaze with light as they approach the Sun. In 1996, Comet Hyakutake passed just 15 million kilometres from Earth and became one of the brightest comets seen in two hundred years. It is now heading back to the edge of the Solar System, and no one alive today will see it again. It will not return for tens of thousands of years."
+   "narration": "Comets are chunks of ice and rock that blaze as they near the Sun. In 1996, Comet Hyakutake passed close to Earth, and it will not return for tens of thousands of years.",
+   "narration_long": "Then there are comets: chunks of ice, rock and frozen gas that blaze with light as they approach the Sun. In 1996, Comet Hyakutake passed just 15 million kilometres from Earth and became one of the brightest comets seen in two hundred years. It is now heading back to the edge of the Solar System, and no one alive today will see it again. It will not return for tens of thousands of years."
   },
   {
    "code": "2.1",
    "file": "02-1.png",
    "title": "The hot core as an engine room",
-   "narration": "To understand why our planet shakes and splits, we need to travel to its heart. At the centre of the Earth, the temperature reaches about 5,400 degrees Celsius, as hot as the surface of the Sun. Like a giant engine room, this heat drives slow, massive movements of rock that crack the planet's outer shell into pieces."
+   "narration": "To see why our planet shakes, travel to its heart. The core reaches about 5,400 degrees Celsius, as hot as the surface of the Sun, and that heat keeps the rock above on the move.",
+   "narration_long": "To understand why our planet shakes and splits, we need to travel to its heart. At the centre of the Earth, the temperature reaches about 5,400 degrees Celsius, as hot as the surface of the Sun. Like a giant engine room, this heat drives slow, massive movements of rock that crack the planet's outer shell into pieces."
   },
   {
    "code": "2.2",
    "file": "02-2.png",
    "title": "Earth's layers",
-   "narration": "Earth is built in layers. At the centre sits a solid inner core of iron and nickel. Around it swirls a liquid outer core. Above that lies the mantle, a thick layer of hot rock that flows very slowly, like extremely thick syrup. And on top is the thin, rocky crust we live on. As the mantle churns, it pulls and pushes on the crust until it cracks."
+   "narration": "Earth is built in layers: a solid iron core, a liquid outer core, a slowly flowing mantle, and the thin crust we live on. As the mantle churns, the crust cracks.",
+   "narration_long": "Earth is built in layers. At the centre sits a solid inner core of iron and nickel. Around it swirls a liquid outer core. Above that lies the mantle, a thick layer of hot rock that flows very slowly, like extremely thick syrup. And on top is the thin, rocky crust we live on. As the mantle churns, it pulls and pushes on the crust until it cracks."
   },
   {
    "code": "2.3",
    "file": "02-3.png",
    "title": "Tectonic plates",
-   "narration": "Those cracks divide the surface into giant, rigid slabs called tectonic plates. The North American, Eurasian, African, South American, Pacific, Australian, Indian, Arabian, Nazca and Philippine plates all drift across the mantle, a few centimetres every year. Where they meet, collide or pull apart, the Earth gets dramatic."
+   "narration": "Those cracks split the surface into giant tectonic plates. They drift a few centimetres every year, and where they meet or pull apart, the Earth gets dramatic.",
+   "narration_long": "Those cracks divide the surface into giant, rigid slabs called tectonic plates. The North American, Eurasian, African, South American, Pacific, Australian, Indian, Arabian, Nazca and Philippine plates all drift across the mantle, a few centimetres every year. Where they meet, collide or pull apart, the Earth gets dramatic."
   },
   {
    "code": "2.4",
    "file": "02-4.png",
    "title": "The Pacific Ring of Fire",
-   "narration": "Nowhere more so than around the Pacific Ocean. This vast horseshoe of plate boundaries is called the Ring of Fire. It holds more than 75 percent of the world's volcanoes, and it is the most violent zone of earthquakes on the planet. The Andes, Mount St. Helens and the islands of Japan were all shaped by its restless energy."
+   "narration": "Around the Pacific lies the Ring of Fire, a horseshoe of plate boundaries holding more than 75 percent of the world's volcanoes and its most violent earthquakes.",
+   "narration_long": "Nowhere more so than around the Pacific Ocean. This vast horseshoe of plate boundaries is called the Ring of Fire. It holds more than 75 percent of the world's volcanoes, and it is the most violent zone of earthquakes on the planet. The Andes, Mount St. Helens and the islands of Japan were all shaped by its restless energy."
   },
   {
    "code": "2.5",
    "file": "02-5.png",
    "title": "The Mid-Atlantic Ridge",
-   "narration": "Some plates are moving apart. Hidden beneath the Atlantic Ocean lies one of the longest mountain chains on Earth: the Mid-Atlantic Ridge, stretching about 16,000 kilometres. Here, hot mantle rock rises, lava seeps up through the gap, and new seafloor is created. The plates are forced further apart, and the Atlantic Ocean grows a little wider every year."
+   "narration": "Beneath the Atlantic runs the Mid-Atlantic Ridge, about 16,000 kilometres long. Here, lava rises through the gap, new seafloor forms, and the ocean grows a little wider every year.",
+   "narration_long": "Some plates are moving apart. Hidden beneath the Atlantic Ocean lies one of the longest mountain chains on Earth: the Mid-Atlantic Ridge, stretching about 16,000 kilometres. Here, hot mantle rock rises, lava seeps up through the gap, and new seafloor is created. The plates are forced further apart, and the Atlantic Ocean grows a little wider every year."
   },
   {
    "code": "2.6",
    "file": "02-6.png",
    "title": "Iceland, island of fire and ice",
-   "narration": "In one place, the ridge rises above the waves. Iceland is an island of fire and ice, largely covered by glaciers, yet built entirely by volcanoes on the Mid-Atlantic Ridge. Huge cracks and rifts run across the land, tracing the line where North America and Europe are slowly pulling away from each other."
+   "narration": "In Iceland, the ridge rises above the waves. This island of fire and ice is slowly being pulled apart, between North America and Europe.",
+   "narration_long": "In one place, the ridge rises above the waves. Iceland is an island of fire and ice, largely covered by glaciers, yet built entirely by volcanoes on the Mid-Atlantic Ridge. Huge cracks and rifts run across the land, tracing the line where North America and Europe are slowly pulling away from each other."
   },
   {
    "code": "2.7",
    "file": "02-7.png",
    "title": "Eyjafjallajökull ash cloud",
-   "narration": "In 2010, one Icelandic volcano reminded the world of that power. Eyjafjallajökull blasted a plume of ash more than 11 kilometres into the sky. Winds carried the cloud across the North Atlantic toward Britain and Europe, and airports across the continent closed. For about a week, much of Europe's air travel came to a standstill."
+   "narration": "In 2010, Iceland's Eyjafjallajökull blasted ash 11 kilometres into the sky. The cloud drifted over Europe, and for about a week, air travel came to a standstill.",
+   "narration_long": "In 2010, one Icelandic volcano reminded the world of that power. Eyjafjallajökull blasted a plume of ash more than 11 kilometres into the sky. Winds carried the cloud across the North Atlantic toward Britain and Europe, and airports across the continent closed. For about a week, much of Europe's air travel came to a standstill."
   },
   {
    "code": "3.1",
    "file": "03-1.png",
    "title": "The birth of the Himalayas",
-   "narration": "When India crashed into Asia, the collision pushed up the greatest mountain range on land: the Himalayas. In geological terms they are young, just 50 million years old, and still rising. At their crown stands the highest mountain on Earth. In Tibet it is called Chomolungma. In Nepal, Sagarmatha. The rest of the world knows it as Mount Everest."
+   "narration": "When India crashed into Asia, it pushed up the Himalayas, which are still rising today. At their crown stands the highest mountain on Earth: Chomolungma, Sagarmatha, or Mount Everest.",
+   "narration_long": "When India crashed into Asia, the collision pushed up the greatest mountain range on land: the Himalayas. In geological terms they are young, just 50 million years old, and still rising. At their crown stands the highest mountain on Earth. In Tibet it is called Chomolungma. In Nepal, Sagarmatha. The rest of the world knows it as Mount Everest."
   },
   {
    "code": "3.2",
    "file": "03-2.png",
    "title": "Surveying the peak",
-   "narration": "Its modern story began with surveyors. In 1841, the British survey of India recorded the position of a remote summit known simply by a letter. In 1852, calculations showed it was taller than any mountain ever measured. In 1865, it was renamed after Sir George Everest, the former Surveyor General of India."
+   "narration": "In the 1800s, British surveyors in India found that a remote summit was taller than any mountain ever measured. In 1865, it was named after Sir George Everest.",
+   "narration_long": "Its modern story began with surveyors. In 1841, the British survey of India recorded the position of a remote summit known simply by a letter. In 1852, calculations showed it was taller than any mountain ever measured. In 1865, it was renamed after Sir George Everest, the former Surveyor General of India."
   },
   {
    "code": "3.3",
    "file": "03-3.png",
    "title": "Measuring Everest today",
-   "narration": "Measuring the exact height of Everest has caused years of debate. Snow, ice and different survey methods all change the answer. In 2020, China and Nepal announced a joint figure: 8,848.86 metres above sea level."
+   "narration": "Its exact height is still debated, because snow, ice and survey methods all change the answer. In 2020, China and Nepal agreed on 8,848.86 metres.",
+   "narration_long": "Measuring the exact height of Everest has caused years of debate. Snow, ice and different survey methods all change the answer. In 2020, China and Nepal announced a joint figure: 8,848.86 metres above sea level."
   },
   {
    "code": "3.4",
    "file": "03-4.png",
    "title": "First to the summit, 1953",
-   "narration": "For decades, the summit seemed impossible. In 1924, a British expedition climbed to about 8,570 metres before turning back. Then, on 29 May 1953, Edmund Hillary of New Zealand and Tenzing Norgay of Nepal became the first people to stand on top of the world. Since then, thousands have followed, including a retired Japanese teacher who reached the summit in 2007 at the age of 71."
+   "narration": "On 29 May 1953, Edmund Hillary and Tenzing Norgay became the first people to stand on top of the world. Thousands have followed since.",
+   "narration_long": "For decades, the summit seemed impossible. In 1924, a British expedition climbed to about 8,570 metres before turning back. Then, on 29 May 1953, Edmund Hillary of New Zealand and Tenzing Norgay of Nepal became the first people to stand on top of the world. Since then, thousands have followed, including a retired Japanese teacher who reached the summit in 2007 at the age of 71."
   },
   {
    "code": "3.5",
    "file": "03-5.png",
    "title": "Base Camp and the Khumbu Icefall",
-   "narration": "The most popular route starts in Nepal and climbs the Southeast Ridge. At Base Camp, on the Khumbu Glacier at 5,400 metres, climbers spend weeks letting their bodies adjust to the thin air. Just above lies one of the deadliest sections of the climb: the Khumbu Icefall, a maze of shifting ice towers and deep crevasses, crossed with ropes and aluminium ladders."
+   "narration": "Climbers spend weeks at Base Camp, 5,400 metres up, adjusting to the thin air. Above lies the deadly Khumbu Icefall, crossed with ropes and aluminium ladders.",
+   "narration_long": "The most popular route starts in Nepal and climbs the Southeast Ridge. At Base Camp, on the Khumbu Glacier at 5,400 metres, climbers spend weeks letting their bodies adjust to the thin air. Just above lies one of the deadliest sections of the climb: the Khumbu Icefall, a maze of shifting ice towers and deep crevasses, crossed with ropes and aluminium ladders."
   },
   {
    "code": "3.6",
    "file": "03-6.png",
    "title": "The route through the camps",
-   "narration": "Above the icefall, climbers move up through a chain of camps: Camp 1 at about 6,000 metres, Camp 2 at 6,500, Camp 3 at 7,500, and Camp 4 at 8,000 metres. They scramble with ropes over a band of black rock called the Geneva Spur, surrounded by giant neighbours: Lhotse and Nuptse."
+   "narration": "Then they climb through a chain of camps, from 6,000 to 8,000 metres, past the Geneva Spur and the giant neighbours Lhotse and Nuptse.",
+   "narration_long": "Above the icefall, climbers move up through a chain of camps: Camp 1 at about 6,000 metres, Camp 2 at 6,500, Camp 3 at 7,500, and Camp 4 at 8,000 metres. They scramble with ropes over a band of black rock called the Geneva Spur, surrounded by giant neighbours: Lhotse and Nuptse."
   },
   {
    "code": "3.7",
    "file": "03-7.png",
    "title": "The Death Zone",
-   "narration": "Above 8,000 metres lies the Death Zone. Here, each breath holds only a third of the oxygen found at sea level, and the cold can freeze skin in minutes. The human body cannot survive here for long. Climbers use ice axes and crampons, metal spikes on their boots, to cling to walls of ice on the final push to the summit."
+   "narration": "Above 8,000 metres is the Death Zone. Each breath holds only a third of the oxygen at sea level, and climbers cling to the ice with axes and crampons.",
+   "narration_long": "Above 8,000 metres lies the Death Zone. Here, each breath holds only a third of the oxygen found at sea level, and the cold can freeze skin in minutes. The human body cannot survive here for long. Climbers use ice axes and crampons, metal spikes on their boots, to cling to walls of ice on the final push to the summit."
   },
   {
    "code": "3.8",
    "file": "03-8.png",
    "title": "Garbage and the top five peaks",
-   "narration": "Sadly, Everest now holds another title: the world's highest garbage dump. Climbers and tourists have left behind plastic bottles, food packaging and empty oxygen tanks. And Everest is not alone up there. The five tallest peaks on Earth are Everest, K2 at 8,611 metres, Kangchenjunga at 8,586, Lhotse at 8,516 and Makalu at 8,485."
+   "narration": "Sadly, Everest is also the world's highest garbage dump. And it has neighbours: K2, Kangchenjunga, Lhotse and Makalu complete the five tallest peaks on Earth.",
+   "narration_long": "Sadly, Everest now holds another title: the world's highest garbage dump. Climbers and tourists have left behind plastic bottles, food packaging and empty oxygen tanks. And Everest is not alone up there. The five tallest peaks on Earth are Everest, K2 at 8,611 metres, Kangchenjunga at 8,586, Lhotse at 8,516 and Makalu at 8,485."
   },
   {
    "code": "4.1",
    "file": "04-1.png",
    "title": "Eruption and the explosivity scale",
-   "narration": "The ground splits open. Molten rock, ash and toxic gas burst out with unimaginable force. A volcanic eruption is a window into the heat and pressure hidden far beneath our feet. Scientists rate eruptions on the Volcanic Explosivity Index, a scale that runs from \"gentle\" all the way up to \"mega-colossal\"."
+   "narration": "When the ground splits open, molten rock, ash and gas burst out. Scientists rate eruptions on a scale that runs from gentle all the way up to mega-colossal.",
+   "narration_long": "The ground splits open. Molten rock, ash and toxic gas burst out with unimaginable force. A volcanic eruption is a window into the heat and pressure hidden far beneath our feet. Scientists rate eruptions on the Volcanic Explosivity Index, a scale that runs from \"gentle\" all the way up to \"mega-colossal\"."
   },
   {
    "code": "4.2",
    "file": "04-2.png",
    "title": "Anatomy of a volcano",
-   "narration": "So what builds the ultimate volcano? Deep underground, molten rock called magma gathers in a deep chamber fed by the mantle. It rises into a shallower chamber just beneath the surface. From there, heat and pressure force it up a main pipe, the conduit, toward the summit vent and crater. Sometimes it breaks out sideways through cracks in the flank, called side vents."
+   "narration": "Inside a volcano, magma gathers in deep chambers. Heat and pressure force it up a central pipe to the crater, or sideways through vents in its flanks.",
+   "narration_long": "So what builds the ultimate volcano? Deep underground, molten rock called magma gathers in a deep chamber fed by the mantle. It rises into a shallower chamber just beneath the surface. From there, heat and pressure force it up a main pipe, the conduit, toward the summit vent and crater. Sometimes it breaks out sideways through cracks in the flank, called side vents."
   },
   {
    "code": "4.3",
    "file": "04-3.png",
    "title": "Mount St. Helens, 1980",
-   "narration": "When the pressure finally becomes too much for the crust to hold, the energy is released all at once. In 1980, Mount St. Helens in the United States exploded so violently that its whole north side collapsed, and the mountain lost about 400 metres of its height in a single day."
+   "narration": "In 1980, Mount St. Helens exploded so violently that its north side collapsed, and the mountain lost about 400 metres of height in a single day.",
+   "narration_long": "When the pressure finally becomes too much for the crust to hold, the energy is released all at once. In 1980, Mount St. Helens in the United States exploded so violently that its whole north side collapsed, and the mountain lost about 400 metres of its height in a single day."
   },
   {
    "code": "4.4",
    "file": "04-4.png",
    "title": "Lava flows into the sea",
-   "narration": "Rock that has melted into a glowing, semi-liquid state is called lava. How fast it flows depends on its temperature, its minerals and the slope of the ground. The fastest lava ever measured poured from Nyiragongo, in the Democratic Republic of the Congo, at more than 60 kilometres per hour. When lava reaches the ocean, it boils the seawater into clouds of steam."
+   "narration": "Lava can move fast. At Nyiragongo, in Congo, it raced at more than 60 kilometres per hour. And when lava meets the ocean, the seawater boils into steam.",
+   "narration_long": "Rock that has melted into a glowing, semi-liquid state is called lava. How fast it flows depends on its temperature, its minerals and the slope of the ground. The fastest lava ever measured poured from Nyiragongo, in the Democratic Republic of the Congo, at more than 60 kilometres per hour. When lava reaches the ocean, it boils the seawater into clouds of steam."
   },
   {
    "code": "4.5",
    "file": "04-5.png",
    "title": "Lake Taupo",
-   "narration": "Some eruptions are almost beyond imagination. Nearly two thousand years ago, a volcano in New Zealand blasted out about 100 cubic kilometres of rock in one of the most violent eruptions ever recorded. The giant crater it left behind is now filled with water. Today, it is Lake Taupo."
+   "narration": "Nearly two thousand years ago, a volcano in New Zealand blasted out about 100 cubic kilometres of rock. Its giant crater is now Lake Taupo.",
+   "narration_long": "Some eruptions are almost beyond imagination. Nearly two thousand years ago, a volcano in New Zealand blasted out about 100 cubic kilometres of rock in one of the most violent eruptions ever recorded. The giant crater it left behind is now filled with water. Today, it is Lake Taupo."
   },
   {
    "code": "4.6",
    "file": "04-6.png",
    "title": "Vesuvius and Pompeii, AD 79",
-   "narration": "Ash can be just as deadly as lava. In AD 79, Mount Vesuvius in Italy shot a column of ash and pumice 33 kilometres into the sky, at a rate of about 1.5 million tonnes every second. When the column collapsed, it buried the nearby Roman cities, including Pompeii, under a suffocating blanket of ash."
+   "narration": "In AD 79, Mount Vesuvius shot ash 33 kilometres into the sky. When the column collapsed, it buried the Roman city of Pompeii.",
+   "narration_long": "Ash can be just as deadly as lava. In AD 79, Mount Vesuvius in Italy shot a column of ash and pumice 33 kilometres into the sky, at a rate of about 1.5 million tonnes every second. When the column collapsed, it buried the nearby Roman cities, including Pompeii, under a suffocating blanket of ash."
   },
   {
    "code": "4.7",
    "file": "04-7.png",
    "title": "Hawaiian crater",
-   "narration": "Every eruption leaves its mark. The crater is the opening of the vent. Layer after layer of lava and ash builds up around it, creating the classic cone shape. If the walls collapse, the crater grows wider. On the islands of Hawaii, some of the most active volcanoes on Earth breathe steam and gas from their craters almost every day, slowly building new land."
+   "narration": "Layer after layer of lava and ash builds a volcano's cone. In Hawaii, active craters breathe steam almost every day, slowly building new land.",
+   "narration_long": "Every eruption leaves its mark. The crater is the opening of the vent. Layer after layer of lava and ash builds up around it, creating the classic cone shape. If the walls collapse, the crater grows wider. On the islands of Hawaii, some of the most active volcanoes on Earth breathe steam and gas from their craters almost every day, slowly building new land."
   },
   {
    "code": "5.1",
    "file": "05-1.png",
    "title": "Earth's heat at the surface",
-   "narration": "In some places, Earth's inner heat does not stay hidden. It rises to the surface and bakes the rock underfoot. Water trapped in the ground is heated far past boiling point, until it bursts out as jets of scalding steam. In the hottest places, even the mud begins to bubble."
+   "narration": "In some places, Earth's heat reaches the surface. Underground water is heated past boiling point and bursts out as scalding steam, and even the mud bubbles.",
+   "narration_long": "In some places, Earth's inner heat does not stay hidden. It rises to the surface and bakes the rock underfoot. Water trapped in the ground is heated far past boiling point, until it bursts out as jets of scalding steam. In the hottest places, even the mud begins to bubble."
   },
   {
    "code": "5.2",
    "file": "05-2.png",
    "title": "Old Faithful",
-   "narration": "The most famous of these jets is Old Faithful, in Yellowstone National Park in the United States. It shoots hot water and steam up to 55 metres into the air, roughly every hour and a half. The wait is not random: that is how long it takes for the chamber beneath to fill with water and heat up again."
+   "narration": "Old Faithful, in Yellowstone, shoots water up to 55 metres high about every hour and a half: the time its chamber needs to refill and heat up again.",
+   "narration_long": "The most famous of these jets is Old Faithful, in Yellowstone National Park in the United States. It shoots hot water and steam up to 55 metres into the air, roughly every hour and a half. The wait is not random: that is how long it takes for the chamber beneath to fill with water and heat up again."
   },
   {
    "code": "5.3",
    "file": "05-3.png",
    "title": "Yellowstone hot springs and the caldera",
-   "narration": "Yellowstone is a land of extremes. It holds around half of all the geysers on Earth, along with thousands of hot springs, mud pots and steaming vents. But all of this sits on top of something far more powerful: a supervolcano. The whole region lies inside an enormous caldera, a collapsed volcanic crater tens of kilometres across."
+   "narration": "Yellowstone holds about half the world's geysers, plus thousands of hot springs. And all of it sits inside the caldera of a supervolcano.",
+   "narration_long": "Yellowstone is a land of extremes. It holds around half of all the geysers on Earth, along with thousands of hot springs, mud pots and steaming vents. But all of this sits on top of something far more powerful: a supervolcano. The whole region lies inside an enormous caldera, a collapsed volcanic crater tens of kilometres across."
   },
   {
    "code": "5.4",
    "file": "05-4.png",
    "title": "Supervolcano versus ordinary volcano",
-   "narration": "Ordinary volcanoes build mountains. Supervolcanoes blow them apart. Yellowstone's last giant eruption, about 640,000 years ago, was roughly a thousand times more powerful than the 1980 eruption of Mount St. Helens. Underground, the water still reaches more than 200 degrees Celsius, and new geysers, mud pools and steam vents keep appearing."
+   "narration": "Ordinary volcanoes build mountains. Supervolcanoes blow them apart. Yellowstone's last giant eruption was about a thousand times more powerful than Mount St. Helens.",
+   "narration_long": "Ordinary volcanoes build mountains. Supervolcanoes blow them apart. Yellowstone's last giant eruption, about 640,000 years ago, was roughly a thousand times more powerful than the 1980 eruption of Mount St. Helens. Underground, the water still reaches more than 200 degrees Celsius, and new geysers, mud pools and steam vents keep appearing."
   },
   {
    "code": "5.5",
    "file": "05-5.png",
    "title": "Waimangu Geyser",
-   "narration": "The tallest geyser ever seen lived for only four years. After a volcanic eruption in New Zealand, the Waimangu Geyser began erupting in 1900. Its jets of black water, rock and steam rose as high as 460 metres, taller than the Empire State Building. In 1903, a sudden, violent eruption swept away four tourists who had come too close."
+   "narration": "In New Zealand, the Waimangu Geyser erupted for just four years, starting in 1900. Its jets reached 460 metres, taller than the Empire State Building.",
+   "narration_long": "The tallest geyser ever seen lived for only four years. After a volcanic eruption in New Zealand, the Waimangu Geyser began erupting in 1900. Its jets of black water, rock and steam rose as high as 460 metres, taller than the Empire State Building. In 1903, a sudden, violent eruption swept away four tourists who had come too close."
   },
   {
    "code": "5.6",
    "file": "05-6.png",
    "title": "Snow monkeys in a hot spring",
-   "narration": "Not every hot spring is dangerous. In the mountains of Nagano, Japan, warm pools fed by hot springs have been adopted by an unlikely set of bathers: Japanese macaque monkeys. Through the freezing winter, they soak in these natural hot tubs, and some get so comfortable they doze off in the water."
+   "narration": "In Nagano, Japan, snow monkeys spend the freezing winter soaking in natural hot springs. Some get so comfortable they doze off in the water.",
+   "narration_long": "Not every hot spring is dangerous. In the mountains of Nagano, Japan, warm pools fed by hot springs have been adopted by an unlikely set of bathers: Japanese macaque monkeys. Through the freezing winter, they soak in these natural hot tubs, and some get so comfortable they doze off in the water."
   },
   {
    "code": "5.7",
    "file": "05-7.png",
    "title": "Pamukkale, the Cotton Castle",
-   "narration": "And at Pamukkale in Turkey, mineral-rich hot water pours down a hillside. As the water cools, its minerals turn to stone, building gleaming white terraces filled with warm blue pools. Its name means \"Cotton Castle\", and it is one of the most beautiful places on Earth."
+   "narration": "At Pamukkale in Turkey, hot mineral water has built gleaming white terraces of stone. Its name means Cotton Castle.",
+   "narration_long": "And at Pamukkale in Turkey, mineral-rich hot water pours down a hillside. As the water cools, its minerals turn to stone, building gleaming white terraces filled with warm blue pools. Its name means \"Cotton Castle\", and it is one of the most beautiful places on Earth."
   },
   {
    "code": "6.1",
    "file": "06-1.png",
    "title": "Rock under pressure",
-   "narration": "Rock is tough, but it is also brittle. Under the constant stirring of the Earth below, the rocky crust is pushed past its breaking point. When crunch time comes, giant blocks of rock buckle and slip, and the surface of the Earth shakes and shatters."
+   "narration": "Rock is tough, but brittle. Pushed past its breaking point, the crust buckles and slips, and the ground shakes and shatters.",
+   "narration_long": "Rock is tough, but it is also brittle. Under the constant stirring of the Earth below, the rocky crust is pushed past its breaking point. When crunch time comes, giant blocks of rock buckle and slip, and the surface of the Earth shakes and shatters."
   },
   {
    "code": "6.2",
    "file": "06-2.png",
    "title": "How a fault works",
-   "narration": "It happens along faults: enormous cracks in the crust where two blocks of rock move in different directions. As they grind past each other, they can get stuck. Pressure builds up, year after year, until suddenly the rock gives way and jolts forward. That sudden release is an earthquake."
+   "narration": "This happens along faults, where blocks of rock grind past each other. They get stuck, pressure builds, and suddenly the rock jolts forward: an earthquake.",
+   "narration_long": "It happens along faults: enormous cracks in the crust where two blocks of rock move in different directions. As they grind past each other, they can get stuck. Pressure builds up, year after year, until suddenly the rock gives way and jolts forward. That sudden release is an earthquake."
   },
   {
    "code": "6.3",
    "file": "06-3.png",
    "title": "Focus, epicentre and seismic waves",
-   "narration": "The place deep underground where the rock first breaks is called the focus. The point on the surface directly above it is the epicentre. From the focus, seismic waves race outward in every direction, shaking the ground and causing destruction in towns and cities."
+   "narration": "Where the rock breaks underground is the focus. The point above it is the epicentre. From there, seismic waves race outward, shaking towns and cities.",
+   "narration_long": "The place deep underground where the rock first breaks is called the focus. The point on the surface directly above it is the epicentre. From the focus, seismic waves race outward in every direction, shaking the ground and causing destruction in towns and cities."
   },
   {
    "code": "6.4",
    "file": "06-4.png",
    "title": "San Andreas Fault and Concepción",
-   "narration": "Some earthquakes have changed history. In 1906, movement along the San Andreas Fault tore through San Francisco, destroying much of the city. And in 2010, an earthquake in Chile was so powerful that it shifted the entire city of Concepción about three metres to the west."
+   "narration": "In 1906, the San Andreas Fault tore through San Francisco. And in 2010, an earthquake in Chile moved the city of Concepción about three metres west.",
+   "narration_long": "Some earthquakes have changed history. In 1906, movement along the San Andreas Fault tore through San Francisco, destroying much of the city. And in 2010, an earthquake in Chile was so powerful that it shifted the entire city of Concepción about three metres to the west."
   },
   {
    "code": "6.5",
    "file": "06-5.png",
    "title": "Earthquake damage in a mountain town",
-   "narration": "In 2008, a massive earthquake struck Sichuan Province in southwest China. In Beichuan County, roads split apart, hillsides collapsed and whole towns were reduced to rubble, forcing survivors to walk out along broken roads."
+   "narration": "In 2008, a massive earthquake struck Sichuan, in China. Roads split, hillsides collapsed, and whole towns were reduced to rubble.",
+   "narration_long": "In 2008, a massive earthquake struck Sichuan Province in southwest China. In Beichuan County, roads split apart, hillsides collapsed and whole towns were reduced to rubble, forcing survivors to walk out along broken roads."
   },
   {
    "code": "6.6",
    "file": "06-6.png",
    "title": "Earthquake-proof buildings",
-   "narration": "Earthquakes are among the deadliest natural events on Earth, and predicting exactly when one will strike is still virtually impossible. What we can do is build smarter. In Japan and California, buildings use flexible materials and shock-absorbing foundations that let them sway instead of collapse. Scientists even demolish old buildings on purpose to test steel safety cages that could protect people inside."
+   "narration": "Earthquakes still cannot be predicted, but we can build smarter. In Japan and California, flexible buildings on shock-absorbing foundations sway instead of collapsing.",
+   "narration_long": "Earthquakes are among the deadliest natural events on Earth, and predicting exactly when one will strike is still virtually impossible. What we can do is build smarter. In Japan and California, buildings use flexible materials and shock-absorbing foundations that let them sway instead of collapse. Scientists even demolish old buildings on purpose to test steel safety cages that could protect people inside."
   },
   {
    "code": "6.7",
    "file": "06-7.png",
    "title": "How a tsunami forms",
-   "narration": "When a fault slips beneath the sea, the whole ocean can move. A sudden jolt of the seafloor pushes up a huge volume of water and sends it racing outward as a tsunami. When the fault lies close to land, the waves can be devastating. In 2004, a mega-tsunami swept across the Indian Ocean, devastating coastlines from Indonesia to Thailand, including the Phi Phi Islands."
+   "narration": "When a fault slips beneath the sea, it can launch a tsunami. In 2004, giant waves swept across the Indian Ocean, from Indonesia to Thailand.",
+   "narration_long": "When a fault slips beneath the sea, the whole ocean can move. A sudden jolt of the seafloor pushes up a huge volume of water and sends it racing outward as a tsunami. When the fault lies close to land, the waves can be devastating. In 2004, a mega-tsunami swept across the Indian Ocean, devastating coastlines from Indonesia to Thailand, including the Phi Phi Islands."
   },
   {
    "code": "7.1",
    "file": "07-1.png",
    "title": "The power of rivers",
-   "narration": "Rivers can grind walls of rock into dust. They carry millions of tonnes of soil and sand, and hold enough energy to power entire cities. There are long rivers, wide rivers and deep rivers. But by almost any measure, one river stands above them all: the Amazon."
+   "narration": "Rivers can grind rock into dust and power entire cities. And by almost any measure, one river stands above them all: the Amazon.",
+   "narration_long": "Rivers can grind walls of rock into dust. They carry millions of tonnes of soil and sand, and hold enough energy to power entire cities. There are long rivers, wide rivers and deep rivers. But by almost any measure, one river stands above them all: the Amazon."
   },
   {
    "code": "7.2",
    "file": "07-2.png",
    "title": "Source in the Andes",
-   "narration": "Its story begins high in the Andes Mountains, where water from glaciers and snowfields trickles down the slopes. Mountain streams such as the Urubamba River join together, forming the headwaters that will become the greatest river on Earth."
+   "narration": "It begins high in the Andes, where glacier water trickles down and streams like the Urubamba River join together to form its headwaters.",
+   "narration_long": "Its story begins high in the Andes Mountains, where water from glaciers and snowfields trickles down the slopes. Mountain streams such as the Urubamba River join together, forming the headwaters that will become the greatest river on Earth."
   },
   {
    "code": "7.3",
    "file": "07-3.png",
    "title": "Over a thousand tributaries",
-   "narration": "As it crosses South America, the Amazon is fed by more than 1,100 tributaries, more than any other river in the world. Some arrive as thundering waterfalls, like those that carry water down from the Guiana Highlands."
+   "narration": "Across South America, more than 1,100 tributaries feed the Amazon, more than any other river, some arriving as thundering waterfalls.",
+   "narration_long": "As it crosses South America, the Amazon is fed by more than 1,100 tributaries, more than any other river in the world. Some arrive as thundering waterfalls, like those that carry water down from the Guiana Highlands."
   },
   {
    "code": "7.4",
    "file": "07-4.png",
    "title": "Amazon versus Nile",
-   "narration": "The Nile is usually considered slightly longer. But in volume, the Amazon leaves it far behind. Every second, the Nile pours about 5,100 cubic metres of water into the sea. The Amazon pours about 220,000, around 43 times as much. In a single day, that is enough fresh water to supply a city for ten years. The next biggest rivers, the Congo, the Yangtze, the Yenisei and the Paraná, are not even close."
+   "narration": "The Nile may be slightly longer, but every second, the Amazon pours about 43 times as much water into the sea. No other river comes close.",
+   "narration_long": "The Nile is usually considered slightly longer. But in volume, the Amazon leaves it far behind. Every second, the Nile pours about 5,100 cubic metres of water into the sea. The Amazon pours about 220,000, around 43 times as much. In a single day, that is enough fresh water to supply a city for ten years. The next biggest rivers, the Congo, the Yangtze, the Yenisei and the Paraná, are not even close."
   },
   {
    "code": "7.5",
    "file": "07-5.png",
    "title": "The Amazon basin and its mouth",
-   "narration": "In the wet season, the Amazon's floodwaters spread across an area about the size of Germany. Near its mouth, the river can be up to 40 kilometres wide. Its waters feed the largest rainforest on Earth, covering around five million square kilometres. Altogether, the Amazon holds about 20 percent of all the river water flowing into the world's oceans."
+   "narration": "In the wet season, its floods spread over an area the size of Germany, and its waters feed the largest rainforest on Earth.",
+   "narration_long": "In the wet season, the Amazon's floodwaters spread across an area about the size of Germany. Near its mouth, the river can be up to 40 kilometres wide. Its waters feed the largest rainforest on Earth, covering around five million square kilometres. Altogether, the Amazon holds about 20 percent of all the river water flowing into the world's oceans."
   },
   {
    "code": "7.6",
    "file": "07-6.png",
    "title": "Floodplains and river dolphins",
-   "narration": "Every year, seasonal rains flood the lowlands around the river, creating vast floodplains of forest standing in water. In these slow, muddy channels lives one of the Amazon's most mysterious animals: the river dolphin, which hunts fish and crabs in water so murky that scientists still know little about its life."
+   "narration": "Flooded forests line the river, and in their muddy channels lives one of its most mysterious animals: the river dolphin.",
+   "narration_long": "Every year, seasonal rains flood the lowlands around the river, creating vast floodplains of forest standing in water. In these slow, muddy channels lives one of the Amazon's most mysterious animals: the river dolphin, which hunts fish and crabs in water so murky that scientists still know little about its life."
   },
   {
    "code": "7.7",
    "file": "07-7.png",
    "title": "Sediment and the pororoca wave",
-   "narration": "The Amazon also carries a huge load: around three million cubic metres of sediment into the ocean every day. And where the river meets the sea, the incoming tide pushes back. Long waves called tidal bores, or pororocas, roll upstream, and surfers can ride a single wave for up to ten kilometres."
+   "narration": "Where the river meets the sea, the tide pushes back. A long wave called the pororoca rolls upstream, and surfers can ride it for up to ten kilometres.",
+   "narration_long": "The Amazon also carries a huge load: around three million cubic metres of sediment into the ocean every day. And where the river meets the sea, the incoming tide pushes back. Long waves called tidal bores, or pororocas, roll upstream, and surfers can ride a single wave for up to ten kilometres."
   },
   {
    "code": "8.1",
    "file": "08-1.png",
    "title": "Landscapes always changing",
-   "narration": "On our restless planet, nothing stays the same for long. Landscapes are always being carved, worn down and reshaped. A human life is far too short to watch it happen. But the results are all around us."
+   "narration": "On our restless planet, landscapes are always being carved and reshaped, too slowly for a human life to notice. But the results are all around us.",
+   "narration_long": "On our restless planet, nothing stays the same for long. Landscapes are always being carved, worn down and reshaped. A human life is far too short to watch it happen. But the results are all around us."
   },
   {
    "code": "8.2",
    "file": "08-2.png",
    "title": "Wind sandblasting in Arches National Park",
-   "narration": "In dry places, the wind becomes a sculptor. It lifts grains of sand and hurls them against rock like a sandblaster. In Arches National Park in Utah, this slow attack has carved natural stone arches, balancing rocks and flat-topped mesas that stand like monuments in the desert."
+   "narration": "In dry places, the wind becomes a sculptor, blasting rock with sand. In Utah's Arches National Park, it has carved stone arches and balancing rocks.",
+   "narration_long": "In dry places, the wind becomes a sculptor. It lifts grains of sand and hurls them against rock like a sandblaster. In Arches National Park in Utah, this slow attack has carved natural stone arches, balancing rocks and flat-topped mesas that stand like monuments in the desert."
   },
   {
    "code": "8.3",
    "file": "08-3.png",
    "title": "Hoodoos and the Devils Marbles",
-   "narration": "Sometimes the wind leaves strange shapes behind. Hoodoos are tall spires of rock with a cap of harder stone on top, protecting the softer rock beneath. In Australia, the Devils Marbles are giant round boulders, sandblasted over time until they seem to balance on top of one another."
+   "narration": "It leaves strange shapes behind: hoodoos, tall spires capped with harder stone, and in Australia, the Devils Marbles, giant boulders balanced on one another.",
+   "narration_long": "Sometimes the wind leaves strange shapes behind. Hoodoos are tall spires of rock with a cap of harder stone on top, protecting the softer rock beneath. In Australia, the Devils Marbles are giant round boulders, sandblasted over time until they seem to balance on top of one another."
   },
   {
    "code": "8.4",
    "file": "08-4.png",
    "title": "Slot canyon",
-   "narration": "Water can be an even stronger carver. When fast-moving water rushes through a crack in soft rock, it can cut a deep, narrow channel with smooth, curving walls: a slot canyon, glowing with light that filters down from far above."
+   "narration": "Rushing water can cut a deep, narrow crack through soft rock: a slot canyon, glowing with light from far above.",
+   "narration_long": "Water can be an even stronger carver. When fast-moving water rushes through a crack in soft rock, it can cut a deep, narrow channel with smooth, curving walls: a slot canyon, glowing with light that filters down from far above."
   },
   {
    "code": "8.5",
    "file": "08-5.png",
    "title": "The Grand Canyon",
-   "narration": "The greatest rock carver of all is the Colorado River. Over millions of years, it has cut the Grand Canyon: 446 kilometres long, up to 29 kilometres wide, and in places more than 1.6 kilometres deep, exposing rocks close to two billion years old. Its power comes from its steep slope, the huge amount of mud, sand and gravel it carries, and the relatively soft rock it flows through."
+   "narration": "The greatest carver of all is the Colorado River. Over millions of years, it cut the Grand Canyon, 446 kilometres long and more than 1.6 kilometres deep.",
+   "narration_long": "The greatest rock carver of all is the Colorado River. Over millions of years, it has cut the Grand Canyon: 446 kilometres long, up to 29 kilometres wide, and in places more than 1.6 kilometres deep, exposing rocks close to two billion years old. Its power comes from its steep slope, the huge amount of mud, sand and gravel it carries, and the relatively soft rock it flows through."
   },
   {
    "code": "8.6",
    "file": "08-6.png",
    "title": "Coastal erosion",
-   "narration": "Along the coast, the ocean never rests. Waves crash against the rocks, armed with sand and grit that grind the cliffs away. Over time, the base of a cliff is undercut until the rock above collapses into the sea. In Australia, the Painted Cliffs were carved this way, their layers stained orange and red by minerals."
+   "narration": "On the coast, waves armed with sand grind the cliffs away, until the undercut rock above collapses into the sea.",
+   "narration_long": "Along the coast, the ocean never rests. Waves crash against the rocks, armed with sand and grit that grind the cliffs away. Over time, the base of a cliff is undercut until the rock above collapses into the sea. In Australia, the Painted Cliffs were carved this way, their layers stained orange and red by minerals."
   },
   {
    "code": "9.1",
    "file": "09-1.png",
    "title": "From snow to glacier",
-   "narration": "In the coldest places on Earth, snow falls but rarely melts. Layer upon layer piles up, and the weight squeezes the fluffy snow into dense, solid ice. Slowly, under the pull of gravity, this ice begins to move downhill. These giant rivers of ice are glaciers, and as they creep, they scour a path through the land."
+   "narration": "Where snow rarely melts, it piles up and is squeezed into solid ice. Pulled by gravity, this ice creeps downhill as a glacier.",
+   "narration_long": "In the coldest places on Earth, snow falls but rarely melts. Layer upon layer piles up, and the weight squeezes the fluffy snow into dense, solid ice. Slowly, under the pull of gravity, this ice begins to move downhill. These giant rivers of ice are glaciers, and as they creep, they scour a path through the land."
   },
   {
    "code": "9.2",
    "file": "09-2.png",
    "title": "Perito Moreno calving",
-   "narration": "At the front of a glacier, the ice can break away with a thunderous crack. In Argentina, the Perito Moreno Glacier pushes into Lago Argentino, the country's largest lake. Huge towers of ice crash from its wall into the water, sending waves across the lake."
+   "narration": "At a glacier's front, ice breaks away with a thunderous crack. In Argentina, towers of ice crash from the Perito Moreno Glacier into the lake below.",
+   "narration_long": "At the front of a glacier, the ice can break away with a thunderous crack. In Argentina, the Perito Moreno Glacier pushes into Lago Argentino, the country's largest lake. Huge towers of ice crash from its wall into the water, sending waves across the lake."
   },
   {
    "code": "9.3",
    "file": "09-3.png",
    "title": "Advancing and retreating, Hubbard Glacier",
-   "narration": "A glacier is always melting and freezing, changing with the time of day, the season and the climate. When more ice forms than melts, the glacier grows and advances. When more melts, it shrinks and retreats. In Alaska, the enormous Hubbard Glacier has been advancing for more than a hundred years. Cruise ships that sail up to its face look like toys."
+   "narration": "When more ice forms than melts, a glacier advances. When more melts, it retreats. Alaska's Hubbard Glacier has been advancing for over a century.",
+   "narration_long": "A glacier is always melting and freezing, changing with the time of day, the season and the climate. When more ice forms than melts, the glacier grows and advances. When more melts, it shrinks and retreats. In Alaska, the enormous Hubbard Glacier has been advancing for more than a hundred years. Cruise ships that sail up to its face look like toys."
   },
   {
    "code": "9.4",
    "file": "09-4.png",
    "title": "Jakobshavn, a fast glacier",
-   "narration": "Most glaciers move only a few centimetres or metres a day. But some are surprisingly fast. The Jakobshavn Glacier in Greenland is one of the fastest on Earth, flowing at up to 20 metres a day as it pours ice into the sea."
+   "narration": "Most glaciers move a few metres a day at most. But Greenland's Jakobshavn Glacier flows at up to 20 metres a day.",
+   "narration_long": "Most glaciers move only a few centimetres or metres a day. But some are surprisingly fast. The Jakobshavn Glacier in Greenland is one of the fastest on Earth, flowing at up to 20 metres a day as it pours ice into the sea."
   },
   {
    "code": "9.5",
    "file": "09-5.png",
    "title": "Icebergs and the Titanic",
-   "narration": "When glaciers and ice sheets reach the ocean, great chunks break off and float away as icebergs. Because ice is less dense than water, about 90 percent of an iceberg hides below the surface. That hidden danger has always threatened ships. In 1912, an iceberg sank the Titanic, and more than 1,500 people lost their lives."
+   "narration": "Chunks that break off become icebergs, with about 90 percent hidden underwater. In 1912, one sank the Titanic, and more than 1,500 people died.",
+   "narration_long": "When glaciers and ice sheets reach the ocean, great chunks break off and float away as icebergs. Because ice is less dense than water, about 90 percent of an iceberg hides below the surface. That hidden danger has always threatened ships. In 1912, an iceberg sank the Titanic, and more than 1,500 people lost their lives."
   },
   {
    "code": "9.6",
    "file": "09-6.png",
    "title": "Penguins on an iceberg",
-   "narration": "For some animals, though, icebergs are useful. In the Southern Ocean, colonies of penguins hitch rides on floating ice, resting and travelling until hunger sends them diving back into the sea to catch fish."
+   "narration": "For penguins in the Southern Ocean, though, icebergs are handy rafts for resting, before they dive back in to catch fish.",
+   "narration_long": "For some animals, though, icebergs are useful. In the Southern Ocean, colonies of penguins hitch rides on floating ice, resting and travelling until hunger sends them diving back into the sea to catch fish."
   },
   {
    "code": "9.7",
    "file": "09-7.png",
    "title": "Ice age and Kilimanjaro",
-   "narration": "Earth's climate has always changed, and ice ages are a normal part of its history. During the last ice age, so much water was locked up in ice that sea levels fell by around 120 metres. Woolly mammoths grazed on cold grasslands, hunted by sabre-toothed cats. Today, the opposite is happening in many places. The ice cap on Mount Kilimanjaro in Africa is melting so fast that scientists warn it could disappear within decades."
+   "narration": "In the last ice age, sea levels fell about 120 metres, and mammoths roamed cold grasslands. Today, the ice cap on Mount Kilimanjaro is melting fast.",
+   "narration_long": "Earth's climate has always changed, and ice ages are a normal part of its history. During the last ice age, so much water was locked up in ice that sea levels fell by around 120 metres. Woolly mammoths grazed on cold grasslands, hunted by sabre-toothed cats. Today, the opposite is happening in many places. The ice cap on Mount Kilimanjaro in Africa is melting so fast that scientists warn it could disappear within decades."
   },
   {
    "code": "10.1",
    "file": "10-1.png",
    "title": "Into the underground world",
-   "narration": "Deep beneath our feet lies a hidden world. Dark caverns and winding tunnels stretch far into the Earth, their walls decorated with strange stone shapes. For the brave explorers who venture down, the rewards are some of the most awesome sights on the planet."
+   "narration": "Beneath our feet lies a hidden world of dark caverns and winding tunnels, holding some of the most awesome sights on the planet.",
+   "narration_long": "Deep beneath our feet lies a hidden world. Dark caverns and winding tunnels stretch far into the Earth, their walls decorated with strange stone shapes. For the brave explorers who venture down, the rewards are some of the most awesome sights on the planet."
   },
   {
    "code": "10.2",
    "file": "10-2.png",
    "title": "Limestone from ancient sea life",
-   "narration": "Most caves are carved from limestone, and limestone has an extraordinary origin. Its main ingredient, calcium carbonate, comes from the shells and skeletons of ancient sea creatures. Over millions of years, they piled up on the seafloor and were pressed, layer by layer, into solid rock."
+   "narration": "Most caves are carved from limestone, made from the shells of ancient sea creatures, pressed layer by layer into rock over millions of years.",
+   "narration_long": "Most caves are carved from limestone, and limestone has an extraordinary origin. Its main ingredient, calcium carbonate, comes from the shells and skeletons of ancient sea creatures. Over millions of years, they piled up on the seafloor and were pressed, layer by layer, into solid rock."
   },
   {
    "code": "10.3",
    "file": "10-3.png",
    "title": "How caves and stalactites form",
-   "narration": "When rainwater soaks through the ground, it picks up carbon dioxide and becomes slightly acidic. This weak acid slowly dissolves limestone, hollowing out tunnels and chambers. Inside the cave, dripping water leaves its minerals behind. From the ceiling grow icicle-shaped stalactites. From the floor, stalagmites rise to meet them, often just a fraction of a millimetre a year."
+   "narration": "Slightly acidic rainwater dissolves the limestone into tunnels. Dripping water then grows stalactites from the ceiling and stalagmites from the floor.",
+   "narration_long": "When rainwater soaks through the ground, it picks up carbon dioxide and becomes slightly acidic. This weak acid slowly dissolves limestone, hollowing out tunnels and chambers. Inside the cave, dripping water leaves its minerals behind. From the ceiling grow icicle-shaped stalactites. From the floor, stalagmites rise to meet them, often just a fraction of a millimetre a year."
   },
   {
    "code": "10.4",
    "file": "10-4.png",
    "title": "Sinkhole",
-   "narration": "Sometimes, the ground above a hollow simply gives way. When weakened rock collapses into the cavern below, a sinkhole opens, often without warning. In Guatemala, during a tropical storm, a sinkhole about 30 storeys deep suddenly swallowed a three-storey building."
+   "narration": "Sometimes the ground above a cave gives way. In Guatemala, a sinkhole about 30 storeys deep suddenly swallowed a three-storey building.",
+   "narration_long": "Sometimes, the ground above a hollow simply gives way. When weakened rock collapses into the cavern below, a sinkhole opens, often without warning. In Guatemala, during a tropical storm, a sinkhole about 30 storeys deep suddenly swallowed a three-storey building."
   },
   {
    "code": "10.5",
    "file": "10-5.png",
    "title": "Spelunkers",
-   "narration": "Caves are among the least explored places on Earth, which is exactly why cave explorers, called spelunkers or potholers, find them so thrilling. But every expedition carries real risks: collapsing rock, freezing water, falls, sudden floods, and getting lost in the dark."
+   "narration": "Cave explorers, called spelunkers, love the unknown. But they face falling rock, freezing water, sudden floods, and getting lost in the dark.",
+   "narration_long": "Caves are among the least explored places on Earth, which is exactly why cave explorers, called spelunkers or potholers, find them so thrilling. But every expedition carries real risks: collapsing rock, freezing water, falls, sudden floods, and getting lost in the dark."
   },
   {
    "code": "10.6",
    "file": "10-6.png",
    "title": "Giant caves: Mulu and Son Doong",
-   "narration": "In Gunung Mulu National Park on the island of Borneo, cave experts have mapped more than 320 kilometres of passages. Here lies the Sarawak Chamber, the largest known cave chamber by area: about 700 metres long and 100 metres high. Nearby, Deer Cave was discovered only in 1976. And in Vietnam, Hang Sơn Đoòng is so vast it has its own jungle and clouds. It is the largest cave passage ever found."
+   "narration": "In Borneo, the Sarawak Chamber is the largest cave chamber known. And in Vietnam, Hang Sơn Đoòng is so vast it has its own jungle and clouds.",
+   "narration_long": "In Gunung Mulu National Park on the island of Borneo, cave experts have mapped more than 320 kilometres of passages. Here lies the Sarawak Chamber, the largest known cave chamber by area: about 700 metres long and 100 metres high. Nearby, Deer Cave was discovered only in 1976. And in Vietnam, Hang Sơn Đoòng is so vast it has its own jungle and clouds. It is the largest cave passage ever found."
   },
   {
    "code": "10.7",
    "file": "10-7.png",
    "title": "Mammoth Cave, the longest cave",
-   "narration": "The longest cave system on Earth is Mammoth Cave, in Kentucky. Explorers have now mapped more than 686 kilometres of its passages, and they are still finding more."
+   "narration": "The longest cave system on Earth is Mammoth Cave, in Kentucky. More than 686 kilometres have been mapped, and explorers are still finding more.",
+   "narration_long": "The longest cave system on Earth is Mammoth Cave, in Kentucky. Explorers have now mapped more than 686 kilometres of its passages, and they are still finding more."
   },
   {
    "code": "11.1",
    "file": "11-1.png",
    "title": "The treasure chest in the crust",
-   "narration": "Earth's crust is a treasure chest. Many things we use every day, from soft talcum powder to the graphite \"lead\" in a pencil, were formed deep inside it. Getting them out takes enormous effort, human courage and clever technology."
+   "narration": "Earth's crust is a treasure chest. Many things we use every day, from talcum powder to the lead in a pencil, were formed deep inside it.",
+   "narration_long": "Earth's crust is a treasure chest. Many things we use every day, from soft talcum powder to the graphite \"lead\" in a pencil, were formed deep inside it. Getting them out takes enormous effort, human courage and clever technology."
   },
   {
    "code": "11.2",
    "file": "11-2.png",
    "title": "Building materials",
-   "narration": "Our buildings are made of it. Marble is strong and easy to carve, and has been used for some of the most famous buildings in history. Iron, mixed with other elements, becomes steel. Aluminium is light and strong. Gypsum, when heated, becomes plaster for walls and chalk for blackboards."
+   "narration": "Our buildings are made from it: marble for great monuments, steel from iron, light aluminium, and gypsum for plaster and chalk.",
+   "narration_long": "Our buildings are made of it. Marble is strong and easy to carve, and has been used for some of the most famous buildings in history. Iron, mixed with other elements, becomes steel. Aluminium is light and strong. Gypsum, when heated, becomes plaster for walls and chalk for blackboards."
   },
   {
    "code": "11.3",
    "file": "11-3.png",
    "title": "Copper, nickel and mercury",
-   "narration": "Our machines run on it. Copper bends easily and carries electricity better than almost any other metal. Nickel goes into coins and batteries. Mercury, the only metal that is liquid at room temperature, was used for centuries in thermometers."
+   "narration": "Our machines run on it: copper carries electricity, nickel goes into batteries, and liquid mercury once filled our thermometers.",
+   "narration_long": "Our machines run on it. Copper bends easily and carries electricity better than almost any other metal. Nickel goes into coins and batteries. Mercury, the only metal that is liquid at room temperature, was used for centuries in thermometers."
   },
   {
    "code": "11.4",
    "file": "11-4.png",
    "title": "Coltan and the mobile phone",
-   "narration": "And the phone in your pocket depends on it too. A mineral called coltan is used to make mobile phones. But much of it comes from the Democratic Republic of the Congo, where miners often dig by hand in dangerous ground, risking mudslides, toxic fumes and collapsing pits, all in conditions of extreme poverty."
+   "narration": "Even your phone depends on a mineral called coltan, often dug by hand in the Congo, in dangerous pits and extreme poverty.",
+   "narration_long": "And the phone in your pocket depends on it too. A mineral called coltan is used to make mobile phones. But much of it comes from the Democratic Republic of the Congo, where miners often dig by hand in dangerous ground, risking mudslides, toxic fumes and collapsing pits, all in conditions of extreme poverty."
   },
   {
    "code": "11.5",
    "file": "11-5.png",
    "title": "Fluorite, hematite and gold",
-   "narration": "Some minerals are simply beautiful. Fluorite glows with intense colour under ultraviolet light. Hematite, ground into powder, became the red paint used in ancient rock art. And gold can be hammered thinner than any other metal: a single gram can be beaten into a sheet of gold leaf a square metre wide."
+   "narration": "Some minerals are simply beautiful. Fluorite glows under ultraviolet light, hematite made the red paint of ancient rock art, and one gram of gold can cover a square metre.",
+   "narration_long": "Some minerals are simply beautiful. Fluorite glows with intense colour under ultraviolet light. Hematite, ground into powder, became the red paint used in ancient rock art. And gold can be hammered thinner than any other metal: a single gram can be beaten into a sheet of gold leaf a square metre wide."
   },
   {
    "code": "11.6",
    "file": "11-6.png",
    "title": "Diamond and graphite",
-   "narration": "The most precious of all is diamond. Amazingly, it is made of pure carbon, the same element as the soft graphite in your pencil. Arranged differently, carbon becomes the hardest natural mineral on Earth. The Imperial Crown of India holds more than 6,000 diamonds. Other elements are far less stable. Potassium is so reactive that it is never found pure in nature, and it bursts into flame on contact with water."
+   "narration": "Diamond and pencil graphite are both pure carbon, just arranged differently. The Imperial Crown of India holds more than 6,000 diamonds.",
+   "narration_long": "The most precious of all is diamond. Amazingly, it is made of pure carbon, the same element as the soft graphite in your pencil. Arranged differently, carbon becomes the hardest natural mineral on Earth. The Imperial Crown of India holds more than 6,000 diamonds. Other elements are far less stable. Potassium is so reactive that it is never found pure in nature, and it bursts into flame on contact with water."
   },
   {
    "code": "11.7",
    "file": "11-7.png",
    "title": "Deepwater Horizon",
-   "narration": "Reaching Earth's buried treasure can be extremely dangerous. On 20 April 2010, the Deepwater Horizon oil rig in the Gulf of Mexico exploded. Eleven workers were killed. The rig had been drilling beneath about 1,500 metres of water, a task some engineers compared to exploring the Moon. Around five million barrels of oil poured into the sea, causing the largest accidental oil spill in history."
+   "narration": "Digging for treasure is dangerous. In 2010, the Deepwater Horizon oil rig exploded in the Gulf of Mexico, causing the largest accidental oil spill in history.",
+   "narration_long": "Reaching Earth's buried treasure can be extremely dangerous. On 20 April 2010, the Deepwater Horizon oil rig in the Gulf of Mexico exploded. Eleven workers were killed. The rig had been drilling beneath about 1,500 metres of water, a task some engineers compared to exploring the Moon. Around five million barrels of oil poured into the sea, causing the largest accidental oil spill in history."
   },
   {
    "code": "12.1",
    "file": "12-1.png",
    "title": "The mysterious deep",
-   "narration": "The deep ocean is the least explored place on our planet. It is pitch-dark, freezing cold, and the pressure could crush a submarine. Yet even here, life finds a way, from colossal squid with eyes bigger than a human head, to fish that make their own light."
+   "narration": "The deep ocean is the least explored place on Earth: dark, freezing and crushing. Yet life thrives here, from colossal squid to fish that make their own light.",
+   "narration_long": "The deep ocean is the least explored place on our planet. It is pitch-dark, freezing cold, and the pressure could crush a submarine. Yet even here, life finds a way, from colossal squid with eyes bigger than a human head, to fish that make their own light."
   },
   {
    "code": "12.2",
    "file": "12-2.png",
    "title": "Zones of the ocean",
-   "narration": "As we dive, the ocean changes. In the sunlit zone near the surface, there is enough light for plants to grow. Below about 200 metres begins the twilight zone, where only a faint glow remains. Past 1,000 metres is the dark zone. Below 4,000 metres lies the abyssal zone. And deeper than 6,000 metres, in the ocean trenches, is the hadal zone, one of the most extreme and least known places on Earth."
+   "narration": "As we dive, the light fades: the sunlit zone, the twilight zone, the dark zone, the abyss, and deepest of all, the hadal trenches.",
+   "narration_long": "As we dive, the ocean changes. In the sunlit zone near the surface, there is enough light for plants to grow. Below about 200 metres begins the twilight zone, where only a faint glow remains. Past 1,000 metres is the dark zone. Below 4,000 metres lies the abyssal zone. And deeper than 6,000 metres, in the ocean trenches, is the hadal zone, one of the most extreme and least known places on Earth."
   },
   {
    "code": "12.3",
    "file": "12-3.png",
    "title": "Marine snow",
-   "narration": "In the darkness, it snows. Tiny bits of dead plants and animals, called marine snow, drift down from the waters above. Over thousands of years, they settle on the seabed and build up layers of fine mud and ooze, some of them up to 450 metres thick."
+   "narration": "In the darkness, it snows. Tiny bits of dead plants and animals drift down as marine snow, building thick layers of mud on the seabed.",
+   "narration_long": "In the darkness, it snows. Tiny bits of dead plants and animals, called marine snow, drift down from the waters above. Over thousands of years, they settle on the seabed and build up layers of fine mud and ooze, some of them up to 450 metres thick."
   },
   {
    "code": "12.4",
    "file": "12-4.png",
    "title": "Dumbo octopus and giant ostracod",
-   "narration": "The creatures of the deep look like they come from another world. The Dumbo octopus flaps ear-like fins as it hovers above the seafloor, thousands of metres down. Giant ostracods, relatives of tiny shrimp, glide through the dark water like floating lanterns."
+   "narration": "Its creatures look alien. The Dumbo octopus flaps ear-like fins, and giant ostracods glide through the dark like floating lanterns.",
+   "narration_long": "The creatures of the deep look like they come from another world. The Dumbo octopus flaps ear-like fins as it hovers above the seafloor, thousands of metres down. Giant ostracods, relatives of tiny shrimp, glide through the dark water like floating lanterns."
   },
   {
    "code": "12.5",
    "file": "12-5.png",
    "title": "Black smokers",
-   "narration": "On the ocean floor, cracks in the crust release volcanic heat. These hydrothermal vents, also called black smokers, gush mineral-rich water as hot as 400 degrees Celsius. Instead of sunlight, life here runs on chemicals. Blind shrimp, starfish, tube worms and fish gather around the vents like an oasis in a desert."
+   "narration": "On the seafloor, black smokers gush water as hot as 400 degrees Celsius, and blind shrimp and tube worms gather around them like an oasis.",
+   "narration_long": "On the ocean floor, cracks in the crust release volcanic heat. These hydrothermal vents, also called black smokers, gush mineral-rich water as hot as 400 degrees Celsius. Instead of sunlight, life here runs on chemicals. Blind shrimp, starfish, tube worms and fish gather around the vents like an oasis in a desert."
   },
   {
    "code": "12.6",
    "file": "12-6.png",
    "title": "The Trieste, 1960",
-   "narration": "The deepest point of any ocean is the Challenger Deep, in the Mariana Trench in the Pacific. In 1960, two explorers, Jacques Piccard and Don Walsh, climbed into a submersible called the Trieste and sank nearly 11 kilometres to the bottom. It was one of the most dangerous journeys ever attempted."
+   "narration": "In 1960, Jacques Piccard and Don Walsh rode the submersible Trieste nearly 11 kilometres down, to the Challenger Deep in the Mariana Trench.",
+   "narration_long": "The deepest point of any ocean is the Challenger Deep, in the Mariana Trench in the Pacific. In 1960, two explorers, Jacques Piccard and Don Walsh, climbed into a submersible called the Trieste and sank nearly 11 kilometres to the bottom. It was one of the most dangerous journeys ever attempted."
   },
   {
    "code": "12.7",
    "file": "12-7.png",
    "title": "Deepest dive versus the Moon",
-   "narration": "For more than fifty years, they were almost alone. Filmmaker James Cameron made a solo dive in 2012, and since 2019 a new submersible has carried more explorers down. By 2022, 27 people had reached the Challenger Deep. That is still only a little more than the 12 people who have walked on the Moon, nearly 400,000 kilometres away."
+   "narration": "Even by 2022, only 27 people had reached that deepest point, barely more than the 12 people who have walked on the Moon.",
+   "narration_long": "For more than fifty years, they were almost alone. Filmmaker James Cameron made a solo dive in 2012, and since 2019 a new submersible has carried more explorers down. By 2022, 27 people had reached the Challenger Deep. That is still only a little more than the 12 people who have walked on the Moon, nearly 400,000 kilometres away."
   },
   {
    "code": "12.8",
    "file": "12-8.png",
    "title": "Robots that map the seabed",
-   "narration": "Because the deep sea is so dangerous for humans, scientists now explore it with robots. Remotely operated vehicles are steered from ships on the surface, while autonomous vehicles navigate the seabed on their own. With sonar, they map underwater mountains and valleys we have never seen with our own eyes."
+   "narration": "Today, robots do most of the diving, mapping underwater mountains and valleys with sonar that no human eye has ever seen.",
+   "narration_long": "Because the deep sea is so dangerous for humans, scientists now explore it with robots. Remotely operated vehicles are steered from ships on the surface, while autonomous vehicles navigate the seabed on their own. With sonar, they map underwater mountains and valleys we have never seen with our own eyes."
   },
   {
    "code": "13.1",
    "file": "13-1.png",
    "title": "Invisible but destructive",
-   "narration": "Wind is nothing more than moving air. It is invisible and almost weightless. Yet no one can control it, and it is one of the most destructive forces on the planet. When winds gather into giant storms, they can grow into hurricanes more than 800 kilometres across."
+   "narration": "Wind is just moving air, invisible and almost weightless. Yet it is one of the most destructive forces on the planet.",
+   "narration_long": "Wind is nothing more than moving air. It is invisible and almost weightless. Yet no one can control it, and it is one of the most destructive forces on the planet. When winds gather into giant storms, they can grow into hurricanes more than 800 kilometres across."
   },
   {
    "code": "13.2",
    "file": "13-2.png",
    "title": "Why air moves",
-   "narration": "Air moves because the Sun heats the Earth unevenly. Warm air has more energy: it expands and rises. Cooler air sinks and rushes in to take its place. These endless flows of rising and falling air create the weather systems that sweep across our planet, and sometimes, when the conditions are right, they turn extreme."
+   "narration": "The Sun heats the Earth unevenly. Warm air rises, cool air rushes in, and these endless flows create our weather, and sometimes, extreme weather.",
+   "narration_long": "Air moves because the Sun heats the Earth unevenly. Warm air has more energy: it expands and rises. Cooler air sinks and rushes in to take its place. These endless flows of rising and falling air create the weather systems that sweep across our planet, and sometimes, when the conditions are right, they turn extreme."
   },
   {
    "code": "13.3",
    "file": "13-3.png",
    "title": "Supercell to tornado",
-   "narration": "Tornadoes are born when warm, wet air collides with cool, dry air. A column of rising air begins to spin, forming a giant rotating thunderstorm called a supercell. From its base, a violently spinning funnel can reach down to the ground. As it races across the land, it sucks up dirt and debris, turning into a dark brown column of wind."
+   "narration": "When warm, wet air meets cool, dry air, a giant spinning storm called a supercell can form. From its base, a tornado reaches down to the ground.",
+   "narration_long": "Tornadoes are born when warm, wet air collides with cool, dry air. A column of rising air begins to spin, forming a giant rotating thunderstorm called a supercell. From its base, a violently spinning funnel can reach down to the ground. As it races across the land, it sucks up dirt and debris, turning into a dark brown column of wind."
   },
   {
    "code": "13.4",
    "file": "13-4.png",
    "title": "The 1974 Super Outbreak",
-   "narration": "Tornadoes can be short-lived, but they are terrifyingly powerful. On 3 April 1974, the United States suffered one of its worst outbreaks ever recorded. In less than a day, nearly 150 tornadoes tore across the country, killing around 300 people and injuring about 6,000 more."
+   "narration": "On 3 April 1974, nearly 150 tornadoes tore across the United States in less than a day, killing around 300 people.",
+   "narration_long": "Tornadoes can be short-lived, but they are terrifyingly powerful. On 3 April 1974, the United States suffered one of its worst outbreaks ever recorded. In less than a day, nearly 150 tornadoes tore across the country, killing around 300 people and injuring about 6,000 more."
   },
   {
    "code": "13.5",
    "file": "13-5.png",
    "title": "Hurricane, typhoon, cyclone",
-   "narration": "The greatest storms on Earth have three names. In the Atlantic they are hurricanes, in the western Pacific they are typhoons, and in the Indian Ocean they are cyclones. The strongest bring winds of more than 250 kilometres per hour, strong enough to rip the roofs off buildings, and they push walls of seawater inland in deadly storm surges."
+   "narration": "The greatest storms have three names: hurricanes, typhoons and cyclones. Their winds top 250 kilometres per hour, and they push deadly storm surges inland.",
+   "narration_long": "The greatest storms on Earth have three names. In the Atlantic they are hurricanes, in the western Pacific they are typhoons, and in the Indian Ocean they are cyclones. The strongest bring winds of more than 250 kilometres per hour, strong enough to rip the roofs off buildings, and they push walls of seawater inland in deadly storm surges."
   },
   {
    "code": "13.6",
    "file": "13-6.png",
    "title": "Galveston 1900 and Katrina 2005",
-   "narration": "In 1900, a hurricane slammed into the city of Galveston, Texas. A storm surge more than four metres high flooded the city and flattened its buildings. As many as 10,000 people died in a single night, making it the deadliest natural disaster in United States history. More than a century later, in August 2005, Hurricane Katrina brought devastation to New Orleans and the towns around it."
+   "narration": "In 1900, a hurricane flooded Galveston, Texas, killing as many as 10,000 people. In 2005, Hurricane Katrina devastated New Orleans.",
+   "narration_long": "In 1900, a hurricane slammed into the city of Galveston, Texas. A storm surge more than four metres high flooded the city and flattened its buildings. As many as 10,000 people died in a single night, making it the deadliest natural disaster in United States history. More than a century later, in August 2005, Hurricane Katrina brought devastation to New Orleans and the towns around it."
   },
   {
    "code": "13.7",
    "file": "13-7.png",
    "title": "Storm chasers",
-   "narration": "In the Great Plains of the United States lies Tornado Alley, and with it, a special kind of scientist: the storm chaser. Following computer weather models, storm chasers race toward developing storms to collect data. Some even drive armoured vehicles into the heart of a tornado, protected from the howling wind, torrential rain, lightning and giant hailstones."
+   "narration": "In Tornado Alley, storm chasers race toward storms to collect data. Some even drive armoured vehicles into the heart of a tornado.",
+   "narration_long": "In the Great Plains of the United States lies Tornado Alley, and with it, a special kind of scientist: the storm chaser. Following computer weather models, storm chasers race toward developing storms to collect data. Some even drive armoured vehicles into the heart of a tornado, protected from the howling wind, torrential rain, lightning and giant hailstones."
   },
   {
    "code": "14.1",
    "file": "14-1.png",
    "title": "From myth to science",
-   "narration": "For thousands of years, strange weather was explained by myths and legends, often as signs from the gods. Today, scientists have found that most of these oddities have rare, but completely natural, causes."
+   "narration": "For centuries, strange weather was blamed on angry gods. Today, scientists know that most of these oddities have natural causes.",
+   "narration_long": "For thousands of years, strange weather was explained by myths and legends, often as signs from the gods. Today, scientists have found that most of these oddities have rare, but completely natural, causes."
   },
   {
    "code": "14.2",
    "file": "14-2.png",
    "title": "Strange clouds",
-   "narration": "Take clouds. The study of clouds is called nephology, and for many people it is as much an art as a science. Clouds are made of water droplets or ice crystals, and in the right conditions they form amazing shapes: mushrooms, jellyfish, even donuts. Mammatus clouds hang like rows of pouches beneath a storm, and often warn that violent weather is on its way."
+   "narration": "Take clouds. They can form mushrooms, jellyfish, even donuts. And mammatus clouds, hanging like pouches, warn that a storm is on its way.",
+   "narration_long": "Take clouds. The study of clouds is called nephology, and for many people it is as much an art as a science. Clouds are made of water droplets or ice crystals, and in the right conditions they form amazing shapes: mushrooms, jellyfish, even donuts. Mammatus clouds hang like rows of pouches beneath a storm, and often warn that violent weather is on its way."
   },
   {
    "code": "14.3",
    "file": "14-3.png",
    "title": "Waterspouts and raining fish",
-   "narration": "For centuries, people have reported fish and frogs falling from the sky. The cause is real. Tornadoes, and their watery cousins called waterspouts, can suck animals out of lakes and rivers, carry them for kilometres, and drop them during a rainstorm. Waterspouts like this have been seen twisting above rivers such as the Mekong in Cambodia."
+   "narration": "Fish really can fall from the sky. Waterspouts suck animals out of rivers and lakes, then drop them kilometres away in the rain.",
+   "narration_long": "For centuries, people have reported fish and frogs falling from the sky. The cause is real. Tornadoes, and their watery cousins called waterspouts, can suck animals out of lakes and rivers, carry them for kilometres, and drop them during a rainstorm. Waterspouts like this have been seen twisting above rivers such as the Mekong in Cambodia."
   },
   {
    "code": "14.4",
    "file": "14-4.png",
    "title": "Sun halo and sundogs",
-   "narration": "Sometimes the Sun seems to wear a ring. Tiny ice crystals high in thin clouds bend and reflect sunlight, creating a halo around the Sun, often with bright spots on either side called sundogs. It looks like a rainbow wrapped around the Sun."
+   "narration": "Ice crystals high in thin clouds can wrap the Sun in a glowing halo, with bright sundogs on either side.",
+   "narration_long": "Sometimes the Sun seems to wear a ring. Tiny ice crystals high in thin clouds bend and reflect sunlight, creating a halo around the Sun, often with bright spots on either side called sundogs. It looks like a rainbow wrapped around the Sun."
   },
   {
    "code": "14.5",
    "file": "14-5.png",
    "title": "Record hailstones",
-   "narration": "Ice can also fall from the sky in dangerous sizes. During a storm in Aurora, Nebraska, in 2003, a hailstone nearly 18 centimetres across crashed to the ground. In 2010, an even bigger one, about 20 centimetres wide, fell in Vivian, South Dakota."
+   "narration": "Hail can be huge. In 2010, a hailstone about 20 centimetres wide fell in Vivian, South Dakota.",
+   "narration_long": "Ice can also fall from the sky in dangerous sizes. During a storm in Aurora, Nebraska, in 2003, a hailstone nearly 18 centimetres across crashed to the ground. In 2010, an even bigger one, about 20 centimetres wide, fell in Vivian, South Dakota."
   },
   {
    "code": "14.6",
    "file": "14-6.png",
    "title": "Lightning, volcanic lightning and ball lightning",
-   "narration": "Around the world, lightning strikes about 100 times every second. Lightning can even flash inside the ash cloud of an erupting volcano. But one form remains a mystery: ball lightning. These glowing balls, sometimes the size of a peach, have been reported floating through windows and walls, hissing, and even exploding."
+   "narration": "Lightning strikes about 100 times every second, even inside volcanic ash clouds. And glowing ball lightning is still a mystery.",
+   "narration_long": "Around the world, lightning strikes about 100 times every second. Lightning can even flash inside the ash cloud of an erupting volcano. But one form remains a mystery: ball lightning. These glowing balls, sometimes the size of a peach, have been reported floating through windows and walls, hissing, and even exploding."
   },
   {
    "code": "14.7",
    "file": "14-7.png",
    "title": "Sprites, blue jets and a blue moon",
-   "narration": "High above thunderstorms, other strange lights flicker: blue jets and red sprites, flashes that are probably caused by electrical activity in the upper atmosphere. And sometimes the Moon itself looks blue. When forest fires or volcanoes fill the sky with tiny particles, they scatter moonlight and give the Moon an eerie blue tint."
+   "narration": "Above thunderstorms, red sprites and blue jets flicker. And when smoke or ash fills the sky, the Moon itself can look blue.",
+   "narration_long": "High above thunderstorms, other strange lights flicker: blue jets and red sprites, flashes that are probably caused by electrical activity in the upper atmosphere. And sometimes the Moon itself looks blue. When forest fires or volcanoes fill the sky with tiny particles, they scatter moonlight and give the Moon an eerie blue tint."
   },
   {
    "code": "14.8",
    "file": "14-8.png",
    "title": "Flash flood",
-   "narration": "Floods are among the most common natural disasters on Earth, but flash floods strike with almost no warning. After unusually heavy rain or sudden melting of ice, water rises in minutes and swamps dry land. In 2010 and 2011, floods in Queensland, Australia, covered an area larger than France and Germany combined."
+   "narration": "Flash floods strike with almost no warning. In 2010 and 2011, floods in Queensland, Australia, covered an area larger than France and Germany combined.",
+   "narration_long": "Floods are among the most common natural disasters on Earth, but flash floods strike with almost no warning. After unusually heavy rain or sudden melting of ice, water rises in minutes and swamps dry land. In 2010 and 2011, floods in Queensland, Australia, covered an area larger than France and Germany combined."
   },
   {
    "code": "15.1",
    "file": "15-1.png",
    "title": "Beautiful and dangerous snow",
-   "narration": "Soft, fluffy snow can turn a landscape into a stunning white wilderness. But in its most extreme forms, snow becomes a killer. From raging blizzards to avalanches that strike with the force of solid rock, the power of snow should never be underestimated."
+   "narration": "Snow can turn a landscape into a white wonderland. But in its extreme forms, from blizzards to avalanches, it becomes a killer.",
+   "narration_long": "Soft, fluffy snow can turn a landscape into a stunning white wilderness. But in its most extreme forms, snow becomes a killer. From raging blizzards to avalanches that strike with the force of solid rock, the power of snow should never be underestimated."
   },
   {
    "code": "15.2",
    "file": "15-2.png",
    "title": "How a snowflake grows",
-   "narration": "Snow forms in cold air, mostly near the poles or high on mountains. Water droplets freeze into tiny ice crystals, and the crystals stick together to form snowflakes. The simplest snowflake is a six-sided prism, but it can grow branches into beautiful, complex shapes. Its final form depends on the temperature and the amount of water in the air."
+   "narration": "Snowflakes begin as tiny six-sided ice crystals, then grow branches into complex shapes, depending on the temperature and moisture in the air.",
+   "narration_long": "Snow forms in cold air, mostly near the poles or high on mountains. Water droplets freeze into tiny ice crystals, and the crystals stick together to form snowflakes. The simplest snowflake is a six-sided prism, but it can grow branches into beautiful, complex shapes. Its final form depends on the temperature and the amount of water in the air."
   },
   {
    "code": "15.3",
    "file": "15-3.png",
    "title": "Every snowflake unique",
-   "narration": "Is every snowflake unique? Probably, although no one could ever check them all. With trillions upon trillions of crystals falling every year, the chance of two identical ones forming in the lifetime of the Universe is virtually zero."
+   "narration": "Is every snowflake unique? Almost certainly. With trillions falling every year, two identical ones are virtually impossible.",
+   "narration_long": "Is every snowflake unique? Probably, although no one could ever check them all. With trillions upon trillions of crystals falling every year, the chance of two identical ones forming in the lifetime of the Universe is virtually zero."
   },
   {
    "code": "15.4",
    "file": "15-4.png",
    "title": "Record snowfall at Mount Baker",
-   "narration": "Some places get more than their share. In the winter of 1998 to 1999, Mount Baker in Washington State, in the United States, recorded a total snowfall of 29 metres, about as tall as a ten-storey building."
+   "narration": "In the winter of 1998 to 1999, Mount Baker in Washington State recorded 29 metres of snow, as tall as a ten-storey building.",
+   "narration_long": "Some places get more than their share. In the winter of 1998 to 1999, Mount Baker in Washington State, in the United States, recorded a total snowfall of 29 metres, about as tall as a ten-storey building."
   },
   {
    "code": "15.5",
    "file": "15-5.png",
    "title": "Blizzard and whiteout",
-   "narration": "When strong winds drive heavy snow, a snowstorm becomes a blizzard: winds of at least 48 kilometres per hour and visibility of less than 200 metres. In a severe blizzard, called a whiteout, you cannot see your own hand. In 1949, a season of blizzards struck the western United States and lasted seven weeks. More than 100 people and around a million cattle died."
+   "narration": "When strong winds drive heavy snow, a blizzard can become a whiteout, so thick that you cannot see your own hand.",
+   "narration_long": "When strong winds drive heavy snow, a snowstorm becomes a blizzard: winds of at least 48 kilometres per hour and visibility of less than 200 metres. In a severe blizzard, called a whiteout, you cannot see your own hand. In 1949, a season of blizzards struck the western United States and lasted seven weeks. More than 100 people and around a million cattle died."
   },
   {
    "code": "15.6",
    "file": "15-6.png",
    "title": "Alpine avalanche",
-   "narration": "Avalanches are even more sudden. In 1999, after heavy snowfall near Chamonix in France, about 300,000 cubic metres of snow broke loose from a mountainside. The avalanche raced down at almost 100 kilometres per hour and slammed into a small village, burying homes under 100,000 tonnes of snow. Twelve people died."
+   "narration": "In 1999, near Chamonix in France, an avalanche raced down at almost 100 kilometres per hour and buried a village under snow.",
+   "narration_long": "Avalanches are even more sudden. In 1999, after heavy snowfall near Chamonix in France, about 300,000 cubic metres of snow broke loose from a mountainside. The avalanche raced down at almost 100 kilometres per hour and slammed into a small village, burying homes under 100,000 tonnes of snow. Twelve people died."
   },
   {
    "code": "15.7",
    "file": "15-7.png",
    "title": "Avalanche survival steps",
-   "narration": "Mountain rescuers have simple advice. Before you go, check the avalanche forecast and carry a rescue beacon. You cannot outrun an avalanche, but you may be able to move to its side. If you are knocked down, grab a tree or a rock, and \"swim\" to stay near the surface, because the snow sets like concrete. When you stop, clear a space in front of your face so you can breathe. And if you see someone swept away, mark the spot where you last saw them."
+   "narration": "Rescuers advise: carry a beacon, move to the side, grab a tree, swim to stay on top, clear a space to breathe, and mark where others disappeared.",
+   "narration_long": "Mountain rescuers have simple advice. Before you go, check the avalanche forecast and carry a rescue beacon. You cannot outrun an avalanche, but you may be able to move to its side. If you are knocked down, grab a tree or a rock, and \"swim\" to stay near the surface, because the snow sets like concrete. When you stop, clear a space in front of your face so you can breathe. And if you see someone swept away, mark the spot where you last saw them."
   },
   {
    "code": "16.1",
    "file": "16-1.png",
    "title": "Midnight sun and polar night",
-   "narration": "At the top of the world lies the Arctic: a frozen ocean surrounded by continents. In the height of summer, the Sun never sets, and daylight lasts for 24 hours. In winter, there is at least one day when the Sun never rises."
+   "narration": "In the Arctic, the summer Sun never sets. And in winter, there are days when it never rises at all.",
+   "narration_long": "At the top of the world lies the Arctic: a frozen ocean surrounded by continents. In the height of summer, the Sun never sets, and daylight lasts for 24 hours. In winter, there is at least one day when the Sun never rises."
   },
   {
    "code": "16.2",
    "file": "16-2.png",
    "title": "A submarine under the North Pole",
-   "narration": "Is there land beneath the North Pole? In 1958, a submarine sailed all the way under the frozen Arctic Ocean and proved there is not. The polar ice cap is floating on water."
+   "narration": "In 1958, a submarine sailed beneath the North Pole and proved there is no land there, only floating ice.",
+   "narration_long": "Is there land beneath the North Pole? In 1958, a submarine sailed all the way under the frozen Arctic Ocean and proved there is not. The polar ice cap is floating on water."
   },
   {
    "code": "16.3",
    "file": "16-3.png",
    "title": "Arctic wildlife",
-   "narration": "Life here is tough, but some animals thrive. Polar bears hunt seals on the sea ice, and Arctic foxes often follow them, feeding on the scraps the bears leave behind. Beneath the ice, divers have discovered a surprising world of creatures living at the very edge of what life can bear."
+   "narration": "Polar bears hunt seals on the ice, Arctic foxes follow them for scraps, and beneath the ice, divers find surprising life.",
+   "narration_long": "Life here is tough, but some animals thrive. Polar bears hunt seals on the sea ice, and Arctic foxes often follow them, feeding on the scraps the bears leave behind. Beneath the ice, divers have discovered a surprising world of creatures living at the very edge of what life can bear."
   },
   {
    "code": "16.4",
    "file": "16-4.png",
    "title": "Extreme cold in Greenland",
-   "narration": "The cold can be brutal. In northern Greenland, temperatures can drop to about minus 70 degrees Celsius."
+   "narration": "And the cold is brutal. In northern Greenland, temperatures can drop to about minus 70 degrees Celsius.",
+   "narration_long": "The cold can be brutal. In northern Greenland, temperatures can drop to about minus 70 degrees Celsius."
   },
   {
    "code": "16.5",
    "file": "16-5.png",
    "title": "Antarctica's ice sheet",
-   "narration": "At the other end of the Earth lies Antarctica. Unlike the Arctic, it is a continent, buried under the largest ice sheet on Earth. Its ice covers about 14 million square kilometres, one and a half times the size of the United States, and holds about 70 percent of all the fresh water on the planet."
+   "narration": "At the other end of the Earth, Antarctica lies under the largest ice sheet on the planet, holding about 70 percent of all its fresh water.",
+   "narration_long": "At the other end of the Earth lies Antarctica. Unlike the Arctic, it is a continent, buried under the largest ice sheet on Earth. Its ice covers about 14 million square kilometres, one and a half times the size of the United States, and holds about 70 percent of all the fresh water on the planet."
   },
   {
    "code": "16.6",
    "file": "16-6.png",
    "title": "Antarctic life and ice shelves",
-   "narration": "Antarctica may look empty, but its seas are full of life: penguins, seals, whales and albatrosses. All of them depend on krill, tiny shrimp-like animals that live in the Southern Ocean in such huge numbers that they are among the most abundant animals on Earth. In winter, the ice sheet spreads into the ocean as floating ice shelves. Giant blocks break away to become massive icebergs."
+   "narration": "Its seas teem with penguins, seals and whales, all fed by tiny krill. In winter, ice shelves spread out, and giant icebergs break away.",
+   "narration_long": "Antarctica may look empty, but its seas are full of life: penguins, seals, whales and albatrosses. All of them depend on krill, tiny shrimp-like animals that live in the Southern Ocean in such huge numbers that they are among the most abundant animals on Earth. In winter, the ice sheet spreads into the ocean as floating ice shelves. Giant blocks break away to become massive icebergs."
   },
   {
    "code": "16.7",
    "file": "16-7.png",
    "title": "Vostok and the ice caves",
-   "narration": "In parts of Antarctica, the Sun stays below the horizon for 105 days in winter, leaving the land in near-total darkness. And it was here, at Vostok Station, that the coldest temperature ever recorded was measured: minus 89.2 degrees Celsius. Scientists still explore its ice caves to uncover the secrets of the continent's past."
+   "narration": "At Antarctica's Vostok Station, scientists recorded the coldest temperature ever measured: minus 89.2 degrees Celsius.",
+   "narration_long": "In parts of Antarctica, the Sun stays below the horizon for 105 days in winter, leaving the land in near-total darkness. And it was here, at Vostok Station, that the coldest temperature ever recorded was measured: minus 89.2 degrees Celsius. Scientists still explore its ice caves to uncover the secrets of the continent's past."
   },
   {
    "code": "17.1",
    "file": "17-1.png",
    "title": "What makes a desert",
-   "narration": "Deserts are the driest places on Earth. Years can pass without a single drop of rain. Many swing between scorching days and freezing nights. Surprisingly, even icy Antarctica counts as a desert. Without water, very few living things can survive."
+   "narration": "Deserts are the driest places on Earth, with scorching days, freezing nights, and years without a drop of rain.",
+   "narration_long": "Deserts are the driest places on Earth. Years can pass without a single drop of rain. Many swing between scorching days and freezing nights. Surprisingly, even icy Antarctica counts as a desert. Without water, very few living things can survive."
   },
   {
    "code": "17.2",
    "file": "17-2.png",
    "title": "The Sahara",
-   "narration": "The giant of the deserts is the Sahara. It covers an area about the size of the United States, and it is still growing. Its sand dunes can rise as high as 300 metres, and its winds whip up sandstorms and spinning dust devils. Dust is lighter than sand, and it can travel thousands of kilometres."
+   "narration": "The Sahara is about the size of the United States, and still growing. Its dunes rise up to 300 metres, and dust devils spin across the sand.",
+   "narration_long": "The giant of the deserts is the Sahara. It covers an area about the size of the United States, and it is still growing. Its sand dunes can rise as high as 300 metres, and its winds whip up sandstorms and spinning dust devils. Dust is lighter than sand, and it can travel thousands of kilometres."
   },
   {
    "code": "17.3",
    "file": "17-3.png",
    "title": "Haboob",
-   "narration": "Sometimes, the desert comes to town. In Sudan, a fast-moving wall of sand and dust called a haboob can roll across the land and swallow a whole market in minutes, turning day into an orange darkness."
+   "narration": "In Sudan, a wall of dust called a haboob can swallow a whole market in minutes, turning day into orange darkness.",
+   "narration_long": "Sometimes, the desert comes to town. In Sudan, a fast-moving wall of sand and dust called a haboob can roll across the land and swallow a whole market in minutes, turning day into an orange darkness."
   },
   {
    "code": "17.4",
    "file": "17-4.png",
    "title": "The hottest place on Earth",
-   "narration": "Which is the hottest place on Earth? For 90 years, the record belonged to El Azizia in Libya. But in 2012, the World Meteorological Organization investigated and threw that record out. Today, the official title belongs to Death Valley, in California, where the temperature reached 56.7 degrees Celsius on 10 July 1913. Places such as Ghadames in Libya and Kebili in Tunisia have also baked at around 55 degrees."
+   "narration": "The official hottest place on Earth is Death Valley, in California, which reached 56.7 degrees Celsius in 1913, after an older record in Libya was thrown out.",
+   "narration_long": "Which is the hottest place on Earth? For 90 years, the record belonged to El Azizia in Libya. But in 2012, the World Meteorological Organization investigated and threw that record out. Today, the official title belongs to Death Valley, in California, where the temperature reached 56.7 degrees Celsius on 10 July 1913. Places such as Ghadames in Libya and Kebili in Tunisia have also baked at around 55 degrees."
   },
   {
    "code": "17.5",
    "file": "17-5.png",
    "title": "The driest places",
-   "narration": "And the driest? In the Atacama Desert of Chile, the town of Arica once received less than one millimetre of rain over 59 years. In Egypt, the towns of Asyut and the Dakhla Oasis may see only one shower every few years."
+   "narration": "And the driest? In Chile's Atacama Desert, the town of Arica once got less than one millimetre of rain in 59 years.",
+   "narration_long": "And the driest? In the Atacama Desert of Chile, the town of Arica once received less than one millimetre of rain over 59 years. In Egypt, the towns of Asyut and the Dakhla Oasis may see only one shower every few years."
   },
   {
    "code": "17.6",
    "file": "17-6.png",
    "title": "A city in the desert",
-   "narration": "Yet people have built a glittering city in the middle of a desert. Las Vegas sits in the Mojave Desert and is home to millions of people, with tens of millions of visitors every year. Almost all of its water comes from the Colorado River through Lake Mead. Scientists warn that the city is growing faster than its water supply, and that one day the taps could run dry."
+   "narration": "Yet Las Vegas glitters in the Mojave Desert, drinking from the Colorado River, and scientists warn that its taps could one day run dry.",
+   "narration_long": "Yet people have built a glittering city in the middle of a desert. Las Vegas sits in the Mojave Desert and is home to millions of people, with tens of millions of visitors every year. Almost all of its water comes from the Colorado River through Lake Mead. Scientists warn that the city is growing faster than its water supply, and that one day the taps could run dry."
   },
   {
    "code": "17.7",
    "file": "17-7.png",
    "title": "Wildfire",
-   "narration": "In dry lands, fire is never far away. Wildfires are often started by lightning or by people, and after a long drought, they spread at terrifying speed. Australia sees tens of thousands of bushfires every year, and some can race through 20 kilometres of bush in a single hour. In 1997, after a severe drought, fires in Indonesia burned across 7,500 square kilometres."
+   "narration": "In dry lands, fire is never far away. Lightning or people spark wildfires that race through the bush at terrifying speed.",
+   "narration_long": "In dry lands, fire is never far away. Wildfires are often started by lightning or by people, and after a long drought, they spread at terrifying speed. Australia sees tens of thousands of bushfires every year, and some can race through 20 kilometres of bush in a single hour. In 1997, after a severe drought, fires in Indonesia burned across 7,500 square kilometres."
   },
   {
    "code": "17.8",
    "file": "17-8.png",
    "title": "Closing: our restless planet",
-   "narration": "From fireballs falling out of space to the frozen darkness of the poles, from the roaring heart of a volcano to the silent floor of the deepest ocean, our planet is anything but still. It is boiling, shaking, freezing and changing every single day. And the more we explore it, the more we realise how much of it we are still only beginning to understand. Thank you for watching. If you enjoyed this journey, subscribe for more stories about the wonders of our world."
+   "narration": "From fireballs in the sky to the darkness of the deepest ocean, our planet is boiling, shaking, freezing and changing every day. Thank you for watching, and subscribe for more wonders of our world.",
+   "narration_long": "From fireballs falling out of space to the frozen darkness of the poles, from the roaring heart of a volcano to the silent floor of the deepest ocean, our planet is anything but still. It is boiling, shaking, freezing and changing every single day. And the more we explore it, the more we realise how much of it we are still only beginning to understand. Thank you for watching. If you enjoyed this journey, subscribe for more stories about the wonders of our world."
   }
  ]
 }
