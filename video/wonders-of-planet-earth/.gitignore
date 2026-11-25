@@ -4,3 +4,4 @@ output/film.mp4
 output/*_review.mp4
 output/*_film.mp4
 output/*.partial.mp4
+__pycache__/
