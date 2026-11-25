@@ -12,6 +12,10 @@
   per-minute quota (150 RPM) instead of the Gemini API's 100 requests/day. Key: network secret for
   `texttospeech.googleapis.com`, header `x-goog-api-key`. Still ask before every paid call.
   Fall back to the Gemini API (`gemini-2.5-flash-preview-tts`) only if Cloud TTS is unavailable.
+  **Status 2026-11-25: blocked.** The environment proxy strips `x-goog-api-key` for
+  texttospeech.googleapis.com without injecting the saved key (Google answers CREDENTIALS_MISSING even
+  for a deliberately fake header key, while a fake `?key=` gives API_KEY_INVALID). Until that works,
+  use the Gemini API and group 2–3 scenes per request (`tts_pairs.py` pattern) to stay under 100/day.
 - Other settings used so far. These are not user rules, so reconfirm them when needed:
   - Images: `gemini-2.5-flash-image`.
   - Caption timing: `gemini-4-hydrogen`. It is text-only, so it cannot make images or audio.
