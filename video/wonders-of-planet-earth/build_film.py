@@ -229,7 +229,10 @@ for i, s in enumerate(scenes):
     if ih / iw > 0.6: w0 = int(720 * 0.97 * iw / ih); x0 = (1280 - w0) // 2; y0 = 10
     else: w0 = 1280; x0 = 0; y0 = (720 - int(1280 * ih / iw)) // 2
     if s['code'] == '0.1':
-        L = [dict(type='image', path=IMG, x=0, y=0, w=1280, keys=[{"t": 0, "alpha": 1}])] + [
+        # slow push-in centred on the chapter list, so the page never looks frozen
+        Z = 1.03; cx, cy = 930, 390
+        L = [dict(type='image', path=IMG, x=0, y=0, w=1280, keys=[{"t": 0, "alpha": 1, "w": 1280, "x": 0, "y": 0},
+              {"t": round(sp - 0.05, 2), "w": round(1280 * Z), "x": round(-cx * (Z - 1)), "y": round(-cy * (Z - 1))}])] + [
             dict(l, keys=[dict(k, t=round(k['t'] + off, 2)) for k in l['keys']], **({"from": round(l['from'] + off, 2)} if 'from' in l else {}))
             for l in toc_layers(s['dur'])]
         shots.append({"start": s['shot'][0], "end": s['shot'][1], "layers": L}); continue
