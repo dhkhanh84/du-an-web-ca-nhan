@@ -78,7 +78,7 @@ Volcanoes, glaciers, deep-sea vents or desert storms: which chapter surprised yo
 |---|---|---|
 | Chapters valid for YouTube | ✅ | Starts at 0:00, 19 entries, each longer than 10 s, timestamps taken from the final render |
 | Title, description and chapters match the video | ✅ | All facts come from the approved narration; nothing added |
-| Thumbnail safe zones | ⏳ | Prompts keep the bottom-right (timestamp badge) clear; I will check the finished thumbnail at 320×180 |
+| Thumbnail | ✅ | `publishing/thumbnail-en.png` (1280×720): user art (Prompt A) + "EARTH IS / NOT CALM" in Caveat; image-model sparkle mark removed; readable at 320×180; bottom-right holds only background and cloud |
 | Captions file | ✅ | `output/final-en.srt` (upload as English subtitles) |
 | AI disclosure | ⚠️ owner decides | YouTube asks creators to label *realistic* altered or synthetic content. These are clearly drawn illustrations, but the voice is AI-generated; the description already says so |
 | Voice and image licences | ⚠️ owner to confirm | Gemini TTS (Algieba) and user-made images: check Google's current terms for commercial use |
