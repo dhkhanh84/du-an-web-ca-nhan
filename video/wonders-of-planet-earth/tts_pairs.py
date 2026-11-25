@@ -1,13 +1,17 @@
 # Narrate the (short) script two scenes per Gemini TTS request, then split each take at the
 # pause between the two scenes. 122 scenes -> 67 requests, inside the 100-requests/day limit.
 # Resumable: skips scenes whose WAV exists. A pair whose split is ambiguous is re-done one scene
-# per request. Usage: python3 tts_pairs.py [chapter ...]
+# per request. Usage: python3 tts_pairs.py [chapter ...]   (Vietnamese: LANGV=vi python3 tts_pairs.py)
 import json, subprocess, base64, wave, os, sys, time
 import numpy as np
 SR = 24000
 URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-tts:generateContent'
 d = json.load(open('scenes.json'))['scenes']
-OUT = 'audio/scenes'; os.makedirs(OUT, exist_ok=True)
+OUT = 'audio/scenes'
+if os.environ.get('LANGV') == 'vi':   # Vietnamese version: LANGV=vi python3 tts_pairs.py
+    from vi_script import VI
+    d = [dict(s, narration=VI[s['code']][1]) for s in d]; OUT = 'audio/vi/scenes'
+os.makedirs(OUT, exist_ok=True)
 def path(s): return f"{OUT}/{s['code'].replace('.', '-')}.wav"
 def save(p, x):
     w = wave.open(p, 'wb'); w.setnchannels(1); w.setsampwidth(2); w.setframerate(SR)
