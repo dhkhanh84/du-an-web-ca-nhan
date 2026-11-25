@@ -59,6 +59,7 @@ for s in todo:
     if g and len(g) == 1 and g[0]['code'].split('.')[0] == s['code'].split('.')[0] \
             and int(g[0]['code'].split('.')[1]) + 1 == int(s['code'].split('.')[1]): g.append(s)
     else: groups.append([s])
+if os.environ.get('SINGLE'): groups = [[s] for s in todo]   # SINGLE=1: one scene per request
 print(len(todo), 'scenes in', len(groups), 'requests', flush=True)
 for g in groups:
     if len(g) == 1: single(g[0]); continue
