@@ -6,17 +6,11 @@
   User's explicit preference (2026-11-15): use Algieba for all future videos, whatever the narration language,
   unless the user asks for a different voice in that request.
   This replaces the skill's per-style default voices (e.g. B1's Bodi, which `gemini-2.5-flash-preview-tts` does not offer).
-- **Narration route for new videos (user decision 2026-11-25): Google Cloud Text-to-Speech**
-  (`gemini-2.5-flash-tts`, voice Algieba) via `tools/tts_cloud.py`, instead of the Gemini API.
-  Same price (~$0.50/1M text tokens, $10/1M audio tokens, i.e. ~$0.015 per audio minute) but a
-  per-minute quota (150 RPM) instead of the Gemini API's 100 requests/day. Key: network secret for
-  `texttospeech.googleapis.com`, header `x-goog-api-key`. Still ask before every paid call.
-  Fall back to the Gemini API (`gemini-2.5-flash-preview-tts`) only if Cloud TTS is unavailable.
-  **Status 2026-11-25 (afternoon):** the key now reaches Cloud TTS (voices list works).
-  Gemini-TTS (`gemini-2.5-flash-tts`) still fails with 403 `aiplatform.endpoints.predict`: the key's
-  project needs the **Vertex AI API** enabled. The plain Cloud voice `en-US-Chirp3-HD-Algieba` /
-  `vi-VN-Chirp3-HD-Algieba` works now (samples in video/wonders-of-planet-earth/output/tts-test/), but
-  it is a different engine from Gemini Algieba; the user has not chosen it yet.
+- **Narration route: Gemini API** (`gemini-2.5-flash-preview-tts`, Algieba). The Tier-1 limit is
+  100 requests/day, so group 2–3 scenes per request and split at the pauses (`tts_pairs.py` pattern in
+  video/wonders-of-planet-earth). Cloud Text-to-Speech was tried on 2026-11-25 and **dropped by the user**
+  ("phức tạp quá, bỏ qua"): Gemini-TTS there needs an API key bound to a service account with Vertex AI
+  rights. `tools/tts_cloud.py` stays in the repo but is not used; do not bring it up again unless asked.
 - Other settings used so far. These are not user rules, so reconfirm them when needed:
   - Images: `gemini-2.5-flash-image`.
   - Caption timing: `gemini-4-hydrogen`. It is text-only, so it cannot make images or audio.
