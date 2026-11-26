@@ -95,7 +95,7 @@ VI = {
 # 11
 "11.1": ("Rương báu trong lòng đất", "Vỏ Trái Đất là một chiếc rương báu. Nhiều thứ ta dùng hằng ngày, từ phấn rôm đến ruột bút chì, đều được hình thành sâu bên trong nó."),
 "11.2": ("Vật liệu xây dựng", "Nhà cửa của chúng ta được làm từ đó: đá cẩm thạch cho những công trình vĩ đại, thép từ sắt, nhôm nhẹ, và thạch cao để làm vữa trát tường và phấn viết bảng."),
-"11.3": ("Đồng, niken và thủy ngân", "Máy móc của chúng ta vận hành nhờ nó: đồng dẫn điện, niken dùng trong pin, và thủy ngân lỏng từng nằm trong nhiệt kế."),
+"11.3": ("Đồng, niken và thủy ngân", "Máy móc của chúng ta vận hành nhờ nó. Đồng dẫn điện, niken dùng trong pin, và thủy ngân lỏng từng nằm trong nhiệt kế."),
 "11.4": ("Coltan và điện thoại di động", "Ngay cả chiếc điện thoại của bạn cũng cần một khoáng chất gọi là coltan, thường được đào bằng tay ở Congo, trong những hầm mỏ nguy hiểm và cảnh nghèo đói cùng cực."),
 "11.5": ("Fluorit, hematit và vàng", "Có những khoáng chất thật đẹp. Fluorit phát sáng dưới tia cực tím, hematit từng là màu đỏ trong tranh đá cổ, và một gam vàng có thể dát mỏng phủ kín một mét vuông."),
 "11.6": ("Kim cương và than chì", "Kim cương và than chì trong bút chì đều là các-bon tinh khiết, chỉ khác cách sắp xếp. Vương miện Hoàng gia Ấn Độ được nạm hơn 6.000 viên kim cương."),
