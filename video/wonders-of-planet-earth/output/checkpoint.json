@@ -1,7 +1,7 @@
 {
-  "stage": "rendering shot 3/5",
-  "kind": "preview",
-  "fingerprint": "cd62ee37d64520facd68922c7d4c54dcfe77ceff766712d9fc5cd8574e6f7015",
-  "pid": 1325,
-  "updated_at": "2026-11-26T04:21:05.384Z"
+  "stage": "assembling original-speed voice, captions and SFX",
+  "kind": "film",
+  "fingerprint": "bd1ea2427d7cd588e4b7ea430faff93c862f11526826cc75227112d1751e9e2c",
+  "pid": 1579,
+  "updated_at": "2026-11-26T04:29:54.830Z"
 }
