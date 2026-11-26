@@ -8,9 +8,13 @@
   This replaces the skill's per-style default voices (e.g. B1's Bodi, which `gemini-2.5-flash-preview-tts` does not offer).
 - **Narration route: Gemini API** (`gemini-2.5-flash-preview-tts`, Algieba). The Tier-1 limit is
   100 requests/day, so group 2–3 scenes per request and split at the pauses (`tts_pairs.py` pattern in
-  video/wonders-of-planet-earth). Cloud Text-to-Speech was tried on 2026-11-25 and **dropped by the user**
-  ("phức tạp quá, bỏ qua"): Gemini-TTS there needs an API key bound to a service account with Vertex AI
-  rights. `tools/tts_cloud.py` stays in the repo but is not used; do not bring it up again unless asked.
+  video/wonders-of-planet-earth).
+- **Alternative route that works (tested 2026-11-26): Agent Platform (Vertex AI) generateContent.**
+  `POST https://aiplatform.googleapis.com/v1/publishers/google/models/gemini-2.5-flash-tts:generateContent`
+  with the same body as the Gemini API (voice Algieba), header `x-goog-api-key` (network secret for host
+  `aiplatform.googleapis.com`; the key is bound to a service account with `roles/aiplatform.user`).
+  Returns raw PCM 24 kHz in `inlineData`. Cloud Text-to-Speech (`texttospeech.googleapis.com`) does NOT work
+  with API keys for Gemini voices (403), so do not use `tools/tts_cloud.py`. Its daily quota is not yet known.
 - Other settings used so far. These are not user rules, so reconfirm them when needed:
   - Images: `gemini-2.5-flash-image`.
   - Caption timing: `gemini-4-hydrogen`. It is text-only, so it cannot make images or audio.
